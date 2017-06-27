@@ -29,6 +29,7 @@
 - [People / Research Groups](#people)
 - [Contributing](#contributing)
 
+___
 
 <a name="devices"></a>
 ## Devices
