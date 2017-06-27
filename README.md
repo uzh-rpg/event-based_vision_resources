@@ -63,11 +63,14 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 
 <a name="calibration"></a>
 ## Calibration
-- For the DAVIS: use the grayscale frames, with standard software such as ROS camera calibrator, kalibr, ...
-- For the DAVIS camera and IMU calibration: kalibr.
+- [Focus adjustment](https://github.com/uzh-rpg/rpg_dvs_ros/tree/master/dvs_calibration#focus-adjustment) or [this other source](https://github.com/ethz-asl/kalibr/wiki/calibrating-the-vi-sensor#2-setting-the-focus).
+- For the DAVIS: use the grayscale frames.
+    - ROS camera calibrator ([monocular](http://wiki.ros.org/camera_calibration/Tutorials/MonocularCalibration) or [stereo](http://wiki.ros.org/camera_calibration/Tutorials/StereoCalibration))
+     - [kalibr software](https://github.com/ethz-asl/kalibr/wiki/multiple-camera-calibration) from ASL - ETH.
+- For the DAVIS camera and IMU calibration: [kalibr software](https://github.com/ethz-asl/kalibr/wiki/camera-imu-calibration) from ASL - ETH.
 - For the DVS (events-only):
     - [Calibration using blinking LEDs or computer screens](https://github.com/uzh-rpg/rpg_dvs_ros/tree/master/dvs_calibration) from RPG - UZH.
-    - [DVS camera calibration](https://github.com/VLOGroup/dvs-calibration) from VLOGroup at TU Graz, Austria.
+    - [DVS camera calibration](https://github.com/VLOGroup/dvs-calibration) from VLOGroup at TU Graz.
 
 
 # Algorithms
