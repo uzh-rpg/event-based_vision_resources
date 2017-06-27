@@ -157,17 +157,13 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 <a name="datasets"></a>
 ## Datasets
 - [Several datasets from the Sensors group at INI](http://sensors.ini.uzh.ch/databases.html) (Institute of Neuroinformatics), Zurich:
-    - DDD17 - DAVIS Driving Dataset 2017
-    - Predator/Prey Dataset
-    - [DVS Datasets for Object Tracking, Action Recognition and Object Recognition](http://dgyblog.com/projects-term/dvs-dataset.html)
-    - DVS/DAVIS Optical Flow Dataset
     - [DVS128 Dynamic Vision Sensor Silicon Retina data](https://sourceforge.net/p/jaer/wiki/AER%20data/)
 - [Combined Dynamic Vision / RGB-D Dataset](http://ci.nst.ei.tum.de/EBSLAM3D/dataset/), from the paper Weikersdorfer, D., Adrian, D. B., Cremers, D., Conradt, J., *[Event-based 3D SLAM with a depth-augmented dynamic vision sensor](https://doi.org/10.1109/ICRA.2014.6906882)*, Int. Conf. Robotics and Automation (ICRA), Hong-Kong, pp. 359--364, 2014.
 - Rueckauer, B. and Delbruck, T., [Evaluation of Event-Based Algorithms for Optical Flow with Ground-Truth from Inertial Measurement Sensor](https://doi.org/10.3389/fnins.2016.00176). Front. Neurosci (2016). 10:176.
 - Barranco, F., Fermuller, C., Aloimonos, Y., [A Dataset for Visual Navigation with Neuromorphic Methods](https://dx.doi.org/10.3389%2Ffnins.2016.00049). Front. Neurosci. 10:49.
 - E. Mueggler, H. Rebecq, G. Gallego, T. Delbruck, D. Scaramuzza, *[The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM](http://rpg.ifi.uzh.ch/davis_data.html)*, Int. J. Robotics Research, 36:2, pp. 142--149, 2017. [PDF](https://arxiv.org/pdf/1610.08336.pdf), [PDF IJRR](http://dx.doi.org/10.1177/0278364917691115), [Dataset](http://rpg.ifi.uzh.ch/davis_data.html).
-- Hu, Y., Liu, H., Pfeiffer, M., Delbruck, T., *[DVS Benchmark Datasets for Object Tracking, Action Recognition, and Object Recognition](https://doi.org/10.3389/fnins.2016.00405)*, Front. Neurosci. 10:405.
-- Binas, J., Neil, D., Liu, S.-C., Delbruck, T., *[DDD17: End-To-End DAVIS Driving Dataset](https://www.openreview.net/pdf?id=HkehpKVG-)*. In Proc. 34th Int. Conf. Machine Learning, Sydney, Australia, PMLR 70,  2017. [Dataset](http://sensors.ini.uzh.ch/databases.html)
+- Hu, Y., Liu, H., Pfeiffer, M., Delbruck, T., *[DVS Benchmark Datasets for Object Tracking, Action Recognition, and Object Recognition](https://doi.org/10.3389/fnins.2016.00405)*, Front. Neurosci. 10:405. [Dataset](http://dgyblog.com/projects-term/dvs-dataset.html)
+- Binas, J., Neil, D., Liu, S.-C., Delbruck, T., *[DDD17: End-To-End DAVIS Driving Dataset](https://www.openreview.net/pdf?id=HkehpKVG-)*. In Proc. 34th Int. Conf. Machine Learning, Sydney, Australia, PMLR 70, 2017. [Dataset](http://sensors.ini.uzh.ch/databases.html)
 
 
 ## Recognition
