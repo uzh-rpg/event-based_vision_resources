@@ -35,8 +35,8 @@
 - **DVS (Dynamic Vision Sensor)**: Lichtsteiner, P., Posch, C., and Delbruck, T., *[A 128x128 120dB 15μs latency asynchronous temporal contrast vision sensor](http://doi.org/10.1109/JSSC.2007.914337)*, IEEE J. Solid-State Circuits, 43(2):566--576, 2008.
     - [Product page at iniLabs](https://inilabs.com/products/dynamic-vision-sensors/)
     - [Introductory videos about the DVS](https://inilabs.com/videos/dvs-introduction/)
-- **DAVIS (Dynamic and Active-Pixel Vision Sensor)** : 
-Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333--2341, 2014. 
+- **DAVIS (Dynamic and Active-Pixel Vision Sensor)** :
+Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333--2341, 2014.
     - [Product page at iniLabs](https://inilabs.com/products/dynamic-and-active-pixel-vision-sensor/)
     - **Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., [Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734), IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 718--721.
 
@@ -54,7 +54,9 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 <a name="drivers"></a>
 ## Drivers
 - [jAER (java Address-Event Representation) project](http://jaerproject.org/)
-- ROS (Robotic Operating System)
+- [caer (AER event-based framework, written in C, targeting embedded systems)](https://github.com/inilabs/caer)
+- [libcaer (Minimal C library to access, configure and get/send AER data from sensors or to/from neuromorphic processors)](https://github.com/inilabs/libcaer)
+- [ROS (Robotic Operating System)](https://github.com/uzh-rpg/rpg_dvs_ros)
 
 
 <a name="calibration"></a>
@@ -62,12 +64,12 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - For the DAVIS: use the grayscale frames, with standard software such as ROS camera calibrator, kalibr, ...
 - For the DAVIS camera and IMU calibration: kalibr.
 - For the DVS (events-only):
-    - [] from RPG - UZH.
+    - [Calibration using blinking LEDs or computer screens](https://github.com/uzh-rpg/rpg_dvs_ros/tree/master/dvs_calibration) from RPG - UZH.
     - [DVS camera calibration](https://github.com/VLOGroup/dvs-calibration) from VLOGroup at TU Graz, Austria.
 
 
 # Algorithms
-   
+
 <a name="feature-detection"></a>
 ## Feature Detection and Tracking
 - Tedaldi, D., Gallego, G., Mueggler, E., Scaramuzza, D., [Feature detection and tracking with the dynamic and active-pixel vision sensor (DAVIS)](https://doi.org/10.1109/EBCCSP.2016.7605086), IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Poland, 2016. [PDF](http://rpg.ifi.uzh.ch/docs/EBCCSP16_Tedaldi.pdf), [YouTube](https://www.youtube.com/watch?v=nglfEkiK308)
