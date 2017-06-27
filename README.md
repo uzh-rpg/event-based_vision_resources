@@ -82,7 +82,9 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 
 <a name="feature-detection"></a>
 ## Feature Detection and Tracking
+- Drazen, D., Lichtsteiner, P., Haefliger, P., Delbruck, T., Jensen, A., *[Toward real-time particle tracking using an event-based dynamic vision sensor](https://doi.org/10.1007/s00348-011-1207-y)*, Experiments in Fluids (2011), 51:1465--1469. [PDF](http://www.zora.uzh.ch/60624/1/Drazen_EIF_2011.pdf)
 - Ni, Z., Bolopion, A., Agnus, J., Benosman, R., Regnier, S., *[Asynchronous event-based visual shape tracking for stable haptic feedback in microrobotics](https://doi.org/10.1109/TRO.2012.2198930)*, IEEE Trans. Robotics (2012), 28(5):1081--1089.
+- Borer, D.,  Rosgen, T., *[Large-scale Particle Tracking with Dynamic Vision Sensors]()*, ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http://www.ifd.mavt.ethz.ch/research/group-roesgen/dynamic-vision-sensors.html), [PDF](http://www.ifd.mavt.ethz.ch/content/dam/ethz/special-interest/mavt/fluid-dynamics/ifd-dam/research/documents/posters/experimental-methods/daniel_borer_dynamic_vision_sensor.pdf)
 - Clady, X., Ieng, S.-H., Benosman, R., *[Asynchronous event-based corner detection and matching](https://doi.org/10.1016/j.neunet.2015.02.013)*, Neural Networks (2015), 66:pp. 91--106.
 - Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R., *[Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking](https://doi.org/10.1109/TNNLS.2014.2352401)*,  IEEE Trans. Neural Netw. Learn. Syst. (2015), 26(8):1710--1720.
 - Ni, Z., Ieng, S. H., Posch, C., Regnier, S., Benosman, R., *[Visual Tracking Using Neuromorphic Asynchronous Event-Based Cameras](https://doi.org/10.1162/NECO_a_00720)*, Neural Computation (2015), 27(4):925--953.
@@ -118,12 +120,14 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - *[Cook et. al. IJCNN 2011](#Cook11ijcnn)*; in case of rotational motion.
 - Benosman, R., Ieng, S.-H., Clercq, C., Bartolozzi, C., and Srinivasan, M., *[Asynchronous Frameless Event-Based Optical Flow](https://doi.org/10.1016/j.neunet.2011.11.001)*. Neural Networks (2012), 27:32-37.
 - Benosman, R., Clercq, C., Lagorce, X., Ieng, S.-H., and Bartolozzi, C., *[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537)*. IEEE Trans. Neural Networks and Learning Systems (2014), 25(2):407--417.
+    - [Code (jAER): LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java)
 - E. Mueggler, C. Forster, N. Baumli, G. Gallego, D. Scaramuzza, *[Lifetime Estimation of Events from Dynamic Vision Sensors](http://dx.doi.org/10.1109/ICRA.2015.7139876)*, IEEE Int. Conf. Robotics and Automation (ICRA), Seattle (WA), USA, 2015, pp. 4874--4881. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pdf), [Code](https://www.github.com/uzh-rpg/rpg_event_lifetime)
 - Tschechne, S., Sailer R., Neumann, H., *[Bio-Inspired Optic Flow from Event-Based Neuromorphic Sensor Input](https://doi.org/10.1007/978-3-319-11656-3_16)*, IAPR Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR) 2014, pp. 171-182.
 - J. Conradt, *[On-Board Real-Time Optic-Flow for Miniature Event-Based Vision Sensors](https://doi.org/10.1109/ROBIO.2015.7419043)*, 2015 IEEE International Conference on Robotics and Biomimetics (ROBIO), Zhuhai, 2015, pp. 1858-1863.
 - Brosch, T., Tschechne, S., Neumann, H., *[On event-based optical flow detection](https://doi.org/10.3389/fnins.2015.00137)*, Front. Neurosci. (2015), 9:137.
 - Kosiorek, A., Adrian, D., Rausch, J., Conradt, J., *[An Efficient Event-Based Optical Flow Implementation in C/C++ and CUDA](https://www.nst.ei.tum.de/fileadmin/w00bqs/www/publications/pp/2015SS-PP-RealTimeDVSOpticFlow.pdf)*. Tech. Rep. TU Munich, 2015.
 - <a name="Rueckauer16fnins"></a>Rueckauer, B. and Delbruck, T., *[Evaluation of Event-Based Algorithms for Optical Flow with Ground-Truth from Inertial Measurement Sensor](https://doi.org/10.3389/fnins.2016.00176)*. Front. Neurosci (2016). 10:176.
+    - [Code (jAER)](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/)
 - <a name="Bardow16cvpr"></a>Bardow, P. A., Davison, A. J., Leutenegger, S., *[Simultaneous Optical Flow and Intensity Estimation](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.pdf)*, Computer Vision and Pattern Recognition (CVPR), Las Vegas, USA, 2016. [YouTube](https://youtu.be/1zqJpiheaaI)
 - Liu, M., Delbruck, T., *[Block-Matching Optical Flow for Dynamic Vision Sensors: Algorithm and FPGA Implementation](https://arxiv.org/pdf/1706.05415.pdf)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017.
 
@@ -205,7 +209,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - [Several datasets from the Sensors group at INI](http://sensors.ini.uzh.ch/databases.html) (Institute of Neuroinformatics), Zurich:
     - [DVS128 Dynamic Vision Sensor Silicon Retina data](https://sourceforge.net/p/jaer/wiki/AER%20data/)
 - [Combined Dynamic Vision / RGB-D Dataset](http://ci.nst.ei.tum.de/EBSLAM3D/dataset/) associated to the paper [Weikersdorfer et. al. ICRA 2014](#Weikersdorfer14icra).
-- Orchard, G., Jayawant, A., Cohen, G.K., Thakor, N. [Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades](https://doi.org/10.3389/fnins.2015.00437). Front. Neurosci. (2015), 9:437. [YouTube](https://youtu.be/2RBKNhxHvdw)
+- Orchard, G., Jayawant, A., Cohen, G.K., Thakor, N., *[Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades](https://doi.org/10.3389/fnins.2015.00437)*. Front. Neurosci. (2015), 9:437. [YouTube](https://youtu.be/2RBKNhxHvdw)
     - [Neuromorphic-MNIST (N-MNIST) dataset](http://www.garrickorchard.com/datasets/n-mnist) is a spiking version of the original frame-based MNIST dataset (of handwritten digits). [YouTube](https://youtu.be/6qK97qM5aB4)
     - [The Neuromorphic-Caltech101 (N-Caltech101) dataset](http://www.garrickorchard.com/datasets/n-caltech101) is a spiking version of the original frame-based Caltech101 dataset. [YouTube](https://youtu.be/dxit9Ce5f_E)
 - [DVS/DAVIS Optical Flow Dataset](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) associated to the paper [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
@@ -218,6 +222,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 
 <a name="software"></a>
 ## Software
+- [Matlab functions in jAER project](https://sourceforge.net/p/jaer/code/HEAD/tree/scripts/matlab/)
 - [edvstools](https://github.com/Danvil/edvstools), by D. Weikersdorfer: A collection of tools for the embedded Dynamic Vision Sensor eDVS.
 - [Matlab AER functions](https://github.com/gorchard/Matlab_AER_vision_functions) by G. Orchard. Some basic functions for filtering and displaying AER vision data, as well as making videos.
 - [Python code for AER vision data](https://github.com/gorchard/event-Python) by G. Orchard.
@@ -248,6 +253,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 ## People / Research Groups
 - [Institute of NeuroInformatics](https://www.ini.uzh.ch/) (INI)  of the University of Zurich (UZH) and ETH Zurich.
 - [iniLabs](http://www.inilabs.com) (Comerzialization of neuromorphic technology from INI).
+- [Dynamic Vision Sensor (DVS) - asynchronous temporal contrast silicon retina](http://siliconretina.ini.uzh.ch/wiki/index.php)
 - [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) (RPG-UZH).
 
 
