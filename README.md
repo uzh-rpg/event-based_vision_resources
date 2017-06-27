@@ -38,7 +38,7 @@
 - **DAVIS (Dynamic and Active-Pixel Vision Sensor)** : 
 Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333--2341, 2014. 
     - [Product page at iniLabs](https://inilabs.com/products/dynamic-and-active-pixel-vision-sensor/)
-    - **Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., [Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734), IEEE Init. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 718--721.
+    - **Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., [Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734), IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 718--721.
 
 - **ATIS (Asynchronous Time-based Image Sensor)**: Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259--275, 2011.
     - [Chronocam](http://www.chronocam.com/)
@@ -89,56 +89,60 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 <a name="depth-stereo"></a>
 ### Stereo Depth Estimation
 - Rogister, P. , Benosman, R., Ieng, S.-H., Lichtsteiner, P., Delbruck, T., [Asynchronous Event-Based Binocular Stereo Matching](https://doi.org/10.1109/TNNLS.2011.2180025), IEEE Trans. Neural Networks and Learning Systems, 23(2):347--353, 2012.
-- ...
+- Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S. H., Benosman, R. B., and Linares-Barranco, B., [On the use of orientation filters for 3D reconstruction in event–driven stereo vision](https://doi.org/10.3389/fnins.2014.00048). Front. Neurosci. (2014) 8:48.
+- Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Linares-Barranco, B., Ieng, S., Benosman, R., [Event-Driven Stereo Vision with Orientation Filters](https://doi.org/10.1109/ISCAS.2014.6865114), IEEE Int. Symp. Circuits and Systems (ISCAS), Melbourne VIC, 2014, pp. 257--260.
 
 
 <a name="optical-flow"></a>
 ## Optical Flow Estimation
-- [Cook et. al. IJCNN 2011](#Cook11ijcnn). In case of rotational motion.
+- *[Cook et. al. IJCNN 2011](#Cook11ijcnn)*; in case of rotational motion.
 - Benosman, R., Ieng, S.-H., Clercq, C., Bartolozzi, C., and Srinivasan, M., *[Asynchronous Frameless Event-Based Optical Flow](https://doi.org/10.1016/j.neunet.2011.11.001)*. Neural Networks (2012), 27:32-37.
 - Benosman, R., Clercq, C., Lagorce, X., Ieng, S.-H., and Bartolozzi, C., *[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537)*. IEEE Trans. Neural Networks and Learning Systems (2014), 25(2):407--417.
-- E. Mueggler, C. Forster, N. Baumli, G. Gallego, D. Scaramuzza [Lifetime Estimation of Events from Dynamic Vision Sensors](http://dx.doi.org/10.1109/ICRA.2015.7139876), IEEE Int. Conf. Robotics and Automation (ICRA), Seattle (WA), USA, 2015, pp. 4874--4881. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pdf), [Code](https://www.github.com/uzh-rpg/rpg_event_lifetime)
+- E. Mueggler, C. Forster, N. Baumli, G. Gallego, D. Scaramuzza, *[Lifetime Estimation of Events from Dynamic Vision Sensors](http://dx.doi.org/10.1109/ICRA.2015.7139876)*, IEEE Int. Conf. Robotics and Automation (ICRA), Seattle (WA), USA, 2015, pp. 4874--4881. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pdf), [Code](https://www.github.com/uzh-rpg/rpg_event_lifetime)
 - Tschechne, S., Sailer R., Neumann, H., *[Bio-Inspired Optic Flow from Event-Based Neuromorphic Sensor Input](https://doi.org/10.1007/978-3-319-11656-3_16)*, IAPR Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR) 2014, pp. 171-182.
 - J. Conradt, *[On-Board Real-Time Optic-Flow for Miniature Event-Based Vision Sensors](https://doi.org/10.1109/ROBIO.2015.7419043)*, 2015 IEEE International Conference on Robotics and Biomimetics (ROBIO), Zhuhai, 2015, pp. 1858-1863.
 - Brosch, T., Tschechne, S., Neumann, H., *[On event-based optical flow detection](https://doi.org/10.3389/fnins.2015.00137)*, Front. Neurosci. (2015), 9:137.
 - Kosiorek, A., Adrian, D., Rausch, J., Conradt, J., *[An Efficient Event-Based Optical Flow Implementation in C/C++ and CUDA](https://www.nst.ei.tum.de/fileadmin/w00bqs/www/publications/pp/2015SS-PP-RealTimeDVSOpticFlow.pdf)*. Tech. Rep. TU Munich, 2015.
-- Rueckauer, B. and Delbruck, T., [Evaluation of Event-Based Algorithms for Optical Flow with Ground-Truth from Inertial Measurement Sensor](https://doi.org/10.3389/fnins.2016.00176). Front. Neurosci (2016). 10:176.
-- <a name="Bardow16cvpr"></a>Bardow, P. A., Davison, A. J., Leutenegger, S., [Simultaneous Optical Flow and Intensity Estimation](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.pdf), Computer Vision and Pattern Recognition (CVPR), Las Vegas, USA, 2016. [YouTube](https://youtu.be/1zqJpiheaaI)
+- Rueckauer, B. and Delbruck, T., *[Evaluation of Event-Based Algorithms for Optical Flow with Ground-Truth from Inertial Measurement Sensor](https://doi.org/10.3389/fnins.2016.00176)*. Front. Neurosci (2016). 10:176.
+- <a name="Bardow16cvpr"></a>Bardow, P. A., Davison, A. J., Leutenegger, S., *[Simultaneous Optical Flow and Intensity Estimation](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.pdf)*, Computer Vision and Pattern Recognition (CVPR), Las Vegas, USA, 2016. [YouTube](https://youtu.be/1zqJpiheaaI)
+- Liu, M., Delbruck, T., *[Block-Matching Optical Flow for Dynamic Vision Sensors: Algorithm and FPGA Implementation](https://arxiv.org/pdf/1706.05415.pdf)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017.
 
 
 <a name="image-reconstruction"></a>
 ## Intensity-Image Reconstruction from events
-- <a name="Cook11ijcnn"></a>Cook, M., Gugelmann, L., Jug, F., Krautz, C., Steger, A., [Interacting maps for fast visual interpretation](https://doi.org/10.1109/IJCNN.2011.6033299), Int. Joint Conf. on Neural Networks (IJCNN), San Jose, CA, 2011, pp. 770--776. [YouTube](https://youtu.be/irX3Nd5U0hY)
-- Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A.J., [Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/), British Machine Vision Conference, 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU).
+- <a name="Cook11ijcnn"></a>Cook, M., Gugelmann, L., Jug, F., Krautz, C., Steger, A., *[Interacting maps for fast visual interpretation](https://doi.org/10.1109/IJCNN.2011.6033299)*, Int. Joint Conf. on Neural Networks (IJCNN), San Jose, CA, 2011, pp. 770--776. [YouTube](https://youtu.be/irX3Nd5U0hY)
+- Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A.J., *[Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/)*, British Machine Vision Conference, 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU).
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events).
-- [Bardow et. al. CVPR 2016](#Bardow16cvpr)
-- Reinbacher, C., Graber, G., Pock, T., [Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](http://www.bmva.org/bmvc/2016/papers/paper009/), British Machine Vision Conference (BMVC), York, 2016. [PDF](http://www.bmva.org/bmvc/2016/papers/paper009/paper009.pdf), [YouTube](https://youtu.be/rvB2URrGT94), [Code](https://github.com/VLOGroup/dvs-reconstruction)
+- *[Bardow et. al. CVPR 2016](#Bardow16cvpr)*
+- Reinbacher, C., Graber, G., Pock, T., *[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](http://www.bmva.org/bmvc/2016/papers/paper009/)*, British Machine Vision Conference (BMVC), York, 2016. [PDF](http://www.bmva.org/bmvc/2016/papers/paper009/paper009.pdf), [YouTube](https://youtu.be/rvB2URrGT94), [Code](https://github.com/VLOGroup/dvs-reconstruction)
+
 
 <a name="egomotion"></a>
 ## Localization and Ego-Motion Estimation
-- [Cook et. al. IJCNN 2011](#Cook11ijcnn). In case of rotational motion.
-- Weikersdorfer, D. and Conradt, J., [Event-based particle filtering for robot self-localization](http://doi.org/10.1109/ROBIO.2012.6491077), IEEE Int. Conf. on Robotics and Biomimetcs (ROBIO), Guangzhou, 2012, pp. 866--870. [PDF](https://mediatum.ub.tum.de/doc/1215541/835468.pdf)
-- Mueggler, E., Huber, B., Scaramuzza, D., [Event-based, 6-DOF Pose Tracking for High-Speed Maneuvers](https://doi.org/10.1109/IROS.2014.6942940), IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Chicago, IL, 2014, pp. 2761--2768. [PDF](http://rpg.ifi.uzh.ch/docs/IROS14_Mueggler.pdf), [YouTube](https://youtu.be/LauQ6LWTkxM)
-- Gallego, G., Forster, C., Mueggler, E., Scaramuzza, D., [Event-based Camera Pose Tracking using a Generative Event Model](https://arxiv.org/pdf/1510.01972v1), arXiv:1510.01972, 2015.
-- Mueggler, E., Gallego G., Scaramuzza, D., [Continuous-Time Trajectory Estimation for Event-based Vision Sensors](http://dx.doi.org/10.15607/RSS.2015.XI.036). Robotics: Science and Systems XI (RSS), Rome, Italy, 2015. [PDF]
-- Gallego, G., Lund, J.E.A., Mueggler, E., Rebecq, H., Delbruck, T., Scaramuzza, D., [Event-based, 6-DOF Camera Tracking for High-Speed Applications](https://arxiv.org/pdf/1607.03468.pdf), (Under review), 2016. [YouTube](https://youtu.be/iZZ77F-hwzs)
-- Reinbacher, C., Munda, G., Pock, T., [Real-Time Panoramic Tracking for Event Cameras](https://doi.org/10.1109/ICCPHOT.2017.7951488), IEEE Int. Conf. Computational Photography (ICCP), Stanford, CA, USA, 2017, pp. 1--9. [PDF](https://arxiv.org/abs/1703.05161), [YouTube](https://youtu.be/Qy0brSlirmk), [Code](https://github.com/VLOGroup/dvs-panotracking)
+- *[Cook et. al. IJCNN 2011](#Cook11ijcnn)*; in case of rotational motion.
+- Weikersdorfer, D. and Conradt, J., *[Event-based particle filtering for robot self-localization](http://doi.org/10.1109/ROBIO.2012.6491077)*, IEEE Int. Conf. on Robotics and Biomimetcs (ROBIO), Guangzhou, 2012, pp. 866--870. [PDF](https://mediatum.ub.tum.de/doc/1215541/835468.pdf)
+- Mueggler, E., Huber, B., Scaramuzza, D., *[Event-based, 6-DOF Pose Tracking for High-Speed Maneuvers](https://doi.org/10.1109/IROS.2014.6942940)*, IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Chicago, IL, 2014, pp. 2761--2768. [PDF](http://rpg.ifi.uzh.ch/docs/IROS14_Mueggler.pdf), [YouTube](https://youtu.be/LauQ6LWTkxM)
+- Gallego, G., Forster, C., Mueggler, E., Scaramuzza, D., *[Event-based Camera Pose Tracking using a Generative Event Model](https://arxiv.org/pdf/1510.01972v1)*, arXiv:1510.01972, 2015.
+- Mueggler, E., Gallego G., Scaramuzza, D., *[Continuous-Time Trajectory Estimation for Event-based Vision Sensors](http://dx.doi.org/10.15607/RSS.2015.XI.036)*. Robotics: Science and Systems XI (RSS), Rome, Italy, 2015. [PDF]
+- Gallego, G., Lund, J.E.A., Mueggler, E., Rebecq, H., Delbruck, T., Scaramuzza, D., *[Event-based, 6-DOF Camera Tracking for High-Speed Applications](https://arxiv.org/pdf/1607.03468.pdf)*, (Under review), 2016. [YouTube](https://youtu.be/iZZ77F-hwzs)
+- Reinbacher, C., Munda, G., Pock, T., *[Real-Time Panoramic Tracking for Event Cameras](https://doi.org/10.1109/ICCPHOT.2017.7951488)*, IEEE Int. Conf. Computational Photography (ICCP), Stanford, CA, USA, 2017, pp. 1--9. [PDF](https://arxiv.org/abs/1703.05161), [YouTube](https://youtu.be/Qy0brSlirmk), [Code](https://github.com/VLOGroup/dvs-panotracking)
+
 
 <a name="VOSLAM"></a>
 ## Visual Odometry and SLAM (Simultaneous Localization And Mapping)
-- Weikersdorfer, D., Hoffmann, R., Conradt. J., [Simultaneous localization and mapping for event-based vision systems](http://doi.org/10.1007/978-3-642-39402-7_14). Int. Conf. Computer Vision Systems (ICVS), 2013, pp. 133--142. [PDF](https://mediatum.ub.tum.de/doc/1191908/271955.pdf), [Slides](http://workshops.acin.tuwien.ac.at/ICVS/downloads/ICVS2013-ebslam_weikersdorfer.pdf)
+- Weikersdorfer, D., Hoffmann, R., Conradt. J., *[Simultaneous localization and mapping for event-based vision systems](http://doi.org/10.1007/978-3-642-39402-7_14)*. Int. Conf. Computer Vision Systems (ICVS), 2013, pp. 133--142. [PDF](https://mediatum.ub.tum.de/doc/1191908/271955.pdf), [Slides](http://workshops.acin.tuwien.ac.at/ICVS/downloads/ICVS2013-ebslam_weikersdorfer.pdf)
 - Censi, A. and Scaramuzza, D., *[Low-latency Event-based Visual Odometry](https://doi.org/10.1109/ICRA.2014.6906931)*, IEEE Int. Conf. Robotics and Automation (ICRA), Hong-Kong, 2014, pp. 703--710. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA14_Censi.pdf), [Slides](https://censi.science/pub/research/2013-dvsd/201405-icra15-dvsd.pdf)
 - Weikersdorfer, D., Adrian, D. B., Cremers, D., Conradt, J., *[Event-based 3D SLAM with a depth-augmented dynamic vision sensor](https://doi.org/10.1109/ICRA.2014.6906882)*, IEEE Int. Conf. Robotics and Automation (ICRA), Hong-Kong, 2014, pp. 359--364.
-- Kueng, B., Mueggler, E., Gallego, G., Scaramuzza, D., [Low-Latency Visual Odometry using Event-based Feature Tracks](https://doi.org/10.1109/IROS.2016.7758089)," IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Daejeon, South Korea, 2016, pp. 16--23. [PDF](http://rpg.ifi.uzh.ch/docs/IROS16_Kueng.pdf). [YouTube](https://youtu.be/RDu5eldW8i8)
-- Kim, H., Leutenegger, S., Davison, A.J., [Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera](http://doi.org/10.1007/978-3-319-46466-4_21), European Conference on Computer Vision (ECCV), 2016, pp. 349--364. [PDF](https://www.doc.ic.ac.uk/~ajd/Publications/kim_etal_eccv2016.pdf), [YouTube](https://youtu.be/yHLyhdMSw7w)
+- Kueng, B., Mueggler, E., Gallego, G., Scaramuzza, D., *[Low-Latency Visual Odometry using Event-based Feature Tracks](https://doi.org/10.1109/IROS.2016.7758089)*, IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Daejeon, South Korea, 2016, pp. 16--23. [PDF](http://rpg.ifi.uzh.ch/docs/IROS16_Kueng.pdf). [YouTube](https://youtu.be/RDu5eldW8i8)
+- Kim, H., Leutenegger, S., Davison, A.J., *[Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera](http://doi.org/10.1007/978-3-319-46466-4_21)*, European Conference on Computer Vision (ECCV), 2016, pp. 349--364. [PDF](https://www.doc.ic.ac.uk/~ajd/Publications/kim_etal_eccv2016.pdf), [YouTube](https://youtu.be/yHLyhdMSw7w)
 - Rebecq, H., Horstschaefer, T., Gallego, G., Scaramuzza, D., *[EVO: A Geometric Approach to Event-based 6-DOF Parallel Tracking and Mapping in Real-time](https://doi.org/10.1109/LRA.2016.2645143)*, IEEE Robotics and Automation Letters (RA-L), 2:2(593--600), 2017. [PDF](http://rpg.ifi.uzh.ch/docs/RAL16_EVO.pdf), [Youtube](https://youtu.be/bYqD2qZJlxE).
-- Gallego, G. and Scaramuzza, D., [Accurate Angular Velocity Estimation with an Event Camera](https://doi.org/10.1109/LRA.2016.2647639). IEEE Robotics and Automation Letters (RA-L), 2:2(632--639), 2017.
+- Gallego, G. and Scaramuzza, D., *[Accurate Angular Velocity Estimation with an Event Camera](https://doi.org/10.1109/LRA.2016.2647639)*. IEEE Robotics and Automation Letters (RA-L), 2:2(632--639), 2017.
 [PDF](http://rpg.ifi.uzh.ch/docs/RAL16_Gallego.pdf), [Youtube](https://youtu.be/v1sXWoOAs_0).
 
 
 <a name="visual-inertial"></a>
 ## Visual-Inertial State Estimation
-- Mueggler, E., Gallego, G., Rebecq, H., Scaramuzza, D., [Continuous-Time Visual-Inertial Trajectory Estimation with Event Cameras](https://arxiv.org/pdf/1702.07389.pdf), (Under review), 2017.
+- Mueggler, E., Gallego, G., Rebecq, H., Scaramuzza, D., *[Continuous-Time Visual-Inertial Trajectory Estimation with Event Cameras](https://arxiv.org/pdf/1702.07389.pdf)*, (Under review), 2017.
 - Zhu, A., Atanasov, N., Daniilidis, K., Event-based Visual Inertial Odometry, Conf. Computer Vision and Pattern Recognition (CVPR) 2017.
 
 
