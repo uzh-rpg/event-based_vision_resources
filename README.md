@@ -153,7 +153,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 
 <a name="camera-stabilization"></a>
 ## Camera Stabilization
-- Delbruck, T., Villanueva, V., and Longinotti, L., *[Integration of dynamic vision sensor with inertial measurement unit for electronically stabilized event-based vision](http://doi.org/10.1109/ISCAS.2014.6865714)*, IEEE Int. Symp. Circuits and Systems (ISCAS) 2014, 2636--2639.
+- Delbruck, T., Villanueva, V., and Longinotti, L., *[Integration of dynamic vision sensor with inertial measurement unit for electronically stabilized event-based vision](http://doi.org/10.1109/ISCAS.2014.6865714)*, IEEE Int. Symp. Circuits and Systems (ISCAS) 2014, 2636--2639. [YouTube](https://youtu.be/Tzy4WF6Qp-Y)
 
 <a name="video-processing"></a>
 ## Video Processing
@@ -178,15 +178,16 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 
 
 ### Neural Networks
-- <a name="Moeys16ebccsp"></a>Moeys, D., Corradi F., Kerr, E., Vance, P., Das, G., Neil, D., Kerr, D., Delbruck, T., *[Steering a Predator Robot using a Mixed Frame/Event-Driven Convolutional Neural Network](https://doi.org/10.1109/EBCCSP.2016.7605233)*, IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Poland, 2016. [PDF]
+- <a name="Moeys16ebccsp"></a>Moeys, D., Corradi F., Kerr, E., Vance, P., Das, G., Neil, D., Kerr, D., Delbruck, T., *[Steering a Predator Robot using a Mixed Frame/Event-Driven Convolutional Neural Network](https://doi.org/10.1109/EBCCSP.2016.7605233)*, IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Poland, 2016. [PDF](https://arxiv.org/pdf/1606.09433.pdf), [YouTube 1](https://youtu.be/fL3YCIPxuhM), [YouTube 2](https://youtu.be/lPF3Youpmqk)
 
 
 ## Control
-- Conradt, J., Cook, M., Berner, R., Lichtsteiner, P., Douglas, R. J., Delbruck, T., *[A Pencil Balancing Robot Using a Pair of AER Dynamic Vision Sensors](https://doi.org/10.1109/ISCAS.2009.5117867)*, IEEE Int. Symp. Circuits and Systems (ISCAS) 2009, pp. 781--784, 2009.
+- Conradt, J., Cook, M., Berner, R., Lichtsteiner, P., Douglas, R. J., Delbruck, T., *[A Pencil Balancing Robot Using a Pair of AER Dynamic Vision Sensors](https://doi.org/10.1109/ISCAS.2009.5117867)*, IEEE Int. Symp. Circuits and Systems (ISCAS) 2009, pp. 781--784, 2009. [PDF](https://www.ini.uzh.ch/~conradt/publications/ISCAS2009-JConradt.pdf), [Poster](https://www.ini.uzh.ch/~conradt/publications/NIPS2008-JConradt.pdf), [Project page](https://www.ini.uzh.ch/~conradt/projects/PencilBalancer/), [YouTube 1](https://youtu.be/XVR5wEYkEGk), [YouTube 2](https://youtu.be/f9UngTdngY4), [YouTube 3](https://youtu.be/yCOnDc5r7p8)
 <!-- - Conradt, J., Berner, R., Cook, M., Delbruck, T., [An embedded AER dynamic vision sensor for low-latency pole balancing](https://doi.org/10.1109/ICCVW.2009.5457625), IEEE Int. Conf. Computer Vision Workshops (ICCVW), Kyoto, Japan, 2009. [PDF](www.ini.uzh.ch/admin/extras/doc_get.php?id=42580) -->
 - Delbruck, T., Lang, M., *[Robotic Goalie with 3ms Reaction Time at 4% CPU Load Using Event-Based Dynamic Vision Sensor](https://doi.org/10.3389/fnins.2013.00223)*, Front. Neurosci. (2013) 7:223. [PDF](http://www.zora.uzh.ch/107801/1/fnins-07-00223.pdf), [YouTube](https://youtu.be/IC5x7ftJ96w)
 - Censi, A., *[Efficient Neuromorphic Optomotor Heading Regulation](https://doi.org/10.1109/ACC.2015.7171931)*, The 2015 American Control Conference (ACC), Chicago, IL, 2015, pp. 3854--3861.
-- Mueggler, E., Baumli, N., Fontana, F., Scaramuzza, D., *[Towards Evasive Maneuvers with Quadrotors using Dynamic Vision Sensors]()*, European Conference on Mobile Robots (ECMR), Lincoln, 2015. [PDF](http://rpg.ifi.uzh.ch/docs/ECMR15_Mueggler.pdf)
+- Mueggler, E., Baumli, N., Fontana, F., Scaramuzza, D., *[Towards Evasive Maneuvers with Quadrotors using Dynamic Vision Sensors](https://doi.org/10.1109/ECMR.2015.7324048)*, Eur. Conf. Mobile Robots (ECMR), Lincoln, 2015. [PDF](http://rpg.ifi.uzh.ch/docs/ECMR15_Mueggler.pdf)
+- Delbruck, T., Pfeiffer, M., Juston, R., Orchard, G., Mueggler, E., Linares-Barranco, A., Tilden, M. W., *[Human vs. computer slot car racing using an event and frame-based DAVIS vision sensor](https://doi.org/10.1109/ISCAS.2015.7169170)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 2409--2412. [YouTube 1](https://youtu.be/CnGPGiZuFRI), [YouTube 2](https://youtu.be/ALneVn-Ls2Q)
 - [Moeys et. al. EBCCSP 2016](#Moeys16ebccsp)
 
 
