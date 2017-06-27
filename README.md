@@ -1,6 +1,6 @@
 # Event-based Vision References
 
-## Sorted by topic:
+## Table of Contents (sorted by topic):
 - [Devices](#devices)
 - [Neuromorphic Systems](#neuromorphic-systems)
 - [Drivers](#drivers)
