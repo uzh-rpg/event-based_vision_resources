@@ -38,7 +38,7 @@
 - **DAVIS (Dynamic and Active-Pixel Vision Sensor)** :
 Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333--2341, 2014.
     - [Product page at iniLabs](https://inilabs.com/products/dynamic-and-active-pixel-vision-sensor/)
-    - **Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., [Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734), IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 718--721.
+    - **Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 718--721.
 
 - **ATIS (Asynchronous Time-based Image Sensor)**: Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259--275, 2011.
     - [Chronocam](http://www.chronocam.com/)
@@ -48,8 +48,8 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 
 <a name="neuromorphic-systems"></a>
 ## Neuromorphic Systems
-- Liu, S.-C. and Delbruck, T., [Neuromorphic sensory systems](https://doi.org/10.1016/j.conb.2010.03.007), Current Opinion in Neurobiology, 20:3(288--295), 2010.
-- Liu, S.-C., Delbruck, T., Indiveri, G., Whatley, A., Douglas, R., [Event-Based Neuromorphic Systems](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118927621.html), Wiley. ISBN: 978-1-118-92762-5, 2014.
+- Liu, S.-C. and Delbruck, T., *[Neuromorphic sensory systems](https://doi.org/10.1016/j.conb.2010.03.007)*, Current Opinion in Neurobiology, 20:3(288--295), 2010.
+- Liu, S.-C., Delbruck, T., Indiveri, G., Whatley, A., Douglas, R., *[Event-Based Neuromorphic Systems](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118927621.html)*, Wiley. ISBN: 978-1-118-92762-5, 2014.
 
 <a name="drivers"></a>
 ## Drivers
