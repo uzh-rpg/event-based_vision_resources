@@ -5,6 +5,7 @@
 - [Neuromorphic Systems](#neuromorphic-systems)
 - [Drivers](#drivers)
 - [Calibration](#calibration)
+
 - Algorithms:
     - [Feature detection and Tracking](#feature-detection)
     - [Depth estimation (3D Reconstruction)](#depth-estimation)
@@ -28,8 +29,9 @@
 - [Datasets and simulators](#datasets)
 
 - [Workshops](#workshops)
-
-- People / Research Groups
+- [Tutorials](#tutorials)
+- [People / Research Groups](#people)
+- [Contributing](#contributing)
 
 
 <a name="devices"></a>
@@ -48,10 +50,15 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - CeleX ([Hillhouse Technology](http://www.hillhouse-tech.com/), Singapore). [YouTube](https://youtu.be/Wlzc-5sgm1g)
 - [Insightness AG](http://www.insightness.com/). [The Silicon Eye](http://www.insightness.com/?p=361) Technology
 
+
 <a name="neuromorphic-systems"></a>
 ## Neuromorphic Systems
+- Delbruck, T., [Frame-free dynamic digital vision]()*, Int. Symp. Secure-Life Electronics, Advanced Electronics for Quality Life and Society, University of Tokyo, Tokyo, Japan, Mar. 6-7, 2008, pp. 21--26. Introduces the software architecture of jAER and shows examples of several event-based processing algorithms.
 - Liu, S.-C. and Delbruck, T., *[Neuromorphic sensory systems](https://doi.org/10.1016/j.conb.2010.03.007)*, Current Opinion in Neurobiology, 20:3(288--295), 2010.
+- Delbruck, T., *[Fun with asynchronous vision sensors and processing](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=delbruck_funwithasynsensors_2012.pdf)*. Computer Vision - ECCV 2012. Workshops and Demonstrations. Springer Berlin/Heidelberg, 2012. A position paper and summary of recent accomplishments of the INI Sensors' group.
 - Liu, S.-C., Delbruck, T., Indiveri, G., Whatley, A., Douglas, R., *[Event-Based Neuromorphic Systems](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118927621.html)*, Wiley. ISBN: 978-1-118-92762-5, 2014.
+- Delbruck, T., *[Neuromorophic Vision Sensing and Processing (Invited paper)](https://doi.org/10.1109/ESSDERC.2016.7599576)*, 46th Eur. Solid-State Device Research Conference (ESSDERC), Lausanne, 2016, pp. 7--14.
+
 
 <a name="drivers"></a>
 ## Drivers
@@ -209,11 +216,18 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - [Capo Caccia Workshops toward Cognitive Neuromorphic Engineering](http://capocaccia.iniforum.ch/).
 
 
+<a name="tutorials"></a>
+## Tutorials
+- [Event-Based Vision for High-Speed Robotics (slides)](http://www.rit.edu/kgcoe/iros15workshop/papers/IROS2015-WASRoP-Invited-04-slides.pdf) IROS 2015, Workshop on Alternative Sensing for Robot Perception.
+
+
+<a name="people"></a>
 ## People / Research Groups
 - [Institute of NeuroInformatics](https://www.ini.uzh.ch/) (INI)  of the University of Zurich (UZH) and ETH Zurich.
 - [iniLabs](http://www.inilabs.com) (Comerzialization of neuromorphic technology from INI).
 - [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) (RPG-UZH).
 
 
+<a name="contributing"></a>
 # Contributing
 Please see [CONTRIBUTING](https://github.com/uzh-rpg/event-based_vision_resources/blob/master/Contributing.md) for details.
