@@ -26,7 +26,7 @@
 - [Neuromorphic Processors and Platforms](#processors-platforms)
 - [Workshops](#workshops)
 - [Tutorials](#tutorials)
-- [People / Research Groups](#people)
+- [People / Organizations](#people)
 - [Contributing](#contributing)
 
 ___
@@ -250,7 +250,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 
 
 <a name="people"></a>
-## People / Research Groups
+## People / Organizations
 - [Institute of NeuroInformatics](https://www.ini.uzh.ch/) (INI)  of the University of Zurich (UZH) and ETH Zurich.
 - [iniLabs](http://www.inilabs.com) (Comerzialization of neuromorphic technology from INI).
 - [Dynamic Vision Sensor (DVS) - asynchronous temporal contrast silicon retina](http://siliconretina.ini.uzh.ch/wiki/index.php)
