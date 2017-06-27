@@ -186,6 +186,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 <!-- - Conradt, J., Berner, R., Cook, M., Delbruck, T., [An embedded AER dynamic vision sensor for low-latency pole balancing](https://doi.org/10.1109/ICCVW.2009.5457625), IEEE Int. Conf. Computer Vision Workshops (ICCVW), Kyoto, Japan, 2009. [PDF](www.ini.uzh.ch/admin/extras/doc_get.php?id=42580) -->
 - Delbruck, T., Lang, M., *[Robotic Goalie with 3ms Reaction Time at 4% CPU Load Using Event-Based Dynamic Vision Sensor](https://doi.org/10.3389/fnins.2013.00223)*, Front. Neurosci. (2013) 7:223. [PDF](http://www.zora.uzh.ch/107801/1/fnins-07-00223.pdf), [YouTube](https://youtu.be/IC5x7ftJ96w)
 - Censi, A., *[Efficient Neuromorphic Optomotor Heading Regulation](https://doi.org/10.1109/ACC.2015.7171931)*, The 2015 American Control Conference (ACC), Chicago, IL, 2015, pp. 3854--3861.
+- Mueggler, E., Baumli, N., Fontana, F., Scaramuzza, D., *[Towards Evasive Maneuvers with Quadrotors using Dynamic Vision Sensors]()*, European Conference on Mobile Robots (ECMR), Lincoln, 2015. [PDF](http://rpg.ifi.uzh.ch/docs/ECMR15_Mueggler.pdf)
 - [Moeys et. al. EBCCSP 2016](#Moeys16ebccsp)
 
 
