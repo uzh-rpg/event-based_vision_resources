@@ -1,6 +1,6 @@
 # Event-based Vision References
 
-##Sorted by topic:
+## Sorted by topic:
 - [Devices](#devices)
 - [Neuromorphic Systems](#neuromorphic-systems)
 - [Drivers](#drivers)
@@ -157,11 +157,14 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - Hu, Y., Liu, H., Pfeiffer, M., Delbruck, T., [DVS Benchmark Datasets for Object Tracking, Action Recognition, and Object Recognition](https://doi.org/10.3389/fnins.2016.00405). Front. Neurosci. 10:405.
 - Binas, J., Neil, D., Liu, S.-C., Delbruck, T., *[DDD17: End-To-End DAVIS Driving Dataset](https://www.openreview.net/pdf?id=HkehpKVG-)*. In Proc. 34th Int. Conf. Machine Learning, Sydney, Australia, PMLR 70,  2017. [Dataset](http://sensors.ini.uzh.ch/databases.html)
 
+
 ## Recognition
 - Lee, J., Delbruck, T., Park, P. K. J., Pfeiffer, M., Shin, C. W., Ryu, H., Kang, B. C., [Live demonstration: Gesture-Based remote control using stereo pair of dynamic vision sensors](https://doi.org/10.1109/ISCAS.2012.6272144). IEEE Int. Symp. Circuits and Systems (ISCAS) 2012, Seoul, South Korea, pp. 736--740. [PDF](http://www.zora.uzh.ch/75315/1/Lee_et_al_Live_demonstration.pdf), [YouTube]()
 
+
 ### Neural Networks
 - <a name="MoeysEBCCSP16"></a>Moeys, D., Corradi F., Kerr, E., Vance, P., Das, G., Neil, D., Kerr, D., Delbruck, T., [Steering a Predator Robot using a Mixed Frame/Event-Driven Convolutional Neural Network](https://doi.org/10.1109/EBCCSP.2016.7605233), IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Poland, 2016. [PDF]
+
 
 ## Control
 - Conradt, J., Cook, M., Berner, R., Lichtsteiner, P., Douglas, R. J., Delbruck, T., [A Pencil Balancing Robot Using a Pair of AER Dynamic Vision Sensors](https://doi.org/10.1109/ISCAS.2009.5117867), IEEE Int. Symp. Circuits and Systems (ISCAS) 2009, pp. 781--784, 2009.
@@ -170,9 +173,13 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - Censi, A., [Efficient Neuromorphic Optomotor Heading Regulation](https://doi.org/10.1109/ACC.2015.7171931), The 2015 American Control Conference (ACC), Chicago, IL, 2015, pp. 3854--3861.
 - [Moeys et. al. EBCCSP 2016](#MoeysEBCCSP16)
 
-## Processors
-- Dynapse
-- ...
+
+## Neuromorphic Processors and Platforms
+- [Dynamic Neuromorphic Asynchronous Processor (DYNAP) by iniLabs](https://inilabs.com/products/dynap/)
+  - Qiao, N., Mostafa, H., Corradi, F., Osswald, M., Stefanini, F., Sumislawska, D., Indiveri, G. [A reconfigurable on-line learning spiking neuromorphic processor comprising 256 neurons and 128K synapses](https://doi.org/10.3389/fnins.2015.00141). Front. Neurosci. (2015) 9:141. [PDF](https://capocaccia.ethz.ch/capo/raw-attachment/wiki/2015/hybrid15/frontiers14-nlp.pdf)
+  - Indiveri, G., Qiao, N., Corradi, F., [Neuromorphic Architectures for Spiking Deep Neural Networks](https://doi.org/10.1109/IEDM.2015.7409623), IEEE Int. Electron Devices Meeting (IEDM), Washington, DC, 2015, pp. 4.2.1--4.2.4. [PDF](http://ncs.ethz.ch/pubs/pdf/Indiveri_etal15.pdf)
+- Galluppi, F., Denk, C., Meiner, M. C., Stewart, T. C., Plana, L. A., Eliasmith, C., Furber, S., Conradt, J., [Event-based neural computing on an autonomous mobile platform](https://doi.org/10.1109/ICRA.2014.6907270), IEEE Int. Conf. Robotics and Automation (ICRA), Hong Kong, 2014, pp. 2862--2867. [PDF](http://compneuro.uwaterloo.ca/files/publications/galluppi.2014.pdf)
+
 
 <a name="workshops"></a>
 ## Workshops
