@@ -15,7 +15,7 @@
     - [Localization and Ego-motion estimation](#egomotion)
     - [Visual Odometry and SLAM (Simultaneous Localization And Mapping)](#VOSLAM)
     - [Visual-Inertial Odometry](#visual-inertial)
-    - [Camera Stabilization](#camera-stabilization)
+    - [Visual Stabilization](#visual-stabilization)
     - [Video Processing](#video-processing)
     - Pattern recognition
         - Gesture control
@@ -151,8 +151,8 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - Zhu, A., Atanasov, N., Daniilidis, K., Event-based Visual Inertial Odometry, Conf. Computer Vision and Pattern Recognition (CVPR) 2017.
 
 
-<a name="camera-stabilization"></a>
-## Camera Stabilization
+<a name="visual-stabilization"></a>
+## Visual Stabilization
 - Delbruck, T., Villanueva, V., and Longinotti, L., *[Integration of dynamic vision sensor with inertial measurement unit for electronically stabilized event-based vision](http://doi.org/10.1109/ISCAS.2014.6865714)*, IEEE Int. Symp. Circuits and Systems (ISCAS) 2014, 2636--2639. [YouTube](https://youtu.be/Tzy4WF6Qp-Y)
 
 <a name="video-processing"></a>
