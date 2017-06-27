@@ -1,4 +1,4 @@
-# Event-based Vision References
+# Event-based Vision Resources
 
 ## Table of Contents (sorted by topic):
 - [Devices](#devices)
