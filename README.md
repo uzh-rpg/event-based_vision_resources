@@ -204,4 +204,4 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 
 
 # Contributing
-Please see [CONTRIBUTING](https://github.com/uzh-rpg/event-based_vision_references/blob/master/Contributing.md) for details.
+Please see [CONTRIBUTING](https://github.com/uzh-rpg/event-based_vision_resources/blob/master/Contributing.md) for details.
