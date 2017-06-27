@@ -201,3 +201,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - [Institute of NeuroInformatics](https://www.ini.uzh.ch/) (INI)  of the University of Zurich (UZH) and ETH Zurich.
 - [iniLabs](http://www.inilabs.com) (Comerzialization of neuromorphic technology from INI).
 - [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) (RPG-UZH).
+
+
+# Contributing
+Please see [CONTRIBUTING](https://github.com/uzh-rpg/event-based_vision_references/blob/master/Contributing.md) for details.
