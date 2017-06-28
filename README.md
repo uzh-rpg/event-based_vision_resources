@@ -7,12 +7,12 @@
 - [Calibration](#calibration)
 
 - [Algorithms](#algorithms)
-    - [Feature detection and Tracking](#feature-detection)
-    - [Depth estimation (3D Reconstruction)](#depth-estimation)
+    - [Feature Detection and Tracking](#feature-detection)
+    - [Depth Estimation (3D Reconstruction)](#depth-estimation)
     	- [Monocular](#depth-mono)
     	- [Stereo](#depth-stereo)
-    - [Optical flow](#optical-flow)
-    - [Intensity-Image reconstruction](#image-reconstruction)
+    - [Optical Flow Estimation](#optical-flow)
+    - [Intensity-Image Reconstruction](#image-reconstruction)
     - [Localization and Ego-motion estimation](#egomotion)
     - [Visual Odometry and SLAM (Simultaneous Localization And Mapping)](#VOSLAM)
     - [Visual-Inertial Odometry](#visual-inertial)
@@ -21,7 +21,7 @@
     - [Pattern recognition](#pattern-recognition)
     - [Control](#control)
 
-- [Datasets and simulators](#datasets)
+- [Datasets and Simulators](#datasets)
 - [Software](#software)
 - [Neuromorphic Processors and Platforms](#processors-platforms)
 - [Workshops](#workshops)
@@ -88,11 +88,12 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - Ni, Z., Bolopion, A., Agnus, J., Benosman, R., Regnier, S., *[Asynchronous event-based visual shape tracking for stable haptic feedback in microrobotics](https://doi.org/10.1109/TRO.2012.2198930)*, IEEE Trans. Robot. (2012), 28(5):1081-1089.
 - Piatkowska, E., Belbachir, A. N., Schraml, S., Gelautz, M., *[Spatiotemporal multiple persons tracking using Dynamic Vision Sensor](https://doi.org/10.1109/CVPRW.2012.6238892)*, IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), Providence, RI, 2012, pp. 35-40. [PDF](https://publik.tuwien.ac.at/files/PubDat_209369.pdf)
 - Borer, D.,  Rosgen, T., *[Large-scale Particle Tracking with Dynamic Vision Sensors]()*, ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http://www.ifd.mavt.ethz.ch/research/group-roesgen/dynamic-vision-sensors.html), [PDF](http://www.ifd.mavt.ethz.ch/content/dam/ethz/special-interest/mavt/fluid-dynamics/ifd-dam/research/documents/posters/experimental-methods/daniel_borer_dynamic_vision_sensor.pdf)
-- Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R., *[Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking](https://doi.org/10.1109/TNNLS.2014.2352401)*, IEEE Trans. Neural Netw. Learn. Syst. (2015), 26(8):1710-1720.
 - Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R., *[Live demonstration: Neuromorphic event-based multi-kernel algorithm for high speed visual features tracking](https://doi.org/10.1109/BioCAS.2014.6981681)*, IEEE Biomedical Circuits and Systems Conference (BioCAS), Lausanne, 2014, pp. 178-178.
-- Clady, X., Ieng, S.-H., Benosman, R., *[Asynchronous event-based corner detection and matching](https://doi.org/10.1016/j.neunet.2015.02.013)*, Neural Networks (2015), 66:pp. 91-106.
+- Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R., *[Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking](https://doi.org/10.1109/TNNLS.2014.2352401)*, IEEE Trans. Neural Netw. Learn. Syst. (2015), 26(8):1710-1720.
+- Clady, X., Ieng, S.-H., Benosman, R., *[Asynchronous event-based corner detection and matching](https://doi.org/10.1016/j.neunet.2015.02.013)*, Neural Networks (2015), 66:91-106.
 - Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R., *[Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking](https://doi.org/10.1109/TNNLS.2014.2352401)*,  IEEE Trans. Neural Netw. Learn. Syst. (2015), 26(8):1710-1720.
 - Ni, Z., Ieng, S. H., Posch, C., Regnier, S., Benosman, R., *[Visual Tracking Using Neuromorphic Asynchronous Event-Based Cameras](https://doi.org/10.1162/NECO_a_00720)*, Neural Computation (2015), 27(4):925-953.
+- Barranco, F., Teo, C. L., Fermüller, C., Aloimonos, Y., *[Contour Detection and Characterization for Asynchronous Event Sensors](https://doi.org/10.1109/ICCV.2015.63)*, IEEE Int. Conf. Computer Vision (ICCV), 2015, Santiago, Chile, pp. 486-494. [PDF](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Barranco_Contour_Detection_and_ICCV_2015_paper.pdf)
 - Liu, H., Moeys, D. P., Das, G., Neil, D., Liu, S.-C., Delbruck, T., *[Combined frame- and event-based detection and tracking](https://doi.org/10.1109/ISCAS.2016.7539103)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Montreal, QC, 2016, pp. 2511-2514.
 - Tedaldi, D., Gallego, G., Mueggler, E., Scaramuzza, D., *[Feature detection and tracking with the dynamic and active-pixel vision sensor (DAVIS)](https://doi.org/10.1109/EBCCSP.2016.7605086)*, IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Poland, 2016. [PDF](http://rpg.ifi.uzh.ch/docs/EBCCSP16_Tedaldi.pdf), [YouTube](https://www.youtube.com/watch?v=nglfEkiK308)
 - Braendli, C., Strubel, J., Keller, S., Scaramuzza, D., Delbruck, T., *[ELiSeD - An Event-Based Line Segment Detector](https://doi.org/10.1109/EBCCSP.2016.7605244)*, Int. Conf. on Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Poland, 2016. [PDF](http://rpg.ifi.uzh.ch/docs/EBCCSP16_Braendli.pdf)
@@ -115,7 +116,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 ### Stereo Depth Estimation
 - Schraml, C., Schon, P., Milosevic, N., *[Smartcam for real-time stereo vision - address-event based embedded system](http://doi.org/10.5220/0002057604660471)*, Int. Conf. Computer Vision Theory and Applications (VISAPP), Barcelona, Spain, 2007, pp. 466-471.
 - Schraml, S., Belbachir, A. N., Milosevic, N., Schon, P., *[Dynamic stereo vision system for real-time tracking](https://doi.org/10.1109/ISCAS.2010.5537289)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Paris, 2010, pp. 1409-1412.
-- Kogler, J., Sulzbachner, C., Humenberger, M., Eibensteiner, F., *[Address-Event Based Stereo Vision with Bio-Inspired Silicon Retina Imagers]*(http://doi.org/10.5772/12941), Advances in Theory and Applications of Stereo Vision (2011), pp. 165-188.
+- Kogler, J., Sulzbachner, C., Humenberger, M., Eibensteiner, F., *[Address-Event Based Stereo Vision with Bio-Inspired Silicon Retina Imagers](http://doi.org/10.5772/12941)*, Advances in Theory and Applications of Stereo Vision (2011), pp. 165-188.
 - Kogler, J., Humenberger, M., Sulzbachner, C., *[Event-Based Stereo Matching Approaches for Frameless Address Event Stereo Data](http://doi.org/10.1007/978-3-642-24028-7_62)*, Int. Symp. Visual Computing (ISVC) 2011, Advances in Visual Computing, pp. 674-685.
 - [Lee et. al., ISCAS 2012](#Lee12iscas)
 - Rogister, P. , Benosman, R., Ieng, S.-H., Lichtsteiner, P., Delbruck, T., *[Asynchronous Event-Based Binocular Stereo Matching](https://doi.org/10.1109/TNNLS.2011.2180025)*, IEEE Trans. Neural Netw. Learn. Syst., 23(2):347-353, 2012.
@@ -138,11 +139,14 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - Benosman, R., Ieng, S.-H., Clercq, C., Bartolozzi, C., and Srinivasan, M., *[Asynchronous Frameless Event-Based Optical Flow](https://doi.org/10.1016/j.neunet.2011.11.001)*. Neural Networks (2012), 27:32-37.
 - Benosman, R., Clercq, C., Lagorce, X., Ieng, S.-H., and Bartolozzi, C., *[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537)*. IEEE Trans. Neural Netw. Learn. Syst. (2014), 25(2):407-417.
     - [Code (jAER): LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java)
-- E. Mueggler, C. Forster, N. Baumli, G. Gallego, D. Scaramuzza, *[Lifetime Estimation of Events from Dynamic Vision Sensors](http://dx.doi.org/10.1109/ICRA.2015.7139876)*, IEEE Int. Conf. Robotics and Automation (ICRA), Seattle (WA), USA, 2015, pp. 4874-4881. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pdf), [Code](https://www.github.com/uzh-rpg/rpg_event_lifetime)
+- Orchard, G., Thakor, N. V., Etienne-Cummings, R., *[Real-time motion estimation using spatiotemporal filtering in FPGA](https://doi.org/10.1109/BioCAS.2013.6679700)*, IEEE Biomedical Circuits and Systems Conf. (BioCAS), Rotterdam, 2013, pp. 306-309.
 - Tschechne, S., Sailer R., Neumann, H., *[Bio-Inspired Optic Flow from Event-Based Neuromorphic Sensor Input](https://doi.org/10.1007/978-3-319-11656-3_16)*, IAPR Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR) 2014, pp. 171-182.
-- J. Conradt, *[On-Board Real-Time Optic-Flow for Miniature Event-Based Vision Sensors](https://doi.org/10.1109/ROBIO.2015.7419043)*, 2015 IEEE International Conference on Robotics and Biomimetics (ROBIO), Zhuhai, 2015, pp. 1858-1863.
+- Barranco, F., Fermüller, C., Aloimonos, Y., *[Contour motion estimation for asynchronous event-driven cameras](https://doi.org/10.1109/JPROC.2014.2347207)*, Proc. IEEE (2014), 102(10):1537-1556. [PDF](http://www.cfar.umd.edu/~fer/postscript/contourmotion-dvs-final.pdf)
+- Barranco, F., Fermüller, C., Aloimonos, Y., *[Bio-inspired Motion Estimation with Event-Driven Sensors](https://doi.org/10.1007/978-3-319-19258-1_27)*, Int. Work-Conf. Artificial Neural Networks (IWANN) 2015, Advances in Computational Intelligence, pp. 309-321.
+- Conradt, J., *[On-Board Real-Time Optic-Flow for Miniature Event-Based Vision Sensors](https://doi.org/10.1109/ROBIO.2015.7419043)*, 2015 IEEE Int. Conf. Robotics and Biomimetics (ROBIO), Zhuhai, China, 2015, pp. 1858-1863.
 - Brosch, T., Tschechne, S., Neumann, H., *[On event-based optical flow detection](https://doi.org/10.3389/fnins.2015.00137)*, Front. Neurosci. (2015), 9:137.
 - Kosiorek, A., Adrian, D., Rausch, J., Conradt, J., *[An Efficient Event-Based Optical Flow Implementation in C/C++ and CUDA](https://www.nst.ei.tum.de/fileadmin/w00bqs/www/publications/pp/2015SS-PP-RealTimeDVSOpticFlow.pdf)*. Tech. Rep. TU Munich, 2015.
+- E. Mueggler, C. Forster, N. Baumli, G. Gallego, D. Scaramuzza, *[Lifetime Estimation of Events from Dynamic Vision Sensors](http://dx.doi.org/10.1109/ICRA.2015.7139876)*, IEEE Int. Conf. Robotics and Automation (ICRA), Seattle (WA), USA, 2015, pp. 4874-4881. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pdf), [Code](https://www.github.com/uzh-rpg/rpg_event_lifetime)
 - <a name="Rueckauer16fnins"></a>Rueckauer, B. and Delbruck, T., *[Evaluation of Event-Based Algorithms for Optical Flow with Ground-Truth from Inertial Measurement Sensor](https://doi.org/10.3389/fnins.2016.00176)*. Front. Neurosci (2016). 10:176.
     - [Code (jAER)](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/)
 - <a name="Bardow16cvpr"></a>Bardow, P. A., Davison, A. J., Leutenegger, S., *[Simultaneous Optical Flow and Intensity Estimation](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.pdf)*, IEEE Conf. Computer Vision and Pattern Recognition (CVPR), Las Vegas, USA, 2016. [YouTube](https://youtu.be/1zqJpiheaaI)
@@ -210,7 +214,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
     - [Code](http://www.garrickorchard.com/code/hfirst): HFIRST: A simple spiking neural network for recognition based on the canonical frame-based HMAX model.
 - <a name="Moeys16ebccsp"></a>Moeys, D., Corradi F., Kerr, E., Vance, P., Das, G., Neil, D., Kerr, D., Delbruck, T., *[Steering a Predator Robot using a Mixed Frame/Event-Driven Convolutional Neural Network](https://doi.org/10.1109/EBCCSP.2016.7605233)*, IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Poland, 2016. [PDF](https://arxiv.org/pdf/1606.09433.pdf), [YouTube 1](https://youtu.be/fL3YCIPxuhM), [YouTube 2](https://youtu.be/lPF3Youpmqk)
 - Lagorce, X., Orchard, G., Gallupi, F., Shi, B., Benosman, R., *[HOTS: A Hierarchy Of event-based Time-Surfaces for pattern recognition](https://doi.org/10.1109/TPAMI.2016.2574707)*, IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2017, 39(7):1346-1359.
-- Lungu, I.-A., Corradi, F., Delbruck, T., *Live Demonstration: Convolutional Neural Network Driven by Dynamic Vision Sensor Playing RoShamBo*, IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017.
+- Lungu, I.-A., Corradi, F., Delbruck, T., *Live Demonstration: Convolutional Neural Network Driven by Dynamic Vision Sensor Playing RoShamBo*, IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017. [YouTube](https://youtu.be/q5ua91n13TA), [Slides 36-39](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Delbruck.pdf)
 
 
 <a name="control"></a>
