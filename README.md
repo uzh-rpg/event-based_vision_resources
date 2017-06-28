@@ -152,11 +152,14 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 <a name="image-reconstruction"></a>
 ## Intensity-Image Reconstruction from events
 - <a name="Cook11ijcnn"></a>Cook, M., Gugelmann, L., Jug, F., Krautz, C., Steger, A., *[Interacting maps for fast visual interpretation](https://doi.org/10.1109/IJCNN.2011.6033299)*, Int. Joint Conf. on Neural Networks (IJCNN), San Jose, CA, 2011, pp. 770--776. [YouTube](https://youtu.be/irX3Nd5U0hY)
+  - Martel, J. N. P., Cook, M., *[A Framework of Relational Networks to Build Systems with Sensors able to Perform the Joint Approximate Inference of Quantities]*(https://doi.org/10.5167/uzh-121743), IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Workshop on Unconventional Computing for Bayesian Inference, 2015, Hamburg. [PDF](http://www.zora.uzh.ch/121743/1/RelationalNetSensor.pdf)
+  - Martel, J. N. P., Chau, M., Dudek, P., Cook, M., *[Toward joint approximate inference of visual quantities on cellular processor arrays](https://doi.org/10.1109/ISCAS.2015.7169083)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 2061--2064.
 - Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A.J., *[Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/)*, British Machine Vision Conference, 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU).
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events).
 - <a name="Barua16wacv"></a>Barua, S., Miyatani, Y., Veeraraghavan, A., *[Direct face detection and video reconstruction from event cameras](http://doi.org/10.1109/WACV.2016.7477561)*, IEEE Winter Conf. Applications of Computer Vision (WACV), Lake Placid, NY, 2016, pp. 1--9. [YouTube](https://youtu.be/yGDVlN-L1TU)
 - *[Bardow et. al. CVPR 2016](#Bardow16cvpr)*
 - Reinbacher, C., Graber, G., Pock, T., *[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](http://www.bmva.org/bmvc/2016/papers/paper009/)*, British Machine Vision Conference (BMVC), York, 2016. [PDF](http://www.bmva.org/bmvc/2016/papers/paper009/paper009.pdf), [YouTube](https://youtu.be/rvB2URrGT94), [Code](https://github.com/VLOGroup/dvs-reconstruction)
+- Moeys, D. P., Li, C., Martel, J. N. P., Bamford, S., Longinotti, L., Motsnyi, V., Bello, D. S. S., Delbruck, T., *Color Temporal Contrast Sensitivity in Dynamic Vision Sensors*, IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017. [PDF](www.ini.uzh.ch/admin/extras/doc_get.php?id=65634).
 
 
 <a name="egomotion"></a>
@@ -207,6 +210,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
     - [Code](http://www.garrickorchard.com/code/hfirst): HFIRST: A simple spiking neural network for recognition based on the canonical frame-based HMAX model.
 - <a name="Moeys16ebccsp"></a>Moeys, D., Corradi F., Kerr, E., Vance, P., Das, G., Neil, D., Kerr, D., Delbruck, T., *[Steering a Predator Robot using a Mixed Frame/Event-Driven Convolutional Neural Network](https://doi.org/10.1109/EBCCSP.2016.7605233)*, IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Poland, 2016. [PDF](https://arxiv.org/pdf/1606.09433.pdf), [YouTube 1](https://youtu.be/fL3YCIPxuhM), [YouTube 2](https://youtu.be/lPF3Youpmqk)
 - Lagorce, X., Orchard, G., Gallupi, F., Shi, B., Benosman, R., *[HOTS: A Hierarchy Of event-based Time-Surfaces for pattern recognition](https://doi.org/10.1109/TPAMI.2016.2574707)*, IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2017, 39(7):1346--1359.
+- Lungu, I.-A., Corradi, F., Delbruck, T., *Live Demonstration: Convolutional Neural Network Driven by Dynamic Vision Sensor Playing RoShamBo*, IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017.
 
 
 <a name="control"></a>
