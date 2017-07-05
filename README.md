@@ -9,7 +9,7 @@
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
     	- [Monocular](#depth-mono)
     	- [Stereo](#depth-stereo)
-    - [Optical Flow Estimation](#optical-flow-estimation)
+    - [Optical Flow Estimation](#optical-flow)
     - [Intensity-Image Reconstruction](#image-reconstruction)
     - [Localization and Ego-motion estimation](#egomotion)
     - [Visual Odometry and SLAM (Simultaneous Localization And Mapping)](#VOSLAM)
@@ -122,7 +122,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 
 
 
-<a name="optical-flow-estimation"></a>
+<a name="optical-flow"></a>
 ## Optical Flow Estimation
 - [Cook et. al. IJCNN 2011](#Cook11ijcnn), *Interacting maps for fast visual interpretation*. Joint estimation of optical flow, image intensity and angular velocity with a rotating event camera.
 - Benosman, R., Ieng, S.-H., Clercq, C., Bartolozzi, C., and Srinivasan, M., *[Asynchronous Frameless Event-Based Optical Flow](https://doi.org/10.1016/j.neunet.2011.11.001)*. Neural Networks (2012), 27:32-37.
@@ -221,7 +221,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 
 <br><br>
 <a name="datasets"></a>
-# Datasets (sorted by topic)
+# Datasets and Simulators (sorted by topic)
 - [Several datasets from the Sensors group at INI](http://sensors.ini.uzh.ch/databases.html) (Institute of Neuroinformatics), Zurich:
     - [DVS128 Dynamic Vision Sensor Silicon Retina data](https://sourceforge.net/p/jaer/wiki/AER%20data/)
     
