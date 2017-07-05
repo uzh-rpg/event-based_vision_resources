@@ -1,6 +1,6 @@
 # Event-based Vision Resources
 
-## Table of Contents (sorted by topic):
+## Table of Contents:
 - [Devices](#devices)
 - [Neuromorphic Systems](#neuromorphic-systems)
 
@@ -25,7 +25,7 @@
     - [Calibration](#calibration)
     - [Algorithms](#software-algorithms)
     - [Utilities](#software-utilities)
-    
+
 - [Neuromorphic Processors and Platforms](#processors-platforms)
 - [Workshops](#workshops)
 - [Tutorials](#tutorials)
@@ -33,9 +33,10 @@
 - [Contributing](#contributing)
 
 ___
+<br>
 
 <a name="devices"></a>
-## Devices
+# Devices
 - **DVS (Dynamic Vision Sensor)**: Lichtsteiner, P., Posch, C., and Delbruck, T., *[A 128x128 120dB 15μs latency asynchronous temporal contrast vision sensor](http://doi.org/10.1109/JSSC.2007.914337)*, IEEE J. Solid-State Circuits, 43(2):566-576, 2008.
     - [Product page at iniLabs](https://inilabs.com/products/dynamic-vision-sensors/)
     - [Introductory videos about the DVS](https://inilabs.com/videos/dvs-introduction/)
@@ -50,8 +51,9 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - [Insightness AG](http://www.insightness.com/). [The Silicon Eye](http://www.insightness.com/?p=361) Technology
 
 
+<br>
 <a name="neuromorphic-systems"></a>
-## Neuromorphic Systems
+# Neuromorphic Systems
 - Delbruck, T., [Frame-free dynamic digital vision]()*, Int. Symp. Secure-Life Electronics, Advanced Electronics for Quality Life and Society, University of Tokyo, Tokyo, Japan, Mar. 6-7, 2008, pp. 21-26. Introduces the software architecture of jAER and shows examples of several event-based processing algorithms.
 - Liu, S.-C. and Delbruck, T., *[Neuromorphic sensory systems](https://doi.org/10.1016/j.conb.2010.03.007)*, Current Opinion in Neurobiology, 20:3(288-295), 2010.
 - Delbruck, T., *[Fun with asynchronous vision sensors and processing](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=delbruck_funwithasynsensors_2012.pdf)*. Computer Vision - ECCV 2012. Workshops and Demonstrations. Springer Berlin/Heidelberg, 2012. A position paper and summary of recent accomplishments of the INI Sensors' group.
@@ -59,6 +61,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - Delbruck, T., *[Neuromorophic Vision Sensing and Processing (Invited paper)](https://doi.org/10.1109/ESSDERC.2016.7599576)*, 46th Eur. Solid-State Device Research Conference (ESSDERC), Lausanne, 2016, pp. 7-14.
 
 
+<br>
 <a name="algorithms"></a>
 # Algorithms
 
@@ -122,7 +125,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 
 <a name="optical-flow"></a>
 ## Optical Flow Estimation
-- *[Cook et. al. IJCNN 2011](#Cook11ijcnn)*; in case of rotational motion.
+- [Cook et. al. IJCNN 2011](#Cook11ijcnn), *Interacting maps for fast visual interpretation*. Joint estimation of optical flow, image intensity and angular velocity with a rotating event camera.
 - Benosman, R., Ieng, S.-H., Clercq, C., Bartolozzi, C., and Srinivasan, M., *[Asynchronous Frameless Event-Based Optical Flow](https://doi.org/10.1016/j.neunet.2011.11.001)*. Neural Networks (2012), 27:32-37.
 - <a name="Benosman14tnnls"></a>Benosman, R., Clercq, C., Lagorce, X., Ieng, S.-H., and Bartolozzi, C., *[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537)*. IEEE Trans. Neural Netw. Learn. Syst. (2014), 25(2):407-417.
     - [Code (jAER): LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java)
@@ -136,7 +139,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - <a name="Mueggler15icra"></a>E. Mueggler, C. Forster, N. Baumli, G. Gallego, D. Scaramuzza, *[Lifetime Estimation of Events from Dynamic Vision Sensors](http://dx.doi.org/10.1109/ICRA.2015.7139876)*, IEEE Int. Conf. Robotics and Automation (ICRA), Seattle (WA), USA, 2015, pp. 4874-4881. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pdf), [Code](https://www.github.com/uzh-rpg/rpg_event_lifetime)
 - <a name="Rueckauer16fnins"></a>Rueckauer, B. and Delbruck, T., *[Evaluation of Event-Based Algorithms for Optical Flow with Ground-Truth from Inertial Measurement Sensor](https://doi.org/10.3389/fnins.2016.00176)*. Front. Neurosci (2016). 10:176.
     - [Code (jAER)](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/)
-- <a name="Bardow16cvpr"></a>Bardow, P. A., Davison, A. J., Leutenegger, S., *[Simultaneous Optical Flow and Intensity Estimation](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.pdf)*, IEEE Conf. Computer Vision and Pattern Recognition (CVPR), Las Vegas, USA, 2016. [YouTube](https://youtu.be/1zqJpiheaaI)
+- <a name="Bardow16cvpr"></a>Bardow, P. A., Davison, A. J., Leutenegger, S., *[Simultaneous Optical Flow and Intensity Estimation from an Event Camera](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.pdf)*, IEEE Conf. Computer Vision and Pattern Recognition (CVPR), Las Vegas, USA, 2016. [YouTube](https://youtu.be/1zqJpiheaaI)
 - Liu, M., Delbruck, T., *[Block-Matching Optical Flow for Dynamic Vision Sensors: Algorithm and FPGA Implementation](https://arxiv.org/pdf/1706.05415.pdf)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017.
 
 
@@ -145,17 +148,17 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - <a name="Cook11ijcnn"></a>Cook, M., Gugelmann, L., Jug, F., Krautz, C., Steger, A., *[Interacting maps for fast visual interpretation](https://doi.org/10.1109/IJCNN.2011.6033299)*, Int. Joint Conf. on Neural Networks (IJCNN), San Jose, CA, 2011, pp. 770-776. [YouTube](https://youtu.be/irX3Nd5U0hY)
   - Martel, J. N. P., Cook, M., *[A Framework of Relational Networks to Build Systems with Sensors able to Perform the Joint Approximate Inference of Quantities](https://doi.org/10.5167/uzh-121743)*, IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Workshop on Unconventional Computing for Bayesian Inference, 2015, Hamburg. [PDF](http://www.zora.uzh.ch/121743/1/RelationalNetSensor.pdf)
   - Martel, J. N. P., Chau, M., Dudek, P., Cook, M., *[Toward joint approximate inference of visual quantities on cellular processor arrays](https://doi.org/10.1109/ISCAS.2015.7169083)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 2061-2064.
-- Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A.J., *[Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/)*, British Machine Vision Conference, 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU).
+- <a name="Kim14bmvc"></a>Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A.J., *[Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/)*, British Machine Vision Conference, 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU).
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events).
 - <a name="Barua16wacv"></a>Barua, S., Miyatani, Y., Veeraraghavan, A., *[Direct face detection and video reconstruction from event cameras](http://doi.org/10.1109/WACV.2016.7477561)*, IEEE Winter Conf. Applications of Computer Vision (WACV), Lake Placid, NY, 2016, pp. 1-9. [YouTube](https://youtu.be/yGDVlN-L1TU)
-- *[Bardow et. al. CVPR 2016](#Bardow16cvpr)*
+- [Bardow et. al. CVPR 2016](#Bardow16cvpr), *Simultaneous Optical Flow and Intensity Estimation from an Event Camera*.
 - <a name="Reinbacher16bmvc"></a>Reinbacher, C., Graber, G., Pock, T., *[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](http://www.bmva.org/bmvc/2016/papers/paper009/)*, British Machine Vision Conference (BMVC), York, 2016. [PDF](http://www.bmva.org/bmvc/2016/papers/paper009/paper009.pdf), [YouTube](https://youtu.be/rvB2URrGT94), [Code](https://github.com/VLOGroup/dvs-reconstruction)
 - Moeys, D. P., Li, C., Martel, J. N. P., Bamford, S., Longinotti, L., Motsnyi, V., Bello, D. S. S., Delbruck, T., *Color Temporal Contrast Sensitivity in Dynamic Vision Sensors*, IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=65634).
 
 
 <a name="egomotion"></a>
 ## Localization and Ego-Motion Estimation
-- *[Cook et. al. IJCNN 2011](#Cook11ijcnn)*; in case of rotational motion.
+- [Cook et. al. IJCNN 2011](#Cook11ijcnn), *Interacting maps for fast visual interpretation*. Joint estimation of optical flow, image intensity and angular velocity with a rotating event camera.
 - Weikersdorfer, D. and Conradt, J., *[Event-based particle filtering for robot self-localization](http://doi.org/10.1109/ROBIO.2012.6491077)*, IEEE Int. Conf. on Robotics and Biomimetcs (ROBIO), Guangzhou, 2012, pp. 866-870. [PDF](https://mediatum.ub.tum.de/doc/1215541/835468.pdf)
 - Censi, A., Strubel, J., Brandli, C., Delbruck, T., Scaramuzza, D., *[Low-latency localization by Active LED Markers tracking using a Dynamic Vision Sensor](https://doi.org/10.1109/IROS.2013.6696456)*, IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Tokyo, 2013. [PDF](http://rpg.ifi.uzh.ch/docs/IROS13_Censi.pdf), [Slides](http://rpg.ifi.uzh.ch/docs/IROS13_Censi.ppt)
 - Mueggler, E., Huber, B., Scaramuzza, D., *[Event-based, 6-DOF Pose Tracking for High-Speed Maneuvers](https://doi.org/10.1109/IROS.2014.6942940)*, IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Chicago, IL, 2014, pp. 2761-2768. [PDF](http://rpg.ifi.uzh.ch/docs/IROS14_Mueggler.pdf), [YouTube](https://youtu.be/LauQ6LWTkxM)
@@ -214,49 +217,49 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - Censi, A., *[Efficient Neuromorphic Optomotor Heading Regulation](https://doi.org/10.1109/ACC.2015.7171931)*, The 2015 American Control Conference (ACC), Chicago, IL, 2015, pp. 3854-3861.
 - Mueggler, E., Baumli, N., Fontana, F., Scaramuzza, D., *[Towards Evasive Maneuvers with Quadrotors using Dynamic Vision Sensors](https://doi.org/10.1109/ECMR.2015.7324048)*, Eur. Conf. Mobile Robots (ECMR), Lincoln, 2015. [PDF](http://rpg.ifi.uzh.ch/docs/ECMR15_Mueggler.pdf)
 - Delbruck, T., Pfeiffer, M., Juston, R., Orchard, G., Mueggler, E., Linares-Barranco, A., Tilden, M. W., *[Human vs. computer slot car racing using an event and frame-based DAVIS vision sensor](https://doi.org/10.1109/ISCAS.2015.7169170)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 2409-2412. [YouTube 1](https://youtu.be/CnGPGiZuFRI), [YouTube 2](https://youtu.be/ALneVn-Ls2Q)
-- [Moeys et. al. EBCCSP 2016](#Moeys16ebccsp). *VISUALISE Predator/Prey Dataset*
+- [Moeys et. al. EBCCSP 2016](#Moeys16ebccsp). *VISUALISE Predator/Prey Dataset*.
 
 
-***
-
+<br>
 <a name="datasets"></a>
-## Datasets (sorted by topic)
+# Datasets (sorted by topic)
 - [Several datasets from the Sensors group at INI](http://sensors.ini.uzh.ch/databases.html) (Institute of Neuroinformatics), Zurich:
     - [DVS128 Dynamic Vision Sensor Silicon Retina data](https://sourceforge.net/p/jaer/wiki/AER%20data/)
     
-#### Optical Flow
+### Optical Flow
 - [DVS/DAVIS Optical Flow Dataset](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) associated to the paper [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
 - [Binas et. al. ICML 2017](#Binas17icml). *DDD17: End-To-End DAVIS Driving Dataset*.
 
-#### Visual Odometry and SLAM
+### Visual Odometry and SLAM
 - [Combined Dynamic Vision / RGB-D Dataset](http://ci.nst.ei.tum.de/EBSLAM3D/dataset/) associated to the paper [Weikersdorfer et. al. ICRA 2014](#Weikersdorfer14icra).
 - Barranco, F., Fermuller, C., Aloimonos, Y., *[A Dataset for Visual Navigation with Neuromorphic Methods](https://dx.doi.org/10.3389%2Ffnins.2016.00049)*. Front. Neurosci. (2016), 10:49.
 - <a name="Mueggler17ijrr"></a>E. Mueggler, H. Rebecq, G. Gallego, T. Delbruck, D. Scaramuzza, *[The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM](http://rpg.ifi.uzh.ch/davis_data.html)*, Int. J. Robotics Research, 36:2, pp. 142-149, 2017. [PDF](https://arxiv.org/pdf/1610.08336.pdf), [PDF IJRR](http://dx.doi.org/10.1177/0278364917691115), [Dataset](http://rpg.ifi.uzh.ch/davis_data.html).
 - <a name="Binas17icml"></a>Binas, J., Neil, D., Liu, S.-C., Delbruck, T., *[DDD17: End-To-End DAVIS Driving Dataset](https://www.openreview.net/pdf?id=HkehpKVG-)*. In Proc. 34th Int. Conf. Machine Learning, Sydney, Australia, PMLR 70, 2017. [Dataset](http://sensors.ini.uzh.ch/databases.html)
 
-#### Recognition
+### Recognition
 - Orchard, G., Jayawant, A., Cohen, G.K., Thakor, N., *[Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades](https://doi.org/10.3389/fnins.2015.00437)*. Front. Neurosci. (2015), 9:437. [YouTube](https://youtu.be/2RBKNhxHvdw)
     - [Neuromorphic-MNIST (N-MNIST) dataset](http://www.garrickorchard.com/datasets/n-mnist) is a spiking version of the original frame-based MNIST dataset (of handwritten digits). [YouTube](https://youtu.be/6qK97qM5aB4)
     - [The Neuromorphic-Caltech101 (N-Caltech101) dataset](http://www.garrickorchard.com/datasets/n-caltech101) is a spiking version of the original frame-based Caltech101 dataset. [YouTube](https://youtu.be/dxit9Ce5f_E)
 - [VISUALISE Predator/Prey Dataset](https://www.dropbox.com/sh/x6nm6zl9rrd7yzn/AAB_Fa5F-Y4fSo1nrIJxc8Xoa?dl=0) associated to the paper [Moeys et. al. EBCCSP 2016](#Moeys16ebccsp)
 - Hu, Y., Liu, H., Pfeiffer, M., Delbruck, T., *[DVS Benchmark Datasets for Object Tracking, Action Recognition, and Object Recognition](https://doi.org/10.3389/fnins.2016.00405)*, Front. Neurosci. 10:405. [Dataset](http://dgyblog.com/projects-term/dvs-dataset.html)
 
-***
 
+
+<br>
 <a name="software"></a>
-## Software
+# Software
 
 <a name="drivers"></a>
-### Drivers
-- [jAER (java Address-Event Representation) project](http://jaerproject.org/)
+## Drivers
+- [jAER (java Address-Event Representation) project](http://jaerproject.org/). *Real time sensory-motor processing for event-based sensors and systems*. [github page](https://github.com/SensorsINI/jaer). [Wiki](https://sourceforge.net/p/jaer/wiki/Home/)
 - [caer (AER event-based framework, written in C, targeting embedded systems)](https://github.com/inilabs/caer)
 - [libcaer (Minimal C library to access, configure and get/send AER data from sensors or to/from neuromorphic processors)](https://github.com/inilabs/libcaer)
 - [ROS (Robotic Operating System)](https://github.com/uzh-rpg/rpg_dvs_ros)
 
 
 <a name="calibration"></a>
-### Calibration
-- [Focus adjustment](https://github.com/uzh-rpg/rpg_dvs_ros/tree/master/dvs_calibration#focus-adjustment) or [this other source](https://github.com/ethz-asl/kalibr/wiki/calibrating-the-vi-sensor#2-setting-the-focus).
+## Calibration
+- [Lens focus adjustment](https://github.com/uzh-rpg/rpg_dvs_ros/tree/master/dvs_calibration#focus-adjustment) or [this other source](https://github.com/ethz-asl/kalibr/wiki/calibrating-the-vi-sensor#2-setting-the-focus).
 - For the DAVIS: use the grayscale frames to calibrate the optics of both frames and events.
     - ROS camera calibrator ([monocular](http://wiki.ros.org/camera_calibration/Tutorials/MonocularCalibration) or [stereo](http://wiki.ros.org/camera_calibration/Tutorials/StereoCalibration))
      - [kalibr software](https://github.com/ethz-asl/kalibr/wiki/multiple-camera-calibration) by ASL - ETH.
@@ -268,33 +271,36 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 
 
 <a name="software-algorithms"></a>
-### Algorithms
-- Several filters in the [jAER (java Address-Event Representation) project](http://jaerproject.org/)
+## Algorithms
+- [Several event-processing filters](https://sourceforge.net/p/jaer/wiki/FilterIndex_1/) in the [jAER (java Address-Event Representation) project](http://jaerproject.org/)
 - **Optical Flow**
     - [LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java), inspired by the paper [Benosman et. al. TNNLS 2014](#Benosman14tnnls).
     - [Several algorithms compared](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/) in the paper by [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
     - [Event-Lifetime estimation](https://www.github.com/uzh-rpg/rpg_event_lifetime), associated to the paper [Mueggler et. al. ICRA 2015](#Mueggler15icra).
     
 - **Intensity-Image reconstruction**
-    - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events).
-    - [Code](https://github.com/VLOGroup/dvs-reconstruction) associated to the paper [Reinbacher et. al. BMVC 2016](#Reinbacher16bmvc)
+    - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events), inspired by the paper [Kim et. al. BMVC 2014](#Kim14bmvc).
+    - [DVS reconstruction code](https://github.com/VLOGroup/dvs-reconstruction) associated to the paper [Reinbacher et. al. BMVC 2016](#Reinbacher16bmvc).
 
 - **Localization and Ego-Motion Estimation**
-    - [Panoramic tracking](https://github.com/VLOGroup/dvs-panotracking) associated to the paper [Reinbacher et. al. ICCP 2017](#Reinbacher17iccp).
+    - [Panoramic tracking code](https://github.com/VLOGroup/dvs-panotracking) associated to the paper [Reinbacher et. al. ICCP 2017](#Reinbacher17iccp).
     
 - **Pattern Recognition**
     - [A simple spiking neural network for recognition](http://www.garrickorchard.com/code/hfirst) associated to the paper [Orchard et. al. TPAMI 2015](#Orchard15tpami).
 
-<a name="software-utilitiesdrivers"></a>
-### Utilities
+<a name="software-utilities"></a>
+## Utilities
+- [Process AEDAT](https://github.com/SensorsINI/processAEDAT): useful scripts to work with data from jAER and cAER.
 - [Matlab functions in jAER project](https://sourceforge.net/p/jaer/code/HEAD/tree/scripts/matlab/)
-- [edvstools](https://github.com/Danvil/edvstools), by D. Weikersdorfer: A collection of tools for the embedded Dynamic Vision Sensor eDVS.
+- [AEDAT Tools](https://github.com/simbamford/AedatTools/): scripts for Matlab and Python to work with aedat files. 
 - [Matlab AER functions](https://github.com/gorchard/Matlab_AER_vision_functions) by G. Orchard. Some basic functions for filtering and displaying AER vision data, as well as making videos.
 - [Python code for AER vision data](https://github.com/gorchard/event-Python) by G. Orchard.
-***
+- [edvstools](https://github.com/Danvil/edvstools), by D. Weikersdorfer: A collection of tools for the embedded Dynamic Vision Sensor eDVS.
 
+
+<br>
 <a name="processors-platforms"></a>
-## Neuromorphic Processors and Platforms
+# Neuromorphic Processors and Platforms
 - [Dynamic Neuromorphic Asynchronous Processor (DYNAP) by iniLabs](https://inilabs.com/products/dynap/)
   - Qiao, N., Mostafa, H., Corradi, F., Osswald, M., Stefanini, F., Sumislawska, D., Indiveri, G. *[A reconfigurable on-line learning spiking neuromorphic processor comprising 256 neurons and 128K synapses](https://doi.org/10.3389/fnins.2015.00141)*, Front. Neurosci. (2015) 9:141. [PDF](https://capocaccia.ethz.ch/capo/raw-attachment/wiki/2015/hybrid15/frontiers14-nlp.pdf)
   - Indiveri, G., Qiao, N., Corradi, F., *[Neuromorphic Architectures for Spiking Deep Neural Networks](https://doi.org/10.1109/IEDM.2015.7409623)*, IEEE Int. Electron Devices Meeting (IEDM), Washington, DC, 2015, pp. 4.2.1-4.2.4. [PDF](http://ncs.ethz.ch/pubs/pdf/Indiveri_etal15.pdf)
@@ -302,27 +308,28 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - Galluppi, F., Denk, C., Meiner, M. C., Stewart, T. C., Plana, L. A., Eliasmith, C., Furber, S., Conradt, J., *[Event-based neural computing on an autonomous mobile platform](https://doi.org/10.1109/ICRA.2014.6907270)*, IEEE Int. Conf. Robotics and Automation (ICRA), Hong Kong, 2014, pp. 2862-2867. [PDF](http://compneuro.uwaterloo.ca/files/publications/galluppi.2014.pdf)
 
 
+<br>
 <a name="workshops"></a>
-## Workshops
+# Workshops
 - [ICRA 2015 Workshop on Innovative Sensing for Robotics](http://innovative-sensing.mit.edu/), with a focus on Neuromorphic Sensors.
 - [ICRA 2017 First International Workshop on Event-based Vision](http://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html).
 - [The Telluride Neuromorphic Cognition Engineering Workshops](http://telluride.iniforum.ch/accounts/login/?next=/).
 - [Capo Caccia Workshops toward Cognitive Neuromorphic Engineering](http://capocaccia.iniforum.ch/).
 
-
+<br>
 <a name="tutorials"></a>
-## Tutorials
+# Tutorials
 - [Event-Based Vision for High-Speed Robotics (slides)](http://www.rit.edu/kgcoe/iros15workshop/papers/IROS2015-WASRoP-Invited-04-slides.pdf) IROS 2015, Workshop on Alternative Sensing for Robot Perception.
 
-
+<br>
 <a name="people"></a>
-## People / Organizations
+# People / Organizations
 - [Institute of NeuroInformatics](https://www.ini.uzh.ch/) (INI)  of the University of Zurich (UZH) and ETH Zurich.
 - [iniLabs](http://www.inilabs.com) (Comerzialization of neuromorphic technology from INI).
 - [Dynamic Vision Sensor (DVS) - asynchronous temporal contrast silicon retina](http://siliconretina.ini.uzh.ch/wiki/index.php)
 - [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) (RPG-UZH).
 
-
+<br>
 <a name="contributing"></a>
 # Contributing
 Please see [CONTRIBUTING](https://github.com/uzh-rpg/event-based_vision_resources/blob/master/Contributing.md) for details.
