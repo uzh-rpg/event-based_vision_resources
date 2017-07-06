@@ -45,6 +45,9 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
     - **Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 718-721.
 - **ATIS (Asynchronous Time-based Image Sensor)**: Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011.
     - [Chronocam](http://www.chronocam.com/)
+- Posch, C., Serrano-Gotarredona, T., Linares-Barranco, B., Delbruck, T.,  
+*[Retinomorphic Event-Based Vision Sensors: Bioinspired Cameras With Spiking Output](https://doi.org/10.1109/JPROC.2014.2346153),*  
+Proc. IEEE (2014), 102(10):1470-1484.
 - Samsung's DVS (Gen2). [Yoel Yaffe](https://www.linkedin.com/in/yoel-yaffe-a606841/), Samsung Israel Research Center, Samsung Electronics.
 - CeleX ([Hillhouse Technology](http://www.hillhouse-tech.com/), Singapore). [YouTube](https://youtu.be/Wlzc-5sgm1g)
 - [Insightness AG](http://www.insightness.com/). [The Silicon Eye](http://www.insightness.com/?p=361) Technology
@@ -74,13 +77,19 @@ IEEE 12th Digital Signal Proc. Workshop and 4th IEEE Signal Proc. Education Work
 IEEE Intelligent Transportation Systems Conf., Toronto, Ont., 2006, pp. 653-658. [PDF](http://belbachir.info/PDF/itsc2006.pdf)
 - Drazen, D., Lichtsteiner, P., Haefliger, P., Delbruck, T., Jensen, A.,  
 *[Toward real-time particle tracking using an event-based dynamic vision sensor](https://doi.org/10.1007/s00348-011-1207-y)*,  
-Experiments in Fluids (2011), 51:1465-1469. [PDF](http://www.zora.uzh.ch/60624/1/Drazen_EIF_2011.pdf)
+Experiments in Fluids (2011), 51(1):1465-1469. [PDF](http://www.zora.uzh.ch/60624/1/Drazen_EIF_2011.pdf)
+- Ni, Z., Pacoret, Benosman, R., Ieng, S., Reginer, S.,  
+*[Asynchronous event-based high speed vision for microparticle tracking](http://doi.org/10.1111/j.1365-2818.2011.03565.x)*,  
+J. Microscopy, 245(1):236-244.
 - Ni, Z., Bolopion, A., Agnus, J., Benosman, R., Regnier, S.,  
 *[Asynchronous event-based visual shape tracking for stable haptic feedback in microrobotics](https://doi.org/10.1109/TRO.2012.2198930)*,  
 IEEE Trans. Robot. (2012), 28(5):1081-1089.
 - Piatkowska, E., Belbachir, A. N., Schraml, S., Gelautz, M.,  
 *[Spatiotemporal multiple persons tracking using Dynamic Vision Sensor](https://doi.org/10.1109/CVPRW.2012.6238892)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), Providence, RI, 2012, pp. 35-40. [PDF](https://publik.tuwien.ac.at/files/PubDat_209369.pdf)
+- Ni, Z.,  
+*[Asynchronous Event Based Vision:  Algorithms and Applications to Microrobotics](https://tel.archives-ouvertes.fr/tel-00916995/document/)*,  
+Ph.D. Thesis, Université de Pierre et Marie Curie, Paris, France, 2013.
 - Borer, D.,  Rosgen, T.,  
 *[Large-scale Particle Tracking with Dynamic Vision Sensors]()*,  
 ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http://www.ifd.mavt.ethz.ch/research/group-roesgen/dynamic-vision-sensors.html), [PDF](http://www.ifd.mavt.ethz.ch/content/dam/ethz/special-interest/mavt/fluid-dynamics/ifd-dam/research/documents/posters/experimental-methods/daniel_borer_dynamic_vision_sensor.pdf)
@@ -163,7 +172,7 @@ IEEE Trans. Neural Netw. Learn. Syst., 23(2):347-353, 2012.
 Neural Networks (2013), 45:27-38.
 - Carneiro, J.,  
 *[Asynchronous Event-Based 3D Vision](http://www.theses.fr/2014PA066593.pdf)*,  
-Ph.D. Thesis, Université de Pierre et Marie Curie - Institut de la Vision, Paris, France, 2014.
+Ph.D. Thesis, Université de Pierre et Marie Curie, Paris, France, 2014.
 - Piatkowska, E., Belbachir, A. N., Gelautz, M.,  
 *[Asynchronous Stereo Vision for Event-Driven Dynamic Stereo Sensor Using an Adaptive Cooperative Approach](https://doi.org/10.1109/ICCVW.2013.13)*,  
 IEEE Int. Conf. Computer Vision Workshops (ICCVW), Sydney, NSW, 2013, pp. 45-50.
@@ -173,7 +182,7 @@ Meas. Sci. Technol. (2014), 25(5).
 - Lee, J. H., Delbruck, T., Pfeiffer, M., Park, P. K. J., Shin, C.-W., Ryu, H., Kang, B. C., 
 *[Real-Time Gesture Interface Based on Event-Driven Processing From Stereo Silicon Retinas](https://doi.org/10.1109/TNNLS.2014.2308551)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (2014), 25(2):2250-2263.
-- Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S. H., Benosman, R. B., and Linares-Barranco, B.,  
+- Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S. H., Benosman, R. B., Linares-Barranco, B.,  
 *[On the use of orientation filters for 3D reconstruction in event–driven stereo vision](https://doi.org/10.3389/fnins.2014.00048)*,  
 Front. Neurosci. (2014) 8:48.
 - Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Linares-Barranco, B., Ieng, S., Benosman, R.,  
@@ -205,10 +214,10 @@ Scientific Reports 7, Article number: 40703 (2017).
 - [Cook et. al. IJCNN 2011](#Cook11ijcnn),  
 *Interacting maps for fast visual interpretation*.  
 Joint estimation of optical flow, image intensity and angular velocity with a rotating event camera.
-- Benosman, R., Ieng, S.-H., Clercq, C., Bartolozzi, C., and Srinivasan, M.,  
+- Benosman, R., Ieng, S.-H., Clercq, C., Bartolozzi, C., Srinivasan, M.,  
 *[Asynchronous Frameless Event-Based Optical Flow](https://doi.org/10.1016/j.neunet.2011.11.001),*  
 Neural Networks (2012), 27:32-37.
-- <a name="Benosman14tnnls"></a>Benosman, R., Clercq, C., Lagorce, X., Ieng, S.-H., and Bartolozzi, C.,  
+- <a name="Benosman14tnnls"></a>Benosman, R., Clercq, C., Lagorce, X., Ieng, S.-H., Bartolozzi, C.,  
 *[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537),*  
 IEEE Trans. Neural Netw. Learn. Syst. (2014), 25(2):407-417.
     - [Code (jAER): LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java)
@@ -392,7 +401,7 @@ IEEE Int. Symp. Circuits and Systems (ISCAS) 2009, pp. 781-784, 2009. [PDF](http
 - Conradt, J., Berner, R., Cook, M., Delbruck, T.,  
 *[An embedded AER dynamic vision sensor for low-latency pole balancing](https://doi.org/10.1109/ICCVW.2009.5457625)*,  
 IEEE Int. Conf. Computer Vision Workshops (ICCVW), Kyoto, Japan, 2009. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=42580)
-- Delbruck, T., Lang, M.,  
+- Delbruck, T. and Lang, M.,  
 *[Robotic Goalie with 3ms Reaction Time at 4% CPU Load Using Event-Based Dynamic Vision Sensor](https://doi.org/10.3389/fnins.2013.00223)*,  
 Front. Neurosci. (2013) 7:223. [PDF](http://www.zora.uzh.ch/107801/1/fnins-07-00223.pdf), [YouTube](https://youtu.be/IC5x7ftJ96w)
 - Censi, A.,  
@@ -503,7 +512,7 @@ Front. Neurosci. 10:405. [Dataset](http://dgyblog.com/projects-term/dvs-dataset.
   *[A reconfigurable on-line learning spiking neuromorphic processor comprising 256 neurons and 128K synapses](https://doi.org/10.3389/fnins.2015.00141),*  
   Front. Neurosci. (2015) 9:141. [PDF](https://capocaccia.ethz.ch/capo/raw-attachment/wiki/2015/hybrid15/frontiers14-nlp.pdf)
   - Indiveri, G., Qiao, N., Corradi, F.,  
-  *[Neuromorphic Architectures for Spiking Deep Neural Networks](https://doi.org/10.1109/IEDM.2015.7409623)*,  
+  *[Neuromorphic Architectures for Spiking	 Deep Neural Networks](https://doi.org/10.1109/IEDM.2015.7409623)*,  
   IEEE Int. Electron Devices Meeting (IEDM), Washington, DC, 2015, pp. 4.2.1-4.2.4. [PDF](http://ncs.ethz.ch/pubs/pdf/Indiveri_etal15.pdf)
 - Wiesmann, G., Schraml, S., Litzenberger, M., Belbachir, A. N., Hofstatter, M., Bartolozzi, C.,  
 *[Event-driven embodied system for feature extraction and object recognition in robotic applications](https://doi.org/10.1109/CVPRW.2012.6238898),*  
