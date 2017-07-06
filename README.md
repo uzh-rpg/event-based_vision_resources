@@ -313,9 +313,14 @@ Robotics: Science and Systems XI (RSS), Rome, Italy, 2015. [PDF]
 
 <a name="visual-inertial"></a>
 ## Visual-Inertial State Estimation
-- Mueggler, E., Gallego, G., Rebecq, H., Scaramuzza, D., *[Continuous-Time Visual-Inertial Trajectory Estimation with Event Cameras](https://arxiv.org/pdf/1702.07389.pdf)*, (Under review), 2017.
-- [Mueggler et. al. IJRR 2017](#Mueggler17ijrr). *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
-- Zhu, A., Atanasov, N., Daniilidis, K., Event-based Visual Inertial Odometry, IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017.
+- Mueggler, E., Gallego, G., Rebecq, H., Scaramuzza, D., 
+*[Continuous-Time Visual-Inertial Trajectory Estimation with Event Cameras](https://arxiv.org/pdf/1702.07389.pdf)*, 
+(Under review), 2017.
+- [Mueggler et. al. IJRR 2017](#Mueggler17ijrr). 
+*The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
+- Zhu, A., Atanasov, N., Daniilidis, K., 
+Event-based Visual Inertial Odometry, 
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017.
 
 <a name="visual-stabilization"></a>
 ## Visual Stabilization
