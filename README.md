@@ -66,53 +66,53 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 
 <a name="feature-detection"></a>
 ## Feature Detection and Tracking
-- Litzenberger, M., Posch, C., Bauer, D., Belbachir, A. N., Schon. P., Kohn, B., Garn, H.,
-*[Embedded Vision System for Real-Time Object Tracking using an Asynchronous Transient Vision Sensor](https://doi.org/10.1109/DSPWS.2006.265448)*, 
+- Litzenberger, M., Posch, C., Bauer, D., Belbachir, A. N., Schon. P., Kohn, B., Garn, H.,  
+*[Embedded Vision System for Real-Time Object Tracking using an Asynchronous Transient Vision Sensor](https://doi.org/10.1109/DSPWS.2006.265448)*,  
 IEEE 12th Digital Signal Proc. Workshop and 4th IEEE Signal Proc. Education Workshop, Teton National Park, WY, 2006, pp. 173-178.
-- Litzenberger, M., Kohn, B., Belbachir, A.N., Donath, N., Gritsch, G., Garn, H., Posch, C., Schraml, S., 
-*[Estimation of Vehicle Speed Based on Asynchronous Data from a Silicon Retina Optical Sensor](https://doi.org/10.1109/ITSC.2006.1706816)*, 
+- Litzenberger, M., Kohn, B., Belbachir, A.N., Donath, N., Gritsch, G., Garn, H., Posch, C., Schraml, S.,  
+*[Estimation of Vehicle Speed Based on Asynchronous Data from a Silicon Retina Optical Sensor](https://doi.org/10.1109/ITSC.2006.1706816)*,  
 IEEE Intelligent Transportation Systems Conf., Toronto, Ont., 2006, pp. 653-658. [PDF](http://belbachir.info/PDF/itsc2006.pdf)
-- Drazen, D., Lichtsteiner, P., Haefliger, P., Delbruck, T., Jensen, A., 
-*[Toward real-time particle tracking using an event-based dynamic vision sensor](https://doi.org/10.1007/s00348-011-1207-y)*,
+- Drazen, D., Lichtsteiner, P., Haefliger, P., Delbruck, T., Jensen, A.,  
+*[Toward real-time particle tracking using an event-based dynamic vision sensor](https://doi.org/10.1007/s00348-011-1207-y)*,  
 Experiments in Fluids (2011), 51:1465-1469. [PDF](http://www.zora.uzh.ch/60624/1/Drazen_EIF_2011.pdf)
-- Ni, Z., Bolopion, A., Agnus, J., Benosman, R., Regnier, S., 
-*[Asynchronous event-based visual shape tracking for stable haptic feedback in microrobotics](https://doi.org/10.1109/TRO.2012.2198930)*, 
+- Ni, Z., Bolopion, A., Agnus, J., Benosman, R., Regnier, S.,  
+*[Asynchronous event-based visual shape tracking for stable haptic feedback in microrobotics](https://doi.org/10.1109/TRO.2012.2198930)*,  
 IEEE Trans. Robot. (2012), 28(5):1081-1089.
-- Piatkowska, E., Belbachir, A. N., Schraml, S., Gelautz, M., 
-*[Spatiotemporal multiple persons tracking using Dynamic Vision Sensor](https://doi.org/10.1109/CVPRW.2012.6238892)*, 
+- Piatkowska, E., Belbachir, A. N., Schraml, S., Gelautz, M.,  
+*[Spatiotemporal multiple persons tracking using Dynamic Vision Sensor](https://doi.org/10.1109/CVPRW.2012.6238892)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), Providence, RI, 2012, pp. 35-40. [PDF](https://publik.tuwien.ac.at/files/PubDat_209369.pdf)
-- Borer, D.,  Rosgen, T., 
-*[Large-scale Particle Tracking with Dynamic Vision Sensors]()*, 
+- Borer, D.,  Rosgen, T.,  
+*[Large-scale Particle Tracking with Dynamic Vision Sensors]()*,  
 ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http://www.ifd.mavt.ethz.ch/research/group-roesgen/dynamic-vision-sensors.html), [PDF](http://www.ifd.mavt.ethz.ch/content/dam/ethz/special-interest/mavt/fluid-dynamics/ifd-dam/research/documents/posters/experimental-methods/daniel_borer_dynamic_vision_sensor.pdf)
-- Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R., 
-*[Live demonstration: Neuromorphic event-based multi-kernel algorithm for high speed visual features tracking](https://doi.org/10.1109/BioCAS.2014.6981681)*, 
+- Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R.,  
+*[Live demonstration: Neuromorphic event-based multi-kernel algorithm for high speed visual features tracking](https://doi.org/10.1109/BioCAS.2014.6981681)*,  
 IEEE Biomedical Circuits and Systems Conference (BioCAS), Lausanne, 2014, pp. 178-178.
-- Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R., 
-*[Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking](https://doi.org/10.1109/TNNLS.2014.2352401)*, 
-IEEE Trans. Neural Netw. Learn. Syst. (2015), 26(8):1710-1720.
-- Clady, X., Ieng, S.-H., Benosman, R., 
-*[Asynchronous event-based corner detection and matching](https://doi.org/10.1016/j.neunet.2015.02.013)*, 
-Neural Networks (2015), 66:91-106.
-- Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R., 
+- Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R.,  
 *[Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking](https://doi.org/10.1109/TNNLS.2014.2352401)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (2015), 26(8):1710-1720.
-- Ni, Z., Ieng, S. H., Posch, C., Regnier, S., Benosman, R., 
-*[Visual Tracking Using Neuromorphic Asynchronous Event-Based Cameras](https://doi.org/10.1162/NECO_a_00720)*, 
+- Clady, X., Ieng, S.-H., Benosman, R.,  
+*[Asynchronous event-based corner detection and matching](https://doi.org/10.1016/j.neunet.2015.02.013)*,  
+Neural Networks (2015), 66:91-106.
+- Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R.,  
+*[Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking](https://doi.org/10.1109/TNNLS.2014.2352401)*,  
+IEEE Trans. Neural Netw. Learn. Syst. (2015), 26(8):1710-1720.
+- Ni, Z., Ieng, S. H., Posch, C., Regnier, S., Benosman, R.,  
+*[Visual Tracking Using Neuromorphic Asynchronous Event-Based Cameras](https://doi.org/10.1162/NECO_a_00720)*,  
 Neural Computation (2015), 27(4):925-953.
-- Barranco, F., Teo, C. L., Fermüller, C., Aloimonos, Y., 
-*[Contour Detection and Characterization for Asynchronous Event Sensors](https://doi.org/10.1109/ICCV.2015.63)*, 
+- Barranco, F., Teo, C. L., Fermüller, C., Aloimonos, Y.,  
+*[Contour Detection and Characterization for Asynchronous Event Sensors](https://doi.org/10.1109/ICCV.2015.63)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2015, Santiago, Chile, pp. 486-494. [PDF](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Barranco_Contour_Detection_and_ICCV_2015_paper.pdf)
-- Liu, H., Moeys, D. P., Das, G., Neil, D., Liu, S.-C., Delbruck, T., 
-*[Combined frame- and event-based detection and tracking](https://doi.org/10.1109/ISCAS.2016.7539103)*, 
+- Liu, H., Moeys, D. P., Das, G., Neil, D., Liu, S.-C., Delbruck, T.,  
+*[Combined frame- and event-based detection and tracking](https://doi.org/10.1109/ISCAS.2016.7539103)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), Montreal, QC, 2016, pp. 2511-2514.
-- Tedaldi, D., Gallego, G., Mueggler, E., Scaramuzza, D., 
-*[Feature detection and tracking with the dynamic and active-pixel vision sensor (DAVIS)](https://doi.org/10.1109/EBCCSP.2016.7605086)*, 
+- Tedaldi, D., Gallego, G., Mueggler, E., Scaramuzza, D.,  
+*[Feature detection and tracking with the dynamic and active-pixel vision sensor (DAVIS)](https://doi.org/10.1109/EBCCSP.2016.7605086)*,  
 IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Poland, 2016. [PDF](http://rpg.ifi.uzh.ch/docs/EBCCSP16_Tedaldi.pdf), [YouTube](https://www.youtube.com/watch?v=nglfEkiK308)
-- Braendli, C., Strubel, J., Keller, S., Scaramuzza, D., Delbruck, T., 
-*[ELiSeD - An Event-Based Line Segment Detector](https://doi.org/10.1109/EBCCSP.2016.7605244)*, 
+- Braendli, C., Strubel, J., Keller, S., Scaramuzza, D., Delbruck, T.,  
+*[ELiSeD - An Event-Based Line Segment Detector](https://doi.org/10.1109/EBCCSP.2016.7605244)*,  
 Int. Conf. on Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Poland, 2016. [PDF](http://rpg.ifi.uzh.ch/docs/EBCCSP16_Braendli.pdf)
-- Zhu, A., Atanasov, N., Daniilidis, K., 
-*[Event-based Feature Tracking with Probabilistic Data Associations](https://fling.seas.upenn.edu/~alexzhu/dynamic/event-based-feature-tracking-with-probabilistic-data-association/)*, 
+- Zhu, A., Atanasov, N., Daniilidis, K.,  
+*[Event-based Feature Tracking with Probabilistic Data Associations](https://fling.seas.upenn.edu/~alexzhu/dynamic/event-based-feature-tracking-with-probabilistic-data-association/)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), Singapore, 2017. [YouTube](https://youtu.be/m93XCqAS6Fc)
 
 
@@ -121,79 +121,81 @@ IEEE Int. Conf. Robotics and Automation (ICRA), Singapore, 2017. [YouTube](https
 
 <a name="depth-mono"></a>
 ### Monocular Depth Estimation
-- Rebecq, H., Gallego, G., Scaramuzza, D., 
-*[EMVS: Event-based Multi-View Stereo](http://www.bmva.org/bmvc/2016/papers/paper063/)*, 
+- Rebecq, H., Gallego, G., Scaramuzza, D.,  
+*[EMVS: Event-based Multi-View Stereo](http://www.bmva.org/bmvc/2016/papers/paper063/)*,  
 British Machine Vision Conference (BMVC), York, 2016. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC16_Rebecq.pdf), [YouTube](https://www.youtube.com/watch?v=EUX3Tfx0KKE), [3D Reconstruction Experiments from a Train using an Event Camera](https://www.youtube.com/watch?v=fA4MiSzYHWA)
 
 ### Monocular Depth Estimation using Structured Light
-- Brandli, C., Mantel, T.A., Hutter, M., Hoepflinger, M.A., Berner, R., Siegwart, R., Delbruck, T., 
-*[Adaptive Pulsed Laser Line Extraction for Terrain Reconstruction using a Dynamic Vision Sensor](https://doi.org/10.3389/fnins.2013.00275)*, 
+- Brandli, C., Mantel, T.A., Hutter, M., Hoepflinger, M.A., Berner, R., Siegwart, R., Delbruck, T.,  
+*[Adaptive Pulsed Laser Line Extraction for Terrain Reconstruction using a Dynamic Vision Sensor](https://doi.org/10.3389/fnins.2013.00275)*,  
 Front. Neurosci. (2014) 7:275. [PDF](http://www.zora.uzh.ch/107736/1/fnins-07-00275.pdf), [YouTube](https://youtu.be/20OGD5Wwe9Q)
-- Matsuda, N., Cossairt, O., Gupta, M., 
-*[MC3D: Motion Contrast 3D Scanning](https://doi.org/10.1109/ICCPHOT.2015.7168370)*, 
+- Matsuda, N., Cossairt, O., Gupta, M.,  
+*[MC3D: Motion Contrast 3D Scanning](https://doi.org/10.1109/ICCPHOT.2015.7168370)*,  
 IEEE Conf. Computational Photography (ICCP), Houston,TX, 2015, pp. 1-10. [PDF](http://compphotolab.northwestern.edu/wordpress/wp-content/uploads/2015/04/dvs_031.pdf), [YouTube](https://youtu.be/m7qOEsTyVwU), [Project page](http://compphotolab.northwestern.edu/project/mc3d-motion-contrast-3d-laser-scanner/)
 
 
 <a name="depth-stereo"></a>
 ### Stereo Depth Estimation
-- Kogler, J., Sulzbachner, C., Kubinger, W., 
-*[Bio-inspired stereo vision system with silicon retina imagers](https://doi.org/10.1007/978-3-642-04667-4_18)*, 
+- Kogler, J., Sulzbachner, C., Kubinger, W.,  
+*[Bio-inspired stereo vision system with silicon retina imagers](https://doi.org/10.1007/978-3-642-04667-4_18)*,  
 Int. Conf. Computer Vision Systems (ICVS), 2009, pp. 174-183. [PDF](http://adose-eu.org/documents/Paper/2009_10_13-15.pdf)
-- Schraml, C., Schon, P., Milosevic, N., 
-*[Smartcam for real-time stereo vision - address-event based embedded system](http://doi.org/10.5220/0002057604660471)*, 
+- Schraml, C., Schon, P., Milosevic, N.,  
+*[Smartcam for real-time stereo vision - address-event based embedded system](http://doi.org/10.5220/0002057604660471)*,  
 Int. Conf. Computer Vision Theory and Applications (VISAPP), Barcelona, Spain, 2007, pp. 466-471.
-- Schraml, S., Belbachir, A. N., Milosevic, N., Schon, P., 
-*[Dynamic stereo vision system for real-time tracking](https://doi.org/10.1109/ISCAS.2010.5537289)*, 
+- Schraml, S., Belbachir, A. N., Milosevic, N., Schon, P.,  
+*[Dynamic stereo vision system for real-time tracking](https://doi.org/10.1109/ISCAS.2010.5537289)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), Paris, 2010, pp. 1409-1412.
-- Kogler, J., Sulzbachner, C., Humenberger, M., Eibensteiner, F., 
-*[Address-Event Based Stereo Vision with Bio-Inspired Silicon Retina Imagers](http://doi.org/10.5772/12941)*, 
+- Kogler, J., Sulzbachner, C., Humenberger, M., Eibensteiner, F.,  
+*[Address-Event Based Stereo Vision with Bio-Inspired Silicon Retina Imagers](http://doi.org/10.5772/12941)*,  
 Advances in Theory and Applications of Stereo Vision (2011), pp. 165-188.
-- Kogler, J., Humenberger, M., Sulzbachner, C., 
-*[Event-Based Stereo Matching Approaches for Frameless Address Event Stereo Data](http://doi.org/10.1007/978-3-642-24028-7_62)*, 
+- Kogler, J., Humenberger, M., Sulzbachner, C.,  
+*[Event-Based Stereo Matching Approaches for Frameless Address Event Stereo Data](http://doi.org/10.1007/978-3-642-24028-7_62)*,  
 Int. Symp. Visual Computing (ISVC) 2011, Advances in Visual Computing, pp. 674-685.
-- Benosman, R., Ieng, S. H., Rogister, P., Posch, C., 
-*[Asynchronous Event-Based Hebbian Epipolar Geometry](https://doi.org/10.1109/TNN.2011.2167239)*, 
+- Benosman, R., Ieng, S. H., Rogister, P., Posch, C.,  
+*[Asynchronous Event-Based Hebbian Epipolar Geometry](https://doi.org/10.1109/TNN.2011.2167239)*,  
 IEEE Trans. Neural Netw. (2011), 22(11):1723-1734.
 - [Lee et. al., ISCAS 2012](#Lee12iscas)
-- Rogister, P. , Benosman, R., Ieng, S.-H., Lichtsteiner, P., Delbruck, T., 
-*[Asynchronous Event-Based Binocular Stereo Matching](https://doi.org/10.1109/TNNLS.2011.2180025)*, 
+- Rogister, P. , Benosman, R., Ieng, S.-H., Lichtsteiner, P., Delbruck, T.,  
+*[Asynchronous Event-Based Binocular Stereo Matching](https://doi.org/10.1109/TNNLS.2011.2180025)*,  
 IEEE Trans. Neural Netw. Learn. Syst., 23(2):347-353, 2012.
-- Carneiro, J., Ieng, S.-H., Posch, C., Benosman, R., 
-*[Event-based 3D reconstruction from neuromorphic retinas](https://doi.org/10.1016/j.neunet.2013.03.006)*, 
+- Carneiro, J., Ieng, S.-H., Posch, C., Benosman, R.,  
+*[Event-based 3D reconstruction from neuromorphic retinas](https://doi.org/10.1016/j.neunet.2013.03.006)*,  
 Neural Networks (2013), 45:27-38.
-- Carneiro, J., 
-*[Asynchronous Event-Based 3D Vision](http://www.theses.fr/2014PA066593.pdf)*, 
+- Carneiro, J.,  
+*[Asynchronous Event-Based 3D Vision](http://www.theses.fr/2014PA066593.pdf)*,  
 Ph.D. Thesis, Université de Pierre et Marie Curie - Institut de la Vision, Paris, France, 2014.
-- Piatkowska, E., Belbachir, A. N., Gelautz, M., 
-*[Asynchronous Stereo Vision for Event-Driven Dynamic Stereo Sensor Using an Adaptive Cooperative Approach](https://doi.org/10.1109/ICCVW.2013.13)*, 
+- Piatkowska, E., Belbachir, A. N., Gelautz, M.,  
+*[Asynchronous Stereo Vision for Event-Driven Dynamic Stereo Sensor Using an Adaptive Cooperative Approach](https://doi.org/10.1109/ICCVW.2013.13)*,  
 IEEE Int. Conf. Computer Vision Workshops (ICCVW), Sydney, NSW, 2013, pp. 45-50.
-- Piatkowska, E., Belbachir, A. N., Gelautz, M., 
-*[Cooperative and asynchronous stereo vision for dynamic vision sensors](http://dx.doi.org/10.1088/0957-0233/25/5/055108)*, 
+- Piatkowska, E., Belbachir, A. N., Gelautz, M.,  
+*[Cooperative and asynchronous stereo vision for dynamic vision sensors](http://dx.doi.org/10.1088/0957-0233/25/5/055108)*,  
 Meas. Sci. Technol. (2014), 25(5).
 - Lee, J. H., Delbruck, T., Pfeiffer, M., Park, P. K. J., Shin, C.-W., Ryu, H., Kang, B. C., 
-*[Real-Time Gesture Interface Based on Event-Driven Processing From Stereo Silicon Retinas](https://doi.org/10.1109/TNNLS.2014.2308551)*, 
+*[Real-Time Gesture Interface Based on Event-Driven Processing From Stereo Silicon Retinas](https://doi.org/10.1109/TNNLS.2014.2308551)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (2014), 25(2):2250-2263.
-- Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S. H., Benosman, R. B., and Linares-Barranco, B., 
-*[On the use of orientation filters for 3D reconstruction in event–driven stereo vision](https://doi.org/10.3389/fnins.2014.00048)*, 
+- Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S. H., Benosman, R. B., and Linares-Barranco, B.,  
+*[On the use of orientation filters for 3D reconstruction in event–driven stereo vision](https://doi.org/10.3389/fnins.2014.00048)*,  
 Front. Neurosci. (2014) 8:48.
-- Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Linares-Barranco, B., Ieng, S., Benosman, R., *[Event-Driven Stereo Vision with Orientation Filters](https://doi.org/10.1109/ISCAS.2014.6865114)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Melbourne VIC, 2014, pp. 257-260.
-- Belbachir, A. N., Schraml, S., Mayerhofer, M., Hofstatter, M., 
-*[A Novel HDR Depth Camera for Real-time 3D 360-degree Panoramic Vision](https://doi.org/10.1109/CVPRW.2014.69)*, 
+- Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Linares-Barranco, B., Ieng, S., Benosman, R.,  
+*[Event-Driven Stereo Vision with Orientation Filters](https://doi.org/10.1109/ISCAS.2014.6865114)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), Melbourne VIC, 2014, pp. 257-260.
+- Belbachir, A. N., Schraml, S., Mayerhofer, M., Hofstatter, M.,  
+*[A Novel HDR Depth Camera for Real-time 3D 360-degree Panoramic Vision](https://doi.org/10.1109/CVPRW.2014.69)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2014, pp. 419-426. [PDF](http://www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W13/papers/Belbachir_A_Novel_HDR_2014_CVPR_paper.pdf)
-- Eibensteiner, F., Kogler, J., Scharinger, J., 
-*[A High-Performance Hardware Architecture for a Frameless Stereo Vision Algorithm Implemented on a FPGA Platform](https://doi.org/10.1109/CVPRW.2014.97)*, 
+- Eibensteiner, F., Kogler, J., Scharinger, J.,  
+*[A High-Performance Hardware Architecture for a Frameless Stereo Vision Algorithm Implemented on a FPGA Platform](https://doi.org/10.1109/CVPRW.2014.97)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), Columbus, OH, 2014, pp. 637-644.
-- Schraml, S., Belbachir, A. N., Bischof, H., 
-*[Event-Driven Stereo Matching for Real-Time 3D Panoramic Vision](https://doi.org/10.1109/CVPR.2015.7298644)*, 
+- Schraml, S., Belbachir, A. N., Bischof, H.,  
+*[Event-Driven Stereo Matching for Real-Time 3D Panoramic Vision](https://doi.org/10.1109/CVPR.2015.7298644)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), Boston, MA, 2015, pp. 466-474. [PDF](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schraml_Event-Driven_Stereo_Matching_2015_CVPR_paper.pdf). [Slides](https://www.anyline.io/wp-content/uploads/2016/03/event-driven-stereo-for-3d-360deg-panoramic-vision.pdf).
-- S. Schraml, A. N. Belbachir and H. Bischof, 
-*[An Event-Driven Stereo System for Real-Time 3-D 360° Panoramic Vision](https://doi.org/10.1109/TIE.2015.2477265)*, 
+- S. Schraml, A. N. Belbachir and H. Bischof,  
+*[An Event-Driven Stereo System for Real-Time 3-D 360° Panoramic Vision](https://doi.org/10.1109/TIE.2015.2477265)*,  
 IEEE Trans. Ind. Electron. (2016), 63(1):418-428.
-- Firouzi, M. and Conradt, J., 
-*[Asynchronous Event-based Cooperative Stereo Matching Using Neuromorphic Silicon Retinas](http://doi.org/10.1007/s11063-015-9434-5),* 
+- Firouzi, M. and Conradt, J.,  
+*[Asynchronous Event-based Cooperative Stereo Matching Using Neuromorphic Silicon Retinas](http://doi.org/10.1007/s11063-015-9434-5),*  
 Neural Processing Letters, 2016, 43(2):311-326. [PDF](https://mediatum.ub.tum.de/doc/1254531/131347.pdf)
-- Osswald, M., Ieng, S.-H., Benosman, R., Indiveri, G., 
-*[A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems](http://doi.org/10.1038/srep40703)*, 
+- Osswald, M., Ieng, S.-H., Benosman, R., Indiveri, G.,  
+*[A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems](http://doi.org/10.1038/srep40703)*,  
 Scientific Reports 7, Article number: 40703 (2017).
 
 
