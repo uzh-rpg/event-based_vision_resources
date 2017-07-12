@@ -35,7 +35,7 @@ ___
 <br>
 
 <a name="devices"></a>
-# Devices
+# Devices & Companies Manufacturing them
 - **DVS (Dynamic Vision Sensor)**: Lichtsteiner, P., Posch, C., and Delbruck, T., *[A 128x128 120dB 15μs latency asynchronous temporal contrast vision sensor](http://doi.org/10.1109/JSSC.2007.914337)*, IEEE J. Solid-State Circuits, 43(2):566-576, 2008.
     - [Product page at iniLabs](https://inilabs.com/products/dynamic-vision-sensors/)
     - [Introductory videos about the DVS](https://inilabs.com/videos/dvs-introduction/)
