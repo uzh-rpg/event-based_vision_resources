@@ -121,9 +121,18 @@ IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Pol
 - Braendli, C., Strubel, J., Keller, S., Scaramuzza, D., Delbruck, T.,  
 *[ELiSeD - An Event-Based Line Segment Detector](https://doi.org/10.1109/EBCCSP.2016.7605244)*,  
 Int. Conf. on Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Poland, 2016. [PDF](http://rpg.ifi.uzh.ch/docs/EBCCSP16_Braendli.pdf)
+- Glover, A. and Bartolozzi, C.,  
+*[Event-driven ball detection and gaze fixation in clutter](https://doi.org/10.1109/IROS.2016.7759345)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Daejeon, South Korea, 2016, pp. 2203-2208. [YouTube](https://youtu.be/xS-7xYRYSLc), [Code](https://github.com/robotology/event-driven)
+- Vasco, V., Glover, A., Bartolozzi, C.,  
+*[Fast event-based Harris corner detection exploiting the advantages of event-driven cameras](https://doi.org/10.1109/IROS.2016.7759610)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Daejeon, South Korea, 2016, pp. 4144-4149. [YouTube](https://youtu.be/YkI7AfBDBKE), [Code](https://github.com/robotology/event-driven)
 - Zhu, A., Atanasov, N., Daniilidis, K.,  
 *[Event-based Feature Tracking with Probabilistic Data Associations](https://fling.seas.upenn.edu/~alexzhu/dynamic/event-based-feature-tracking-with-probabilistic-data-association/)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), Singapore, 2017. [YouTube](https://youtu.be/m93XCqAS6Fc)
+- Mueggler, E., Bartolozzi, C., Scaramuzza, D.,  
+*Fast Event-based Corner Detection*,  
+British Machine Vision Conf. (BMVC), London, 2017.
 
 
 <a name="depth-estimation"></a>
@@ -133,7 +142,7 @@ IEEE Int. Conf. Robotics and Automation (ICRA), Singapore, 2017. [YouTube](https
 ### Monocular Depth Estimation
 - Rebecq, H., Gallego, G., Scaramuzza, D.,  
 *[EMVS: Event-based Multi-View Stereo](http://www.bmva.org/bmvc/2016/papers/paper063/)*,  
-British Machine Vision Conference (BMVC), York, 2016. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC16_Rebecq.pdf), [YouTube](https://www.youtube.com/watch?v=EUX3Tfx0KKE), [3D Reconstruction Experiments from a Train using an Event Camera](https://www.youtube.com/watch?v=fA4MiSzYHWA)
+British Machine Vision Conf. (BMVC), York, 2016. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC16_Rebecq.pdf), [YouTube](https://www.youtube.com/watch?v=EUX3Tfx0KKE), [3D Reconstruction Experiments from a Train using an Event Camera](https://www.youtube.com/watch?v=fA4MiSzYHWA)
 
 ### Monocular Depth Estimation using Structured Light
 - Brandli, C., Mantel, T.A., Hutter, M., Hoepflinger, M.A., Berner, R., Siegwart, R., Delbruck, T.,  
@@ -280,7 +289,7 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), Lake Placid, NY, 2016,
 *Simultaneous Optical Flow and Intensity Estimation from an Event Camera*.
 - <a name="Reinbacher16bmvc"></a>Reinbacher, C., Graber, G., Pock, T.,  
 *[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](http://www.bmva.org/bmvc/2016/papers/paper009/)*,  
-British Machine Vision Conference (BMVC), York, 2016. [PDF](http://www.bmva.org/bmvc/2016/papers/paper009/paper009.pdf), [YouTube](https://youtu.be/rvB2URrGT94), [Code](https://github.com/VLOGroup/dvs-reconstruction)
+British Machine Vision Conf. (BMVC), York, 2016. [PDF](http://www.bmva.org/bmvc/2016/papers/paper009/paper009.pdf), [YouTube](https://youtu.be/rvB2URrGT94), [Code](https://github.com/VLOGroup/dvs-reconstruction)
 - Moeys, D. P., Li, C., Martel, J. N. P., Bamford, S., Longinotti, L., Motsnyi, V., Bello, D. S. S., Delbruck, T.,  
 *Color Temporal Contrast Sensitivity in Dynamic Vision Sensors*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=65634).
@@ -314,6 +323,9 @@ Robotics: Science and Systems XI (RSS), Rome, Italy, 2015. [PDF]
 IEEE Int. Conf. Computational Photography (ICCP), Stanford, CA, USA, 2017, pp. 1-9. [PDF](https://arxiv.org/abs/1703.05161), [YouTube](https://youtu.be/Qy0brSlirmk), [Code](https://github.com/VLOGroup/dvs-panotracking)
 - [Mueggler et. al. IJRR 2017](#Mueggler17ijrr).  
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
+- Vasco, V., Glover, A., Mueggler, E., Scaramuzza, D., Natale, L., Bartolozzi, C.  
+*Independent Motion Detection with Event-driven Cameras*,  
+Int. Conf. Advanced Robotics (ICAR), Hong Kong, 2017. [PDF](https://arxiv.org/pdf/1706.08713.pdf)
 
 
 <a name="VOSLAM"></a>
@@ -356,6 +368,9 @@ IEEE Robotics and Automation Letters (RA-L), 2:2(632-639), 2017.
 - Zhu, A., Atanasov, N., Daniilidis, K.,  
 Event-based Visual Inertial Odometry,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017.
+- Rebecq, H., Horstschaefer, T., Scaramuzza, D.,  
+*Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization*,  
+British Machine Vision Conf. (BMVC), London, 2017.
 
 <a name="visual-stabilization"></a>
 ## Visual Stabilization
