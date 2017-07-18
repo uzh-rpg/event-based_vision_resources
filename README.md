@@ -234,9 +234,9 @@ Neural Networks (2012), 27:32-37.
 *[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537),*  
 IEEE Trans. Neural Netw. Learn. Syst. (2014), 25(2):407-417.
     - [Code (jAER): LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java)
-- Orchard, G., Thakor, N. V., Etienne-Cummings, R.,  
-*[Real-time motion estimation using spatiotemporal filtering in FPGA](https://doi.org/10.1109/BioCAS.2013.6679700)*,  
-IEEE Biomedical Circuits and Systems Conf. (BioCAS), Rotterdam, 2013, pp. 306-309.
+- Orchard, G., Benosman, R., Etienne-Cummings, R., and Thakor, N,  
+*[A Spiking Neural Network Architecture for Visual Motion Estimation](https://doi.org/10.1109/BioCAS.2013.6679698)*,  
+IEEE Biomedical Circuits and Systems Conf. (BioCAS), Rotterdam, 2013, pp. 298-301.
 - Tschechne, S., Sailer R., Neumann, H.,  
 *[Bio-Inspired Optic Flow from Event-Based Neuromorphic Sensor Input](https://doi.org/10.1007/978-3-319-11656-3_16)*,  
 IAPR Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR) 2014, pp. 171-182.
