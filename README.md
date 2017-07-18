@@ -135,7 +135,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Daejeon, South Korea,
 IEEE Int. Conf. Robotics and Automation (ICRA), Singapore, 2017. [YouTube](https://youtu.be/m93XCqAS6Fc)
 - Mueggler, E., Bartolozzi, C., Scaramuzza, D.,  
 *Fast Event-based Corner Detection*,  
-British Machine Vision Conf. (BMVC), London, 2017.
+British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC17_Mueggler.pdf), [YouTube](https://youtu.be/tgvM4ELesgI)
 
 
 <a name="depth-estimation"></a>
