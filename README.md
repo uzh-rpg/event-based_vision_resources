@@ -39,6 +39,7 @@ ___
 - **DVS (Dynamic Vision Sensor)**: Lichtsteiner, P., Posch, C., and Delbruck, T., *[A 128x128 120dB 15μs latency asynchronous temporal contrast vision sensor](http://doi.org/10.1109/JSSC.2007.914337)*, IEEE J. Solid-State Circuits, 43(2):566-576, 2008.
     - [Product page at iniLabs](https://inilabs.com/products/dynamic-vision-sensors/). [Buy a DVS](https://inilabs.com/buy/)
     - [Introductory videos about the DVS](https://inilabs.com/videos/dvs-introduction/)
+    - [iniLabs](https://inilabs.com) invents, produces and sells neuromorphic technologies for *research*.
 - **DAVIS (Dynamic and Active-Pixel Vision Sensor)** :
 Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333-2341, 2014.
     - [Product page at iniLabs](https://inilabs.com/products/dynamic-and-active-pixel-vision-sensor/). [Buy a DAVIS](https://inilabs.com/buy/)
@@ -54,7 +55,7 @@ Proc. IEEE (2014), 102(10):1470-1484.
 - CeleX ([Hillhouse Technology](http://www.hillhouse-tech.com/), Singapore). [YouTube](https://youtu.be/Wlzc-5sgm1g)
 - [Insightness AG](http://www.insightness.com/). [The Silicon Eye](http://www.insightness.com/?p=361) Technology
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Insightness.pdf) and [Video](https://youtu.be/6YyOW6DDGKw) by [Christian Brandli](http://www.insightness.com/#team), CEO and co-founder of Insightness.
-- [iniVation AG](http://inivation.com/)
+- [iniVation](http://inivation.com) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*.
 
 
 <br><br>
