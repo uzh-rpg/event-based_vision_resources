@@ -604,8 +604,8 @@ Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2017.
 *[Deep Neural Networks and Hardware Systems for Event-driven Data](https://doi.org/10.3929/ethz-b-000168865)*,  
 Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2017. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/168865/phd_thesis.pdf?sequence=3&isAllowed=y)
 - Mueggler, E.,  
-*[Event-based Vision for High-Speed Robotics]()*,  
-Ph.D. Thesis, University of Zurich, Zurich, Switzerland, 20917.
+*[Event-based Vision for High-Speed Robotics](http://rpg.ifi.uzh.ch/docs/PhD17_Mueggler.pdf)*,  
+Ph.D. Thesis, University of Zurich, Zurich, Switzerland, 2017.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
