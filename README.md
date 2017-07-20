@@ -28,6 +28,7 @@
 
 - [Neuromorphic Processors and Platforms](#processors-platforms)
 - [Workshops and Tutorials](#workshops)
+- [Theses and Dissertations](#theses)
 - [People / Organizations](#people)
 - [Contributing](#contributing)
 
@@ -563,6 +564,59 @@ IEEE Int. Conf. Robotics and Automation (ICRA), Hong Kong, 2014, pp. 2862-2867. 
 - [ICRA 2017 First International Workshop on Event-based Vision](http://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html).
 - [The Telluride Neuromorphic Cognition Engineering Workshops](http://telluride.iniforum.ch/accounts/login/?next=/).
 - [Capo Caccia Workshops toward Cognitive Neuromorphic Engineering](http://capocaccia.iniforum.ch/).
+
+
+<br><br>
+<a name="theses"></a>
+# Theses and Dissertations
+- Mahowald, M.,  
+*[VLSI Analogs of Neuronal Visual Processing: A Synthesis of Form and Function](http://resolver.caltech.edu/CaltechTHESIS:09122011-094355148)*,  
+Ph.D. thesis, California Inst. Of Technology, Pasadena, CA, 1992. [PDF](
+http://www.ini.uzh.ch/~tobi/papers/mishathesis.pdf)  
+She won the Caltech's Clauser prize for the best PhD thesis for this work, which included the silicon retina, AER communication, and a beautiful stereopsis chip.
+- Delbrück, T.,  
+*[Investigations of Analog VLSI Visual Transduction and Motion Processing](http://resolver.caltech.edu/CaltechETD:etd-07022004-144710)*,  
+Ph.D. Thesis. California Inst. Of Technology, Pasadena, CA, 1993. [PDF](https://www.ini.uzh.ch/~tobi/anaprose/thesis/tobithesis.pdf)
+- Lichtsteiner, P.,  
+*[A temporal contrast vision sensor](https://doi.org/10.3929/ethz-a-005279479)*,  
+Ph.D. Thesis, ETH Zurich, Zurich, Switzerland, 2006. [PDF](http://www.ini.uzh.ch/~tobi/papers/lichtsteinerThesis2006.pdf)
+- Berner, R.,  
+*[Building Blocks for Event-Based Sensors](https://doi.org/10.3929/ethz-a-006838001)*,  
+Ph.D. Thesis, ETH Zurich, Zurich, Switzerland, 2011. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/153098/eth-5044-02.pdf?sequence=2&isAllowed=y)
+- Ni, Z.,  
+*[Asynchronous Event Based Vision:  Algorithms and Applications to Microrobotics](https://tel.archives-ouvertes.fr/tel-00916995/document/)*,  
+Ph.D. Thesis, Université de Pierre et Marie Curie, Paris, France, 2013.
+- Carneiro, J.,  
+*[Asynchronous Event-Based 3D Vision](http://www.theses.fr/2014PA066593.pdf)*,  
+Ph.D. Thesis, Université de Pierre et Marie Curie, Paris, France, 2014.
+- Weikersdorfer, D.,  
+*[Efficiency by Sparsity: Depth-Adaptive Superpixels and Event-based SLAM](http://nbn-resolving.de/urn:nbn:de:bvb:91-diss-20140701-1173294-0-6)*,  
+Ph.D. Thesis, Technical University of Munich, Munich, Germany, 2014. [PDF](https://mediatum.ub.tum.de/download/1173294/1173294.pdf)
+- Borer, D. J.,  
+*[4D Flow Visualization with Dynamic Vision Sensors](http://dx.doi.org/10.3929/ethz-a-010344783)*,  
+Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2014. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/95489/eth-47156-02.pdf?sequence=2&isAllowed=y)
+- Yang, M.,  
+*[Silicon Retina and Cochlea with Asynchronous Delta Modulator for Spike Encoding](https://doi.org/10.3929/ethz-a-010636883)*,  
+Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2015.
+- Brändli, C.,  
+*[Event-Based Machine Vision](http://dx.doi.org/10.3929/ethz-a-010402138)*,  
+Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2015. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/99543/eth-47528-02.pdf?sequence=2&isAllowed=y)
+- Moeys, D. P.,  
+*[Analog and digital implementations of retinal processing for robot navigation systems](https://doi.org/10.3929/ethz-a-010897825)*,  
+Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2016. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/156363/eth-50898-02.pdf?sequence=2&isAllowed=y)
+- Cohen, G. K.,  
+*[Event-Based Feature Detection, Recognition and Classification](https://tel.archives-ouvertes.fr/tel-01426001)*,  
+Ph.D. Thesis, Université de Pierre et Marie Curie, Paris, France, 2016. [PDF](https://tel.archives-ouvertes.fr/tel-01426001/document)
+- Li, C.,  
+*[Two-stream vision sensors](https://doi.org/10.3929/ethz-b-000164862)*,  
+Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2017.
+- Neil, D.,  
+*[Deep Neural Networks and Hardware Systems for Event-driven Data](https://doi.org/10.3929/ethz-b-000168865)*,  
+Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2017. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/168865/phd_thesis.pdf?sequence=3&isAllowed=y)
+- Mueggler, E.,  
+*[Event-based Vision for High-Speed Robotics](http://rpg.ifi.uzh.ch/docs/PhD17_Mueggler.pdf)*,  
+Ph.D. Thesis, University of Zurich, Zurich, Switzerland, 2017.
+- See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
 <br><br>
