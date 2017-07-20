@@ -61,14 +61,24 @@ Proc. IEEE (2014), 102(10):1470-1484.
 <br><br>
 <a name="neuromorphic-systems"></a>
 # Neuromorphic Systems
-- Delbruck, T., [Frame-free dynamic digital vision]()*, Int. Symp. Secure-Life Electronics, Advanced Electronics for Quality Life and Society, University of Tokyo, Tokyo, Japan, Mar. 6-7, 2008, pp. 21-26. Introduces the software architecture of jAER and shows examples of several event-based processing algorithms.
-- Liu, S.-C. and Delbruck, T., *[Neuromorphic sensory systems](https://doi.org/10.1016/j.conb.2010.03.007)*, Current Opinion in Neurobiology, 20:3(288-295), 2010.
-- Delbruck, T., *[Fun with asynchronous vision sensors and processing](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=delbruck_funwithasynsensors_2012.pdf)*. Computer Vision - ECCV 2012. Workshops and Demonstrations. Springer Berlin/Heidelberg, 2012. A position paper and summary of recent accomplishments of the INI Sensors' group.
-- Liu, S.-C., Delbruck, T., Indiveri, G., Whatley, A., Douglas, R., *[Event-Based Neuromorphic Systems](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118927621.html)*, Wiley. ISBN: 978-1-118-92762-5, 2014.
+- Delbruck, T.,  
+[Frame-free dynamic digital vision](http://www.zora.uzh.ch/17620/)*,  
+Int. Symp. Secure-Life Electronics, Advanced Electronics for Quality Life and Society, University of Tokyo, Tokyo, Japan, Mar. 6-7, 2008, pp. 21-26. Introduces the software architecture of jAER and shows examples of several event-based processing algorithms.
+- Liu, S.-C. and Delbruck, T.,  
+*[Neuromorphic sensory systems](https://doi.org/10.1016/j.conb.2010.03.007)*,  
+Current Opinion in Neurobiology, 20:3(288-295), 2010.
+- Delbruck, T.,  
+*[Fun with asynchronous vision sensors and processing](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=delbruck_funwithasynsensors_2012.pdf)*.  
+Computer Vision - ECCV 2012. Workshops and Demonstrations. Springer Berlin/Heidelberg, 2012. A position paper and summary of recent accomplishments of the INI Sensors' group.
+- Liu, S.-C., Delbruck, T., Indiveri, G., Whatley, A., Douglas, R.,  
+*[Event-Based Neuromorphic Systems](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118927621.html)*,  
+Wiley. ISBN: 978-1-118-92762-5, 2014.
 - Chicca, E., Stefanini, F., Bartolozzi, C., Indiveri, G.,  
 *[Neuromorphic Electronic Circuits for Building Autonomous Cognitive Systems](http://dx.doi.org/10.1109/JPROC.2014.2313954)*,  
 Proc. IEEE, 102(9):1367-1388, 2014.
-- Delbruck, T., *[Neuromorophic Vision Sensing and Processing (Invited paper)](https://doi.org/10.1109/ESSDERC.2016.7599576)*, 46th Eur. Solid-State Device Research Conference (ESSDERC), Lausanne, 2016, pp. 7-14.
+- Delbruck, T.,  
+*[Neuromorophic Vision Sensing and Processing (Invited paper)](https://doi.org/10.1109/ESSDERC.2016.7599576)*,  
+46th Eur. Solid-State Device Research Conference (ESSDERC), Lausanne, 2016, pp. 7-14.
 
 
 <br><br>
