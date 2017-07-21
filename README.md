@@ -152,7 +152,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), Singapore, 2017. [YouTube](https
 - Mueggler, E., Bartolozzi, C., Scaramuzza, D.,  
 *Fast Event-based Corner Detection*,  
 British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC17_Mueggler.pdf), [YouTube](https://youtu.be/tgvM4ELesgI)
-
+- Glover, A., and Bartolozzi, C.,  
+*Robust Visual Tracking with a Freely-moving Event Camera*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Vancouver, Canada, 2017. [YouTube](https://youtu.be/xS-7xYRYSLc), [Code](https://github.com/robotology/event-driven)
 
 <a name="depth-estimation"></a>
 ## Depth Estimation (3D Reconstruction)
@@ -396,6 +398,9 @@ British Machine Vision Conf. (BMVC), London, 2017.
 - Delbruck, T., Villanueva, V., Longinotti, L.,  
 *[Integration of dynamic vision sensor with inertial measurement unit for electronically stabilized event-based vision](http://doi.org/10.1109/ISCAS.2014.6865714)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS) 2014, 2636-2639. [YouTube](https://youtu.be/Tzy4WF6Qp-Y)
+- Vasco, V., Glover, A., Mueggler, E., Scaramuzza, D., Natale, L., and Bartolozzi, C.  
+*[Independent Motion Detection with Event-driven Cameras](https://arxiv.org/abs/1706.08713v2)*,  
+IEEE/RAS Int. Conf. on Advanced Robotics (ICAR) 2017, Hong Kong, China.
 
 <a name="video-processing"></a>
 ## Video Processing
@@ -449,7 +454,9 @@ Eur. Conf. Mobile Robots (ECMR), Lincoln, 2015. [PDF](http://rpg.ifi.uzh.ch/docs
 *[Human vs. computer slot car racing using an event and frame-based DAVIS vision sensor](https://doi.org/10.1109/ISCAS.2015.7169170)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 2409-2412. [YouTube 1](https://youtu.be/CnGPGiZuFRI), [YouTube 2](https://youtu.be/ALneVn-Ls2Q)
 - [Moeys et. al. EBCCSP 2016](#Moeys16ebccsp).  *VISUALISE Predator/Prey Dataset*.
-
+- Vasco, V., Glover, A., Tirupachuri, Y., Solari, F., Chessa M. and Bartolozzi C.,  
+*[Vergence control with a neuromorphic iCub](https://doi.org/10.1109/HUMANOIDS.2016.7803355)*,  
+IEEE Int. Conf. Humanoid Robotics (Humanoids), Cancun, Mexico, 2016, pp. 732-738.
 
 <br><br>
 <a name="datasets"></a>
@@ -496,6 +503,7 @@ Front. Neurosci. 10:405. [Dataset](http://dgyblog.com/projects-term/dvs-dataset.
 - [caer (AER event-based framework, written in C, targeting embedded systems)](https://github.com/inilabs/caer)
 - [libcaer (Minimal C library to access, configure and get/send AER data from sensors or to/from neuromorphic processors)](https://github.com/inilabs/libcaer)
 - [ROS (Robotic Operating System)](https://github.com/uzh-rpg/rpg_dvs_ros)
+- [YARP (Yet Another Robot Platform)](https://github.com/robotology/event-driven)
 
 
 <a name="calibration"></a>
@@ -514,6 +522,7 @@ Front. Neurosci. 10:405. [Dataset](http://dgyblog.com/projects-term/dvs-dataset.
 <a name="software-algorithms"></a>
 ## Algorithms
 - [Several event-processing filters](https://sourceforge.net/p/jaer/wiki/FilterIndex_1/) in the [jAER (java Address-Event Representation) project](http://jaerproject.org/)
+- [A collection of tracking and detection algorithms](https://github.com/robotology/event-driven) using the YARP framework
 - **Optical Flow**
     - [LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java), inspired by the paper [Benosman et. al. TNNLS 2014](#Benosman14tnnls).
     - [Several algorithms compared](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/) in the paper by [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
