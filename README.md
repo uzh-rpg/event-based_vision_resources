@@ -152,7 +152,7 @@ IEEE Int. Conf. Robotics and Automation (ICRA), Singapore, 2017. [YouTube](https
 - Mueggler, E., Bartolozzi, C., Scaramuzza, D.,  
 *Fast Event-based Corner Detection*,  
 British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC17_Mueggler.pdf), [YouTube](https://youtu.be/tgvM4ELesgI)
-- Glover, A., and Bartolozzi, C.,  
+- Glover, A. and Bartolozzi, C.,  
 *Robust Visual Tracking with a Freely-moving Event Camera*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Vancouver, Canada, 2017. [YouTube](https://youtu.be/xS-7xYRYSLc), [Code](https://github.com/robotology/event-driven)
 
@@ -346,7 +346,7 @@ IEEE Int. Conf. Computational Photography (ICCP), Stanford, CA, USA, 2017, pp. 1
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
 - Vasco, V., Glover, A., Mueggler, E., Scaramuzza, D., Natale, L., Bartolozzi, C.  
 *Independent Motion Detection with Event-driven Cameras*,  
-Int. Conf. Advanced Robotics (ICAR), Hong Kong, 2017. [PDF](https://arxiv.org/pdf/1706.08713.pdf)
+Int. Conf. Advanced Robotics (ICAR), Hong Kong, 2017. [PDF](https://arxiv.org/abs/1706.08713v2)
 
 
 <a name="VOSLAM"></a>
@@ -398,9 +398,6 @@ British Machine Vision Conf. (BMVC), London, 2017.
 - Delbruck, T., Villanueva, V., Longinotti, L.,  
 *[Integration of dynamic vision sensor with inertial measurement unit for electronically stabilized event-based vision](http://doi.org/10.1109/ISCAS.2014.6865714)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS) 2014, 2636-2639. [YouTube](https://youtu.be/Tzy4WF6Qp-Y)
-- Vasco, V., Glover, A., Mueggler, E., Scaramuzza, D., Natale, L., and Bartolozzi, C.  
-*[Independent Motion Detection with Event-driven Cameras](https://arxiv.org/abs/1706.08713v2)*,  
-IEEE/RAS Int. Conf. on Advanced Robotics (ICAR) 2017, Hong Kong, China.
 
 <a name="video-processing"></a>
 ## Video Processing
@@ -454,7 +451,7 @@ Eur. Conf. Mobile Robots (ECMR), Lincoln, 2015. [PDF](http://rpg.ifi.uzh.ch/docs
 *[Human vs. computer slot car racing using an event and frame-based DAVIS vision sensor](https://doi.org/10.1109/ISCAS.2015.7169170)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 2409-2412. [YouTube 1](https://youtu.be/CnGPGiZuFRI), [YouTube 2](https://youtu.be/ALneVn-Ls2Q)
 - [Moeys et. al. EBCCSP 2016](#Moeys16ebccsp).  *VISUALISE Predator/Prey Dataset*.
-- Vasco, V., Glover, A., Tirupachuri, Y., Solari, F., Chessa M. and Bartolozzi C.,  
+- Vasco, V., Glover, A., Tirupachuri, Y., Solari, F., Chessa M., Bartolozzi C.,  
 *[Vergence control with a neuromorphic iCub](https://doi.org/10.1109/HUMANOIDS.2016.7803355)*,  
 IEEE Int. Conf. Humanoid Robotics (Humanoids), Cancun, Mexico, 2016, pp. 732-738.
 
