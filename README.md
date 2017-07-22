@@ -346,7 +346,7 @@ IEEE Int. Conf. Computational Photography (ICCP), Stanford, CA, USA, 2017, pp. 1
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
 - Vasco, V., Glover, A., Mueggler, E., Scaramuzza, D., Natale, L., Bartolozzi, C.  
 *Independent Motion Detection with Event-driven Cameras*,  
-Int. Conf. Advanced Robotics (ICAR), Hong Kong, 2017. [PDF](https://arxiv.org/abs/1706.08713v2)
+Int. Conf. Advanced Robotics (ICAR), Hong Kong, 2017. [PDF](https://arxiv.org/pdf/1706.08713v2.pdf)
 
 
 <a name="VOSLAM"></a>
