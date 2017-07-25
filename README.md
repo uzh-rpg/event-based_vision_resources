@@ -387,8 +387,8 @@ IEEE Robotics and Automation Letters (RA-L), 2:2(632-639), 2017.
 - [Mueggler et. al. IJRR 2017](#Mueggler17ijrr).  
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
 - Zhu, A., Atanasov, N., Daniilidis, K.,  
-Event-based Visual Inertial Odometry,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017.
+*Event-based Visual Inertial Odometry*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017. [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Event-Based_Visual_Inertial_CVPR_2017_paper.pdf), [Supplementary material](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Zhu_Event-Based_Visual_Inertial_2017_CVPR_supplemental.zip)
 - Rebecq, H., Horstschaefer, T., Scaramuzza, D.,  
 *Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization*,  
 British Machine Vision Conf. (BMVC), London, 2017.
@@ -425,7 +425,9 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2017, 39(7):1346-1359.
 - Lungu, I.-A., Corradi, F., Delbruck, T.,  
 *Live Demonstration: Convolutional Neural Network Driven by Dynamic Vision Sensor Playing RoShamBo*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017. [YouTube](https://youtu.be/q5ua91n13TA), [Slides 36-39](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Delbruck.pdf)
-
+- Amir, A., Taba, B., Berg, D., Melano, T., McKinstry, J., Di Nolfo, C., Nayak, T., Andreopoulos, A., Garreau, G., Mendoza, M., Kusnitz, J., Debole, M., Esser, S., Delbruck, T., Flickner, M., Modha, D.,  
+*A Low Power, Fully Event-Based Gesture Recognition System*,  
+ IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017. [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Amir_A_Low_Power_CVPR_2017_paper.pdf)
 
 <a name="control"></a>
 ## Control
