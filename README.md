@@ -1,7 +1,8 @@
 # Event-based Vision Resources
 
 ## Table of Contents:
-- [Devices](#devices)
+- [Devices and Manufacturers](#devices)
+- [Companies working on Event-based Vision](#companies_sftwr)
 - [Neuromorphic Systems](#neuromorphic-systems)
 
 - [Algorithms](#algorithms)
@@ -59,6 +60,16 @@ Proc. IEEE (2014), 102(10):1470-1484.
 - [iniVation](http://inivation.com) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*. 
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Jakobsen.pdf) by [S. E. Jakobsen](http://inivation.com/team/), CEO and co-founder of iniVation.
 
+<a name="companies_sftwr"></a>
+# Companies working on Event-based Vision
+- [iniLabs](https://inilabs.com) invents, produces and sells neuromorphic technologies for *research*.
+- [Samsung](www.samsung.com) develops Gen2 and Gen3 dynamic vision sensors and event-based vision solutions.
+  - [IBM Research](http://www.research.ibm.com/articles/brain-chip.shtml) ([Synapse project](http://www.research.ibm.com/cognitive-computing/brainpower/)) and Samsung partenered to combine the [TrueNorth chip (brain) with a DVS (eye)](https://www.cnet.com/news/samsung-turns-ibms-brain-like-chip-into-a-digital-eye/).
+- [Chronocam](http://www.chronocam.com/) develops bio-inspired and self-adapting approach to the need for visual sensing and processing in autonomous vehicles, connected devices, security and surveillance systems.
+- [Insightness AG](http://www.insightness.com/) builds visual systems to give mobile devices spatial awareness. [The Silicon Eye](http://www.insightness.com/?p=361) Technology.
+- [SLAMcore](https://www.slamcore.com/) develops Localisation and mapping solutions for AR/VR, robotics & autonomous vehicles.
+- [iniVation](http://inivation.com) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*.
+- [Hillhouse Technology](http://www.hillhouse-tech.com/) offer integrated sensory platforms that incorporate various components and technologies, including a processing chipset and an image sensor (a dynamic vision sensor called CeleX).
 
 <br><br>
 <a name="neuromorphic-systems"></a>
@@ -160,6 +171,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Vancouver, Canada, 20
 - <a name="Rebecq16bmvc"></a>Rebecq, H., Gallego, G., Scaramuzza, D.,  
 *[EMVS: Event-based Multi-View Stereo](http://www.bmva.org/bmvc/2016/papers/paper063/)*,  
 British Machine Vision Conf. (BMVC), York, 2016. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC16_Rebecq.pdf), [YouTube](https://www.youtube.com/watch?v=EUX3Tfx0KKE), [3D Reconstruction Experiments from a Train using an Event Camera](https://www.youtube.com/watch?v=fA4MiSzYHWA)
+- [Kim et. al. ECCV 2016](#Kim16eccv),  
+*Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera*.
+
 
 ### Monocular Depth Estimation using Structured Light
 - <a name="Brandli14fnins"></a>Brandli, C., Mantel, T.A., Hutter, M., Hoepflinger, M.A., Berner, R., Siegwart, R., Delbruck, T.,  
@@ -421,7 +435,8 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2017, 39(7):1346-1359.
 IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017. [YouTube](https://youtu.be/q5ua91n13TA), [Slides 36-39](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Delbruck.pdf)
 - <a name="Amir17cvpr"></a>Amir, A., Taba, B., Berg, D., Melano, T., McKinstry, J., Di Nolfo, C., Nayak, T., Andreopoulos, A., Garreau, G., Mendoza, M., Kusnitz, J., Debole, M., Esser, S., Delbruck, T., Flickner, M., Modha, D.,  
 *A Low Power, Fully Event-Based Gesture Recognition System*,  
- IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017. [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Amir_A_Low_Power_CVPR_2017_paper.pdf)
+ IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017. [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Amir_A_Low_Power_CVPR_2017_paper.pdf).  
+  - [YouTube: IBM Research demonstrates event-based gesture recognition using a brain-inspired chip](https://youtu.be/g08IW-qRomM)
 
 <a name="control"></a>
 ## Control
@@ -483,7 +498,6 @@ Front. Neurosci. (2015), 9:437. [YouTube](https://youtu.be/2RBKNhxHvdw)
 - <a name="Hu16fnins"></a>Hu, Y., Liu, H., Pfeiffer, M., Delbruck, T.,  
 *[DVS Benchmark Datasets for Object Tracking, Action Recognition, and Object Recognition](https://doi.org/10.3389/fnins.2016.00405),*  
 Front. Neurosci. 10:405. [Dataset](http://dgyblog.com/projects-term/dvs-dataset.html)
-
 
 
 <br><br>
