@@ -153,6 +153,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Daejeon, South Korea,
 - <a name="Vasco16iros"></a>Vasco, V., Glover, A., Bartolozzi, C.,  
 *[Fast event-based Harris corner detection exploiting the advantages of event-driven cameras](https://doi.org/10.1109/IROS.2016.7759610)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Daejeon, South Korea, 2016, pp. 4144-4149. [YouTube](https://youtu.be/YkI7AfBDBKE), [Code](https://github.com/robotology/event-driven)
+- <a name="Clady17fnins"></a> Clady, X., Maro, J.-M., Barré, S., Benosman, R. B.,  
+*[A Motion-Based Feature for Event-Based Pattern Recognition](https://doi.org/10.3389/fnins.2016.00594)*.  
+Front. Neurosci. (2017), 10:594.
 - <a name="Zhu17icra"></a>Zhu, A., Atanasov, N., Daniilidis, K.,  
 *[Event-based Feature Tracking with Probabilistic Data Associations](https://fling.seas.upenn.edu/~alexzhu/dynamic/event-based-feature-tracking-with-probabilistic-data-association/)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), Singapore, 2017. [YouTube](https://youtu.be/m93XCqAS6Fc)
@@ -430,6 +433,8 @@ IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Pol
 - <a name="Lagorce17tpami"></a>Lagorce, X., Orchard, G., Gallupi, F., Shi, B., Benosman, R.,  
 *[HOTS: A Hierarchy Of event-based Time-Surfaces for pattern recognition](https://doi.org/10.1109/TPAMI.2016.2574707)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2017, 39(7):1346-1359.
+- [Clady et. al. FNINS](#Clady17fnins),  
+*A Motion-Based Feature for Event-Based Pattern Recognition*.
 - <a name="Lungu17iscas"></a>Lungu, I.-A., Corradi, F., Delbruck, T.,  
 *Live Demonstration: Convolutional Neural Network Driven by Dynamic Vision Sensor Playing RoShamBo*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017. [YouTube](https://youtu.be/q5ua91n13TA), [Slides 36-39](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Delbruck.pdf)
