@@ -165,6 +165,9 @@ British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/d
 - <a name="Glover17iros"></a>Glover, A. and Bartolozzi, C.,  
 *Robust Visual Tracking with a Freely-moving Event Camera*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Vancouver, Canada, 2017. [YouTube](https://youtu.be/xS-7xYRYSLc), [Code](https://github.com/robotology/event-driven)
+- Barrios-Avilés, J., Iakymchuk, T., Samaniego, J., Rosado-Muñoz, A.,  
+*[An Event-based Fast Movement Detection Algorithm for a Positioning Robot Using POWERLINK Communication](https://arxiv.org/abs/1707.07188)*,  
+arXiv 1707.07188. 
 
 <a name="depth-estimation"></a>
 ## Depth Estimation (3D Reconstruction)
