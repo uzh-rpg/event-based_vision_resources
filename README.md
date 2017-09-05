@@ -357,9 +357,11 @@ IEEE Int. Conf. Computational Photography (ICCP), Stanford, CA, USA, 2017, pp. 1
 - [Mueggler et. al. IJRR 2017](#Mueggler17ijrr).  
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
 - <a name="Vasco17icar"></a>Vasco, V., Glover, A., Mueggler, E., Scaramuzza, D., Natale, L., Bartolozzi, C.  
-*Independent Motion Detection with Event-driven Cameras*,  
-Int. Conf. Advanced Robotics (ICAR), Hong Kong, 2017. [PDF](https://arxiv.org/pdf/1706.08713v2.pdf)
-
+*[Independent Motion Detection with Event-driven Cameras](http://doi.org/10.1109/ICAR.2017.8023661)*,  
+Int. Conf. Advanced Robotics (ICAR), Hong Kong, China, 2017, pp. 530-536. [PDF](https://arxiv.org/pdf/1706.08713v2.pdf)
+- <a name="Nguyen17arxiv"></a> Nguyen, A., Do, T.-T., Caldwell, D. G., Tsagarakis, N. G.,  
+*[Real-Time Pose Estimation for Event Cameras with Stacked Spatial LSTM Networks](https://arxiv.org/abs/1708.09011)*,  
+arXiv 1708.09011.
 
 <a name="VOSLAM"></a>
 ## Visual Odometry and SLAM (Simultaneous Localization And Mapping)
@@ -402,7 +404,7 @@ IEEE Robotics and Automation Letters (RA-L), 2:2(632-639), 2017.
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017. [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Event-Based_Visual_Inertial_CVPR_2017_paper.pdf), [Supplementary material](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Zhu_Event-Based_Visual_Inertial_2017_CVPR_supplemental.zip)
 - <a name="Rebecq17bmvc"></a>Rebecq, H., Horstschaefer, T., Scaramuzza, D.,  
 *Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization*,  
-British Machine Vision Conf. (BMVC), London, 2017.
+British Machine Vision Conf. (BMVC), London, 2017. [PDF](https://www.dropbox.com/s/ijvhc2hsdh85kcb/0534.pdf?dl=1), [Supplementary Material](https://www.dropbox.com/s/m5lef3xxgl57roy/Active%20Papers%20Paper%20534%20%20Supplementary%20File.zip?dl=1)
 
 <a name="visual-stabilization"></a>
 ## Visual Stabilization
