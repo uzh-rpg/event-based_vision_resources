@@ -411,7 +411,7 @@ IEEE Robotics and Automation Letters (RA-L), 2:2(632-639), 2017.
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017. [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Event-Based_Visual_Inertial_CVPR_2017_paper.pdf), [Supplementary material](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Zhu_Event-Based_Visual_Inertial_2017_CVPR_supplemental.zip)
 - <a name="Rebecq17bmvc"></a>Rebecq, H., Horstschaefer, T., Scaramuzza, D.,  
 *Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization*,  
-British Machine Vision Conf. (BMVC), London, 2017. [PDF](https://www.dropbox.com/s/ijvhc2hsdh85kcb/0534.pdf?dl=1), [Supplementary Material](https://www.dropbox.com/s/m5lef3xxgl57roy/Active%20Papers%20Paper%20534%20%20Supplementary%20File.zip?dl=1)
+British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq.pdf), [Appendix](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq_appendix.pdf), [YouTube](https://youtu.be/F3OFzsaPtvI)
 
 <a name="visual-stabilization"></a>
 ## Visual Stabilization
