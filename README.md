@@ -252,7 +252,9 @@ Neural Processing Letters, 2016, 43(2):311-326. [PDF](https://mediatum.ub.tum.de
 - <a name="Osswald17srep"></a>Osswald, M., Ieng, S.-H., Benosman, R., Indiveri, G.,  
 *[A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems](http://doi.org/10.1038/srep40703)*,  
 Scientific Reports 7, Article number: 40703 (2017).
-
+- <a name="Piatkowska17cvprw"></a>Piatkowska, E., Kogler, J., Belbachir, N., Gelautz, M.,  
+*[Improved Cooperative Stereo Matching for Dynamic Vision Sensors with Ground Truth Evaluation](http://doi.org/10.1109/CVPRW.2017.51)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), Honolulu, HI, USA, 2017, pp. 370-377. [PDF](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Piatkowska_Improved_Cooperative_Stereo_CVPR_2017_paper.pdf).
 
 
 <a name="optical-flow-estimation"></a>
