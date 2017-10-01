@@ -412,6 +412,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017. [PDF](http://ope
 - <a name="Rebecq17bmvc"></a>Rebecq, H., Horstschaefer, T., Scaramuzza, D.,  
 *Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization*,  
 British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq.pdf), [Appendix](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq_appendix.pdf), [YouTube](https://youtu.be/F3OFzsaPtvI)
+- <a name="Rosinol17arxiv"></a>Rosinol Vidal, A., Rebecq, H., Horstschaefer, T., Scaramuzza, D.,  
+*Hybrid, Frame and Event based Visual Inertial Odometry for Robust, Autonomous Navigation of Quadrotors*,  
+Under Review, 2017. [PDF](https://arxiv.org/pdf/1709.06310), [YouTube](https://youtu.be/jIvJuWdmemE)
 
 <a name="visual-stabilization"></a>
 ## Visual Stabilization
