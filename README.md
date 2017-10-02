@@ -92,6 +92,9 @@ Proc. IEEE, 102(9):1367-1388, 2014.
 - <a name="Delbruck16essderc"></a>Delbruck, T.,  
 *[Neuromorophic Vision Sensing and Processing (Invited paper)](https://doi.org/10.1109/ESSDERC.2016.7599576)*,  
 46th Eur. Solid-State Device Research Conference (ESSDERC), Lausanne, 2016, pp. 7-14.
+- <a name="Vanarse16fnins"></a>Vanarse, A., Osseiran, A., Rassau, A,  
+*[A Review of Current Neuromorphic Approaches for Vision, Auditory, and Olfactory Sensors](http://dx.doi.org/10.3389/fnins.2016.00115)*,
+Front. Neurosci. (2016), 10:115.
 
 
 <br><br>
@@ -258,6 +261,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), Honolulu, 
 - <a name="Dikov17lmlncs"></a>Dikov, G., Firouzi, M., Röhrbein, F., Conradt, J., Richter, C.,  
 *[Spiking Cooperative Stereo-Matching at 2 ms Latency with Neuromorphic Hardware](https://doi.org/10.1007/978-3-319-63537-8_11)*,  
 Conf. Biomimetic and Biohybrid Systems. Living Machines 2017: Biomimetic and Biohybrid Systems, pp. 119-137. Lecture Notes in Computer Science, vol 10384. Springer, Cham.  [PDF](https://www.researchgate.net/publication/318449954_Spiking_Cooperative_Stereo-Matching_at_2_ms_Latency_with_Neuromorphic_Hardware),  [Videos](https://figshare.com/s/0d9fb146149b832ed8ec)
+- <a name="Eibensteiner17radio"></a> Eibensteiner, F., Brachtendorf, H. G., Scharinger, J.,  
+*[Event-driven stereo vision algorithm based on silicon retina sensors](http://doi.org/10.1109/RADIOELEK.2017.7937602)*,  
+27th Int. Conf. Radioelektronika, Brno, 2017, pp. 1-6.
 
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
@@ -271,9 +277,12 @@ Neural Networks (2012), 27:32-37.
 *[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537),*  
 IEEE Trans. Neural Netw. Learn. Syst. (2014), 25(2):407-417.
     - [Code (jAER): LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java)
-- <a name="Orchard13biocas"></a>Orchard, G., Benosman, R., Etienne-Cummings, R., and Thakor, N,  
+- <a name="Orchard13biocas"></a>Orchard, G., Benosman, R., Etienne-Cummings, R., Thakor, N,  
 *[A Spiking Neural Network Architecture for Visual Motion Estimation](https://doi.org/10.1109/BioCAS.2013.6679698)*,  
 IEEE Biomedical Circuits and Systems Conf. (BioCAS), Rotterdam, 2013, pp. 298-301.
+- <a name="Clady14fnins"></a> Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
+*[Asynchronous visual event-based time-to-contact](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
+Front. Neurosci. (2014), 8:9.
 - <a name="Tschechne14annpr"></a>Tschechne, S., Sailer R., Neumann, H.,  
 *[Bio-Inspired Optic Flow from Event-Based Neuromorphic Sensor Input](https://doi.org/10.1007/978-3-319-11656-3_16)*,  
 IAPR Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR) 2014, pp. 171-182.
