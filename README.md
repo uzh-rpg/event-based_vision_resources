@@ -74,15 +74,19 @@ Proc. IEEE (2014), 102(10):1470-1484.
 <br><br>
 <a name="neuromorphic-systems"></a>
 # Neuromorphic Systems
+- Serrano-Gotarredona, T. , Andreou, A.G. , and Linares-Barranco, B., *[AER Image Filtering Architecture for Vision Processing Systems](https://doi.org/10.1109/81.788808)*, IEEE Trans. Circuits and Systems (Part I): Fundamental Theory and Applications, 46(9):1064-1071, 1999.
+- Serrano-Gotarredona, R., Oster, M., Lichtsteiner, P., Linares-Barranco, A., Paz-Vicente, R., Gomez-Rodriguez, F., Riis, H.K., Delbruck, T., Liu, S.-H., Zahnd, S., Whatley, A.M., Douglas, R., Hafliger, P., Jimenez-Moreno, G., Civit, A.,  Serrano-Gotarredona, T., Acosta-Jimenez, A., and Linares-Barranco, B., *[AER building blocks for multi-layer multi-chip neuromorphic vision systems](http://papers.nips.cc/paper/2889-aer-building-blocks-for-multi-layer-multi-chip-neuromorphic-vision-systems.pdf)*, Advances in neural information processing systems, 1217-1224, 2006.
 - <a name="Delbruck08issle"></a>Delbruck, T.,  
-[Frame-free dynamic digital vision](http://www.zora.uzh.ch/17620/)*,  
+*[Frame-free dynamic digital vision](http://www.zora.uzh.ch/17620/)*, 
 Int. Symp. Secure-Life Electronics, Advanced Electronics for Quality Life and Society, University of Tokyo, Tokyo, Japan, Mar. 6-7, 2008, pp. 21-26. Introduces the software architecture of jAER and shows examples of several event-based processing algorithms.
+- Serrano-Gotarredona, R.,  Oster, M., Lichtsteiner, P.,  Linares-Barranco, A.,  Paz-Vicente, R.,  Gómez-Rodríguez, F.,  Camuñas-Mesa, L., Berner, R.,  Rivas, M.,  Delbrück, T.,  Liu, S.-C.,  Douglas, R.,  Häfliger, P.,  Jiménez-Moreno, G.,   Civit, A., Serrano-Gotarredona, T., Acosta-Jiménez, A., Linares-Barranco, B. *[CAVIAR: A 45k-Neuron, 5M-Synapse, 12G-connects/sec AER Hardware Sensory-Processing-Learning-Actuating System for High Speed Visual Object Recognition and Tracking,](https://doi.org/10.1109/TNN.2009.2023653)*, IEEE Trans. on Neural Networks, 20(9): 1417-1438, 2009.
 - <a name="Liu10conb"></a>Liu, S.-C. and Delbruck, T.,  
 *[Neuromorphic sensory systems](https://doi.org/10.1016/j.conb.2010.03.007)*,  
 Current Opinion in Neurobiology, 20:3(288-295), 2010.
 - <a name="Delbruck12eccvw"></a>Delbruck, T.,  
 *[Fun with asynchronous vision sensors and processing](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=delbruck_funwithasynsensors_2012.pdf)*.  
 Computer Vision - ECCV 2012. Workshops and Demonstrations. Springer Berlin/Heidelberg, 2012. A position paper and summary of recent accomplishments of the INI Sensors' group.
+- Zamarreño-Ramos, C., Linares-Barranco, A., Serrano-Gotarredona, T., and Linares-Barranco, B., *[Multi-Casting Mesh AER: A Scalable Assembly Approach for Reconfigurable Neuromorphic Structured AER Systems. Application to ConvNets](https://doi.org/10.1109/TBCAS.2012.2195725)* IEEE Trans. on Biomedical Circuits and Systems, 7(1): 82-102, 2013.
 - <a name="Liu14book"></a>Liu, S.-C., Delbruck, T., Indiveri, G., Whatley, A., Douglas, R.,  
 *[Event-Based Neuromorphic Systems](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118927621.html)*,  
 Wiley. ISBN: 978-1-118-92762-5, 2014.
