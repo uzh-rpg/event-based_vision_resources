@@ -59,6 +59,12 @@ Proc. IEEE (2014), 102(10):1470-1484.
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Insightness.pdf) and [Video](https://youtu.be/6YyOW6DDGKw) by [Christian Brandli](http://www.insightness.com/#team), CEO and co-founder of Insightness.
 - [iniVation](http://inivation.com) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*. 
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Jakobsen.pdf) by [S. E. Jakobsen](http://inivation.com/team/), CEO and co-founder of iniVation.
+- **Sensitive DVS (sDVS)**
+    - Leñero-Bardallo, J. A., Serrano-Gotarredona, T., Linares-Barranco, B., *[A 3.6us Asynchronous Frame-Free Event-Driven Dynamic-Vision-Sensor](https://doi.org/10.1109/JSSC.2011.2118490)*,  IEEE J. of Solid-State Circuits, 46(6):1443-1455, 2011.
+    - Serrano-Gotarredona, T. and Linares-Barranco, B., *[A 128x128 1.5% Contrast Sensitivity 0.9% FPN 3us Latency 4mW Asynchronous Frame-Free Dynamic Vision Sensor Using Transimpedance Amplifiers](https://doi.org/10.1109/JSSC.2012.2230553)*,  IEEE J. Solid-State Circuits, 48(3):827-838, 2013.
+
+J. A. Leñero-Bardallo, T. Serrano-Gotarredona, B. Linares-Barranco, "A 3.6us Asynchronous Frame-Free Event-Driven Dynamic-Vision-Sensor," IEEE J. of Solid-State Circuits, vol. 46, No. 6, pp. 1443-1455, June 2011.    
+    
 
 <a name="companies_sftwr"></a>
 # Companies working on Event-based Vision
@@ -74,6 +80,12 @@ Proc. IEEE (2014), 102(10):1470-1484.
 <br><br>
 <a name="neuromorphic-systems"></a>
 # Neuromorphic Systems
+- <a name="SerranoGotarredona99tcas"></a> Serrano-Gotarredona, T. , Andreou, A.G. , Linares-Barranco, B.,  
+*[AER Image Filtering Architecture for Vision Processing Systems](https://doi.org/10.1109/81.788808)*,  
+IEEE Trans. Circuits and Systems (Part I): Fundamental Theory and Applications, 46(9):1064-1071, 1999.
+- <a name="SerranoGotarredona06anips"></a> Serrano-Gotarredona, R., Oster, M., Lichtsteiner, P., Linares-Barranco, A., Paz-Vicente, R., Gomez-Rodriguez, F., Riis, H.K., Delbruck, T., Liu, S.-H., Zahnd, S., Whatley, A.M., Douglas, R., Hafliger, P., Jimenez-Moreno, G., Civit, A.,  Serrano-Gotarredona, T., Acosta-Jimenez, A., Linares-Barranco, B.,  
+*[AER building blocks for multi-layer multi-chip neuromorphic vision systems](http://papers.nips.cc/paper/2889-aer-building-blocks-for-multi-layer-multi-chip-neuromorphic-vision-systems.pdf)*,  
+Advances in neural information processing systems, 1217-1224, 2006.
 - <a name="Delbruck08issle"></a>Delbruck, T.,  
 [Frame-free dynamic digital vision](http://www.zora.uzh.ch/17620/)*,  
 Int. Symp. Secure-Life Electronics, Advanced Electronics for Quality Life and Society, University of Tokyo, Tokyo, Japan, Mar. 6-7, 2008, pp. 21-26. Introduces the software architecture of jAER and shows examples of several event-based processing algorithms.
@@ -83,6 +95,9 @@ Current Opinion in Neurobiology, 20:3(288-295), 2010.
 - <a name="Delbruck12eccvw"></a>Delbruck, T.,  
 *[Fun with asynchronous vision sensors and processing](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=delbruck_funwithasynsensors_2012.pdf)*.  
 Computer Vision - ECCV 2012. Workshops and Demonstrations. Springer Berlin/Heidelberg, 2012. A position paper and summary of recent accomplishments of the INI Sensors' group.
+- <a name="ZamarrenoRamos13tbcas"></a> Zamarreño-Ramos, C., Linares-Barranco, A., Serrano-Gotarredona, T., Linares-Barranco, B.,  
+*[Multi-Casting Mesh AER: A Scalable Assembly Approach for Reconfigurable Neuromorphic Structured AER Systems. Application to ConvNets](https://doi.org/10.1109/TBCAS.2012.2195725)*,  
+IEEE Trans. on Biomedical Circuits and Systems, 7(1):82-102, 2013.
 - <a name="Liu14book"></a>Liu, S.-C., Delbruck, T., Indiveri, G., Whatley, A., Douglas, R.,  
 *[Event-Based Neuromorphic Systems](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118927621.html)*,  
 Wiley. ISBN: 978-1-118-92762-5, 2014.
@@ -273,6 +288,9 @@ Conf. Biomimetic and Biohybrid Systems. Living Machines 2017: Biomimetic and Bio
 - <a name="Zou17bmvc"></a>Zou, D., Shi, F., Liu, W., Li, J., Wang, Q., Park P.-K.J., Hyunsurk, E. R.,  
 *Robust Dense Depth Maps Generations from Sparse DVS Stereos*,  
 British Machine Vision Conf. (BMVC), London, 2017. [PDF](https://www.dropbox.com/s/ee6dn8zy4odpfwl/0096.pdf?dl=1), [Supp. Material](https://www.dropbox.com/s/eztqo109iue6ned/Active%20Papers%20Paper%2096%20%20Supplementary%20File.zip?dl=1).
+- Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S., Benosman, R., Linares-Barranco, B.,  
+*Event-driven Stereo Visual Tracking Algorithm to Solve Object Occlusion*,  
+IEEE Trans. Neural Networks and Learning Systems, (in Press), 2017.
 
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
@@ -449,14 +467,26 @@ IEEE Int. Symp. on Circuits and Systems (ISCAS), Melbourne VIC, 2014, pp. 686-68
 
 <a name="pattern-recognition"></a>
 ## Pattern Recognition
+- Serrano-Gotarredona, R., Oster, M., Lichtsteiner, P., Linares-Barranco, A., Paz-Vicente, R., Gómez-Rodríguez, F., Camuñas-Mesa, L., Berner, R., Rivas, M., Delbrück, T., Liu, S. C., Douglas, R., Häfliger, P., Jiménez-Moreno, G., Civit, A., Serrano-Gotarredona, T., Acosta-Jiménez, A., Linares-Barranco, B.,  
+*[CAVIAR: A 45k-Neuron, 5M-Synapse, 12G-connects/sec AER Hardware Sensory-Processing-Learning-Actuating System for High Speed Visual Object Recognition and Tracking](https://doi.org/10.1109/TNN.2009.2023653)*,  
+IEEE Trans. on Neural Networks, 20(9):1417-1438, 2009. [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.192.1326&rep=rep1&type=pdf)
+- Camuñas-Mesa, L., Zamarreño-Ramos, C., Linares-Barranco, A., Acosta-Jiménez, A., Serrano-Gotarredona, T., Linares-Barranco, B.  
+*[An Event-Driven Multi-Kernel Convolution Processor Module for Event-Driven Vision Sensors](https://doi.org/10.1109/JSSC.2011.2167409)*,  
+IEEE J. of Solid-State Circuits, 47(2):504-517, 2012.
 - <a name="Lee12iscas"></a>Lee, J., Delbruck, T., Park, P. K. J., Pfeiffer, M., Shin, C. W., Ryu, H., Kang, B. C.,  
 *[Live demonstration: Gesture-Based remote control using stereo pair of dynamic vision sensors](https://doi.org/10.1109/ISCAS.2012.6272144)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS) 2012, Seoul, South Korea, pp. 736-740. [PDF](http://www.zora.uzh.ch/75315/1/Lee_et_al_Live_demonstration.pdf), [YouTube](https://youtu.be/IlKimfJN21A)
-- [Barua et. al. WACV 2016](#Barua16wacv). Face recognition.
+- Pérez-Carrasco, J. A., Zhao, B., Serrano, C., Acha, B., Serrano-Gotarredona, T., Chen, S., Linares-Barranco, B.,  
+*[Mapping from Frame-Driven to Frame-Free Event-Driven Vision Systems by Low-Rate Rate-Coding and Coincidence Processing. Application to Feed-Forward ConvNets](https://doi.org/10.1109/TPAMI.2013.71)*,  
+IEEE Trans. on Pattern Analysis and Machine Intelligence, 35(11):2706-2719, 2013.
 - <a name="Orchard15tpami"></a>Orchard, G., Meyer, C., Etienne-Cummings, R., Posch, C., Thakor, N., Benosman, R.,  
 *[HFIRST: A Temporal Approach to Object Recognition](https://doi.org/10.1109/TPAMI.2015.2392947)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2015, 37(10):2028-2040. [PDF](https://arxiv.org/pdf/1508.01176.pdf)
     - [Code](http://www.garrickorchard.com/code/hfirst): HFIRST: A simple spiking neural network for recognition based on the canonical frame-based HMAX model.
+- Zhao, B., Ding, R., Chen, S., Linares-Barranco, B., Tang, H.,  
+*[Feedforward Categorization on AER Motion Events using Cortex-like Features in a Spiking Neural Network](https://doi.org/10.1109/TNNLS.2014.2362542)*,  
+IEEE Trans. on Neural Networks and Learning Systems, 26(9):1963-1978, 2015.
+- [Barua et. al. WACV 2016](#Barua16wacv). Face recognition.
 - <a name="Moeys16ebccsp"></a>Moeys, D., Corradi F., Kerr, E., Vance, P., Das, G., Neil, D., Kerr, D., Delbruck, T.,  
 *[Steering a Predator Robot using a Mixed Frame/Event-Driven Convolutional Neural Network](https://doi.org/10.1109/EBCCSP.2016.7605233)*,  
 IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Poland, 2016. [PDF](https://arxiv.org/pdf/1606.09433.pdf), [YouTube 1](https://youtu.be/fL3YCIPxuhM), [YouTube 2](https://youtu.be/lPF3Youpmqk)
@@ -472,6 +502,12 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017. [YouTube](htt
 *A Low Power, Fully Event-Based Gesture Recognition System*,  
  IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017. [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Amir_A_Low_Power_CVPR_2017_paper.pdf).  
   - [YouTube: IBM Research demonstrates event-based gesture recognition using a brain-inspired chip](https://youtu.be/g08IW-qRomM)
+- Stromatias, E., Soto, M., Serrano-Gotarredona, T., Linares-Barranco, B.,  
+*[An Event-Based Classifier for Dynamic Vision Sensor and Synthetic Data](https://doi.org/10.3389/fnins.2017.00350)*,  
+Front. Neurosci. 11:350, 2017.
+- Yousefzadeh, A., Masquelier, T., Serrano-Gotarredona, T., Linares-Barranco, B.,  
+*[Live demonstration: Hardware implementation of convolutional STDP for on-line visual feature learning](https://doi.org/10.1109/ISCAS.2017.8050395)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
 
 <a name="control"></a>
 ## Control
@@ -529,6 +565,9 @@ Int. Conf. Machine Learning, Sydney, Australia, PMLR 70, 2017. [Dataset](http://
 Front. Neurosci. (2015), 9:437. [YouTube](https://youtu.be/2RBKNhxHvdw)
     - [Neuromorphic-MNIST (N-MNIST) dataset](http://www.garrickorchard.com/datasets/n-mnist) is a spiking version of the original frame-based MNIST dataset (of handwritten digits). [YouTube](https://youtu.be/6qK97qM5aB4)
     - [The Neuromorphic-Caltech101 (N-Caltech101) dataset](http://www.garrickorchard.com/datasets/n-caltech101) is a spiking version of the original frame-based Caltech101 dataset. [YouTube](https://youtu.be/dxit9Ce5f_E)
+- Serrano-Gotarredona,T. and Linares-Barranco, B.,  
+*[Poker-DVS and MNIST-DVS. Their History, How They were Made, and Other Details](http://dx.doi.org/10.3389/fnins.2015.00481)*,  
+Front. Neurosci. 9:481, 2015.
 - [VISUALISE Predator/Prey Dataset](https://www.dropbox.com/sh/x6nm6zl9rrd7yzn/AAB_Fa5F-Y4fSo1nrIJxc8Xoa?dl=0) associated to the paper [Moeys et. al. EBCCSP 2016](#Moeys16ebccsp)
 - <a name="Hu16fnins"></a>Hu, Y., Liu, H., Pfeiffer, M., Delbruck, T.,  
 *[DVS Benchmark Datasets for Object Tracking, Action Recognition, and Object Recognition](https://doi.org/10.3389/fnins.2016.00405),*  
