@@ -289,6 +289,10 @@ British Machine Vision Conf. (BMVC), London, 2017. [PDF](https://www.dropbox.com
 - Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S., Benosman, R., Linares-Barranco, B.,  
 *Event-driven Stereo Visual Tracking Algorithm to Solve Object Occlusion*,  
 IEEE Trans. Neural Networks and Learning Systems, (in Press), 2017.
+- <a name="Xie17fnins"></a>Xie, Z., Chen, S., Orchard, G.  
+*[Event-Based Stereo Depth Estimation Using Belief Propagation](https://doi.org/10.3389/fnins.2017.00535)*,  
+Front. Neurosci. (2017), 11:535.  [YouTube](https://youtu.be/ngJpY1lcbdw)
+
 
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
