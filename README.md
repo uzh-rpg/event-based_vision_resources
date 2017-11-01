@@ -59,7 +59,7 @@ Proc. IEEE (2014), 102(10):1470-1484.
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Insightness.pdf) and [Video](https://youtu.be/6YyOW6DDGKw) by [Christian Brandli](http://www.insightness.com/#team), CEO and co-founder of Insightness.
 - [iniVation](http://inivation.com) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*. 
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Jakobsen.pdf) by [S. E. Jakobsen](http://inivation.com/team/), CEO and co-founder of iniVation.
-- **Sensitive DVS (sDVS)**
+- Sensitive DVS (sDVS)
     - Leñero-Bardallo, J. A., Serrano-Gotarredona, T., Linares-Barranco, B., *[A 3.6us Asynchronous Frame-Free Event-Driven Dynamic-Vision-Sensor](https://doi.org/10.1109/JSSC.2011.2118490)*,  IEEE J. of Solid-State Circuits, 46(6):1443-1455, 2011.
     - Serrano-Gotarredona, T. and Linares-Barranco, B., *[A 128x128 1.5% Contrast Sensitivity 0.9% FPN 3us Latency 4mW Asynchronous Frame-Free Dynamic Vision Sensor Using Transimpedance Amplifiers](https://doi.org/10.1109/JSSC.2012.2230553)*,  IEEE J. Solid-State Circuits, 48(3):827-838, 2013.
     
@@ -343,6 +343,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), Las Vegas, USA, 2016.
 - <a name="Liu17iscas"></a>Liu, M., Delbruck, T.,  
 *[Block-Matching Optical Flow for Dynamic Vision Sensors: Algorithm and FPGA Implementation](https://arxiv.org/pdf/1706.05415.pdf)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017.
+- <a name="Haessig17arxiv"></a>Haessig, G., Cassidy, A. Alvarez, R., Benosman, R., Orchard, G.,  
+*[Spiking Optical Flow for Event-based Sensors Using IBM's TrueNorth Neurosynaptic System](https://arxiv.org/pdf/1710.09820.pdf)*,  
+arXiv:1710.09820, 2017.
 
 
 <a name="image-reconstruction"></a>
