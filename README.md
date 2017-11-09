@@ -186,10 +186,13 @@ British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/d
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Vancouver, Canada, 2017. [YouTube](https://youtu.be/xS-7xYRYSLc), [Code](https://github.com/robotology/event-driven)
 - Barrios-Avilés, J., Iakymchuk, T., Samaniego, J., Rosado-Muñoz, A.,  
 *[An Event-based Fast Movement Detection Algorithm for a Positioning Robot Using POWERLINK Communication](https://arxiv.org/abs/1707.07188)*,  
-arXiv 1707.07188.
+arXiv:1707.07188, 2017.
 - Li, J., Shi, F., Liu, W., Zou, D., Wang, Q., Park, Paul-K.J., Hyunsurk, E.R.,  
 *Adaptive Temporal Pooling for Object Detection using Dynamic Vision Sensor*,  
 British Machine Vision Conf. (BMVC), London, 2017. [PDF](https://www.dropbox.com/s/m77i7cqqy7xbg51/0099.pdf?dl=1)
+- Ramesh, B., Yang, H., Orchard, G., Le Thi, N.A., Xiang, C,  
+*[DART: Distribution Aware Retinal Transform for Event-based Cameras](https://arxiv.org/pdf/1710.10800.pdf)*,  
+arXiv:1710.10800, 2017.
 
 <a name="depth-estimation"></a>
 ## Depth Estimation (3D Reconstruction)
@@ -287,8 +290,8 @@ Conf. Biomimetic and Biohybrid Systems. Living Machines 2017: Biomimetic and Bio
 *Robust Dense Depth Maps Generations from Sparse DVS Stereos*,  
 British Machine Vision Conf. (BMVC), London, 2017. [PDF](https://www.dropbox.com/s/ee6dn8zy4odpfwl/0096.pdf?dl=1), [Supp. Material](https://www.dropbox.com/s/eztqo109iue6ned/Active%20Papers%20Paper%2096%20%20Supplementary%20File.zip?dl=1).
 - Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S., Benosman, R., Linares-Barranco, B.,  
-*Event-driven Stereo Visual Tracking Algorithm to Solve Object Occlusion*,  
-IEEE Trans. Neural Networks and Learning Systems, (in Press), 2017.
+*[Event-driven Stereo Visual Tracking Algorithm to Solve Object Occlusion](https://doi.org/10.1109/TNNLS.2017.2759326)*,  
+IEEE Trans. Neural Networks and Learning Systems, 2017.
 - <a name="Xie17fnins"></a>Xie, Z., Chen, S., Orchard, G.  
 *[Event-Based Stereo Depth Estimation Using Belief Propagation](https://doi.org/10.3389/fnins.2017.00535)*,  
 Front. Neurosci. (2017), 11:535.  [YouTube](https://youtu.be/ngJpY1lcbdw)
@@ -397,8 +400,8 @@ arXiv:1510.01972, 2015.
 *[Continuous-Time Trajectory Estimation for Event-based Vision Sensors](http://dx.doi.org/10.15607/RSS.2015.XI.036)*,  
 Robotics: Science and Systems XI (RSS), Rome, Italy, 2015. [PDF]
 - <a name="Gallego16arxiv"></a>Gallego, G., Lund, J.E.A., Mueggler, E., Rebecq, H., Delbruck, T., Scaramuzza, D.,  
-*[Event-based, 6-DOF Camera Tracking for High-Speed Applications](https://arxiv.org/pdf/1607.03468.pdf)*,  
-(Under review), 2016. [YouTube](https://youtu.be/iZZ77F-hwzs)
+*[Event-based, 6-DOF Camera Tracking from Photometric Depth Maps](http://dx.doi.org/10.1109/TPAMI.2017.2769655)*,  
+IEEE Trans. on Pattern Analysis and Machine Intelligence, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/PAMI17_Gallego.pdf),  [YouTube](https://youtu.be/iZZ77F-hwzs?t=5)
 - <a name="Reinbacher17iccp"></a>Reinbacher, C., Munda, G., Pock, T.,  
 *[Real-Time Panoramic Tracking for Event Cameras](https://doi.org/10.1109/ICCPHOT.2017.7951488)*,  
 IEEE Int. Conf. Computational Photography (ICCP), Stanford, CA, USA, 2017, pp. 1-9. [PDF](https://arxiv.org/abs/1703.05161), [YouTube](https://youtu.be/Qy0brSlirmk), [Code](https://github.com/VLOGroup/dvs-panotracking)
@@ -409,7 +412,7 @@ IEEE Int. Conf. Computational Photography (ICCP), Stanford, CA, USA, 2017, pp. 1
 Int. Conf. Advanced Robotics (ICAR), Hong Kong, China, 2017, pp. 530-536. [PDF](https://arxiv.org/pdf/1706.08713v2.pdf)
 - <a name="Nguyen17arxiv"></a> Nguyen, A., Do, T.-T., Caldwell, D. G., Tsagarakis, N. G.,  
 *[Real-Time Pose Estimation for Event Cameras with Stacked Spatial LSTM Networks](https://arxiv.org/abs/1708.09011)*,  
-arXiv 1708.09011.
+arXiv:1708.09011.
 
 <a name="VOSLAM"></a>
 ## Visual Odometry and SLAM (Simultaneous Localization And Mapping)
