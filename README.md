@@ -494,6 +494,12 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2015, 37(10):2028-2040. [PDF]
 - Zhao, B., Ding, R., Chen, S., Linares-Barranco, B., Tang, H.,  
 *[Feedforward Categorization on AER Motion Events using Cortex-like Features in a Spiking Neural Network](https://doi.org/10.1109/TNNLS.2014.2362542)*,  
 IEEE Trans. on Neural Networks and Learning Systems, 26(9):1963-1978, 2015.
+- Park, P.K.J. et al.,  
+*[Computationally efficient, real-time motion recognition based on bio-inspired visual and cognitive processing](http://dx.doi.org/10.1109/ICIP.2015.7350936)*,  
+IEEE Int. Conf. Image Processing (ICIP), Quebec City, QC, 2015, pp. 932-935.
+- Park, P.K.J. et al.,  
+*[Performance improvement of deep learning based gesture recognition using spatiotemporal demosaicing technique](http://dx.doi.org/10.1109/ICIP.2016.7532633)*,  
+IEEE Int. Conf. Image Processing (ICIP), Phoenix, AZ, 2016, pp. 1624-1628.
 - [Barua et. al. WACV 2016](#Barua16wacv). Face recognition.
 - <a name="Moeys16ebccsp"></a>Moeys, D., Corradi F., Kerr, E., Vance, P., Das, G., Neil, D., Kerr, D., Delbruck, T.,  
 *[Steering a Predator Robot using a Mixed Frame/Event-Driven Convolutional Neural Network](https://doi.org/10.1109/EBCCSP.2016.7605233)*,  
