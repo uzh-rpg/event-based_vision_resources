@@ -712,6 +712,9 @@ Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2015.
 - <a name="Brandli15PhD"></a>Brändli, C.,  
 *[Event-Based Machine Vision](http://dx.doi.org/10.3929/ethz-a-010402138)*,  
 Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2015. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/99543/eth-47528-02.pdf?sequence=2&isAllowed=y)
+- <a name="Lagorce15PhD"></a>Lagorce, X.,  
+*[Computational methods for event-based signals and applications](https://tel.archives-ouvertes.fr/tel-01592392)*,  
+Ph.D. Thesis, Université de Pierre et Marie Curie, Paris, France, 2015. [PDF](https://tel.archives-ouvertes.fr/tel-01592392v2/document)
 - <a name="Moeys16PhD"></a>Moeys, D. P.,  
 *[Analog and digital implementations of retinal processing for robot navigation systems](https://doi.org/10.3929/ethz-a-010897825)*,  
 Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2016. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/156363/eth-50898-02.pdf?sequence=2&isAllowed=y)
