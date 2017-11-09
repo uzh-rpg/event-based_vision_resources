@@ -148,6 +148,9 @@ IEEE Biomedical Circuits and Systems Conference (BioCAS), Lausanne, 2014, pp. 17
 - <a name="Lagorce15tnnls"></a>Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R.,  
 *[Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking](https://doi.org/10.1109/TNNLS.2014.2352401)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (2015), 26(8):1710-1720.
+- <a name="Lagorce15fnins"></a>Lagorce, X., Ieng, S.-H., Clady, X., Pfeiffer, M., Benosman, R.,  
+*[Spatiotemporal features for asynchronous event-based data](http://dx.doi.org/10.3389/fnins.2015.00046)*,  
+Front. Neurosci. (2015), 9:46.
 - <a name="Clady15neunet"></a>Clady, X., Ieng, S.-H., Benosman, R.,  
 *[Asynchronous event-based corner detection and matching](https://doi.org/10.1016/j.neunet.2015.02.013)*,  
 Neural Networks (2015), 66:91-106.
