@@ -136,6 +136,9 @@ IEEE Trans. Robot. (2012), 28(5):1081-1089.
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), Providence, RI, 2012, pp. 35-40. [PDF](https://publik.tuwien.ac.at/files/PubDat_209369.pdf)
 - [Ni, Ph.D. Thesis, 2013](#Ni13PhD),  
 *Asynchronous Event Based Vision:  Algorithms and Applications to Microrobotics*.
+- <a name="Lagorce13iros"></a>Lagorce, X., Ieng, S. H., Benosman, R.,  
+*[Event-based features for robotic vision](http://dx.doi.org/10.1109/IROS.2013.6696960)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Tokyo, 2013, pp. 4214-4219.
 - <a name="Borer14isfv"></a>Borer, D.,  Rosgen, T.,  
 *[Large-scale Particle Tracking with Dynamic Vision Sensors]()*,  
 ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http://www.ifd.mavt.ethz.ch/research/group-roesgen/dynamic-vision-sensors.html), [PDF](http://www.ifd.mavt.ethz.ch/content/dam/ethz/special-interest/mavt/fluid-dynamics/ifd-dam/research/documents/posters/experimental-methods/daniel_borer_dynamic_vision_sensor.pdf)
