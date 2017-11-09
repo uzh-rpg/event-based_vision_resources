@@ -190,13 +190,16 @@ British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/d
 - <a name="Glover17iros"></a>Glover, A. and Bartolozzi, C.,  
 *Robust Visual Tracking with a Freely-moving Event Camera*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Vancouver, Canada, 2017. [YouTube](https://youtu.be/xS-7xYRYSLc), [Code](https://github.com/robotology/event-driven)
-- Barrios-Avilés, J., Iakymchuk, T., Samaniego, J., Rosado-Muñoz, A.,  
+- <a name="BarriosAviles17arxiv"></a>Barrios-Avilés, J., Iakymchuk, T., Samaniego, J., Rosado-Muñoz, A.,  
 *[An Event-based Fast Movement Detection Algorithm for a Positioning Robot Using POWERLINK Communication](https://arxiv.org/abs/1707.07188)*,  
 arXiv:1707.07188, 2017.
-- Li, J., Shi, F., Liu, W., Zou, D., Wang, Q., Park, Paul-K.J., Hyunsurk, E.R.,  
+- <a name="Li17bmvc"></a>Li, J., Shi, F., Liu, W., Zou, D., Wang, Q., Park, Paul-K.J., Hyunsurk, E.R.,  
 *Adaptive Temporal Pooling for Object Detection using Dynamic Vision Sensor*,  
 British Machine Vision Conf. (BMVC), London, 2017. [PDF](https://www.dropbox.com/s/m77i7cqqy7xbg51/0099.pdf?dl=1)
-- Ramesh, B., Yang, H., Orchard, G., Le Thi, N.A., Xiang, C,  
+- <a name="Peng17tnnls"></a>Peng, X., Zhao, B., Yan, R., Tang H., Yi, Z.,  
+*[Bag of Events: An Efficient Probability-Based Feature Extraction Method for AER Image Sensors](http://dx.doi.org/10.1109/TNNLS.2016.2536741)*,  
+IEEE Trans. Neural Netw. Learn. Syst., 28(4):791-803, 2017.
+- <a name="Ramesh17arxiv"></a>Ramesh, B., Yang, H., Orchard, G., Le Thi, N.A., Xiang, C,  
 *[DART: Distribution Aware Retinal Transform for Event-based Cameras](https://arxiv.org/pdf/1710.10800.pdf)*,  
 arXiv:1710.10800, 2017.
 
