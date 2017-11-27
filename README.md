@@ -213,6 +213,9 @@ arXiv:1710.10800, 2017.
 British Machine Vision Conf. (BMVC), York, 2016. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC16_Rebecq.pdf), [YouTube](https://www.youtube.com/watch?v=EUX3Tfx0KKE), [3D Reconstruction Experiments from a Train using an Event Camera](https://www.youtube.com/watch?v=fA4MiSzYHWA)
 - [Kim et. al. ECCV 2016](#Kim16eccv),  
 *Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera*.
+- <a name="Rebecq16bmvc"></a>Rebecq, H., Gallego, G., Scaramuzza, D.,  
+*[EMVS: Event-Based Multi-View Stereo—3D Reconstruction with an Event Camera in Real-Time](https://doi.org/10.1007/s11263-017-1050-6)*,  
+Int. J. of Computer Vision (IJCV), 2017. [PDF](http://rpg.ifi.uzh.ch/docs/IJCV17_Rebecq.pdf), [YouTube](https://youtu.be/EFpZcpd9XJ0).
 
 
 ### Monocular Depth Estimation using Structured Light
@@ -250,12 +253,12 @@ IEEE Trans. Neural Netw. Learn. Syst., 23(2):347-353, 2012.
 - <a name="Carneiro13neunet"></a>Carneiro, J., Ieng, S.-H., Posch, C., Benosman, R.,  
 *[Event-based 3D reconstruction from neuromorphic retinas](https://doi.org/10.1016/j.neunet.2013.03.006)*,  
 Neural Networks (2013), 45:27-38.
+- [Lee et. al., TNNLS 2014](#Lee14tnnls)
 - [Carneiro, Ph.D. Thesis, 2014](#Carneiro14PhD),  
 *Asynchronous Event-Based 3D Vision*.
 - <a name="Piatkowska13iccvw"></a>Piatkowska, E., Belbachir, A. N., Gelautz, M.,  
 *[Asynchronous Stereo Vision for Event-Driven Dynamic Stereo Sensor Using an Adaptive Cooperative Approach](https://doi.org/10.1109/ICCVW.2013.13)*,  
 IEEE Int. Conf. Computer Vision Workshops (ICCVW), Sydney, NSW, 2013, pp. 45-50.
-- [Lee et. al., TNNLS 2014](#Lee14tnnls)
 - <a name="Piatkowska14mst"></a>Piatkowska, E., Belbachir, A. N., Gelautz, M.,  
 *[Cooperative and asynchronous stereo vision for dynamic vision sensors](http://dx.doi.org/10.1088/0957-0233/25/5/055108)*,  
 Meas. Sci. Technol. (2014), 25(5).
