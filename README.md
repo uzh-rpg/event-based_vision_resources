@@ -62,7 +62,7 @@ Proc. IEEE (2014), 102(10):1470-1484.
 - Sensitive DVS (sDVS)
     - Leñero-Bardallo, J. A., Serrano-Gotarredona, T., Linares-Barranco, B., *[A 3.6us Asynchronous Frame-Free Event-Driven Dynamic-Vision-Sensor](https://doi.org/10.1109/JSSC.2011.2118490)*,  IEEE J. of Solid-State Circuits, 46(6):1443-1455, 2011.
     - Serrano-Gotarredona, T. and Linares-Barranco, B., *[A 128x128 1.5% Contrast Sensitivity 0.9% FPN 3us Latency 4mW Asynchronous Frame-Free Dynamic Vision Sensor Using Transimpedance Amplifiers](https://doi.org/10.1109/JSSC.2012.2230553)*,  IEEE J. Solid-State Circuits, 48(3):827-838, 2013.
-    
+- [AIT Austrian Institute of Technology](https://www.ait.ac.at/themen/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/) Opt$    
 
 <a name="companies_sftwr"></a>
 # Companies working on Event-based Vision
@@ -752,6 +752,7 @@ Ph.D. Thesis, University of Zurich, Zurich, Switzerland, 2017.
 - [iniLabs](http://www.inilabs.com) (Comerzialization of neuromorphic technology from INI).
 - [Dynamic Vision Sensor (DVS) - asynchronous temporal contrast silicon retina](http://siliconretina.ini.uzh.ch/wiki/index.php)
 - [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) (RPG-UZH).
+- [AIT Austrian Institute of Technology](https://www.ait.ac.at/themen/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/) Optical sensor systems for industrial processes.
 
 <br><br>
 <a name="contributing"></a>
