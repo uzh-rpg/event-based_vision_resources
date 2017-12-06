@@ -8,8 +8,8 @@
 - [Algorithms](#algorithms)
     - [Feature Detection and Tracking](#feature-detection)
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
-    	- [Monocular](#depth-mono)
-    	- [Stereo](#depth-stereo)
+    - [Monocular](#depth-mono)
+    - [Stereo](#depth-stereo)
     - [Optical Flow Estimation](#optical-flow-estimation)
     - [Intensity-Image Reconstruction](#image-reconstruction)
     - [Localization and Ego-motion estimation](#egomotion)
@@ -48,6 +48,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
     - **Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 718-721.
 - **ATIS (Asynchronous Time-based Image Sensor)**: Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011.
     - [Chronocam](http://www.chronocam.com/)
+    - [AIT Austrian Institute of Technology](https://www.ait.ac.at/themen/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/)
 - Posch, C., Serrano-Gotarredona, T., Linares-Barranco, B., Delbruck, T.,  
 *[Retinomorphic Event-Based Vision Sensors: Bioinspired Cameras With Spiking Output](https://doi.org/10.1109/JPROC.2014.2346153),*  
 Proc. IEEE (2014), 102(10):1470-1484.
@@ -62,7 +63,6 @@ Proc. IEEE (2014), 102(10):1470-1484.
 - Sensitive DVS (sDVS)
     - Leñero-Bardallo, J. A., Serrano-Gotarredona, T., Linares-Barranco, B., *[A 3.6us Asynchronous Frame-Free Event-Driven Dynamic-Vision-Sensor](https://doi.org/10.1109/JSSC.2011.2118490)*,  IEEE J. of Solid-State Circuits, 46(6):1443-1455, 2011.
     - Serrano-Gotarredona, T. and Linares-Barranco, B., *[A 128x128 1.5% Contrast Sensitivity 0.9% FPN 3us Latency 4mW Asynchronous Frame-Free Dynamic Vision Sensor Using Transimpedance Amplifiers](https://doi.org/10.1109/JSSC.2012.2230553)*,  IEEE J. Solid-State Circuits, 48(3):827-838, 2013.
-- [AIT Austrian Institute of Technology](https://www.ait.ac.at/themen/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/) Opt$    
 
 <a name="companies_sftwr"></a>
 # Companies working on Event-based Vision
