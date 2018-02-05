@@ -755,6 +755,7 @@ Ph.D. Thesis, University of Zurich, Zurich, Switzerland, 2017.
 - [iniLabs](http://www.inilabs.com) (Comerzialization of neuromorphic technology from INI).
 - [Dynamic Vision Sensor (DVS) - asynchronous temporal contrast silicon retina](http://siliconretina.ini.uzh.ch/wiki/index.php)
 - [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) (RPG-UZH).
+- [Institut de la Vision](http://neuromorphic-vision.com/) Neuromorphics group Paris.
 
 <br><br>
 <a name="contributing"></a>
