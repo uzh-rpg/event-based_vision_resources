@@ -42,6 +42,8 @@ ___
     - [Product page at iniLabs](https://inilabs.com/products/dynamic-vision-sensors/). [Buy a DVS](https://inilabs.com/buy/)
     - [Introductory videos about the DVS](https://inilabs.com/videos/dvs-introduction/)
     - [iniLabs](https://inilabs.com) invents, produces and sells neuromorphic technologies for *research*.
+- **DLS (Dynamic Line Sensor)**: Posch, C., Hofstaetter, M., Matolin, D., Vanstraelen, G., Schoen, P., Donath, N., and Litzenberger, M., *[A dual-line optical transient sensor with on-chip precision time-stamp generation](https://doi.org/10.1109/ISSCC.2007.373513)*, IEEE International Solid-State Circuits Conference - Digest of Technical Papers, Lisbon Falls, MN, US, 2007.
+    - [Fact sheet at AIT](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_Linescan-Chip_DLS_en.pdf).
 - **DAVIS (Dynamic and Active-Pixel Vision Sensor)** :
 Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 Âµs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333-2341, 2014.
     - [Product page at iniLabs](https://inilabs.com/products/dynamic-and-active-pixel-vision-sensor/). [Buy a DAVIS](https://inilabs.com/buy/)
@@ -49,6 +51,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - **ATIS (Asynchronous Time-based Image Sensor)**: Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011.
     - [Chronocam](http://www.chronocam.com/)
     - [AIT Austrian Institute of Technology](https://www.ait.ac.at/themen/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/)
+- **ATIS-L (ATIS Line Sensor)**: Belbachir, A., Schraml, S., Mayerhofer, M., and Hofstaetter, M., *[A novel HDR depth camera for real-time 3D 360-degree Panoramic vision](https://doi.org/10.1109/CVPRW.2014.69)*, IEEE Conf. Comput. CVPR Workshops, Jun. 2014, pp. 419-426.
 - Posch, C., Serrano-Gotarredona, T., Linares-Barranco, B., Delbruck, T.,  
 *[Retinomorphic Event-Based Vision Sensors: Bioinspired Cameras With Spiking Output](https://doi.org/10.1109/JPROC.2014.2346153),*  
 Proc. IEEE (2014), 102(10):1470-1484.
@@ -108,7 +111,14 @@ Proc. IEEE, 102(9):1367-1388, 2014.
 - <a name="Vanarse16fnins"></a>Vanarse, A., Osseiran, A., Rassau, A,  
 *[A Review of Current Neuromorphic Approaches for Vision, Auditory, and Olfactory Sensors](http://dx.doi.org/10.3389/fnins.2016.00115)*,
 Front. Neurosci. (2016), 10:115.
-
+- <a name="Posch09Sensors"></a>
+Posch, C., Matolin, D., Wohlgenannt, R., Maier, T., Litzenberger, M., *[A Microbolometer Asynchronous Dynamic Vision Sensor for LWIR](http://dx.doi.org/10.1109/JSEN.2009.2022825)*, IEEE Sensors Journal, 9 (2009), 6; S. 654 - 664.
+- <a name="Belbachir10icdsc"></a>Belbachir, A., Pflugfelder, R., Gmeiner, P., *[A Neuromorphic Smart Camera for Real-time 360ÂDistortion-free Panoramas](https://doi.org/10.1145/1865987.1866022)*,
+IEEE Conference on Distributed Smart Cameras, USA (2010).
+- <a name="Graf14CSEDU"></a>Graf, R., King, R., Belbachir, A., *[Braille Vision Using Braille Display and Bio-inspired Camera](http://dx.doi.org/10.5220/0004949302140219)*, 
+International Conference on Computer Supported Education CSEDU, Barcelona, Spain, SCITEPRESS Digital Library, (2014), S. 214 - 219.
+- <a name="Belbachir08icecs"></a>Belbachir, A., Hofstaetter, M., Reisinger, K., Litzenberger, M., Schoen, P., *[High-Precision Timestamping and Ultra High-Speed Arbitration of Transient Pixels' Events](https://doi.org/10.1109/ICECS.2008.4674996)*, 
+Proc. of the 15th IEEE International Conference on Electronics, Circuits and Systems", 2008.
 
 <br><br>
 <a name="algorithms"></a>
@@ -202,6 +212,8 @@ IEEE Trans. Neural Netw. Learn. Syst., 28(4):791-803, 2017.
 - <a name="Ramesh17arxiv"></a>Ramesh, B., Yang, H., Orchard, G., Le Thi, N.A., Xiang, C,  
 *[DART: Distribution Aware Retinal Transform for Event-based Cameras](https://arxiv.org/pdf/1710.10800.pdf)*,  
 arXiv:1710.10800, 2017.
+- <a name="Belbachir11tie"></a>Belbachir, A., Hofstaetter, M., Litzenberger, M., Schoen, P., *[High Speed Embedded Object Analysis Using a Dual-Line Timed-Address-Event Temporal Contrast Vision Sensor](https://doi.org/10.1109/TIE.2010.2095390)*,
+IEEE Transactions on Industrial Electronics, 99 (2011), pp. 1-14.
 
 <a name="depth-estimation"></a>
 ## Depth Estimation (3D Reconstruction)
@@ -690,6 +702,7 @@ IEEE Int. Conf. Robotics and Automation (ICRA), Hong Kong, 2014, pp. 2862-2867. 
 - [ICRA 2017 First International Workshop on Event-based Vision](http://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html).
 - [The Telluride Neuromorphic Cognition Engineering Workshops](http://telluride.iniforum.ch/accounts/login/?next=/).
 - [Capo Caccia Workshops toward Cognitive Neuromorphic Engineering](http://capocaccia.iniforum.ch/).
+- [IEEE Embedded Vision Workshop Series](https://embeddedvisionworkshop.wordpress.com), with focus on Biologically-inspired vision and embedded systems.
 
 
 <br><br>
@@ -746,7 +759,12 @@ Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2017. [PDF](https://www.research-
 *[Event-based Vision for High-Speed Robotics](http://rpg.ifi.uzh.ch/docs/PhD17_Mueggler.pdf)*,  
 Ph.D. Thesis, University of Zurich, Zurich, Switzerland, 2017.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
-
+- <a name="Matolin10PhD"></a>Matolin, D.,
+*[Asynchroner CMOS-Bildsensor mit erweitertem Dynamikbereich und Unterdrueckung zeitlich redundanter Daten](http://docplayer.org/docview/27/9947799/#file=/storage/27/9947799/9947799.pdf)*, 
+Ph.D. Thesis, Technische Universitaet Dresden & AIT, 2010.
+- <a name="Nowakowska11MSc"></a>Nowakowska, A.,
+*[Recognition of a vision approach for fall detection using a biologically inspired dynamic stereo vision sensor](http://repositum.tuwien.ac.at/obvutwhs/download/pdf/1623418?originalFilename=true)*,
+MSc. Thesis, TU Wien, 2011.
 
 <br><br>
 <a name="people"></a>
