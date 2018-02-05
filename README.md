@@ -112,8 +112,8 @@ Proc. IEEE, 102(9):1367-1388, 2014.
 *[A Review of Current Neuromorphic Approaches for Vision, Auditory, and Olfactory Sensors](http://dx.doi.org/10.3389/fnins.2016.00115)*,
 Front. Neurosci. (2016), 10:115.
 - <a name="Posch09Sensors"></a>
-Posch, C., Matolin, D., Wohlgenannt, R., Maier, T., Litzenberger, M., *[A Microbolometer Asynchronous Dynamic Vision Sensor for LWIR](http://dx.doi.org/10.1109/JSEN.2009.2022825)*, IEEE Sensors Journal, 9 (2009), 6; S. 654 - 664.
-- <a name="Belbachir10icdsc"></a>Belbachir, A., Pflugfelder, R., Gmeiner, P., *[A Neuromorphic Smart Camera for Real-time 360ÂDistortion-free Panoramas](https://doi.org/10.1145/1865987.1866022)*,
+Posch, C., Matolin, D., Wohlgenannt, R., Maier, T., Litzenberger, M., *[A Microbolometer Asynchronous Dynamic Vision Sensor for LWIR](https://doi.org/10.1109/JSEN.2009.2020658)*, IEEE Sensors Journal, 9 (2009), 6; S. 654 - 664.
+- <a name="Belbachir10icdsc"></a>Belbachir, A., Pflugfelder, R., Gmeiner, P., *[A Neuromorphic Smart Camera for Real-time 360deg distortion-free Panoramas](https://doi.org/10.1145/1865987.1866022)*,
 IEEE Conference on Distributed Smart Cameras, USA (2010).
 - <a name="Graf14CSEDU"></a>Graf, R., King, R., Belbachir, A., *[Braille Vision Using Braille Display and Bio-inspired Camera](http://dx.doi.org/10.5220/0004949302140219)*, 
 International Conference on Computer Supported Education CSEDU, Barcelona, Spain, SCITEPRESS Digital Library, (2014), S. 214 - 219.
@@ -764,7 +764,7 @@ Ph.D. Thesis, University of Zurich, Zurich, Switzerland, 2017.
 Ph.D. Thesis, Technische Universitaet Dresden & AIT, 2010.
 - <a name="Nowakowska11MSc"></a>Nowakowska, A.,
 *[Recognition of a vision approach for fall detection using a biologically inspired dynamic stereo vision sensor](http://repositum.tuwien.ac.at/obvutwhs/download/pdf/1623418?originalFilename=true)*,
-MSc. Thesis, TU Wien, 2011.
+MSc. Thesis, TU Wien & AIT, 2011.
 
 <br><br>
 <a name="people"></a>
