@@ -8,8 +8,8 @@
 - [Algorithms](#algorithms)
     - [Feature Detection and Tracking](#feature-detection)
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
-    - [Monocular](#depth-mono)
-    - [Stereo](#depth-stereo)
+        - [Monocular](#depth-mono)
+        - [Stereo](#depth-stereo)
     - [Optical Flow Estimation](#optical-flow-estimation)
     - [Intensity-Image Reconstruction](#image-reconstruction)
     - [Localization and Ego-motion estimation](#egomotion)
@@ -30,6 +30,8 @@
 - [Neuromorphic Processors and Platforms](#processors-platforms)
 - [Workshops and Tutorials](#workshops)
 - [Theses and Dissertations](#theses)
+    - [Master Theses](#theses-master)
+    - [Dissertations](#theses-phd)
 - [People / Organizations](#people)
 - [Contributing](#contributing)
 
@@ -51,7 +53,6 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - **ATIS (Asynchronous Time-based Image Sensor)**: Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011.
     - [Chronocam](http://www.chronocam.com/)
     - [AIT Austrian Institute of Technology](https://www.ait.ac.at/themen/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/)
-- **ATIS-L (ATIS Line Sensor)**: Belbachir, A., Schraml, S., Mayerhofer, M., and Hofstaetter, M., *[A novel HDR depth camera for real-time 3D 360-degree Panoramic vision](https://doi.org/10.1109/CVPRW.2014.69)*, IEEE Conf. Comput. CVPR Workshops, Jun. 2014, pp. 419-426.
 - Posch, C., Serrano-Gotarredona, T., Linares-Barranco, B., Delbruck, T.,  
 *[Retinomorphic Event-Based Vision Sensors: Bioinspired Cameras With Spiking Output](https://doi.org/10.1109/JPROC.2014.2346153),*  
 Proc. IEEE (2014), 102(10):1470-1484.
@@ -90,9 +91,15 @@ Advances in neural information processing systems, 1217-1224, 2006.
 - <a name="Delbruck08issle"></a>Delbruck, T.,  
 [Frame-free dynamic digital vision](http://www.zora.uzh.ch/17620/)*,  
 Int. Symp. Secure-Life Electronics, Advanced Electronics for Quality Life and Society, University of Tokyo, Tokyo, Japan, Mar. 6-7, 2008, pp. 21-26. Introduces the software architecture of jAER and shows examples of several event-based processing algorithms.
+- <a name="Posch09sensors"></a>Posch, C., Matolin, D., Wohlgenannt, R., Maier, T., Litzenberger, M.,
+*[A Microbolometer Asynchronous Dynamic Vision Sensor for LWIR](https://doi.org/10.1109/JSEN.2009.2020658)*,
+IEEE Sensors Journal, 9 (2009), 6; S. 654 - 664.
 - <a name="Liu10conb"></a>Liu, S.-C. and Delbruck, T.,  
 *[Neuromorphic sensory systems](https://doi.org/10.1016/j.conb.2010.03.007)*,  
 Current Opinion in Neurobiology, 20:3(288-295), 2010.
+- <a name="Belbachir10icdsc"></a>Belbachir, A., Pflugfelder, R., Gmeiner, P.,
+*[A Neuromorphic Smart Camera for Real-time 360deg distortion-free Panoramas](https://doi.org/10.1145/1865987.1866022)*,
+IEEE Conference on Distributed Smart Cameras, USA (2010).
 - <a name="Delbruck12eccvw"></a>Delbruck, T.,  
 *[Fun with asynchronous vision sensors and processing](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=delbruck_funwithasynsensors_2012.pdf)*.  
 Computer Vision - ECCV 2012. Workshops and Demonstrations. Springer Berlin/Heidelberg, 2012. A position paper and summary of recent accomplishments of the INI Sensors' group.
@@ -111,14 +118,6 @@ Proc. IEEE, 102(9):1367-1388, 2014.
 - <a name="Vanarse16fnins"></a>Vanarse, A., Osseiran, A., Rassau, A,  
 *[A Review of Current Neuromorphic Approaches for Vision, Auditory, and Olfactory Sensors](http://dx.doi.org/10.3389/fnins.2016.00115)*,
 Front. Neurosci. (2016), 10:115.
-- <a name="Posch09Sensors"></a>
-Posch, C., Matolin, D., Wohlgenannt, R., Maier, T., Litzenberger, M., *[A Microbolometer Asynchronous Dynamic Vision Sensor for LWIR](https://doi.org/10.1109/JSEN.2009.2020658)*, IEEE Sensors Journal, 9 (2009), 6; S. 654 - 664.
-- <a name="Belbachir10icdsc"></a>Belbachir, A., Pflugfelder, R., Gmeiner, P., *[A Neuromorphic Smart Camera for Real-time 360deg distortion-free Panoramas](https://doi.org/10.1145/1865987.1866022)*,
-IEEE Conference on Distributed Smart Cameras, USA (2010).
-- <a name="Graf14CSEDU"></a>Graf, R., King, R., Belbachir, A., *[Braille Vision Using Braille Display and Bio-inspired Camera](http://dx.doi.org/10.5220/0004949302140219)*, 
-International Conference on Computer Supported Education CSEDU, Barcelona, Spain, SCITEPRESS Digital Library, (2014), S. 214 - 219.
-- <a name="Belbachir08icecs"></a>Belbachir, A., Hofstaetter, M., Reisinger, K., Litzenberger, M., Schoen, P., *[High-Precision Timestamping and Ultra High-Speed Arbitration of Transient Pixels' Events](https://doi.org/10.1109/ICECS.2008.4674996)*, 
-Proc. of the 15th IEEE International Conference on Electronics, Circuits and Systems", 2008.
 
 <br><br>
 <a name="algorithms"></a>
@@ -138,6 +137,9 @@ Experiments in Fluids (2011), 51(1):1465-1469. [PDF](http://www.zora.uzh.ch/6062
 - <a name="Ni11jmcro"></a>Ni, Z., Pacoret, Benosman, R., Ieng, S., Reginer, S.,  
 *[Asynchronous event-based high speed vision for microparticle tracking](http://doi.org/10.1111/j.1365-2818.2011.03565.x)*,  
 J. Microscopy (2011), 245(1):236-244.
+- <a name="Belbachir11tie"></a>Belbachir, A., Hofstaetter, M., Litzenberger, M., Schoen, P.,
+*[High Speed Embedded Object Analysis Using a Dual-Line Timed-Address-Event Temporal Contrast Vision Sensor](https://doi.org/10.1109/TIE.2010.2095390)*,
+IEEE Transactions on Industrial Electronics, 99 (2011), pp. 1-14.
 - <a name="Ni12tro"></a>Ni, Z., Bolopion, A., Agnus, J., Benosman, R., Regnier, S.,  
 *[Asynchronous event-based visual shape tracking for stable haptic feedback in microrobotics](https://doi.org/10.1109/TRO.2012.2198930)*,  
 IEEE Trans. Robot., 28(5):1081-1089, 2012.
@@ -212,8 +214,6 @@ IEEE Trans. Neural Netw. Learn. Syst., 28(4):791-803, 2017.
 - <a name="Ramesh17arxiv"></a>Ramesh, B., Yang, H., Orchard, G., Le Thi, N.A., Xiang, C,  
 *[DART: Distribution Aware Retinal Transform for Event-based Cameras](https://arxiv.org/pdf/1710.10800.pdf)*,  
 arXiv:1710.10800, 2017.
-- <a name="Belbachir11tie"></a>Belbachir, A., Hofstaetter, M., Litzenberger, M., Schoen, P., *[High Speed Embedded Object Analysis Using a Dual-Line Timed-Address-Event Temporal Contrast Vision Sensor](https://doi.org/10.1109/TIE.2010.2095390)*,
-IEEE Transactions on Industrial Electronics, 99 (2011), pp. 1-14.
 
 <a name="depth-estimation"></a>
 ## Depth Estimation (3D Reconstruction)
@@ -679,6 +679,9 @@ Front. Neurosci. (2016), 10:496. [Dataset](https://github.com/qian-liu/benchmark
 <br><br>
 <a name="processors-platforms"></a>
 # Neuromorphic Processors and Platforms
+- <a name="Belbachir08icecs"></a>Belbachir, A., Hofstaetter, M., Reisinger, K., Litzenberger, M., Schoen, P.,
+*[High-Precision Timestamping and Ultra High-Speed Arbitration of Transient Pixels' Events](https://doi.org/10.1109/ICECS.2008.4674996)*, 
+Proc. of the 15th IEEE International Conference on Electronics, Circuits and Systems", 2008.
 - [Dynamic Neuromorphic Asynchronous Processor (DYNAP) by iniLabs](https://inilabs.com/products/dynap/)
   - <a name="Qiao15fnins"></a>Qiao, N., Mostafa, H., Corradi, F., Osswald, M., Stefanini, F., Sumislawska, D., Indiveri, G.,  
   *[A reconfigurable on-line learning spiking neuromorphic processor comprising 256 neurons and 128K synapses](https://doi.org/10.3389/fnins.2015.00141),*  
@@ -692,6 +695,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), Providence
 - <a name="Galluppi14icra"></a>Galluppi, F., Denk, C., Meiner, M. C., Stewart, T. C., Plana, L. A., Eliasmith, C., Furber, S., Conradt, J.,  
 *[Event-based neural computing on an autonomous mobile platform](https://doi.org/10.1109/ICRA.2014.6907270),*  
 IEEE Int. Conf. Robotics and Automation (ICRA), Hong Kong, 2014, pp. 2862-2867. [PDF](http://compneuro.uwaterloo.ca/files/publications/galluppi.2014.pdf)
+- <a name="Graf14CSEDU"></a>Graf, R., King, R., Belbachir, A.,
+*[Braille Vision Using Braille Display and Bio-inspired Camera](http://dx.doi.org/10.5220/0004949302140219)*, 
+International Conference on Computer Supported Education CSEDU, Barcelona, Spain, SCITEPRESS Digital Library, (2014), S. 214 - 219.
 
 
 <br><br>
@@ -707,7 +713,25 @@ IEEE Int. Conf. Robotics and Automation (ICRA), Hong Kong, 2014, pp. 2862-2867. 
 
 <br><br>
 <a name="theses"></a>
-# Theses and Dissertations
+## Theses and Dissertations
+
+<a name="theses-master"></a>
+### Masters Theses
+- <a name="Reisinger06MSc"></a>Reisinger, K., 
+*[EMC testing on Silicon Retinas]*,
+MSc. Thesis, TU Wien & AIT, 2006.
+- <a name="Nowakowska11MSc"></a>Nowakowska, A.,
+*[Recognition of a vision approach for fall detection using a biologically inspired dynamic stereo vision sensor](http://repositum.tuwien.ac.at/obvutwhs/download/pdf/1623418?originalFilename=true)*,
+MSc. Thesis, TU Wien & AIT, 2011.
+- <a name="Reingruber11MSc"></a>Reingruber, H., 
+*[An Asynchronous Data Interface for Event-based Stereo Matching](http://repositum.tuwien.ac.at/obvutwhs/download/pdf/1621666?originalFilename=true)*,
+MSc. Thesis, TU Wien & AIT, 2011.
+- <a name="Zima12MSc"></a>Zima, M., 
+*[Hand/Arm Gesture Recognition based on Address-Event-Representation Data](http://repositum.tuwien.ac.at/obvutwhs/download/pdf/1623095?originalFilename=true)*, 
+MSc. Thesis, TU Wien & AIT, 2012.
+
+< name="theses-phd"></a>
+### Dissertations
 - <a name="Mahowald92PhD"></a>Mahowald, M.,  
 *[VLSI Analogs of Neuronal Visual Processing: A Synthesis of Form and Function](http://resolver.caltech.edu/CaltechTHESIS:09122011-094355148)*,  
 Ph.D. thesis, California Inst. Of Technology, Pasadena, CA, 1992. [PDF](
@@ -719,7 +743,10 @@ Ph.D. Thesis. California Inst. Of Technology, Pasadena, CA, 1993. [PDF](https://
 - <a name="Lichtsteiner06PhD"></a>Lichtsteiner, P.,  
 *[A temporal contrast vision sensor](https://doi.org/10.3929/ethz-a-005279479)*,  
 Ph.D. Thesis, ETH Zurich, Zurich, Switzerland, 2006. [PDF](http://www.ini.uzh.ch/~tobi/papers/lichtsteinerThesis2006.pdf)
-- <a name="Berner11PhD"></a>Berner, R.,  
+- <a name="Matolin10PhD"></a>Matolin, D.,
+*[Asynchronous CMOS image sensor with extended dynamic range and suppression of time-redundant data](http://docplayer.org/docview/27/9947799/#file=/storage/27/9947799/9947799.pdf)*, 
+Ph.D. Thesis, TU Dresden & AIT, deutsch, 2010.
+- <a name="Berner11PhD"></a>Berner, R., 
 *[Building Blocks for Event-Based Sensors](https://doi.org/10.3929/ethz-a-006838001)*,  
 Ph.D. Thesis, ETH Zurich, Zurich, Switzerland, 2011. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/153098/eth-5044-02.pdf?sequence=2&isAllowed=y)
 - <a name="Ni13PhD"></a>Ni, Z.,  
@@ -759,12 +786,6 @@ Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2017. [PDF](https://www.research-
 *[Event-based Vision for High-Speed Robotics](http://rpg.ifi.uzh.ch/docs/PhD17_Mueggler.pdf)*,  
 Ph.D. Thesis, University of Zurich, Zurich, Switzerland, 2017.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
-- <a name="Matolin10PhD"></a>Matolin, D.,
-*[Asynchroner CMOS-Bildsensor mit erweitertem Dynamikbereich und Unterdrueckung zeitlich redundanter Daten](http://docplayer.org/docview/27/9947799/#file=/storage/27/9947799/9947799.pdf)*, 
-Ph.D. Thesis, Technische Universitaet Dresden & AIT, 2010.
-- <a name="Nowakowska11MSc"></a>Nowakowska, A.,
-*[Recognition of a vision approach for fall detection using a biologically inspired dynamic stereo vision sensor](http://repositum.tuwien.ac.at/obvutwhs/download/pdf/1623418?originalFilename=true)*,
-MSc. Thesis, TU Wien & AIT, 2011.
 
 <br><br>
 <a name="people"></a>
