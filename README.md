@@ -795,6 +795,7 @@ MSc. Thesis, TU Wien & AIT, 2012.
 - [iniLabs](http://www.inilabs.com) (Comerzialization of neuromorphic technology from INI).
 - [Dynamic Vision Sensor (DVS) - asynchronous temporal contrast silicon retina](http://siliconretina.ini.uzh.ch/wiki/index.php)
 - [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) (RPG-UZH).
+- [Institut de la Vision](http://neuromorphic-vision.com/) Neuromorphics group Paris.
 - [AIT Austrian Institute of Technology](https://www.ait.ac.at/themen/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/).
 
 <br><br>
