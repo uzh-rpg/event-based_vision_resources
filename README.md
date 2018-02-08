@@ -30,8 +30,8 @@
 - [Neuromorphic Processors and Platforms](#processors-platforms)
 - [Workshops and Tutorials](#workshops)
 - [Theses and Dissertations](#theses)
-    - [Master Theses](#theses-master)
     - [Dissertations](#theses-phd)
+    - [Master Theses](#theses-master)
 - [People / Organizations](#people)
 - [Contributing](#contributing)
 
