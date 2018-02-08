@@ -92,7 +92,7 @@ Advances in neural information processing systems, 1217-1224, 2006.
 [Frame-free dynamic digital vision](http://www.zora.uzh.ch/17620/)*,  
 Int. Symp. Secure-Life Electronics, Advanced Electronics for Quality Life and Society, University of Tokyo, Tokyo, Japan, Mar. 6-7, 2008, pp. 21-26. Introduces the software architecture of jAER and shows examples of several event-based processing algorithms.
 - <a name="Posch09sensors"></a>Posch, C., Matolin, D., Wohlgenannt, R., Maier, T., Litzenberger, M.,  
-*[A Microbolometer Asynchronous Dynamic Vision Sensor for LWIR](https://doi.org/10.1109/JSEN.2009.2020658)*,
+*[A Microbolometer Asynchronous Dynamic Vision Sensor for LWIR](https://doi.org/10.1109/JSEN.2009.2020658)*,  
 IEEE Sensors Journal, 9(6):654-664, 2009.
 - <a name="Liu10conb"></a>Liu, S.-C. and Delbruck, T.,  
 *[Neuromorphic sensory systems](https://doi.org/10.1016/j.conb.2010.03.007)*,  
