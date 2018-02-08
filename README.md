@@ -674,6 +674,7 @@ Front. Neurosci. (2016), 10:496. [Dataset](https://github.com/qian-liu/benchmark
 - [Matlab AER functions](https://github.com/gorchard/Matlab_AER_vision_functions) by G. Orchard. Some basic functions for filtering and displaying AER vision data, as well as making videos.
 - [Python code for AER vision data](https://github.com/gorchard/event-Python) by G. Orchard.
 - [edvstools](https://github.com/Danvil/edvstools), by D. Weikersdorfer: A collection of tools for the embedded Dynamic Vision Sensor eDVS.
+- [Tarsier](https://github.com/neuromorphic-paris/tarsier) Framework for event-based Vision in C++.
 
 
 <br><br>
@@ -797,6 +798,7 @@ MSc. Thesis, TU Wien & AIT, 2012.
 - [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) (RPG-UZH).
 - [Institut de la Vision](http://neuromorphic-vision.com/) Neuromorphics group Paris.
 - [AIT Austrian Institute of Technology](https://www.ait.ac.at/themen/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/).
+- [Sinapse](http://sinapse.nus.edu.sg/) Singapore Institute for Neurotechnology.
 
 <br><br>
 <a name="contributing"></a>
