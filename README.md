@@ -55,7 +55,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
     - [Product page at iniLabs](https://inilabs.com/products/dynamic-and-active-pixel-vision-sensor/). [Buy a DAVIS](https://inilabs.com/buy/)
     - **Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 718-721.
 - **ATIS (Asynchronous Time-based Image Sensor)**: Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011.
-    - [Chronocam](http://www.chronocam.com/)
+    - [Prophesee](www.prophesee.ai) (Formerly [Chronocam](http://www.chronocam.com/))
     - [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/)
 - Posch, C., Serrano-Gotarredona, T., Linares-Barranco, B., Delbruck, T.,  
 *[Retinomorphic Event-Based Vision Sensors: Bioinspired Cameras With Spiking Output](https://doi.org/10.1109/JPROC.2014.2346153),*  
@@ -77,7 +77,7 @@ Proc. IEEE (2014), 102(10):1470-1484.
 - [iniLabs](https://inilabs.com) invents, produces and sells neuromorphic technologies for *research*.
 - [Samsung](www.samsung.com) develops Gen2 and Gen3 dynamic vision sensors and event-based vision solutions.
   - [IBM Research](http://www.research.ibm.com/articles/brain-chip.shtml) ([Synapse project](http://www.research.ibm.com/cognitive-computing/brainpower/)) and Samsung partenered to combine the [TrueNorth chip (brain) with a DVS (eye)](https://www.cnet.com/news/samsung-turns-ibms-brain-like-chip-into-a-digital-eye/).
-- [Chronocam](http://www.chronocam.com/) develops bio-inspired and self-adapting approach to the need for visual sensing and processing in autonomous vehicles, connected devices, security and surveillance systems.
+- [Prophesee](www.prophesee.ai) (Formerly [Chronocam](http://www.chronocam.com/)) develops bio-inspired and self-adapting approach to the need for visual sensing and processing in autonomous vehicles, connected devices, security and surveillance systems.
 - [Insightness AG](http://www.insightness.com/) builds visual systems to give mobile devices spatial awareness. [The Silicon Eye](http://www.insightness.com/?p=361) Technology.
 - [SLAMcore](https://www.slamcore.com/) develops Localisation and mapping solutions for AR/VR, robotics & autonomous vehicles.
 - [iniVation](http://inivation.com) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*.
