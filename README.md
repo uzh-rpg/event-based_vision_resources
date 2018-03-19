@@ -19,6 +19,7 @@
     - [Video Processing](#video-processing)
     - [Pattern recognition](#pattern-recognition)
     - [Control](#control)
+    - [Space Applications](#space)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -582,6 +583,14 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 2409-2412. [YouT
 - <a name="Vasco16humanoids"></a>Vasco, V., Glover, A., Tirupachuri, Y., Solari, F., Chessa M., Bartolozzi C.,  
 *[Vergence control with a neuromorphic iCub](https://doi.org/10.1109/HUMANOIDS.2016.7803355)*,  
 IEEE Int. Conf. Humanoid Robotics (Humanoids), Cancun, Mexico, 2016, pp. 732-738.
+
+
+<a name="space"></a>
+## Space Applications
+- <a name="Cohen17amos"></a>Cohen, G., Afshar, S., van Schaik, A., Wabnitz, A., Bessell, T., Rutten, M., Morreale, B.,  
+*[Event-based Sensing for Space Situational Awareness](https://amostech.com/TechnicalPapers/2017/Optical-Systems/Cohen.pdf)*,  
+Proc. Advanced Maui Optical and Space Surveillance (AMOS) Technologies Conference, Hawaii, 2017.
+
 
 <br><br>
 <a name="datasets"></a>
