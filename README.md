@@ -558,7 +558,7 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
 - <a name="Sironi18cvpr"></a>Sironi, A., Brambilla, M., Bourdis, N., Lagorce, X., Benosman, R.,    
 *[HATS: Histograms of Averaged Time Surfaces for Robust Event-based Object Classification](https://arxiv.org/abs/1803.07913)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. 
-    - [N-CARS Dataset](http://www.prophesee.ai/dataset-n-cars/): A large real-world event-based dataset for car classification.
+    - [N-CARS Dataset](#ncars_dataset): A large real-world event-based dataset for car classification.
     
 <a name="control"></a>
 ## Control
@@ -637,7 +637,7 @@ Front. Neurosci. (2016), 10:405. [Dataset](http://dgyblog.com/projects-term/dvs-
 - <a name="Liu16fnins">Liu, Q., Pineda-García, G., Stromatias, E., Serrano-Gotarredona, T., Furber, SB.,  
 *[Benchmarking Spike-Based Visual Recognition: A Dataset and Evaluation](https://doi.org/10.3389/fnins.2016.00496)*,  
 Front. Neurosci. (2016), 10:496. [Dataset](https://github.com/qian-liu/benchmarking), [Dataset](https://github.com/NEvision/NE15)
-- [N-CARS Dataset](http://www.prophesee.ai/dataset-n-cars/): A large real-world event-based dataset for car classification.     [Sironi et al. CVPR 2018](#Sironi18cvpr).
+- <a name="ncars_dataset"></a>[N-CARS Dataset](http://www.prophesee.ai/dataset-n-cars/): A large real-world event-based dataset for car classification.     [Sironi et al. CVPR 2018](#Sironi18cvpr).
 
 <br><br>
 <a name="software"></a>
