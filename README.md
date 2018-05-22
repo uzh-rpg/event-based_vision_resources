@@ -194,8 +194,8 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Daejeon, South Korea,
 *[A Motion-Based Feature for Event-Based Pattern Recognition](https://doi.org/10.3389/fnins.2016.00594)*.  
 Front. Neurosci. (2017), 10:594.
 - <a name="Zhu17icra"></a>Zhu, A., Atanasov, N., Daniilidis, K.,  
-*[Event-based Feature Tracking with Probabilistic Data Associations](https://fling.seas.upenn.edu/~alexzhu/dynamic/event-based-feature-tracking-with-probabilistic-data-association/)*,  
-IEEE Int. Conf. Robotics and Automation (ICRA), Singapore, 2017. [YouTube](https://youtu.be/m93XCqAS6Fc)
+*[Event-based Feature Tracking with Probabilistic Data Association](https://fling.seas.upenn.edu/~alexzhu/dynamic/event-based-feature-tracking-with-probabilistic-data-association/)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), Singapore, 2017. [YouTube](https://youtu.be/m93XCqAS6Fc), [Code](https://github.com/daniilidis-group/event_feature_tracking)
 - <a name="Mueggler17bmvc"></a>Mueggler, E., Bartolozzi, C., Scaramuzza, D.,  
 *Fast Event-based Corner Detection*,  
 British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC17_Mueggler.pdf), [YouTube](https://youtu.be/tgvM4ELesgI)
@@ -319,7 +319,9 @@ IEEE Trans. Neural Netw. Learn. Syst., 2017.
 - <a name="Xie17fnins"></a>Xie, Z., Chen, S., Orchard, G.  
 *[Event-Based Stereo Depth Estimation Using Belief Propagation](https://doi.org/10.3389/fnins.2017.00535)*,  
 Front. Neurosci. (2017), 11:535.  [YouTube](https://youtu.be/ngJpY1lcbdw)
-
+- <a name="Zhu2018realtime"></a>Zhu, A., Chen, Y., Daniilidis, K.,  
+*[Realtime Time Synchronized Event-based Stereo](https://arxiv.org/abs/1803.09025)*,  
+arXiv:1803.09025, [YouTube](https://youtu.be/4oa7e4hsrYo)
 
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
@@ -373,6 +375,9 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017.
 - <a name="Haessig17arxiv"></a>Haessig, G., Cassidy, A. Alvarez, R., Benosman, R., Orchard, G.,  
 *[Spiking Optical Flow for Event-based Sensors Using IBM's TrueNorth Neurosynaptic System](https://arxiv.org/pdf/1710.09820.pdf)*,  
 arXiv:1710.09820, 2017.
+- <a name="Zhu2018rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
+*[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](https://arxiv.org/abs/1802.06898)*,  
+Robotics, Science and Systems 2018. [YouTube](https://youtu.be/eMHZBSoq0sE)
 
 
 <a name="image-reconstruction"></a>
@@ -478,8 +483,8 @@ IEEE Robotics and Automation Letters (RA-L), 2:2(632-639), 2017.
 - [Mueggler et. al. IJRR 2017](#Mueggler17ijrr).  
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
 - <a name="Zhu17cvpr"></a>Zhu, A., Atanasov, N., Daniilidis, K.,  
-*Event-based Visual Inertial Odometry*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017. [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Event-Based_Visual_Inertial_CVPR_2017_paper.pdf), [Supplementary material](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Zhu_Event-Based_Visual_Inertial_2017_CVPR_supplemental.zip)
+*[Event-based Visual Inertial Odometry](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Event-Based_Visual_Inertial_CVPR_2017_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017. [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Event-Based_Visual_Inertial_CVPR_2017_paper.pdf), [Supplementary material](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Zhu_Event-Based_Visual_Inertial_2017_CVPR_supplemental.zip), [YouTube](https://youtu.be/9zGoR67l9Wc).
 - <a name="Rebecq17bmvc"></a>Rebecq, H., Horstschaefer, T., Scaramuzza, D.,  
 *Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization*,  
 British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq.pdf), [Appendix](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq_appendix.pdf), [YouTube](https://youtu.be/F3OFzsaPtvI)
@@ -559,6 +564,9 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
 *[HATS: Histograms of Averaged Time Surfaces for Robust Event-based Object Classification](https://arxiv.org/abs/1803.07913)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. 
     - [N-CARS Dataset](#ncars_dataset): A large real-world event-based dataset for car classification.
+- <a name="Zhu2018rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
+*[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](https://arxiv.org/abs/1802.06898)*,  
+Robotics, Science and Systems 2018. [YouTube](https://youtu.be/eMHZBSoq0sE)
     
 <a name="control"></a>
 ## Control
@@ -617,6 +625,9 @@ Int. J. Robotics Research, 36:2, pp. 142-149, 2017. [PDF](https://arxiv.org/pdf/
 - <a name="Binas17icml"></a>Binas, J., Neil, D., Liu, S.-C., Delbruck, T.,  
 *[DDD17: End-To-End DAVIS Driving Dataset](https://www.openreview.net/pdf?id=HkehpKVG-),*  
 Int. Conf. Machine Learning, Sydney, Australia, PMLR 70, 2017. [Dataset](http://sensors.ini.uzh.ch/databases.html)
+- <a name="Zhu18mvsec"></a>Zhu, A., Thakur, D., Ozaslan, T., Pfrommer, B., Kumar, V., Daniilidis, K.,  
+*[The Multi Vehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception](https://daniilidis-group.github.io/mvsec/),*  
+IEEE Robotics and Automation Letters 3.3 (2018): 2032-2039. [PDF](https://arxiv.org/abs/1801.10202), [PDF RA-L](http://doi.org/10.1109/LRA.2018.2800793), [Dataset](https://daniilidis-group.github.io/mvsec/), [YouTube](https://youtu.be/9FaUvvzaHW8).
 
 ### Recognition
 - <a name="Orchard15fnins"></a>Orchard, G., Jayawant, A., Cohen, G.K., Thakor, N.,  
