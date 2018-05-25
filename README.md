@@ -377,7 +377,7 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017.
 arXiv:1710.09820, 2017.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras*,  
-Robotics, Science and Systems 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE)
+Robotics: Science and Systems XIV (RSS), Pittsburgh (PA), USA, 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE)
 
 
 <a name="image-reconstruction"></a>
@@ -475,7 +475,7 @@ IEEE Robotics and Automation Letters (RA-L), 2:2(632-639), 2017.
 - [Mueggler et. al. IJRR 2017](#Mueggler17ijrr).  
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
 
-<a name="f"></a>
+<a name="visual-inertial"></a>
 ## Visual-Inertial State Estimation
 - <a name="Mueggler17arxiv"></a>Mueggler, E., Gallego, G., Rebecq, H., Scaramuzza, D.,  
 *[Continuous-Time Visual-Inertial Trajectory Estimation with Event Cameras](https://arxiv.org/pdf/1702.07389.pdf)*,  
@@ -564,7 +564,7 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
 *[HATS: Histograms of Averaged Time Surfaces for Robust Event-based Object Classification](https://arxiv.org/abs/1803.07913)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. 
     - [N-CARS Dataset](#ncars_dataset): A large real-world event-based dataset for car classification.
-- [Zhu et. al. RSS 2018](#Zhu18rss),
+- [Zhu et. al. RSS 2018](#Zhu18rss),  
 *EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras.*
     
 <a name="control"></a>
@@ -626,7 +626,7 @@ Int. J. Robotics Research, 36:2, pp. 142-149, 2017. [PDF](https://arxiv.org/pdf/
 Int. Conf. Machine Learning, Sydney, Australia, PMLR 70, 2017. [Dataset](http://sensors.ini.uzh.ch/databases.html)
 - <a name="Zhu18mvsec"></a>Zhu, A., Thakur, D., Ozaslan, T., Pfrommer, B., Kumar, V., Daniilidis, K.,  
 *[The Multi Vehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception](https://doi.org/10.1109/LRA.2018.2800793),*  
-IEEE Robotics and Automation Letters 3.3 (2018): 2032-2039. [PDF](https://arxiv.org/abs/1801.10202), [PDF RA-L](http://doi.org/10.1109/LRA.2018.2800793), [Dataset](https://daniilidis-group.github.io/mvsec/), [YouTube](https://youtu.be/9FaUvvzaHW8).
+IEEE Robotics and Automation Letters 3.3 (2018): 2032-2039. [PDF](https://arxiv.org/abs/1801.10202), [Dataset](https://daniilidis-group.github.io/mvsec/), [YouTube](https://youtu.be/9FaUvvzaHW8).
 
 ### Recognition
 - <a name="Orchard15fnins"></a>Orchard, G., Jayawant, A., Cohen, G.K., Thakor, N.,  
