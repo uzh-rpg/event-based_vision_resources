@@ -227,9 +227,12 @@ arXiv:1710.10800, 2017.
 British Machine Vision Conf. (BMVC), York, 2016. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC16_Rebecq.pdf), [YouTube](https://www.youtube.com/watch?v=EUX3Tfx0KKE), [3D Reconstruction Experiments from a Train using an Event Camera](https://www.youtube.com/watch?v=fA4MiSzYHWA)
 - [Kim et. al. ECCV 2016](#Kim16eccv),  
 *Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera*.
-- <a name="Rebecq16bmvc"></a>Rebecq, H., Gallego, G., Scaramuzza, D.,  
+- <a name="Rebecq17ijcv"></a>Rebecq, H., Gallego, G., Scaramuzza, D.,  
 *[EMVS: Event-Based Multi-View Stereo—3D Reconstruction with an Event Camera in Real-Time](https://doi.org/10.1007/s11263-017-1050-6)*,  
 Int. J. of Computer Vision (IJCV), 2017. [PDF](http://rpg.ifi.uzh.ch/docs/IJCV17_Rebecq.pdf), [YouTube](https://youtu.be/EFpZcpd9XJ0).
+- <a name="Gallego18cvpr"></a>Gallego, G., Rebecq, H., Scaramuzza, D.,  
+*[A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation](https://arxiv.org/pdf/1804.01306.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR18_Gallego.pdf), [YouTube](https://youtu.be/KFMZFhi-9Aw).
 
 
 ### Monocular Depth Estimation using Structured Light
@@ -321,6 +324,9 @@ IEEE Trans. Neural Netw. Learn. Syst., 2017.
 - <a name="Xie17fnins"></a>Xie, Z., Chen, S., Orchard, G.  
 *[Event-Based Stereo Depth Estimation Using Belief Propagation](https://doi.org/10.3389/fnins.2017.00535)*,  
 Front. Neurosci. (2017), 11:535.  [YouTube](https://youtu.be/ngJpY1lcbdw)
+- <a name="Andreopoulos18cvpr"></a>Andreopoulos, A., Kashyap, H.J., Nayak, T.K., Amir, A., Flickner, M.D.,  
+*A Low Power, High Throughput, Fully Event-Based Stereo System*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018.
 - <a name="Zhu18arxiv"></a>Zhu, A., Chen, Y., Daniilidis, K.,  
 *[Realtime Time Synchronized Event-based Stereo](https://arxiv.org/abs/1803.09025)*,  
 arXiv:1803.09025, [YouTube](https://youtu.be/4oa7e4hsrYo)
@@ -377,6 +383,8 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017.
 - <a name="Haessig17arxiv"></a>Haessig, G., Cassidy, A. Alvarez, R., Benosman, R., Orchard, G.,  
 *[Spiking Optical Flow for Event-based Sensors Using IBM's TrueNorth Neurosynaptic System](https://arxiv.org/pdf/1710.09820.pdf)*,  
 arXiv:1710.09820, 2017.
+- [Gallego et. al. CVPR 2018](#Gallego18cvpr),  
+*A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation*.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras*,  
 Robotics: Science and Systems XIV (RSS), Pittsburgh (PA), USA, 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE)
@@ -447,6 +455,8 @@ Int. Conf. Advanced Robotics (ICAR), Hong Kong, China, 2017, pp. 530-536. [PDF](
 - <a name="Nguyen17arxiv"></a> Nguyen, A., Do, T.-T., Caldwell, D. G., Tsagarakis, N. G.,  
 *[Real-Time Pose Estimation for Event Cameras with Stacked Spatial LSTM Networks](https://arxiv.org/abs/1708.09011)*,  
 arXiv:1708.09011.
+- [Maqueda et. al. CVPR 2018](#Maqueda18cvpr).  
+*Event-based Vision meets Deep Learning on Steering Prediction for Self-driving Cars.*
 
 <a name="VOSLAM"></a>
 ## Visual Odometry and SLAM (Simultaneous Localization And Mapping)
@@ -476,6 +486,9 @@ IEEE Robotics and Automation Letters (RA-L), 2:2(632-639), 2017.
 [PDF](http://rpg.ifi.uzh.ch/docs/RAL16_Gallego.pdf), [Youtube](https://youtu.be/v1sXWoOAs_0).
 - [Mueggler et. al. IJRR 2017](#Mueggler17ijrr).  
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
+- [Gallego et. al. CVPR 2018](#Gallego18cvpr),  
+*A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation*.
+
 
 <a name="visual-inertial"></a>
 ## Visual-Inertial State Estimation
@@ -566,8 +579,12 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
 *[HATS: Histograms of Averaged Time Surfaces for Robust Event-based Object Classification](https://arxiv.org/abs/1803.07913)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. 
     - [N-CARS Dataset](#ncars_dataset): A large real-world event-based dataset for car classification.
+- <a name="Maqueda18cvpr"></a>Maqueda, A.I., Loquercio, A., Gallego, G., Garcia, N., Scaramuzza, D.,  
+*[Event-based Vision meets Deep Learning on Steering Prediction for Self-driving Cars](https://arxiv.org/pdf/1804.01310.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR18_Maqueda.pdf), [YouTube](https://youtu.be/_r_bsjkJTHA).
 - [Zhu et. al. RSS 2018](#Zhu18rss),  
 *EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras.*
+
     
 <a name="control"></a>
 ## Control
