@@ -324,6 +324,9 @@ IEEE Trans. Neural Netw. Learn. Syst., 2017.
 - <a name="Xie17fnins"></a>Xie, Z., Chen, S., Orchard, G.  
 *[Event-Based Stereo Depth Estimation Using Belief Propagation](https://doi.org/10.3389/fnins.2017.00535)*,  
 Front. Neurosci. (2017), 11:535.  [YouTube](https://youtu.be/ngJpY1lcbdw)
+- <a name="Martel18iscas"></a>Martel, J. N.; Mueller, J.; Conradt, J., Sandamirskaya, Y.,  
+*[An Active Approach to Solving the Stereo Matching Problem using Event-Based Sensors](http://dx.doi.org/10.1109/ISCAS.2018.8351411)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), Florence, Italy, 2018, pp. 1-5.
 - <a name="Andreopoulos18cvpr"></a>Andreopoulos, A., Kashyap, H.J., Nayak, T.K., Amir, A., Flickner, M.D.,  
 *A Low Power, High Throughput, Fully Event-Based Stereo System*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018.
@@ -388,6 +391,9 @@ arXiv:1710.09820, 2017.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras*,  
 Robotics: Science and Systems XIV (RSS), Pittsburgh (PA), USA, 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE)
+- <a name="Liu18arxiv"></a>Liu, M., Delbruck, T.,  
+*[ABMOF A Novel Optical Flow Algorithm for Dynamic Vision Sensors](https://arxiv.org/pdf/1805.03988.pdf)*,  
+arXiv: 1805.03988, 2018. [Supplementary material](https://docs.google.com/document/d/10X0z4zznuV9j1OOjWpJGv-YCWujkF7FiYjG6efwUrP0/edit), [Video](https://youtu.be/Ss-MciioqTk)
 
 
 <a name="image-reconstruction"></a>
@@ -416,6 +422,9 @@ British Machine Vision Conf. (BMVC), York, 2016. [PDF](http://www.bmva.org/bmvc/
 - <a name="Moeys17iscas"></a>Moeys, D. P., Li, C., Martel, J. N. P., Bamford, S., Longinotti, L., Motsnyi, V., Bello, D. S. S., Delbruck, T.,  
 *Color Temporal Contrast Sensitivity in Dynamic Vision Sensors*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=65634).
+- <a name="Shedligeri18arxiv"></a>Shedligeri, P.A., Shah, K., Kumar, D., Mitra, K.,  
+*[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://arxiv.org/pdf/1805.06140.pdf)*,  
+arXiv:1805.06140, 2018.
 
 
 <a name="egomotion"></a>
