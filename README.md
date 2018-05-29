@@ -42,9 +42,12 @@ ___
 <a name="devices"></a>
 # Devices & Companies Manufacturing them
 - **DVS (Dynamic Vision Sensor)**: Lichtsteiner, P., Posch, C., and Delbruck, T., *[A 128x128 120dB 15μs latency asynchronous temporal contrast vision sensor](http://doi.org/10.1109/JSSC.2007.914337)*, IEEE J. Solid-State Circuits, 43(2):566-576, 2008.
-    - [Product page at iniLabs](https://inilabs.com/products/dynamic-vision-sensors/). [Buy a DVS](https://inilabs.com/buy/)
-    - [Introductory videos about the DVS](https://inilabs.com/videos/dvs-introduction/)
-    - [iniLabs](https://inilabs.com) invents, produces and sells neuromorphic technologies for *research*.
+    - [Product page at iniVation](https://inivation.com/dvs/). [**Buy a DVS**](https://inivation.com/buy/)
+    - [Product specifications](https://inivation.com/wp-content/uploads/2018/01/DVS-Specifications.pdf)    
+    - [Introductory videos about the DVS](https://inivation.com/dvs/videos/dvs-introduction/)
+    - [More videos about the DVS technology](https://inivation.com/dvs/videos/)
+    - [iniVation](https://inivation.com/) produces and sells neuromorphic visual systems.
+    - [iniLabs](https://inilabs.com) invents neuromorphic technologies for *research*.
 - **DLS (Dynamic Line Sensor)**: Posch, C., Hofstaetter, M., Matolin, D., Vanstraelen, G., Schoen, P., Donath, N., and Litzenberger, M., *[A dual-line optical transient sensor with on-chip precision time-stamp generation](https://doi.org/10.1109/ISSCC.2007.373513)*, IEEE Int. Solid-State Circuits Conf. - Digest of Technical Papers, Lisbon Falls, MN, US, 2007.
     - [Fact sheet at AIT](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_Linescan-Chip_DLS_en.pdf).
 - **LWIR DVS**: Posch, C., Matolin, D., Wohlgenannt, R., Maier, T., Litzenberger, M., *[A Microbolometer Asynchronous Dynamic Vision Sensor for LWIR](https://doi.org/10.1109/JSEN.2009.2020658)*, IEEE Sensors Journal, 9 (2009), 6; S. 654 - 664.
@@ -53,7 +56,8 @@ ___
     - Prototype, commercially n.a.
 - **DAVIS (Dynamic and Active-Pixel Vision Sensor)** :
 Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333-2341, 2014.
-    - [Product page at iniLabs](https://inilabs.com/products/dynamic-and-active-pixel-vision-sensor/). [Buy a DAVIS](https://inilabs.com/buy/)
+    - [Product page at iniVation](https://inivation.com/dvs/).  [**Buy a DAVIS**](https://inivation.com/buy/)
+    - [Product specifications](https://inivation.com/support/product-specifications/) and [user guide](https://inivation.com/support/hardware/davis240/)
     - **Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734)*, IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 718-721.
 - **ATIS (Asynchronous Time-based Image Sensor)**: Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011.
     - [Prophesee](http://www.prophesee.ai) (Formerly [Chronocam](http://www.chronocam.com/))
@@ -75,13 +79,13 @@ Proc. IEEE (2014), 102(10):1470-1484.
 
 <a name="companies_sftwr"></a>
 # Companies working on Event-based Vision
-- [iniLabs](https://inilabs.com) invents, produces and sells neuromorphic technologies for *research*.
+- [iniVation](https://inilabs.com) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*.
+- [iniLabs](https://inilabs.com) invents neuromorphic technologies for *research*.
 - [Samsung](www.samsung.com) develops Gen2 and Gen3 dynamic vision sensors and event-based vision solutions.
   - [IBM Research](http://www.research.ibm.com/articles/brain-chip.shtml) ([Synapse project](http://www.research.ibm.com/cognitive-computing/brainpower/)) and Samsung partenered to combine the [TrueNorth chip (brain) with a DVS (eye)](https://www.cnet.com/news/samsung-turns-ibms-brain-like-chip-into-a-digital-eye/).
 - [Prophesee](http://www.prophesee.ai) (Formerly [Chronocam](http://www.chronocam.com/)) develops bio-inspired and self-adapting approach to the need for visual sensing and processing in autonomous vehicles, connected devices, security and surveillance systems.
 - [Insightness AG](http://www.insightness.com/) builds visual systems to give mobile devices spatial awareness. [The Silicon Eye](http://www.insightness.com/?p=361) Technology.
 - [SLAMcore](https://www.slamcore.com/) develops Localisation and mapping solutions for AR/VR, robotics & autonomous vehicles.
-- [iniVation](http://inivation.com) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*.
 - [Hillhouse Technology](http://www.hillhouse-tech.com/) offer integrated sensory platforms that incorporate various components and technologies, including a processing chipset and an image sensor (a dynamic vision sensor called CeleX).
 - [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/) sells neuromorphic sensor products.
     - [Inspection during production of carton packs](https://www.youtube.com/watch?v=8PZmb2z2bXw&index=39&list=PL659671AC92E70F19)
