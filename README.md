@@ -596,7 +596,13 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018.
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR18_Maqueda.pdf), [YouTube](https://youtu.be/_r_bsjkJTHA).
 - [Zhu et. al. RSS 2018](#Zhu18rss),  
 *EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras.*
-
+- <a name="Haessig18arxiv"></a>Haessig, G. and Benosman, R.,  
+*[A Sparse Coding Multi-Scale Precise-Timing Machine Learning Algorithm for Neuromorphic Event-Based Sensors](https://arxiv.org/pdf/1804.09236.pdf)*,  
+arXiv: 1804.09236, 2018.
+- <a name="LiuW18arxiv"></a>Liu, W., Chen, H., Goel, R., Huang, Y., Veeraraghavan, A., Patel, A.,  
+*[Fast Retinomorphic Event-Driven Representations for Video Recognition and Reinforcement Learning](https://arxiv.org/pdf/1804.01310.pdf)*,  
+arXiv: 1804.01310, 2018.
+ 
     
 <a name="control"></a>
 ## Control
