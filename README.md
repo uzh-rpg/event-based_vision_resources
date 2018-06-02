@@ -845,6 +845,9 @@ Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2017. [PDF](https://www.research-
 - <a name="Mueggler17PhD"></a>Mueggler, E.,  
 *[Event-based Vision for High-Speed Robotics](http://rpg.ifi.uzh.ch/docs/PhD17_Mueggler.pdf)*,  
 Ph.D. Thesis, University of Zurich, Zurich, Switzerland, 2017.
+- <a name="Kim17PhD"></a>Kim, H.,  
+*[Real-time visual SLAM with an event camera](http://hdl.handle.net/10044/1/59704)*,  
+Ph.D. Thesis, Imperial College London, United Kingdom, 2017.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 <a name="theses-master"></a>
