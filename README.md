@@ -219,6 +219,10 @@ IEEE Trans. Neural Netw. Learn. Syst., 28(4):791-803, 2017.
 - <a name="Ramesh17arxiv"></a>Ramesh, B., Yang, H., Orchard, G., Le Thi, N.A., Xiang, C,  
 *[DART: Distribution Aware Retinal Transform for Event-based Cameras](https://arxiv.org/pdf/1710.10800.pdf)*,  
 arXiv:1710.10800, 2017.
+- <a name="Mitrokhin18arxiv"></a>Mitrokhin, A., Fermuller, C., Parameshwara, C., Aloimonos, Y.,  
+*[Event-based Moving Object Detection and Tracking](https://arxiv.org/pdf/1803.04523.pdf)*,  
+arXiv:1803.04523, 2018. [YouTube](https://youtu.be/UCAJi0ZFaZ8), [Project page](http://prg.cs.umd.edu/BetterFlow.html)
+
 
 <a name="depth-estimation"></a>
 ## Depth Estimation (3D Reconstruction)
@@ -389,6 +393,9 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017.
 - <a name="Haessig17arxiv"></a>Haessig, G., Cassidy, A. Alvarez, R., Benosman, R., Orchard, G.,  
 *[Spiking Optical Flow for Event-based Sensors Using IBM's TrueNorth Neurosynaptic System](https://arxiv.org/pdf/1710.09820.pdf)*,  
 arXiv:1710.09820, 2017.
+- <a name="Stoffregen17acra"></a>Stoffregen, T., Kleeman, L.,  
+*[Simultaneous Optical Flow and Segmentation (SOFAS) using Dynamic Vision Sensor](http://www.araa.asn.au/acra/acra2017/papers/pap127s1-file1.pdf)*,  
+Australasian Conference on Robotics and Automation (ACRA), 2017. [PDF](https://arxiv.org/pdf/1805.12326.pdf), [YouTube](https://youtu.be/JVkQOW_iUqs)
 - [Gallego et. al. CVPR 2018](#Gallego18cvpr),  
 *A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation*.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
