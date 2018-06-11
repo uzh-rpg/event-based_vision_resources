@@ -511,20 +511,21 @@ IEEE Robotics and Automation Letters (RA-L), 2:2(632-639), 2017.
 
 <a name="visual-inertial"></a>
 ## Visual-Inertial State Estimation
-- <a name="Mueggler17arxiv"></a>Mueggler, E., Gallego, G., Rebecq, H., Scaramuzza, D.,  
-*[Continuous-Time Visual-Inertial Trajectory Estimation with Event Cameras](https://arxiv.org/pdf/1702.07389.pdf)*,  
-(Under review), 2017.
+- <a name="Mueggler18tro"></a>Mueggler, E., Gallego, G., Rebecq, H., Scaramuzza, D.,  
+*[Continuous-Time Visual-Inertial Odometry for Event Cameras](http://rpg.ifi.uzh.ch/docs/TRO18_Mueggler.pdf)*,  
+IEEE Transactions on Robotics, 2018.
 - [Mueggler et. al. IJRR 2017](#Mueggler17ijrr).  
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
 - <a name="Zhu17cvpr"></a>Zhu, A., Atanasov, N., Daniilidis, K.,  
 *[Event-based Visual Inertial Odometry](https://doi.org/10.1109/CVPR.2017.616)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017. [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Event-Based_Visual_Inertial_CVPR_2017_paper.pdf), [Supplementary material](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Zhu_Event-Based_Visual_Inertial_2017_CVPR_supplemental.zip), [YouTube](https://youtu.be/9zGoR67l9Wc).
 - <a name="Rebecq17bmvc"></a>Rebecq, H., Horstschaefer, T., Scaramuzza, D.,  
-*Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization*,  
-British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq.pdf), [Appendix](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq_appendix.pdf), [YouTube](https://youtu.be/F3OFzsaPtvI)
-- <a name="Rosinol17arxiv"></a>Rosinol Vidal, A., Rebecq, H., Horstschaefer, T., Scaramuzza, D.,  
-*Hybrid, Frame and Event based Visual Inertial Odometry for Robust, Autonomous Navigation of Quadrotors*,  
-Under Review, 2017. [PDF](https://arxiv.org/pdf/1709.06310), [YouTube](https://youtu.be/jIvJuWdmemE)
+*[Real-time Visual-Inertial Odometry for Event Cameras using Keyframe-based Nonlinear Optimization](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq.pdf)*,  
+British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq.pdf), [Appendix](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq_appendix.pdf), [YouTube](https://youtu.be/F3OFzsaPtvI), [Project page](http://rpg.ifi.uzh.ch/ultimateslam.html), [PPT](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq.pptx), [Oral presentation](https://youtu.be/iYptNMqK0tQ).
+- <a name="Rosinol18ral"></a>Rosinol Vidal, A., Rebecq, H., Horstschaefer, T., Scaramuzza, D.,  
+*[Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios](https://doi.org/10.1109/LRA.2018.2793357)*,  
+IEEE Robotics and Automation Letters, vol. 3, no. 2, pp. 994-1001, April 2018. [PDF](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq.pdf), [YouTube](https://youtu.be/jIvJuWdmemE), [Project page](http://rpg.ifi.uzh.ch/ultimateslam.html), [ICRA18 video pitch](https://youtu.be/0hDGFFJQfmA).
+ 
 
 <a name="visual-stabilization"></a>
 ## Visual Stabilization
