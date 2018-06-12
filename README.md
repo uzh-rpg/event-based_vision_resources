@@ -456,7 +456,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Chicago, IL, 2014, pp
 arXiv:1510.01972, 2015.
 - <a name="Mueggler15rss"></a>Mueggler, E., Gallego G., Scaramuzza, D.,   
 *[Continuous-Time Trajectory Estimation for Event-based Vision Sensors](http://dx.doi.org/10.15607/RSS.2015.XI.036)*,  
-Robotics: Science and Systems XI (RSS), Rome, Italy, 2015. [PDF]
+Robotics: Science and Systems XI (RSS), Rome, Italy, 2015. [PDF](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler.pdf), [PPT](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler.pptm),  [Poster](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler_poster.pdf)
 - <a name="Reverter16fnins"></a>Reverter Valeiras, D., Orchard, G., Ieng, S.-H., Benosman, R.,  
 *[Neuromorphic Event-Based 3D Pose Estimation](https://doi.org/10.3389/fnins.2015.00522)*.  
 Front. Neurosci. (2016), 9:522.  
