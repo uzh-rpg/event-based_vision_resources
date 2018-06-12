@@ -399,7 +399,7 @@ Australasian Conference on Robotics and Automation (ACRA), 2017. [PDF](https://a
 - [Gallego et. al. CVPR 2018](#Gallego18cvpr),  
 *A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation*.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
-*EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras*,  
+*[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
 Robotics: Science and Systems XIV (RSS), Pittsburgh (PA), USA, 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE)
 - <a name="Liu18arxiv"></a>Liu, M., Delbruck, T.,  
 *[ABMOF A Novel Optical Flow Algorithm for Dynamic Vision Sensors](https://arxiv.org/pdf/1805.03988.pdf)*,  
