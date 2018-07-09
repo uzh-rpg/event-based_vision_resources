@@ -608,8 +608,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. [PDF](http://rpg
 *[A Sparse Coding Multi-Scale Precise-Timing Machine Learning Algorithm for Neuromorphic Event-Based Sensors](https://arxiv.org/pdf/1804.09236.pdf)*,  
 arXiv: 1804.09236, 2018.
 - <a name="LiuW18arxiv"></a>Liu, W., Chen, H., Goel, R., Huang, Y., Veeraraghavan, A., Patel, A.,  
-*[Fast Retinomorphic Event-Driven Representations for Video Recognition and Reinforcement Learning](https://arxiv.org/pdf/1804.01310.pdf)*,  
-arXiv: 1804.01310, 2018.
+*[Fast Retinomorphic Event-Driven Representations for Video Recognition and Reinforcement Learning](https://arxiv.org/pdf/1805.06374.pdf)*,  
+arXiv: 1805.06374, 2018.
  
     
 <a name="control"></a>
