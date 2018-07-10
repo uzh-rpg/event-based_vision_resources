@@ -432,6 +432,9 @@ British Machine Vision Conf. (BMVC), York, 2016. [PDF](http://www.bmva.org/bmvc/
 - <a name="Moeys17iscas"></a>Moeys, D. P., Li, C., Martel, J. N. P., Bamford, S., Longinotti, L., Motsnyi, V., Bello, D. S. S., Delbruck, T.,  
 *Color Temporal Contrast Sensitivity in Dynamic Vision Sensors*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=65634).
+- <a name="Munda18ijcv"></a>Munda, G., Reinbacher, C., Pock, T.,  
+*[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](https://doi.org/10.1007/s11263-018-1106-2)*,  
+Int. J. of Computer Vision (IJCV), 2018.
 - <a name="Shedligeri18arxiv"></a>Shedligeri, P.A., Shah, K., Kumar, D., Mitra, K.,  
 *[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://arxiv.org/pdf/1805.06140.pdf)*,  
 arXiv:1805.06140, 2018.
