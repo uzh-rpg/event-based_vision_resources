@@ -337,6 +337,7 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), Florence, Italy, 2018, pp. 1-5.
 - <a name="Andreopoulos18cvpr"></a>Andreopoulos, A., Kashyap, H.J., Nayak, T.K., Amir, A., Flickner, M.D.,  
 *[A Low Power, High Throughput, Fully Event-Based Stereo System](http://openaccess.thecvf.com/content_cvpr_2018/papers/Andreopoulos_A_Low_Power_CVPR_2018_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018.
+   - [Stereo Dataset](https://ibm.ent.box.com/s/3hiq58ww1pbbjrinh367ykfdf60xsfm8).
 - <a name="Zhu18arxiv"></a>Zhu, A., Chen, Y., Daniilidis, K.,  
 *[Realtime Time Synchronized Event-based Stereo](https://arxiv.org/abs/1803.09025)*,  
 arXiv:1803.09025, [YouTube](https://youtu.be/4oa7e4hsrYo)
