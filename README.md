@@ -403,8 +403,8 @@ Australasian Conference on Robotics and Automation (ACRA), 2017. [PDF](https://a
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
 Robotics: Science and Systems XIV (RSS), Pittsburgh (PA), USA, 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE)
 - <a name="Liu18arxiv"></a>Liu, M., Delbruck, T.,  
-*[ABMOF A Novel Optical Flow Algorithm for Dynamic Vision Sensors](https://arxiv.org/pdf/1805.03988.pdf)*,  
-arXiv: 1805.03988, 2018. [Supplementary material](https://docs.google.com/document/d/10X0z4zznuV9j1OOjWpJGv-YCWujkF7FiYjG6efwUrP0/edit), [Video](https://youtu.be/Ss-MciioqTk)
+*[Adaptive Time-Slice Block-Matching Optical Flow Algorithm for Dynamic Vision Sensors](https://arxiv.org/pdf/1805.03988.pdf)*,  
+British Machine Vision Conf. (BMVC), Newcastle, 2018. [Supplementary material](https://docs.google.com/document/d/10X0z4zznuV9j1OOjWpJGv-YCWujkF7FiYjG6efwUrP0/edit), [Video](https://youtu.be/Ss-MciioqTk)
 
 
 <a name="image-reconstruction"></a>
@@ -420,7 +420,7 @@ Int. Joint Conf. on Neural Networks (IJCNN), San Jose, CA, 2011, pp. 770-776. [Y
     IEEE Int. Symp. Circuits and Systems (ISCAS), Lisbon, 2015, pp. 2061-2064.
 - <a name="Kim14bmvc"></a>Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A. J.,  
 *[Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/)*, 
-British Machine Vision Conference, 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU).
+British Machine Vision Conf. (BMVC), Nottingham, 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU).
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events).
 - <a name="Barua16wacv"></a>Barua, S., Miyatani, Y., Veeraraghavan, A.,  
 *[Direct face detection and video reconstruction from event cameras](http://doi.org/10.1109/WACV.2016.7477561)*,  
