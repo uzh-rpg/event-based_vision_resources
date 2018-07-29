@@ -202,17 +202,17 @@ Front. Neurosci. (2017), 10:594.
 *[Event-based Feature Tracking with Probabilistic Data Association](https://doi.org/10.1109/ICRA.2017.7989517)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), Singapore, 2017. [PDF](https://fling.seas.upenn.edu/~alexzhu/dynamic/wp-content/uploads/2017/07/EventBasedFeatureTrackingICRA2017.pdf), [YouTube](https://youtu.be/m93XCqAS6Fc), [Code](https://github.com/daniilidis-group/event_feature_tracking)
 - <a name="Mueggler17bmvc"></a>Mueggler, E., Bartolozzi, C., Scaramuzza, D.,  
-*Fast Event-based Corner Detection*,  
-British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC17_Mueggler.pdf), [YouTube](https://youtu.be/tgvM4ELesgI)
+*[Fast Event-based Corner Detection](http://rpg.ifi.uzh.ch/docs/BMVC17_Mueggler.pdf)*,  
+British Machine Vision Conf. (BMVC), London, 2017. [YouTube](https://youtu.be/tgvM4ELesgI)
 - <a name="Glover17iros"></a>Glover, A. and Bartolozzi, C.,  
-*Robust Visual Tracking with a Freely-moving Event Camera*,  
+*[Robust Visual Tracking with a Freely-moving Event Camera](https://doi.org/10.1109/IROS.2017.8206226)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Vancouver, Canada, 2017. [YouTube](https://youtu.be/xS-7xYRYSLc), [Code](https://github.com/robotology/event-driven)
 - <a name="BarriosAviles17arxiv"></a>Barrios-Avilés, J., Iakymchuk, T., Samaniego, J., Rosado-Muñoz, A.,  
 *[An Event-based Fast Movement Detection Algorithm for a Positioning Robot Using POWERLINK Communication](https://arxiv.org/abs/1707.07188)*,  
 arXiv:1707.07188, 2017.
 - <a name="Li17bmvc"></a>Li, J., Shi, F., Liu, W., Zou, D., Wang, Q., Park, Paul-K.J., Hyunsurk, E.R.,  
-*Adaptive Temporal Pooling for Object Detection using Dynamic Vision Sensor*,  
-British Machine Vision Conf. (BMVC), London, 2017. [PDF](https://www.dropbox.com/s/m77i7cqqy7xbg51/0099.pdf?dl=1)
+*[Adaptive Temporal Pooling for Object Detection using Dynamic Vision Sensor](https://www.dropbox.com/s/m77i7cqqy7xbg51/0099.pdf?dl=1)*,  
+British Machine Vision Conf. (BMVC), London, 2017.
 - <a name="Peng17tnnls"></a>Peng, X., Zhao, B., Yan, R., Tang H., Yi, Z.,  
 *[Bag of Events: An Efficient Probability-Based Feature Extraction Method for AER Image Sensors](http://dx.doi.org/10.1109/TNNLS.2016.2536741)*,  
 IEEE Trans. Neural Netw. Learn. Syst., 28(4):791-803, 2017.
@@ -222,6 +222,9 @@ arXiv:1710.10800, 2017.
 - <a name="Mitrokhin18arxiv"></a>Mitrokhin, A., Fermuller, C., Parameshwara, C., Aloimonos, Y.,  
 *[Event-based Moving Object Detection and Tracking](https://arxiv.org/pdf/1803.04523.pdf)*,  
 arXiv:1803.04523, 2018. [YouTube](https://youtu.be/UCAJi0ZFaZ8), [Project page](http://prg.cs.umd.edu/BetterFlow.html)
+- <a name="Gehrig18eccv"></a>Gehrig, D., Rebecq, H., Gallego, G., Scaramuzza, D.,  
+*[Asynchronous, Photometric Feature Tracking using Events and Frames](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig.pdf)*,  
+European Conf. Computer Vision (ECCV) 2018. [YouTube](https://youtu.be/A7UfeUnG6c4).
 
 
 <a name="depth-estimation"></a>
@@ -323,8 +326,8 @@ Conf. Biomimetic and Biohybrid Systems. Living Machines 2017: Biomimetic and Bio
 *[Event-driven stereo vision algorithm based on silicon retina sensors](http://doi.org/10.1109/RADIOELEK.2017.7937602)*,  
 27th Int. Conf. Radioelektronika, Brno, 2017, pp. 1-6.
 - <a name="Zou17bmvc"></a>Zou, D., Shi, F., Liu, W., Li, J., Wang, Q., Park P.-K.J., Hyunsurk, E. R.,  
-*Robust Dense Depth Map Estimation from Sparse DVS Stereos*,  
-British Machine Vision Conf. (BMVC), London, 2017. [PDF](https://www.dropbox.com/s/ee6dn8zy4odpfwl/0096.pdf?dl=1), [Supp. Material](https://www.dropbox.com/s/eztqo109iue6ned/Active%20Papers%20Paper%2096%20%20Supplementary%20File.zip?dl=1).
+*[Robust Dense Depth Map Estimation from Sparse DVS Stereos](https://www.dropbox.com/s/ee6dn8zy4odpfwl/0096.pdf?dl=1)*,  
+British Machine Vision Conf. (BMVC), London, 2017. [Supp. Material](https://www.dropbox.com/s/eztqo109iue6ned/Active%20Papers%20Paper%2096%20%20Supplementary%20File.zip?dl=1).
 - Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S., Benosman, R., Linares-Barranco, B.,  
 *[Event-driven Stereo Visual Tracking Algorithm to Solve Object Occlusion](https://doi.org/10.1109/TNNLS.2017.2759326)*,  
 IEEE Trans. Neural Netw. Learn. Syst., 2017.
@@ -338,9 +341,12 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), Florence, Italy, 2018, pp. 1-5.
 *[A Low Power, High Throughput, Fully Event-Based Stereo System](http://openaccess.thecvf.com/content_cvpr_2018/papers/Andreopoulos_A_Low_Power_CVPR_2018_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018.
    - [Stereo Dataset](https://ibm.ent.box.com/s/3hiq58ww1pbbjrinh367ykfdf60xsfm8).
-- <a name="Zhu18arxiv"></a>Zhu, A., Chen, Y., Daniilidis, K.,  
+- <a name="Zhu18eccv"></a>Zhu, A., Chen, Y., Daniilidis, K.,  
 *[Realtime Time Synchronized Event-based Stereo](https://arxiv.org/abs/1803.09025)*,  
-arXiv:1803.09025, [YouTube](https://youtu.be/4oa7e4hsrYo)
+European Conf. Computer Vision (ECCV) 2018. [YouTube](https://youtu.be/4oa7e4hsrYo)
+- <a name="Zhou18eccv"></a>Zhou, Y., Gallego, G., Rebecq, H., Kneip, L., Li, H., Scaramuzza, D.,  
+*[Semi-Dense 3D Reconstruction with a Stereo Event Camera](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou.pdf)*,  
+European Conf. Computer Vision (ECCV) 2018. [YouTube](https://youtu.be/Qrnpj2FD1e4).
 
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
