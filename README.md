@@ -142,9 +142,9 @@ IEEE Intelligent Transportation Systems Conf., Toronto, Ont., 2006, pp. 653-658.
 - <a name="Drazen11eif"></a>Drazen, D., Lichtsteiner, P., Haefliger, P., Delbruck, T., Jensen, A.,  
 *[Toward real-time particle tracking using an event-based dynamic vision sensor](https://doi.org/10.1007/s00348-011-1207-y)*,  
 Experiments in Fluids (2011), 51(1):1465-1469. [PDF](http://www.zora.uzh.ch/60624/1/Drazen_EIF_2011.pdf)
-- <a name="Ni11jmcro"></a>Ni, Z., Pacoret, Benosman, R., Ieng, S., Reginer, S.,  
+- <a name="Ni11jmcro"></a>Ni, Z., Pacoret, C., Benosman, R., Ieng, S., Regnier, S.,  
 *[Asynchronous event-based high speed vision for microparticle tracking](http://doi.org/10.1111/j.1365-2818.2011.03565.x)*,  
-J. Microscopy (2011), 245(1):236-244.
+J. Microscopy (2011), 245(3):236-244.
 - <a name="Ni12tro"></a>Ni, Z., Bolopion, A., Agnus, J., Benosman, R., Regnier, S.,  
 *[Asynchronous event-based visual shape tracking for stable haptic feedback in microrobotics](https://doi.org/10.1109/TRO.2012.2198930)*,  
 IEEE Trans. Robot., 28(5):1081-1089, 2012.
