@@ -411,8 +411,8 @@ Australasian Conference on Robotics and Automation (ACRA), 2017. [PDF](https://a
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
 Robotics: Science and Systems XIV (RSS), Pittsburgh (PA), USA, 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE)
 - <a name="Liu18arxiv"></a>Liu, M., Delbruck, T.,  
-*[Adaptive Time-Slice Block-Matching Optical Flow Algorithm for Dynamic Vision Sensors](https://arxiv.org/pdf/1805.03988.pdf)*,  
-British Machine Vision Conf. (BMVC), Newcastle, 2018. [Supplementary material](https://docs.google.com/document/d/10X0z4zznuV9j1OOjWpJGv-YCWujkF7FiYjG6efwUrP0/edit), [Video](https://youtu.be/Ss-MciioqTk)
+*[Adaptive Time-Slice Block-Matching Optical Flow Algorithm for Dynamic Vision Sensors](http://bmvc2018.org/papers/0280.pdf)*,  
+British Machine Vision Conf. (BMVC), Newcastle, 2018. [Supplementary material](https://docs.google.com/document/d/10X0z4zznuV9j1OOjWpJGv-YCWujkF7FiYjG6efwUrP0/edit), [Video](https://youtu.be/fGJ8jyqziBI)
 
 
 <a name="image-reconstruction"></a>
