@@ -254,7 +254,7 @@ Int. Conf. 3D Vision (3DV), 2018.  [YouTube](https://youtu.be/I31yQqmCsfs)
 ### Monocular Depth Estimation
 - <a name="Rebecq16bmvc"></a>Rebecq, H., Gallego, G., Scaramuzza, D.,  
 *[EMVS: Event-based Multi-View Stereo](http://www.bmva.org/bmvc/2016/papers/paper063/)*,  
-British Machine Vision Conf. (BMVC), York, 2016. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC16_Rebecq.pdf), [YouTube](https://www.youtube.com/watch?v=EUX3Tfx0KKE), [3D Reconstruction Experiments from a Train using an Event Camera](https://www.youtube.com/watch?v=fA4MiSzYHWA)
+British Machine Vision Conf. (BMVC), 2016. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC16_Rebecq.pdf), [YouTube](https://www.youtube.com/watch?v=EUX3Tfx0KKE), [3D Reconstruction Experiments from a Train using an Event Camera](https://www.youtube.com/watch?v=fA4MiSzYHWA)
 - [Kim et. al. ECCV 2016](#Kim16eccv),  
 *Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera*.
 - <a name="Rebecq17ijcv"></a>Rebecq, H., Gallego, G., Scaramuzza, D.,  
@@ -430,7 +430,7 @@ Australasian Conference on Robotics and Automation (ACRA), 2017. [PDF](https://a
 Robotics: Science and Systems XIV (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE)
 - <a name="Liu18arxiv"></a>Liu, M., Delbruck, T.,  
 *[Adaptive Time-Slice Block-Matching Optical Flow Algorithm for Dynamic Vision Sensors](http://bmvc2018.org/papers/0280.pdf)*,  
-British Machine Vision Conf. (BMVC), Newcastle, 2018. [Supplementary material](https://docs.google.com/document/d/10X0z4zznuV9j1OOjWpJGv-YCWujkF7FiYjG6efwUrP0/edit), [Video](https://youtu.be/fGJ8jyqziBI)
+British Machine Vision Conf. (BMVC), 2018. [Supplementary material](https://docs.google.com/document/d/10X0z4zznuV9j1OOjWpJGv-YCWujkF7FiYjG6efwUrP0/edit), [Video](https://youtu.be/fGJ8jyqziBI)
 
 
 <a name="image-reconstruction"></a>
@@ -446,7 +446,7 @@ Int. Joint Conf. on Neural Networks (IJCNN), San Jose, CA, 2011, pp. 770-776. [Y
     IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 2061-2064.
 - <a name="Kim14bmvc"></a>Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A. J.,  
 *[Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/)*, 
-British Machine Vision Conf. (BMVC), Nottingham, 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU).
+British Machine Vision Conf. (BMVC), 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU).
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events).
 - <a name="Barua16wacv"></a>Barua, S., Miyatani, Y., Veeraraghavan, A.,  
 *[Direct face detection and video reconstruction from event cameras](http://doi.org/10.1109/WACV.2016.7477561)*,  
@@ -455,7 +455,7 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), Lake Placid, NY, 2016,
 *Simultaneous Optical Flow and Intensity Estimation from an Event Camera*.
 - <a name="Reinbacher16bmvc"></a>Reinbacher, C., Graber, G., Pock, T.,  
 *[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](http://www.bmva.org/bmvc/2016/papers/paper009/)*,  
-British Machine Vision Conf. (BMVC), York, 2016. [PDF](http://www.bmva.org/bmvc/2016/papers/paper009/paper009.pdf), [YouTube](https://youtu.be/rvB2URrGT94), [Code](https://github.com/VLOGroup/dvs-reconstruction)
+British Machine Vision Conf. (BMVC), 2016. [PDF](http://www.bmva.org/bmvc/2016/papers/paper009/paper009.pdf), [YouTube](https://youtu.be/rvB2URrGT94), [Code](https://github.com/VLOGroup/dvs-reconstruction)
 - <a name="Moeys17iscas"></a>Moeys, D. P., Li, C., Martel, J. N. P., Bamford, S., Longinotti, L., Motsnyi, V., Bello, D. S. S., Delbruck, T.,  
 *[Color Temporal Contrast Sensitivity in Dynamic Vision Sensors](http://dx.doi.org/10.1109/ISCAS.2017.8050412)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2017. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=65634).
