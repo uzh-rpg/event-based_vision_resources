@@ -231,13 +231,13 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018. [YouTube](https
 *[Real-Time Clustering and Multi-Target Tracking Using Event-Based Sensors](https://arxiv.org/pdf/1807.02851.pdf)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018.
 - <a name="Iacono18iros"></a>Iacono, M., Weber, S., Glover, A., Bartolozzi, C.,  
-*[Towards Event-Driven Object Detection with Off-The-Shelf Deep Learning](https://arxiv.org/pdf/1807.02851.pdf)*,  
+*Towards Event-Driven Object Detection with Off-The-Shelf Deep Learning*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018.
 - <a name="Alzugaray18ral"></a>Alzugaray, I., Chli, M.,  
 *[Asynchronous Corner Detection and Tracking for Event Cameras in Real Time](http://dx.doi.org/10.1109/LRA.2018.2849882)*,  
 IEEE Robotics and Automation Letters (RA-L), 3(4):3177-3184, Oct. 2018.  [PDF](https://doi.org/10.3929/ethz-b-000277131), [YouTube](https://youtu.be/bKUAZ7IQcf0).
 - <a name="Alzugaray183dv"></a>Alzugaray, I., Chli, M.,  
-*[ACE: An Efficient Asynchronous Corner Tracker for Event Cameras]*,
+*ACE: An Efficient Asynchronous Corner Tracker for Event Cameras*,  
 Int. Conf. 3D Vision (3DV), 2018.  [YouTube](https://youtu.be/I31yQqmCsfs)
 
 
