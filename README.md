@@ -7,6 +7,7 @@
 
 - [Algorithms](#algorithms)
     - [Feature Detection and Tracking](#feature-detection)
+        - [Corners](#corner-detection)
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
         - [Monocular](#depth-mono)
         - [Stereo](#depth-stereo)
@@ -170,9 +171,6 @@ IEEE Trans. Neural Netw. Learn. Syst., 26(8):1710-1720, 2015.
 - <a name="Lagorce15fnins"></a>Lagorce, X., Ieng, S.-H., Clady, X., Pfeiffer, M., Benosman, R.,  
 *[Spatiotemporal features for asynchronous event-based data](http://dx.doi.org/10.3389/fnins.2015.00046)*,  
 Front. Neurosci. (2015), 9:46.
-- <a name="Clady15neunet"></a>Clady, X., Ieng, S.-H., Benosman, R.,  
-*[Asynchronous event-based corner detection and matching](https://doi.org/10.1016/j.neunet.2015.02.013)*,  
-Neural Networks (2015), 66:91-106.
 - <a name="Ni15neco"></a>Ni, Z., Ieng, S. H., Posch, C., Regnier, S., Benosman, R.,  
 *[Visual Tracking Using Neuromorphic Asynchronous Event-Based Cameras](https://doi.org/10.1162/NECO_a_00720)*,  
 Neural Computation (2015), 27(4):925-953.
@@ -194,18 +192,12 @@ Int. Conf. on Event-Based Control Comm. and Signal Proc. (EBCCSP), Krakow, Polan
 - <a name="Glover16iros"></a>Glover, A. and Bartolozzi, C.,  
 *[Event-driven ball detection and gaze fixation in clutter](https://doi.org/10.1109/IROS.2016.7759345)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Daejeon, South Korea, 2016, pp. 2203-2208. [YouTube](https://youtu.be/xS-7xYRYSLc), [Code](https://github.com/robotology/event-driven)
-- <a name="Vasco16iros"></a>Vasco, V., Glover, A., Bartolozzi, C.,  
-*[Fast event-based Harris corner detection exploiting the advantages of event-driven cameras](https://doi.org/10.1109/IROS.2016.7759610)*,  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Daejeon, South Korea, 2016, pp. 4144-4149. [YouTube](https://youtu.be/YkI7AfBDBKE), [Code](https://github.com/robotology/event-driven)
 - <a name="Clady17fnins"></a> Clady, X., Maro, J.-M., Barré, S., Benosman, R. B.,  
 *[A Motion-Based Feature for Event-Based Pattern Recognition](https://doi.org/10.3389/fnins.2016.00594)*.  
 Front. Neurosci. (2017), 10:594.
 - <a name="Zhu17icra"></a>Zhu, A., Atanasov, N., Daniilidis, K.,  
 *[Event-based Feature Tracking with Probabilistic Data Association](https://doi.org/10.1109/ICRA.2017.7989517)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), Singapore, 2017. [PDF](https://fling.seas.upenn.edu/~alexzhu/dynamic/wp-content/uploads/2017/07/EventBasedFeatureTrackingICRA2017.pdf), [YouTube](https://youtu.be/m93XCqAS6Fc), [Code](https://github.com/daniilidis-group/event_feature_tracking)
-- <a name="Mueggler17bmvc"></a>Mueggler, E., Bartolozzi, C., Scaramuzza, D.,  
-*[Fast Event-based Corner Detection](http://rpg.ifi.uzh.ch/docs/BMVC17_Mueggler.pdf)*,  
-British Machine Vision Conf. (BMVC), London, 2017. [YouTube](https://youtu.be/tgvM4ELesgI)
 - <a name="Glover17iros"></a>Glover, A. and Bartolozzi, C.,  
 *[Robust Visual Tracking with a Freely-moving Event Camera](https://doi.org/10.1109/IROS.2017.8206226)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Vancouver, Canada, 2017. [YouTube](https://youtu.be/xS-7xYRYSLc), [Code](https://github.com/robotology/event-driven)
@@ -233,6 +225,20 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018.
 - <a name="Iacono18iros"></a>Iacono, M., Weber, S., Glover, A., Bartolozzi, C.,  
 *Towards Event-Driven Object Detection with Off-The-Shelf Deep Learning*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018.
+
+
+<a name="corner-detection"></a>
+### Corner Detection and Tracking
+
+- <a name="Clady15neunet"></a>Clady, X., Ieng, S.-H., Benosman, R.,  
+*[Asynchronous event-based corner detection and matching](https://doi.org/10.1016/j.neunet.2015.02.013)*,  
+Neural Networks (2015), 66:91-106.
+- <a name="Vasco16iros"></a>Vasco, V., Glover, A., Bartolozzi, C.,  
+*[Fast event-based Harris corner detection exploiting the advantages of event-driven cameras](https://doi.org/10.1109/IROS.2016.7759610)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Daejeon, South Korea, 2016, pp. 4144-4149. [YouTube](https://youtu.be/YkI7AfBDBKE), [Code](https://github.com/robotology/event-driven)
+- <a name="Mueggler17bmvc"></a>Mueggler, E., Bartolozzi, C., Scaramuzza, D.,  
+*[Fast Event-based Corner Detection](http://rpg.ifi.uzh.ch/docs/BMVC17_Mueggler.pdf)*,  
+British Machine Vision Conf. (BMVC), London, 2017. [YouTube](https://youtu.be/tgvM4ELesgI)
 - <a name="Alzugaray18ral"></a>Alzugaray, I., Chli, M.,  
 *[Asynchronous Corner Detection and Tracking for Event Cameras in Real Time](http://dx.doi.org/10.1109/LRA.2018.2849882)*,  
 IEEE Robotics and Automation Letters (RA-L), 3(4):3177-3184, Oct. 2018.  [PDF](https://doi.org/10.3929/ethz-b-000277131), [YouTube](https://youtu.be/bKUAZ7IQcf0).
