@@ -221,12 +221,24 @@ IEEE Trans. Neural Netw. Learn. Syst., 28(4):791-803, 2017.
 - <a name="Ramesh17arxiv"></a>Ramesh, B., Yang, H., Orchard, G., Le Thi, N.A., Xiang, C,  
 *[DART: Distribution Aware Retinal Transform for Event-based Cameras](https://arxiv.org/pdf/1710.10800.pdf)*,  
 arXiv:1710.10800, 2017.
-- <a name="Mitrokhin18arxiv"></a>Mitrokhin, A., Fermuller, C., Parameshwara, C., Aloimonos, Y.,  
-*[Event-based Moving Object Detection and Tracking](https://arxiv.org/pdf/1803.04523.pdf)*,  
-arXiv:1803.04523, 2018. [YouTube](https://youtu.be/UCAJi0ZFaZ8), [Project page](http://prg.cs.umd.edu/BetterFlow.html)
 - <a name="Gehrig18eccv"></a>Gehrig, D., Rebecq, H., Gallego, G., Scaramuzza, D.,  
 *[Asynchronous, Photometric Feature Tracking using Events and Frames](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig.pdf)*,  
 European Conf. Computer Vision (ECCV) 2018. [YouTube](https://youtu.be/A7UfeUnG6c4).
+- <a name="Mitrokhin18iros"></a>Mitrokhin, A., Fermuller, C., Parameshwara, C., Aloimonos, Y.,  
+*[Event-based Moving Object Detection and Tracking](https://arxiv.org/pdf/1803.04523.pdf)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018. [YouTube](https://youtu.be/UCAJi0ZFaZ8), [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
+- <a name="Barranco18iros"></a>Barranco, F., Fermuller, C., Ros, E.,  
+*[Real-Time Clustering and Multi-Target Tracking Using Event-Based Sensors](https://arxiv.org/pdf/1807.02851.pdf)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018.
+- <a name="Iacono18iros"></a>Iacono, M., Weber, S., Glover, A., Bartolozzi, C.,  
+*[Towards Event-Driven Object Detection with Off-The-Shelf Deep Learning](https://arxiv.org/pdf/1807.02851.pdf)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018.
+- <a name="Alzugaray18ral"></a>Alzugaray, I., Chli, M.,  
+*[Asynchronous Corner Detection and Tracking for Event Cameras in Real Time](http://dx.doi.org/10.1109/LRA.2018.2849882)*,  
+IEEE Robotics and Automation Letters (RA-L), 3(4):3177-3184, Oct. 2018.  [PDF](https://doi.org/10.3929/ethz-b-000277131), [YouTube](https://youtu.be/bKUAZ7IQcf0).
+- <a name="Alzugaray183dv"></a>Alzugaray, I., Chli, M.,  
+*[ACE: An Efficient Asynchronous Corner Tracker for Event Cameras]*,
+Int. Conf. 3D Vision (3DV), 2018.  [YouTube](https://youtu.be/I31yQqmCsfs)
 
 
 <a name="depth-estimation"></a>
@@ -314,7 +326,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), Boston, MA, 2015, pp.
 IEEE Trans. Ind. Electron., 63(1):418-428, 2016.
 - <a name="Firouzi16npl"></a>Firouzi, M. and Conradt, J.,  
 *[Asynchronous Event-based Cooperative Stereo Matching Using Neuromorphic Silicon Retinas](http://doi.org/10.1007/s11063-015-9434-5),*  
-Neural Processing Letters, 2016, 43(2):311-326. [PDF](https://mediatum.ub.tum.de/doc/1254531/131347.pdf)
+Neural Processing Letters, 43(2):311-326, Apr. 2016. [PDF](https://mediatum.ub.tum.de/doc/1254531/131347.pdf)
 - <a name="Osswald17srep"></a>Osswald, M., Ieng, S.-H., Benosman, R., Indiveri, G.,  
 *[A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems](http://doi.org/10.1038/srep40703)*,  
 Scientific Reports 7, Article number: 40703 (2017).
@@ -510,10 +522,10 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Daejeon, South Korea,
 European Conference on Computer Vision (ECCV), 2016, pp. 349-364. [PDF](https://www.doc.ic.ac.uk/~ajd/Publications/kim_etal_eccv2016.pdf), [YouTube](https://youtu.be/yHLyhdMSw7w)
 - <a name="Rebecq17ral"></a>Rebecq, H., Horstschaefer, T., Gallego, G., Scaramuzza, D.,  
 *[EVO: A Geometric Approach to Event-based 6-DOF Parallel Tracking and Mapping in Real-time](https://doi.org/10.1109/LRA.2016.2645143)*,  
-IEEE Robotics and Automation Letters (RA-L), 2:2(593-600), 2017. [PDF](http://rpg.ifi.uzh.ch/docs/RAL16_EVO.pdf), [Youtube](https://youtu.be/bYqD2qZJlxE).
+IEEE Robotics and Automation Letters (RA-L), 2(2):593-600, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/RAL16_EVO.pdf), [Youtube](https://youtu.be/bYqD2qZJlxE).
 - <a name="Gallego17ral"></a>Gallego, G. and Scaramuzza, D.,  
 *[Accurate Angular Velocity Estimation with an Event Camera](https://doi.org/10.1109/LRA.2016.2647639)*,  
-IEEE Robotics and Automation Letters (RA-L), 2:2(632-639), 2017.
+IEEE Robotics and Automation Letters (RA-L), 2(2):632-639, 2017.
 [PDF](http://rpg.ifi.uzh.ch/docs/RAL16_Gallego.pdf), [Youtube](https://youtu.be/v1sXWoOAs_0).
 - [Mueggler et. al. IJRR 2017](#Mueggler17ijrr).  
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
@@ -536,7 +548,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017. [PDF](http://ope
 British Machine Vision Conf. (BMVC), London, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq.pdf), [Appendix](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq_appendix.pdf), [YouTube](https://youtu.be/F3OFzsaPtvI), [Project page](http://rpg.ifi.uzh.ch/ultimateslam.html), [PPT](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq.pptx), [Oral presentation](https://youtu.be/iYptNMqK0tQ).
 - <a name="Rosinol18ral"></a>Rosinol Vidal, A., Rebecq, H., Horstschaefer, T., Scaramuzza, D.,  
 *[Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios](https://doi.org/10.1109/LRA.2018.2793357)*,  
-IEEE Robotics and Automation Letters, vol. 3, no. 2, pp. 994-1001, April 2018. [PDF](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq.pdf), [YouTube](https://youtu.be/jIvJuWdmemE), [Project page](http://rpg.ifi.uzh.ch/ultimateslam.html), [ICRA18 video pitch](https://youtu.be/0hDGFFJQfmA).
+IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq.pdf), [YouTube](https://youtu.be/jIvJuWdmemE), [Project page](http://rpg.ifi.uzh.ch/ultimateslam.html), [ICRA18 video pitch](https://youtu.be/0hDGFFJQfmA).
  
 
 <a name="visual-stabilization"></a>
@@ -669,6 +681,7 @@ Proc. Advanced Maui Optical and Space Surveillance (AMOS) Technologies Conferenc
 ### Optical Flow
 - [DVS/DAVIS Optical Flow Dataset](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) associated to the paper [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
 - [Binas et. al. ICML 2017](#Binas17icml). *DDD17: End-To-End DAVIS Driving Dataset*.
+- [Bardow et al. CVPR2016](#Bardow16cvpr), [Four sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
 
 ### Visual Odometry and SLAM
 - [Combined Dynamic Vision / RGB-D Dataset](http://ci.nst.ei.tum.de/EBSLAM3D/dataset/) associated to the paper [Weikersdorfer et. al. ICRA 2014](#Weikersdorfer14icra).
@@ -683,7 +696,7 @@ Int. J. Robotics Research, 36:2, pp. 142-149, 2017. [PDF](https://arxiv.org/pdf/
 Int. Conf. Machine Learning, Sydney, Australia, PMLR 70, 2017. [Dataset](http://sensors.ini.uzh.ch/databases.html)
 - <a name="Zhu18mvsec"></a>Zhu, A., Thakur, D., Ozaslan, T., Pfrommer, B., Kumar, V., Daniilidis, K.,  
 *[The Multi Vehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception](https://doi.org/10.1109/LRA.2018.2800793),*  
-IEEE Robotics and Automation Letters 3.3 (2018): 2032-2039. [PDF](https://arxiv.org/abs/1801.10202), [Dataset](https://daniilidis-group.github.io/mvsec/), [YouTube](https://youtu.be/9FaUvvzaHW8).
+IEEE Robotics and Automation Letters 3(3):2032-2039, Feb. 2018. [PDF](https://arxiv.org/abs/1801.10202), [Dataset](https://daniilidis-group.github.io/mvsec/), [YouTube](https://youtu.be/9FaUvvzaHW8).
 
 ### Recognition
 - <a name="Orchard15fnins"></a>Orchard, G., Jayawant, A., Cohen, G.K., Thakor, N.,  
@@ -706,6 +719,7 @@ Front. Neurosci. (2016), 10:405. [Dataset](http://dgyblog.com/projects-term/dvs-
 Front. Neurosci. (2016), 10:496. [Dataset](https://github.com/qian-liu/benchmarking), [Dataset](https://github.com/NEvision/NE15)
 - <a name="dvsgesture_dataset"></a>[DVS128 Gesture Dataset](http://research.ibm.com/dvsgesture/): The dataset that was used to build the real-time gesture recognition system described in [Amir et al. CVPR 2017](#Amir17cvpr).
 - <a name="ncars_dataset"></a>[N-CARS Dataset](http://www.prophesee.ai/dataset-n-cars/): A large real-world event-based dataset for car classification.     [Sironi et al. CVPR 2018](#Sironi18cvpr).
+- [Mitrokhin et. al. IROS 2018](#Mitrokhin18iros) *Event-based Moving Object Detection and Tracking*. [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
 
 <br><br>
 <a name="software"></a>
