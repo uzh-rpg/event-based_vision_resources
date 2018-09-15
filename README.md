@@ -255,11 +255,11 @@ Int. Conf. 3D Vision (3DV), 2018.  [YouTube](https://youtu.be/I31yQqmCsfs)
 - <a name="Rebecq16bmvc"></a>Rebecq, H., Gallego, G., Scaramuzza, D.,  
 *[EMVS: Event-based Multi-View Stereo](http://www.bmva.org/bmvc/2016/papers/paper063/)*,  
 British Machine Vision Conf. (BMVC), 2016. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC16_Rebecq.pdf), [YouTube](https://www.youtube.com/watch?v=EUX3Tfx0KKE), [3D Reconstruction Experiments from a Train using an Event Camera](https://www.youtube.com/watch?v=fA4MiSzYHWA)
-- [Kim et. al. ECCV 2016](#Kim16eccv),  
-*Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera*.
-- <a name="Rebecq17ijcv"></a>Rebecq, H., Gallego, G., Scaramuzza, D.,  
+- <a name="Rebecq17ijcv"></a>Rebecq, H., Gallego, G., Mueggler, E., Scaramuzza, D.,  
 *[EMVS: Event-Based Multi-View Stereo—3D Reconstruction with an Event Camera in Real-Time](https://doi.org/10.1007/s11263-017-1050-6)*,  
 Int. J. of Computer Vision (IJCV), 2017. [PDF](http://rpg.ifi.uzh.ch/docs/IJCV17_Rebecq.pdf), [YouTube](https://youtu.be/EFpZcpd9XJ0).
+- [Kim et. al. ECCV 2016](#Kim16eccv),  
+*Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera*.
 - <a name="Gallego18cvpr"></a>Gallego, G., Rebecq, H., Scaramuzza, D.,  
 *[A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation](https://arxiv.org/pdf/1804.01306.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR18_Gallego.pdf), [YouTube](https://youtu.be/KFMZFhi-9Aw).
