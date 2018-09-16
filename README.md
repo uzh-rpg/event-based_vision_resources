@@ -675,7 +675,11 @@ IEEE Int. Conf. Humanoid Robotics (Humanoids), 2016, pp. 732-738.
 ## Space Applications
 - <a name="Cohen17amos"></a>Cohen, G., Afshar, S., van Schaik, A., Wabnitz, A., Bessell, T., Rutten, M., Morreale, B.,  
 *[Event-based Sensing for Space Situational Awareness](https://amostech.com/TechnicalPapers/2017/Optical-Systems/Cohen.pdf)*,  
-Proc. Advanced Maui Optical and Space Surveillance (AMOS) Technologies Conference, Hawaii, 2017.
+Proc. Advanced Maui Optical and Space Surveillance (AMOS) Technologies Conf., 2017.
+- <a name="Cheung18fusion"></a>
+Cheung, B., Rutten, M., Davey, S., Cohen, G.,  
+*[Probabilistic Multi Hypothesis Tracker for an Event Based Sensor](http://dx.doi.org/10.23919/ICIF.2018.8455718)*,  
+Int. Conf. Information Fusion (FUSION) 2018, pp. 1-8.
 
 
 <br><br>
