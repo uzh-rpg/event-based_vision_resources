@@ -21,6 +21,7 @@
     - [Pattern recognition](#pattern-recognition)
     - [Control](#control)
     - [Space Applications](#space)
+    - [Slip detection (Manipulation)](#slip_detection)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -680,6 +681,13 @@ Proc. Advanced Maui Optical and Space Surveillance (AMOS) Technologies Conf., 20
 Cheung, B., Rutten, M., Davey, S., Cohen, G.,  
 *[Probabilistic Multi Hypothesis Tracker for an Event Based Sensor](http://dx.doi.org/10.23919/ICIF.2018.8455718)*,  
 Int. Conf. Information Fusion (FUSION) 2018, pp. 1-8.
+
+
+<a name="slip_detection"></a>
+## Slip detection (Manipulation)
+- <a name="Rigi18sensors"></a>Rigi, A., Baghaei Naeini, F., Makris, D., Zweiri, Y.,  
+*[A Novel Event-Based Incipient Slip Detection Using Dynamic Active-Pixel Vision Sensor (DAVIS)](https://doi.org/10.3390/s18020333)*,  
+Sensors 2018, 18, 333.
 
 
 <br><br>
