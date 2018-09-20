@@ -216,7 +216,7 @@ IEEE Trans. Neural Netw. Learn. Syst., 28(4):791-803, 2017.
 arXiv:1710.10800, 2017.
 - <a name="Gehrig18eccv"></a>Gehrig, D., Rebecq, H., Gallego, G., Scaramuzza, D.,  
 *[Asynchronous, Photometric Feature Tracking using Events and Frames](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig.pdf)*,  
-European Conf. Computer Vision (ECCV) 2018. [YouTube](https://youtu.be/A7UfeUnG6c4).
+European Conf. Computer Vision (ECCV) 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig_poster.pdf), [YouTube](https://youtu.be/A7UfeUnG6c4), [Oral presentation](https://youtu.be/7EvY8SxdLl8).
 - <a name="Mitrokhin18iros"></a>Mitrokhin, A., Fermuller, C., Parameshwara, C., Aloimonos, Y.,  
 *[Event-based Moving Object Detection and Tracking](https://arxiv.org/pdf/1803.04523.pdf)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018. [YouTube](https://youtu.be/UCAJi0ZFaZ8), [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
@@ -263,7 +263,7 @@ Int. J. of Computer Vision (IJCV), 2017. [PDF](http://rpg.ifi.uzh.ch/docs/IJCV17
 *Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera*.
 - <a name="Gallego18cvpr"></a>Gallego, G., Rebecq, H., Scaramuzza, D.,  
 *[A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation](https://arxiv.org/pdf/1804.01306.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR18_Gallego.pdf), [YouTube](https://youtu.be/KFMZFhi-9Aw).
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR18_Gallego.pdf),  [Poster](http://rpg.ifi.uzh.ch/docs/CVPR18_Gallego_poster.pdf),  [YouTube](https://youtu.be/KFMZFhi-9Aw),  [Spotlight presentation](https://youtu.be/IOntXI5iRzA).
 
 
 ### Monocular Depth Estimation using Structured Light
@@ -367,7 +367,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018.
 European Conf. Computer Vision (ECCV) 2018. [YouTube](https://youtu.be/4oa7e4hsrYo)
 - <a name="Zhou18eccv"></a>Zhou, Y., Gallego, G., Rebecq, H., Kneip, L., Li, H., Scaramuzza, D.,  
 *[Semi-Dense 3D Reconstruction with a Stereo Event Camera](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou.pdf)*,  
-European Conf. Computer Vision (ECCV) 2018. [YouTube](https://youtu.be/Qrnpj2FD1e4).
+European Conf. Computer Vision (ECCV) 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou_poster.pdf),  [YouTube](https://youtu.be/Qrnpj2FD1e4).
 
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
@@ -529,11 +529,11 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2016, pp. 16-23. [PDF
 European Conference on Computer Vision (ECCV), 2016, pp. 349-364. [PDF](https://www.doc.ic.ac.uk/~ajd/Publications/kim_etal_eccv2016.pdf), [YouTube](https://youtu.be/yHLyhdMSw7w)
 - <a name="Rebecq17ral"></a>Rebecq, H., Horstschaefer, T., Gallego, G., Scaramuzza, D.,  
 *[EVO: A Geometric Approach to Event-based 6-DOF Parallel Tracking and Mapping in Real-time](https://doi.org/10.1109/LRA.2016.2645143)*,  
-IEEE Robotics and Automation Letters (RA-L), 2(2):593-600, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/RAL16_EVO.pdf), [Youtube](https://youtu.be/bYqD2qZJlxE).
+IEEE Robotics and Automation Letters (RA-L), 2(2):593-600, 2017. [PDF](http://rpg.ifi.uzh.ch/docs/RAL16_EVO.pdf),  [PPT](http://rpg.ifi.uzh.ch/docs/ICRA17_EVO.pptx),  [Poster](http://rpg.ifi.uzh.ch/docs/RAL16_EVO_poster.pdf),  [Youtube](https://youtu.be/bYqD2qZJlxE).
 - <a name="Gallego17ral"></a>Gallego, G. and Scaramuzza, D.,  
 *[Accurate Angular Velocity Estimation with an Event Camera](https://doi.org/10.1109/LRA.2016.2647639)*,  
 IEEE Robotics and Automation Letters (RA-L), 2(2):632-639, 2017.
-[PDF](http://rpg.ifi.uzh.ch/docs/RAL16_Gallego.pdf), [Youtube](https://youtu.be/v1sXWoOAs_0).
+[PDF](http://rpg.ifi.uzh.ch/docs/RAL16_Gallego.pdf),  [PPT](http://rpg.ifi.uzh.ch/docs/RAL16_Gallego.pptx),  [Youtube](https://youtu.be/v1sXWoOAs_0).
 - [Mueggler et. al. IJRR 2017](#Mueggler17ijrr).  
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
 - [Gallego et. al. CVPR 2018](#Gallego18cvpr),  
@@ -555,7 +555,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2017. [PDF](http://ope
 British Machine Vision Conf. (BMVC), 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq.pdf), [Appendix](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq_appendix.pdf), [YouTube](https://youtu.be/F3OFzsaPtvI), [Project page](http://rpg.ifi.uzh.ch/ultimateslam.html), [PPT](http://rpg.ifi.uzh.ch/docs/BMVC17_Rebecq.pptx), [Oral presentation](https://youtu.be/iYptNMqK0tQ).
 - <a name="Rosinol18ral"></a>Rosinol Vidal, A., Rebecq, H., Horstschaefer, T., Scaramuzza, D.,  
 *[Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios](https://doi.org/10.1109/LRA.2018.2793357)*,  
-IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq.pdf), [YouTube](https://youtu.be/jIvJuWdmemE), [Project page](http://rpg.ifi.uzh.ch/ultimateslam.html), [ICRA18 video pitch](https://youtu.be/0hDGFFJQfmA).
+IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq.pdf), [YouTube](https://youtu.be/jIvJuWdmemE), [Poster](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq_poster.pdf), [Project page](http://rpg.ifi.uzh.ch/ultimateslam.html), [ICRA18 video pitch](https://youtu.be/0hDGFFJQfmA).
  
 
 <a name="visual-stabilization"></a>
@@ -632,7 +632,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. [PDF](https://ar
     - [N-CARS Dataset](#ncars_dataset): A large real-world event-based dataset for car classification.
 - <a name="Maqueda18cvpr"></a>Maqueda, A.I., Loquercio, A., Gallego, G., Garcia, N., Scaramuzza, D.,  
 *[Event-based Vision meets Deep Learning on Steering Prediction for Self-driving Cars](http://openaccess.thecvf.com/content_cvpr_2018/papers/Maqueda_Event-Based_Vision_Meets_CVPR_2018_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR18_Maqueda.pdf), [YouTube](https://youtu.be/_r_bsjkJTHA).
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR18_Maqueda.pdf), [Poster](http://rpg.ifi.uzh.ch/docs/CVPR18_Maqueda_poster.pdf),  [YouTube](https://youtu.be/_r_bsjkJTHA).
 - [Zhu et. al. RSS 2018](#Zhu18rss),  
 *EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras.*
 - <a name="Haessig18arxiv"></a>Haessig, G. and Benosman, R.,  
