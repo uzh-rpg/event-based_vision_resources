@@ -226,6 +226,10 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018.
 - <a name="Iacono18iros"></a>Iacono, M., Weber, S., Glover, A., Bartolozzi, C.,  
 *Towards Event-Driven Object Detection with Off-The-Shelf Deep Learning*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018.
+- <a name="Iacono18iros"></a>
+Ramesh, B., Zhang, S., Lee, Z.-W., Gao, Z., Orchard, G., Xiang, C.,  
+*[Long-term object tracking with a moving event camera](http://bmvc2018.org/contents/papers/0814.pdf)*,  
+British Machine Vision Conf. (BMVC), 2018.  [Video](http://bmvc2018.org/contents/supplementary/video/0814_video.mp4)
 
 
 <a name="corner-detection"></a>
