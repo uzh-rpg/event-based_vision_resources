@@ -413,7 +413,8 @@ Robotics: Science and Systems XIV (RSS), Pittsburgh (PA), USA, 2018. [PDF](https
 - <a name="Liu18arxiv"></a>Liu, M., Delbruck, T.,  
 *[Adaptive Time-Slice Block-Matching Optical Flow Algorithm for Dynamic Vision Sensors](https://arxiv.org/pdf/1805.03988.pdf)*,  
 British Machine Vision Conf. (BMVC), Newcastle, 2018. [Supplementary material](https://docs.google.com/document/d/10X0z4zznuV9j1OOjWpJGv-YCWujkF7FiYjG6efwUrP0/edit), [Video](https://youtu.be/Ss-MciioqTk)
-
+- <a name="Liu18arxiv"></a>Chengxi, Y., Anton M., Chethan P., Cornelia F. James A. Yorke,  Yiannis A.,  
+*[Unsupervised Learning of Dense Optical Flow and Depth from Sparse Event Data](https://arxiv.org/pdf/1809.08625.pdf)*
 
 <a name="image-reconstruction"></a>
 ## Intensity-Image Reconstruction from events
