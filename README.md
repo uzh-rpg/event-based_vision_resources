@@ -438,7 +438,8 @@ Robotics: Science and Systems XIV (RSS), 2018. [PDF](https://arxiv.org/abs/1802.
 British Machine Vision Conf. (BMVC), 2018. [Supplementary material](https://docs.google.com/document/d/10X0z4zznuV9j1OOjWpJGv-YCWujkF7FiYjG6efwUrP0/edit), [Video](https://youtu.be/fGJ8jyqziBI)
 
 - <a name="Liu18arxiv"></a>Chengxi, Y., Anton M., Chethan P., Cornelia F. James A. Yorke,  Yiannis A.,  
-*[Unsupervised Learning of Dense Optical Flow and Depth from Sparse Event Data](https://arxiv.org/pdf/1809.08625.pdf)*
+*[Unsupervised Learning of Dense Optical Flow and Depth from Sparse Event Data](https://arxiv.org/pdf/1809.08625.pdf)*,
+arXiv:1809.08625, 2018.
 
 <a name="image-reconstruction"></a>
 ## Intensity-Image Reconstruction from events
