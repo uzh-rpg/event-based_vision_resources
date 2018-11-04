@@ -472,8 +472,8 @@ Int. J. of Computer Vision (IJCV), 2018.
 - <a name="Shedligeri18arxiv"></a>Shedligeri, P.A., Shah, K., Kumar, D., Mitra, K.,  
 *[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://arxiv.org/pdf/1805.06140.pdf)*,  
 arXiv:1805.06140, 2018.
-- <a name="Scheerlinck18accv"></a>Scheerlinck, C., Barnes, N., Mahony, R.,
-*[Continuous-time Intensity Estimation Using Event Cameras](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf)*,
+- <a name="Scheerlinck18accv"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
+*[Continuous-time Intensity Estimation Using Event Cameras](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf)*,  
 Asian Conf. Computer Vision (ACCV), 2018. ([Webpage](https://cedric-scheerlinck.github.io/continuous-time-intensity-estimation))
 
 
