@@ -423,8 +423,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2016. [YouTube](https:
 *[Block-Matching Optical Flow for Dynamic Vision Sensors: Algorithm and FPGA Implementation](https://arxiv.org/pdf/1706.05415.pdf)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
 - <a name="Haessig17arxiv"></a>Haessig, G., Cassidy, A. Alvarez, R., Benosman, R., Orchard, G.,  
-*[Spiking Optical Flow for Event-based Sensors Using IBM's TrueNorth Neurosynaptic System](https://arxiv.org/pdf/1710.09820.pdf)*,  
-arXiv:1710.09820, 2017.
+*[Spiking Optical Flow for Event-based Sensors Using IBM's TrueNorth Neurosynaptic System](https://doi.org/10.1109/TBCAS.2018.2834558)*,  
+IEEE Trans. Biomed. Circuits Syst., 12(4):860-870, 2018. [PDF](https://arxiv.org/pdf/1710.09820.pdf).
 - <a name="Stoffregen17acra"></a>Stoffregen, T., Kleeman, L.,  
 *[Simultaneous Optical Flow and Segmentation (SOFAS) using Dynamic Vision Sensor](http://www.araa.asn.au/acra/acra2017/papers/pap127s1-file1.pdf)*,  
 Australasian Conference on Robotics and Automation (ACRA), 2017. [PDF](https://arxiv.org/pdf/1805.12326.pdf), [YouTube](https://youtu.be/JVkQOW_iUqs)
