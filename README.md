@@ -375,6 +375,9 @@ European Conf. Computer Vision (ECCV) 2018. [Poster](http://rpg.ifi.uzh.ch/docs/
 
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
+- <a name="Benosman12neunet"></a>Delbruck, T.,  
+*[Frame-free dynamic digital vision](https://www.research-collection.ethz.ch/handle/20.500.11850/81769),*  
+Int. Symp. on Secure-Life Electronics, Advanced Electronics for Quality Life and Society, pp. 21-26, 2008. [PDF](www.ini.uzh.ch/admin/extras/doc_get.php?id=42508)
 - [Cook et. al. IJCNN 2011](#Cook11ijcnn),  
 *Interacting maps for fast visual interpretation*.  
 Joint estimation of optical flow, image intensity and angular velocity with a rotating event camera.
