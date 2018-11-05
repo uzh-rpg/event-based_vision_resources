@@ -381,13 +381,13 @@ Joint estimation of optical flow, image intensity and angular velocity with a ro
 - <a name="Benosman12neunet"></a>Benosman, R., Ieng, S.-H., Clercq, C., Bartolozzi, C., Srinivasan, M.,  
 *[Asynchronous Frameless Event-Based Optical Flow](https://doi.org/10.1016/j.neunet.2011.11.001),*  
 Neural Networks (2012), 27:32-37.
+- <a name="Orchard13biocas"></a>Orchard, G., Benosman, R., Etienne-Cummings, R., Thakor, N,  
+*[A Spiking Neural Network Architecture for Visual Motion Estimation](https://doi.org/10.1109/BioCAS.2013.6679698)*,  
+IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2013, pp. 298-301.
 - <a name="Benosman14tnnls"></a>Benosman, R., Clercq, C., Lagorce, X., Ieng, S.-H., Bartolozzi, C.,  
 *[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537),*  
 IEEE Trans. Neural Netw. Learn. Syst., 25(2):407-417, 2014.
     - [Code (jAER): LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java)
-- <a name="Orchard13biocas"></a>Orchard, G., Benosman, R., Etienne-Cummings, R., Thakor, N,  
-*[A Spiking Neural Network Architecture for Visual Motion Estimation](https://doi.org/10.1109/BioCAS.2013.6679698)*,  
-IEEE Biomedical Circuits and Systems Conf. (BioCAS), Rotterdam, 2013, pp. 298-301.
 - <a name="Clady14fnins"></a> Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
 *[Asynchronous visual event-based time-to-contact](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
 Front. Neurosci. (2014), 8:9.
@@ -433,10 +433,10 @@ Australasian Conference on Robotics and Automation (ACRA), 2017. [PDF](https://a
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
 Robotics: Science and Systems XIV (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE), [Code](https://github.com/daniilidis-group/EV-FlowNet)
-- <a name="Liu18arxiv"></a>Liu, M., Delbruck, T.,  
+- <a name="Liu18bmvc"></a>Liu, M., Delbruck, T.,  
 *[Adaptive Time-Slice Block-Matching Optical Flow Algorithm for Dynamic Vision Sensors](http://bmvc2018.org/contents/papers/0280.pdf)*,  
 British Machine Vision Conf. (BMVC), 2018. [Supplementary material](https://docs.google.com/document/d/10X0z4zznuV9j1OOjWpJGv-YCWujkF7FiYjG6efwUrP0/edit), [Video](https://youtu.be/fGJ8jyqziBI)
-- <a name="Liu18arxiv"></a>Ye, C., Mitrokhin, A., Parameshwara, C., Fermüller, C., Yorke, J. A., Aloimonos,Y,  
+- <a name="Ye18arxiv"></a>Ye, C., Mitrokhin, A., Parameshwara, C., Fermüller, C., Yorke, J. A., Aloimonos,Y,  
 *[Unsupervised Learning of Dense Optical Flow and Depth from Sparse Event Data](https://arxiv.org/pdf/1809.08625.pdf)*,  
 arXiv:1809.08625, 2018.
 
@@ -469,12 +469,12 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2017. [PDF](http://www.ini.uzh.ch/
 - <a name="Munda18ijcv"></a>Munda, G., Reinbacher, C., Pock, T.,  
 *[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](https://doi.org/10.1007/s11263-018-1106-2)*,  
 Int. J. of Computer Vision (IJCV), 2018.
-- <a name="Shedligeri18arxiv"></a>Shedligeri, P.A., Shah, K., Kumar, D., Mitra, K.,  
-*[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://arxiv.org/pdf/1805.06140.pdf)*,  
-arXiv:1805.06140, 2018.
 - <a name="Scheerlinck18accv"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
 *[Continuous-time Intensity Estimation Using Event Cameras](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf)*,  
 Asian Conf. Computer Vision (ACCV), 2018. ([Webpage](https://cedric-scheerlinck.github.io/continuous-time-intensity-estimation))
+- <a name="Shedligeri18arxiv"></a>Shedligeri, P.A., Shah, K., Kumar, D., Mitra, K.,  
+*[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://arxiv.org/pdf/1805.06140.pdf)*,  
+arXiv:1805.06140, 2018.
 
 
 <a name="egomotion"></a>
