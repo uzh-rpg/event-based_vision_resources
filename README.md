@@ -921,7 +921,12 @@ Ph.D. Thesis, University of Zurich, Zurich, Switzerland, 2017.
 - <a name="Kim17PhD"></a>Kim, H.,  
 *[Real-time visual SLAM with an event camera](http://hdl.handle.net/10044/1/59704)*,  
 Ph.D. Thesis, Imperial College London, United Kingdom, 2017.
+- <a name="Huang18PhD"></a>Huang, J.,  
+*[Asynchronous high-speed feature extraction image sensor (CelePixel)](http://hdl.handle.net/10220/46625)*,  
+Ph.D. Thesis, Nanyang Technological University, Singapore, 2018.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
+
+
 
 <a name="theses-master"></a>
 ### Masters' Theses
