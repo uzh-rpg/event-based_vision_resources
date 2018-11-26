@@ -478,7 +478,9 @@ Asian Conf. Computer Vision (ACCV), 2018. ([Webpage](https://cedric-scheerlinck.
 - <a name="Shedligeri18arxiv"></a>Shedligeri, P.A., Shah, K., Kumar, D., Mitra, K.,  
 *[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://arxiv.org/pdf/1805.06140.pdf)*,  
 arXiv:1805.06140, 2018.
-
+- <a name="Mostafavi18arxiv"></a>Mostafavi I., S.M., Wang, L., Ho, Y.S., Yoon, K.J.,  
+*[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](https://arxiv.org/abs/1811.08230)*,  
+arXiv:1811.08230, 2018.
 
 <a name="egomotion"></a>
 ## Localization and Ego-Motion Estimation
