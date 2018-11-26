@@ -401,7 +401,7 @@ British Machine Vision Conf. (BMVC), York, 2016. [PDF](http://www.bmva.org/bmvc/
 - <a name="Moeys17iscas"></a>Moeys, D. P., Li, C., Martel, J. N. P., Bamford, S., Longinotti, L., Motsnyi, V., Bello, D. S. S., Delbruck, T.,  
 *Color Temporal Contrast Sensitivity in Dynamic Vision Sensors*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), Baltimore, MD, 2017. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=65634).
-- <a name="Mostafavi18arxiv"></a> Mostafavi I., S.M., Wang, L., Ho, Y., Yoon, K.,  
+- <a name="Mostafavi18arxiv"></a> Mostafavi I., S.M., Wang, L., Ho, Y.S., Yoon, K.J.,  
 *[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](https://arxiv.org/abs/1811.08230)*, arXiv:1811.08230, 2018.
 
 <a name="egomotion"></a>
