@@ -656,7 +656,7 @@ arXiv: 1804.09236, 2018.
 *[Fast Retinomorphic Event-Driven Representations for Video Recognition and Reinforcement Learning](https://arxiv.org/pdf/1805.06374.pdf)*,  
 arXiv: 1805.06374, 2018.
 - <a name="Shrestha18nips"></a>Shrestha, S., Orchard, G.,  
-*[SLAYER: Spike Layer Error Reassignment in time](https://arxiv.org/abs/1810.08646)*,
+*[SLAYER: Spike Layer Error Reassignment in time](https://arxiv.org/abs/1810.08646)*,  
 Advances in Neural Information Processing Systems (NeurIPS) 2018. [PDF](https://arxiv.org/pdf/1810.08646.pdf), [YouTube](https://youtu.be/JGdatqqci5o).
     
 <a name="control"></a>
