@@ -655,6 +655,9 @@ arXiv: 1804.09236, 2018.
 - <a name="LiuW18arxiv"></a>Liu, W., Chen, H., Goel, R., Huang, Y., Veeraraghavan, A., Patel, A.,  
 *[Fast Retinomorphic Event-Driven Representations for Video Recognition and Reinforcement Learning](https://arxiv.org/pdf/1805.06374.pdf)*,  
 arXiv: 1805.06374, 2018.
+- <a name="Alonso18arxiv"></a>Alonso I., Murillo A.,  
+*[EV-SegNet: Semantic Segmentation for Event-based Cameras](https://arxiv.org/pdf/1811.12039.pdf)*,  
+arXiv: 1811.12039, 2018.
  
     
 <a name="control"></a>
