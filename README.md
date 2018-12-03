@@ -448,6 +448,10 @@ British Machine Vision Conf. (BMVC), 2018. [Supplementary material](https://docs
 - <a name="Ye18arxiv"></a>Ye, C., Mitrokhin, A., Parameshwara, C., Fermüller, C., Yorke, J. A., Aloimonos,Y,  
 *[Unsupervised Learning of Dense Optical Flow and Depth from Sparse Event Data](https://arxiv.org/pdf/1809.08625.pdf)*,  
 arXiv:1809.08625, 2018.
+- <a name="Akolkar18arxiv"></a>Akolkar, H., Ieng, S.-H., Benosman, R.,  
+*[See before you see: Real-time high speed motion prediction using fast aperture-robust event-driven visual flow](https://arxiv.org/pdf/1811.11135)*,  
+arXiv:1811.11135, 2018.
+
 
 <a name="image-reconstruction"></a>
 ## Intensity-Image Reconstruction from events
