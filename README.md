@@ -668,6 +668,9 @@ arXiv: 1805.06374, 2018.
 - <a name="Shrestha18nips"></a>Shrestha, S., Orchard, G.,  
 *[SLAYER: Spike Layer Error Reassignment in time](https://arxiv.org/abs/1810.08646)*,  
 Advances in Neural Information Processing Systems (NeurIPS) 2018. [PDF](https://arxiv.org/pdf/1810.08646.pdf), [YouTube](https://youtu.be/JGdatqqci5o).
+- <a name="Macanovic18arxiv"></a>Macanovic, M., Chersi, F., Rutard, F., Ieng, S.-H., Benosman, R.,  
+*[When Conventional machine learning meets neuromorphic engineering: Deep Temporal Networks (DTNets) a machine learning framework allowing to operate on Events and Frames and implantable on Tensor Flow Like Hardware](https://arxiv.org/pdf/1811.07672)*,  
+arXiv: 1811.07672, 2018.
 - <a name="Maro18arxiv"></a>Maro, J.-M., Benosman, R.,  
 *[Event-based Gesture Recognition with Dynamic Background Suppression using Smartphone Computational Capabilities](https://arxiv.org/pdf/1811.07802)*,  
 arXiv: 1811.07802, 2018.
