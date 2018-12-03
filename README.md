@@ -277,6 +277,9 @@ Front. Neurosci. (2014) 7:275. [PDF](http://www.zora.uzh.ch/107736/1/fnins-07-00
 - <a name="Matsuda15iccp"></a>Matsuda, N., Cossairt, O., Gupta, M.,  
 *[MC3D: Motion Contrast 3D Scanning](https://doi.org/10.1109/ICCPHOT.2015.7168370)*,  
 IEEE Conf. Computational Photography (ICCP), Houston,TX, 2015, pp. 1-10. [PDF](http://compphotolab.northwestern.edu/wordpress/wp-content/uploads/2015/04/dvs_031.pdf), [YouTube](https://youtu.be/m7qOEsTyVwU), [Project page](http://compphotolab.northwestern.edu/project/mc3d-motion-contrast-3d-laser-scanner/)
+- <a name="Leroux18arxiv"></a>Leroux, T., Ieng, S.-H., Benosman, R.,  
+*[Event-Based Structured Light for Depth Reconstruction using Frequency Tagged Light Patterns](https://arxiv.org/pdf/1811.10771)*,  
+arXiv:1811.10771, 2018.
 
 
 <a name="depth-stereo"></a>
