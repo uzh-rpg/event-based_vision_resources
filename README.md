@@ -668,10 +668,14 @@ arXiv: 1805.06374, 2018.
 - <a name="Shrestha18nips"></a>Shrestha, S., Orchard, G.,  
 *[SLAYER: Spike Layer Error Reassignment in time](https://arxiv.org/abs/1810.08646)*,  
 Advances in Neural Information Processing Systems (NeurIPS) 2018. [PDF](https://arxiv.org/pdf/1810.08646.pdf), [YouTube](https://youtu.be/JGdatqqci5o).
+- <a name="Maro18arxiv"></a>Maro, J.-M., Benosman, R.,  
+*[Event-based Gesture Recognition with Dynamic Background Suppression using Smartphone Computational Capabilities](https://arxiv.org/pdf/1811.07802)*,  
+arXiv: 1811.07802, 2018.
 - <a name="Alonso18arxiv"></a>Alonso I., Murillo A.,  
 *[EV-SegNet: Semantic Segmentation for Event-based Cameras](https://arxiv.org/pdf/1811.12039.pdf)*,  
 arXiv: 1811.12039, 2018.
-    
+
+
 <a name="control"></a>
 ## Control
 - <a name="Delbruck07iscas"></a>Delbruck, T. and Lichtsteiner, P.,  
