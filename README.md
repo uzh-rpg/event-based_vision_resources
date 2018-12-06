@@ -480,7 +480,7 @@ British Machine Vision Conf. (BMVC), 2016. [PDF](http://www.bmva.org/bmvc/2016/p
 *[Color Temporal Contrast Sensitivity in Dynamic Vision Sensors](http://dx.doi.org/10.1109/ISCAS.2017.8050412)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2017. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=65634).
 - <a name="Munda18ijcv"></a>Munda, G., Reinbacher, C., Pock, T.,  
-*[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](https://doi.org/10.1007/s11263-018-1106-2)*,  
+*[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](https://doi.org/10.1007/s11263-018-1106-2)*, 
 Int. J. of Computer Vision (IJCV), 2018.
 - <a name="Scheerlinck18accv"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
 *[Continuous-time Intensity Estimation Using Event Cameras](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf)*,  
@@ -491,6 +491,9 @@ arXiv:1805.06140, 2018.
 - <a name="Mostafavi18arxiv"></a>Mostafavi I., S.M., Wang, L., Ho, Y.S., Yoon, K.J.,  
 *[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](https://arxiv.org/abs/1811.08230)*,  
 arXiv:1811.08230, 2018.
+- <a name="Pini18arxiv"></a>Pini S., Borghi G., Vezzani R., Cucchiara R.,  
+*[Learn to See by Events: RGB Frame Synthesis from Event Cameras](https://arxiv.org/abs/1812.02041)*,  
+arXiv:1812.02041, 2018.
 
 <a name="egomotion"></a>
 ## Localization and Ego-Motion Estimation
