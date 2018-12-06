@@ -482,8 +482,7 @@ arXiv:1805.06140, 2018.
 *[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](https://arxiv.org/abs/1811.08230)*,  
 arXiv:1811.08230, 2018.
 - <a name="Pini18arxiv"></a>Pini S., Borghi G., Vezzani R., Cucchiara R.,
-*[Learn to See by Events: RGB Frame Synthesis from Event Cameras]
-(https://arxiv.org/abs/1812.02041)*,
+*[Learn to See by Events: RGB Frame Synthesis from Event Cameras](https://arxiv.org/abs/1812.02041)*,
 arXiv:1812.02041, 2018
 
 <a name="egomotion"></a>
