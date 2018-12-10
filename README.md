@@ -253,6 +253,9 @@ IEEE Robotics and Automation Letters (RA-L), 3(4):3177-3184, Oct. 2018.  [PDF](h
 - <a name="Alzugaray183dv"></a>Alzugaray, I., Chli, M.,  
 *[ACE: An Efficient Asynchronous Corner Tracker for Event Cameras](https://doi.org/10.3929/ethz-b-000291763)*,  
 Int. Conf. 3D Vision (3DV), 2018.  [YouTube](https://youtu.be/I31yQqmCsfs)
+- <a name="Scheerlinck18arxiv"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
+*[Computing Spatial Image Convolutions for Event Cameras](https://arxiv.org/abs/1812.00438)*,  
+arXiv:1812.00438, 2018.
 
 
 <a name="depth-estimation"></a>
