@@ -740,7 +740,7 @@ Sensors 2018, 18, 333.
 <a name="signal_processing"></a>
 # Signal Processing
 - Ieng, S.-H., Posch, C., Benosman, R.,  
-*[Asynchronous Neuromorphic Event-Driven Image Filtering](https://doi.org/10.1109/JPROC.2014.2347355),  
+*[Asynchronous Neuromorphic Event-Driven Image Filtering](https://doi.org/10.1109/JPROC.2014.2347355)*,  
 Proc. IEEE, 102(10):1485-1499, 2014. [PDF](http://neuromorphic-vision.com/public/publications/20/publication.pdf)
 - <a name="Sabatier17tip"></a>Sabatier, Q., Ieng, S.-H., Benosman, R.,  
 *[Asynchronous Event-Based Fourier Analysis](https://doi.org/10.1109/TIP.2017.2661702)*,  
