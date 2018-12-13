@@ -22,6 +22,7 @@
     - [Control](#control)
     - [Space Applications](#space)
     - [Slip detection (Manipulation)](#slip_detection)
+    - [Neural Networks](#neural_networks)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -730,6 +731,19 @@ Int. Conf. Information Fusion (FUSION) 2018, pp. 1-8.
 - <a name="Rigi18sensors"></a>Rigi, A., Baghaei Naeini, F., Makris, D., Zweiri, Y.,  
 *[A Novel Event-Based Incipient Slip Detection Using Dynamic Active-Pixel Vision Sensor (DAVIS)](https://doi.org/10.3390/s18020333)*,  
 Sensors 2018, 18, 333.
+
+<a name="neural_networks"></a>
+## Neural Networks
+### Asynchronous convolutions
+- <a name="Sabatier17tip"></a>Sabatier, Q., Ieng, S.-H., Benosman, R.,  
+*[Asynchronous Event-Based Fourier Analysis](https://doi.org/10.1109/TIP.2017.2661702)*,  
+IEEE Trans. Image Process., 2017, pp. 2192-2202.
+
+### Convolutional neural networks
+- <a name="Cannici18arxiv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
+*[Asynchronous Convolutional Networks for Object Detection in Neuromorphic Cameras](https://arxiv.org/abs/1805.07931)*,  
+arXiv:1805.07931, 2018.
+
 
 
 <br><br>
