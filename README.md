@@ -5,7 +5,7 @@
 - [Companies working on Event-based Vision](#companies_sftwr)
 - [Neuromorphic Systems](#neuromorphic-systems)
 
-- [Algorithms](#algorithms)
+- [Applications / Algorithms](#algorithms)
     - [Feature Detection and Tracking](#feature-detection)
         - [Corners](#corner-detection)
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
@@ -22,7 +22,8 @@
     - [Control](#control)
     - [Space Applications](#space)
     - [Slip detection (Manipulation)](#slip_detection)
-    - [Neural Networks](#neural_networks)
+
+- [Signal Processing](#signal_processing)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -684,6 +685,9 @@ arXiv: 1811.07802, 2018.
 - <a name="Alonso18arxiv"></a>Alonso I., Murillo A.,  
 *[EV-SegNet: Semantic Segmentation for Event-based Cameras](https://arxiv.org/pdf/1811.12039.pdf)*,  
 arXiv: 1811.12039, 2018.
+- <a name="Cannici18arxiv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
+*[Asynchronous Convolutional Networks for Object Detection in Neuromorphic Cameras](https://arxiv.org/abs/1805.07931)*,  
+arXiv:1805.07931, 2018.
 
 
 <a name="control"></a>
@@ -732,18 +736,17 @@ Int. Conf. Information Fusion (FUSION) 2018, pp. 1-8.
 *[A Novel Event-Based Incipient Slip Detection Using Dynamic Active-Pixel Vision Sensor (DAVIS)](https://doi.org/10.3390/s18020333)*,  
 Sensors 2018, 18, 333.
 
-<a name="neural_networks"></a>
-## Neural Networks
-### Asynchronous convolutions
+
+<a name="signal_processing"></a>
+# Signal Processing
+- Ieng, S.-H., Posch, C., Benosman, R.,  
+*[Asynchronous Neuromorphic Event-Driven Image Filtering](https://doi.org/10.1109/JPROC.2014.2347355),  
+Proc. IEEE, 102(10):1485-1499, 2014. [PDF](http://neuromorphic-vision.com/public/publications/20/publication.pdf)
 - <a name="Sabatier17tip"></a>Sabatier, Q., Ieng, S.-H., Benosman, R.,  
 *[Asynchronous Event-Based Fourier Analysis](https://doi.org/10.1109/TIP.2017.2661702)*,  
 IEEE Trans. Image Process., 2017, pp. 2192-2202.
-
-### Convolutional neural networks
-- <a name="Cannici18arxiv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
-*[Asynchronous Convolutional Networks for Object Detection in Neuromorphic Cameras](https://arxiv.org/abs/1805.07931)*,  
-arXiv:1805.07931, 2018.
-
+- [Scheerlinck et. al. arXiv 2018](#Scheerlinck18arxiv),  
+*Computing Spatial Image Convolutions for Event Cameras*.
 
 
 <br><br>
