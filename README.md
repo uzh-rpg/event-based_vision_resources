@@ -5,7 +5,7 @@
 - [Companies working on Event-based Vision](#companies_sftwr)
 - [Neuromorphic Systems](#neuromorphic-systems)
 
-- [Algorithms](#algorithms)
+- [Applications / Algorithms](#algorithms)
     - [Feature Detection and Tracking](#feature-detection)
         - [Corners](#corner-detection)
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
@@ -22,6 +22,8 @@
     - [Control](#control)
     - [Space Applications](#space)
     - [Slip detection (Manipulation)](#slip_detection)
+
+- [Signal Processing](#signal_processing)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -255,7 +257,7 @@ IEEE Robotics and Automation Letters (RA-L), 3(4):3177-3184, Oct. 2018.  [PDF](h
 Int. Conf. 3D Vision (3DV), 2018.  [YouTube](https://youtu.be/I31yQqmCsfs)
 - <a name="Scheerlinck18arxiv"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
 *[Computing Spatial Image Convolutions for Event Cameras](https://arxiv.org/abs/1812.00438)*,  
-arXiv:1812.00438, 2018.
+arXiv:1812.00438, 2018. [PDF](https://cedric-scheerlinck.github.io/files/2018_event_convolutions.pdf), [Website](https://cedric-scheerlinck.github.io/2018_event_convolutions)
 
 
 <a name="depth-estimation"></a>
@@ -487,7 +489,7 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2017. [PDF](http://www.ini.uzh.ch/
 Int. J. of Computer Vision (IJCV), 2018.
 - <a name="Scheerlinck18accv"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
 *[Continuous-time Intensity Estimation Using Event Cameras](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf)*,  
-Asian Conf. Computer Vision (ACCV), 2018. ([Webpage](https://cedric-scheerlinck.github.io/continuous-time-intensity-estimation))
+Asian Conf. Computer Vision (ACCV), 2018. [PDF](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf), [YouTube](https://youtu.be/bZ0ZKido0Ag), [Website](https://cedric-scheerlinck.github.io/continuous-time-intensity-estimation)
 - <a name="Shedligeri18arxiv"></a>Shedligeri, P.A., Shah, K., Kumar, D., Mitra, K.,  
 *[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://arxiv.org/pdf/1805.06140.pdf)*,  
 arXiv:1805.06140, 2018.
@@ -683,6 +685,9 @@ arXiv: 1811.07802, 2018.
 - <a name="Alonso18arxiv"></a>Alonso I., Murillo A.,  
 *[EV-SegNet: Semantic Segmentation for Event-based Cameras](https://arxiv.org/pdf/1811.12039.pdf)*,  
 arXiv: 1811.12039, 2018.
+- <a name="Cannici18arxiv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
+*[Asynchronous Convolutional Networks for Object Detection in Neuromorphic Cameras](https://arxiv.org/abs/1805.07931)*,  
+arXiv:1805.07931, 2018.
 
 
 <a name="control"></a>
@@ -730,6 +735,18 @@ Int. Conf. Information Fusion (FUSION) 2018, pp. 1-8.
 - <a name="Rigi18sensors"></a>Rigi, A., Baghaei Naeini, F., Makris, D., Zweiri, Y.,  
 *[A Novel Event-Based Incipient Slip Detection Using Dynamic Active-Pixel Vision Sensor (DAVIS)](https://doi.org/10.3390/s18020333)*,  
 Sensors 2018, 18, 333.
+
+
+<a name="signal_processing"></a>
+# Signal Processing
+- Ieng, S.-H., Posch, C., Benosman, R.,  
+*[Asynchronous Neuromorphic Event-Driven Image Filtering](https://doi.org/10.1109/JPROC.2014.2347355)*,  
+Proc. IEEE, 102(10):1485-1499, 2014. [PDF](http://neuromorphic-vision.com/public/publications/20/publication.pdf)
+- <a name="Sabatier17tip"></a>Sabatier, Q., Ieng, S.-H., Benosman, R.,  
+*[Asynchronous Event-Based Fourier Analysis](https://doi.org/10.1109/TIP.2017.2661702)*,  
+IEEE Trans. Image Process., 2017, pp. 2192-2202.
+- [Scheerlinck et. al. arXiv 2018](#Scheerlinck18arxiv),  
+*Computing Spatial Image Convolutions for Event Cameras*.
 
 
 <br><br>
