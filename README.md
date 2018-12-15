@@ -728,6 +728,9 @@ Proc. Advanced Maui Optical and Space Surveillance (AMOS) Technologies Conf., 20
 Cheung, B., Rutten, M., Davey, S., Cohen, G.,  
 *[Probabilistic Multi Hypothesis Tracker for an Event Based Sensor](http://dx.doi.org/10.23919/ICIF.2018.8455718)*,  
 Int. Conf. Information Fusion (FUSION) 2018, pp. 1-8.
+- <a name="Chin18arxiv"></a>Chin, T.-J., Bagchi, S., Eriksson, A., van Schaik, A.,  
+*[Star Tracking using an Event Camera](https://arxiv.org/pdf/1812.02895)*,  
+arXiv:1812.02895, 2018.
 
 
 <a name="slip_detection"></a>
