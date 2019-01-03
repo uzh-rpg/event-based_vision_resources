@@ -688,6 +688,12 @@ arXiv: 1811.12039, 2018.
 - <a name="Cannici18arxiv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
 *[Asynchronous Convolutional Networks for Object Detection in Neuromorphic Cameras](https://arxiv.org/abs/1805.07931)*,  
 arXiv:1805.07931, 2018.
+- <a name="Cannici19wacv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
+*[Attention Mechanisms for Object Recognition With Event-Based Cameras](https://arxiv.org/abs/1807.09480)*,  
+Winter Conference on Applications of Computer Vision (WACV), 2019.
+- <a name="Wang19wacv"></a>Wang, Q., Zhang, Y., Yuan, J., Lu, Y.,  
+*[Space-time Event Clouds for Gesture Recognition: from RGB Cameras to Event Cameras](https://cse.buffalo.edu/~jsyuan/papers/2019/WACV_2019_Qinyi.pdf)*,  
+Winter Conference on Applications of Computer Vision (WACV), 2019.
 
 
 <a name="control"></a>
