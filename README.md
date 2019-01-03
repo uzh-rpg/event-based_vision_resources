@@ -475,7 +475,7 @@ British Machine Vision Conf. (BMVC), 2014. [PDF](http://www.bmva.org/bmvc/2014/f
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events).
 - <a name="Barua16wacv"></a>Barua, S., Miyatani, Y., Veeraraghavan, A.,  
 *[Direct face detection and video reconstruction from event cameras](http://doi.org/10.1109/WACV.2016.7477561)*,  
-IEEE Winter Conf. Applications of Computer Vision (WACV), Lake Placid, NY, 2016, pp. 1-9. [YouTube](https://youtu.be/yGDVlN-L1TU)
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2016, pp. 1-9. [YouTube](https://youtu.be/yGDVlN-L1TU)
 - [Bardow et. al. CVPR 2016](#Bardow16cvpr),  
 *Simultaneous Optical Flow and Intensity Estimation from an Event Camera*.
 - <a name="Reinbacher16bmvc"></a>Reinbacher, C., Graber, G., Pock, T.,  
@@ -690,10 +690,10 @@ arXiv: 1811.12039, 2018.
 arXiv:1805.07931, 2018.
 - <a name="Cannici19wacv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
 *[Attention Mechanisms for Object Recognition With Event-Based Cameras](https://arxiv.org/abs/1807.09480)*,  
-Winter Conference on Applications of Computer Vision (WACV), 2019.
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
 - <a name="Wang19wacv"></a>Wang, Q., Zhang, Y., Yuan, J., Lu, Y.,  
 *[Space-time Event Clouds for Gesture Recognition: from RGB Cameras to Event Cameras](https://cse.buffalo.edu/~jsyuan/papers/2019/WACV_2019_Qinyi.pdf)*,  
-Winter Conference on Applications of Computer Vision (WACV), 2019.
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
 
 
 <a name="control"></a>
