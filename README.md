@@ -220,13 +220,13 @@ arXiv:1710.10800, 2017.
 *[Asynchronous, Photometric Feature Tracking using Events and Frames](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig.pdf)*,  
 European Conf. Computer Vision (ECCV) 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig_poster.pdf), [YouTube](https://youtu.be/A7UfeUnG6c4), [Oral presentation](https://youtu.be/7EvY8SxdLl8).
 - <a name="Mitrokhin18iros"></a>Mitrokhin, A., Fermüller, C., Parameshwara, C., Aloimonos, Y.,  
-*[Event-based Moving Object Detection and Tracking](https://arxiv.org/pdf/1803.04523.pdf)*,  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018. [YouTube](https://youtu.be/UCAJi0ZFaZ8), [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
+*[Event-based Moving Object Detection and Tracking](https://doi.org/10.1109/IROS.2018.8593805)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018. [PDF](https://arxiv.org/pdf/1803.04523.pdf), [YouTube](https://youtu.be/UCAJi0ZFaZ8), [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
 - <a name="Barranco18iros"></a>Barranco, F., Fermüller, C., Ros, E.,  
-*[Real-Time Clustering and Multi-Target Tracking Using Event-Based Sensors](https://arxiv.org/pdf/1807.02851.pdf)*,  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018.
+*[Real-Time Clustering and Multi-Target Tracking Using Event-Based Sensors](https://doi.org/10.1109/IROS.2018.8593380)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018. [PDF](https://arxiv.org/pdf/1807.02851.pdf)
 - <a name="Iacono18iros"></a>Iacono, M., Weber, S., Glover, A., Bartolozzi, C.,  
-*Towards Event-Driven Object Detection with Off-The-Shelf Deep Learning*,  
+*[Towards Event-Driven Object Detection with Off-The-Shelf Deep Learning](https://doi.org/10.1109/IROS.2018.8594119)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018.
 - <a name="Iacono18iros"></a>
 Ramesh, B., Zhang, S., Lee, Z.-W., Gao, Z., Orchard, G., Xiang, C.,  
