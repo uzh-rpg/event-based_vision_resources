@@ -255,9 +255,9 @@ IEEE Robotics and Automation Letters (RA-L), 3(4):3177-3184, Oct. 2018.  [PDF](h
 - <a name="Alzugaray183dv"></a>Alzugaray, I., Chli, M.,  
 *[ACE: An Efficient Asynchronous Corner Tracker for Event Cameras](https://doi.org/10.3929/ethz-b-000291763)*,  
 Int. Conf. 3D Vision (3DV), 2018.  [YouTube](https://youtu.be/I31yQqmCsfs)
-- <a name="Scheerlinck18arxiv"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
-*[Computing Spatial Image Convolutions for Event Cameras](https://arxiv.org/abs/1812.00438)*,  
-arXiv:1812.00438, 2018. [PDF](https://cedric-scheerlinck.github.io/files/2018_event_convolutions.pdf), [Website](https://cedric-scheerlinck.github.io/2018_event_convolutions)
+- <a name="Scheerlinck19ral"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
+*[Asynchronous Spatial Image Convolutions for Event Cameras](https://doi.org/10.1109/LRA.2019.2893427)*,  
+IEEE Robotics and Automation Letters (RA-L), 4(2):2377-3766, Apr. 2019.  [PDF](https://cedric-scheerlinck.github.io/files/2018_event_convolutions.pdf), [Website](https://cedric-scheerlinck.github.io/2018_event_convolutions)
 
 
 <a name="depth-estimation"></a>
@@ -754,8 +754,8 @@ Proc. IEEE, 102(10):1485-1499, 2014. [PDF](http://neuromorphic-vision.com/public
 - <a name="Sabatier17tip"></a>Sabatier, Q., Ieng, S.-H., Benosman, R.,  
 *[Asynchronous Event-Based Fourier Analysis](https://doi.org/10.1109/TIP.2017.2661702)*,  
 IEEE Trans. Image Process., 2017, pp. 2192-2202.
-- [Scheerlinck et. al. arXiv 2018](#Scheerlinck18arxiv),  
-*Computing Spatial Image Convolutions for Event Cameras*.
+- [Scheerlinck et. al. RAL 2019](#Scheerlinck19ral),  
+*Asynchronous Spatial Image Convolutions for Event Cameras*.
 
 
 <br><br>
