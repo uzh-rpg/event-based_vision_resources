@@ -218,7 +218,7 @@ IEEE Trans. Neural Netw. Learn. Syst., 28(4):791-803, 2017.
 arXiv:1710.10800, 2017.
 - <a name="Gehrig18eccv"></a>Gehrig, D., Rebecq, H., Gallego, G., Scaramuzza, D.,  
 *[Asynchronous, Photometric Feature Tracking using Events and Frames](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig.pdf)*,  
-European Conf. Computer Vision (ECCV) 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig_poster.pdf), [YouTube](https://youtu.be/A7UfeUnG6c4), [Oral presentation](https://youtu.be/7EvY8SxdLl8).
+European Conf. Computer Vision (ECCV) 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig_poster.pdf), [YouTube](https://youtu.be/A7UfeUnG6c4), [Oral presentation](https://youtu.be/7EvY8SxdLl8), [Tracking analysis code](https://github.com/uzh-rpg/rpg_feature_tracking_analysis)
 - <a name="Mitrokhin18iros"></a>Mitrokhin, A., Fermüller, C., Parameshwara, C., Aloimonos, Y.,  
 *[Event-based Moving Object Detection and Tracking](https://doi.org/10.1109/IROS.2018.8593805)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018. [PDF](https://arxiv.org/pdf/1803.04523.pdf), [YouTube](https://youtu.be/UCAJi0ZFaZ8), [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
@@ -539,6 +539,10 @@ Int. Conf. Advanced Robotics (ICAR), 2017, pp. 530-536. [PDF](https://arxiv.org/
 arXiv:1708.09011.
 - [Maqueda et. al. CVPR 2018](#Maqueda18cvpr).  
 *Event-based Vision meets Deep Learning on Steering Prediction for Self-driving Cars.*
+- <a name="Bryner19icra"></a>Bryner, S., Gallego, G., Rebecq, H., Scaramuzza, D.,  
+*[Event-based, Direct Camera Tracking from a Photometric 3D Map using Nonlinear Optimization](http://rpg.ifi.uzh.ch/docs/ICRA19_Bryner.pdf)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA19_Bryner.pdf), [YouTube](https://youtu.be/ISgXVgCR-lE), [Project page and Datasets](http://rpg.ifi.uzh.ch/direct_event_camera_tracking/index.html)
+
 
 <a name="VOSLAM"></a>
 ## Visual Odometry and SLAM (Simultaneous Localization And Mapping)
