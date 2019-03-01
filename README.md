@@ -727,7 +727,9 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 2409-2412. [YouTube 1](h
 - <a name="Vasco16humanoids"></a>Vasco, V., Glover, A., Tirupachuri, Y., Solari, F., Chessa M., Bartolozzi C.,  
 *[Vergence control with a neuromorphic iCub](https://doi.org/10.1109/HUMANOIDS.2016.7803355)*,  
 IEEE Int. Conf. Humanoid Robotics (Humanoids), 2016, pp. 732-738.
-
+- <a name="Falanga19ral"></a>Falanga, D., Kim, S., Scaramuzza, D.,  
+*[How Fast is Too Fast? The Role of Perception Latency in High-Speed Sense and Avoid](http://rpg.ifi.uzh.ch/docs/RAL19_Falanga.pdf)*,  
+IEEE Robotics and Automation Letters (RA-L), 2019.
 
 <a name="space"></a>
 ## Space Applications
