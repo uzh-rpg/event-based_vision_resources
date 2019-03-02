@@ -495,7 +495,7 @@ Asian Conf. Computer Vision (ACCV), 2018. [PDF](https://cedric-scheerlinck.githu
 arXiv:1811.08230, 2018.
 
 <a name="video-synthesis"></a>
-## Video Synthesis.
+## Video Synthesis
 - <a name="Brandli14iscas"></a>Brandli, C., Muller, L., Delbruck, T.,  
 *[Real-time, high-speed video decompression using a frame- and event-based DAVIS sensor](https://doi.org/10.1109/ISCAS.2014.6865228)*,  
 IEEE Int. Symp. on Circuits and Systems (ISCAS), 2014, pp. 686-689.
