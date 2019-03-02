@@ -746,7 +746,11 @@ Int. Conf. Information Fusion (FUSION) 2018, pp. 1-8.
 - <a name="Chin18arxiv"></a>Chin, T.-J., Bagchi, S., Eriksson, A., van Schaik, A.,  
 *[Star Tracking using an Event Camera](https://arxiv.org/pdf/1812.02895)*,  
 arXiv:1812.02895, 2018.
-
+- Western Sydney University ICNS
+  - [Astrosite](https://www.westernsydney.edu.au/icns/astrosite): 
+  [University News](https://www.westernsydney.edu.au/newscentre/news_centre/more_news_stories/world-first_technology_to_revolutionise_space_imaging), 
+  [ABC News](https://www.abc.net.au/news/2019-02-24/space-camera-astrosite-created-in-sydney-a-game-change-raaf-says/10842220).
+  - [Simultaneous Sky Mapping and Satellite Tracking](https://www.westernsydney.edu.au/icns/research/research_streams/perception/sky_mapping_satellite_tracking)
 
 <a name="slip_detection"></a>
 ## Slip detection (Manipulation)
@@ -1044,6 +1048,7 @@ MSc. Thesis, University of Zurich, 2016.
 - [Institut de la Vision](http://neuromorphic-vision.com/) Neuromorphics group Paris.
 - [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/) Sensing & vision solutions group in Vienna.
 - [Sinapse](http://sinapse.nus.edu.sg/) Singapore Institute for Neurotechnology.
+- [Western Sydney University’s International Centre for Neuromorphic Systems (ICNS)](https://www.westernsydney.edu.au/icns)
 
 <br><br>
 <a name="contributing"></a>
