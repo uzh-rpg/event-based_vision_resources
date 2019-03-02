@@ -13,11 +13,11 @@
         - [Stereo](#depth-stereo)
     - [Optical Flow Estimation](#optical-flow-estimation)
     - [Intensity-Image Reconstruction](#image-reconstruction)
+    - [Video Synthesis](#video-synthesis)
     - [Localization and Ego-motion estimation](#egomotion)
     - [Visual Odometry and SLAM (Simultaneous Localization And Mapping)](#VOSLAM)
     - [Visual-Inertial Odometry](#visual-inertial)
     - [Visual Stabilization](#visual-stabilization)
-    - [Video Processing](#video-processing)
     - [Pattern recognition](#pattern-recognition)
     - [Control](#control)
     - [Space Applications](#space)
@@ -490,15 +490,28 @@ Int. J. of Computer Vision (IJCV), 2018.
 - <a name="Scheerlinck18accv"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
 *[Continuous-time Intensity Estimation Using Event Cameras](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf)*,  
 Asian Conf. Computer Vision (ACCV), 2018. [PDF](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf), [YouTube](https://youtu.be/bZ0ZKido0Ag), [Website](https://cedric-scheerlinck.github.io/continuous-time-intensity-estimation)
-- <a name="Shedligeri18arxiv"></a>Shedligeri, P.A., Shah, K., Kumar, D., Mitra, K.,  
-*[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://arxiv.org/pdf/1805.06140.pdf)*,  
-arXiv:1805.06140, 2018.
 - <a name="Mostafavi18arxiv"></a>Mostafavi I., S.M., Wang, L., Ho, Y.S., Yoon, K.J.,  
 *[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](https://arxiv.org/abs/1811.08230)*,  
 arXiv:1811.08230, 2018.
+
+<a name="video-synthesis"></a>
+## Video Synthesis.
+- <a name="Brandli14iscas"></a>Brandli, C., Muller, L., Delbruck, T.,  
+*[Real-time, high-speed video decompression using a frame- and event-based DAVIS sensor](https://doi.org/10.1109/ISCAS.2014.6865228)*,  
+IEEE Int. Symp. on Circuits and Systems (ISCAS), 2014, pp. 686-689.
+- <a name="Liu17tvc"></a>Liu HC., Zhang FL., Marshall D., Shi L., Hu SM.,  
+*[High-speed Video Generation with an Event Camera](https://link.springer.com/article/10.1007/s00371-017-1372-y)*,  
+The Visual Computer, 2017. [PDF](https://cg.cs.tsinghua.edu.cn/papers/TVC-2017-HS-Video.pdf).
+- <a name="Shedligeri18arxiv"></a>Shedligeri, P.A., Shah, K., Kumar, D., Mitra, K.,  
+*[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://arxiv.org/pdf/1805.06140.pdf)*,  
+arXiv:1805.06140, 2018.
 - <a name="Pini18arxiv"></a>Pini S., Borghi G., Vezzani R., Cucchiara R.,  
 *[Learn to See by Events: RGB Frame Synthesis from Event Cameras](https://arxiv.org/abs/1812.02041)*,  
 arXiv:1812.02041, 2018.
+- <a name="Wang19arxiv"></a>Wang, Z., Jiang, W., Katsaggelos, A., Cossairt, O.,  
+*[Event-driven Video Frame Synthesis](https://arxiv.org/abs/1902.09680)*,  
+arXiv:1902.09680, 2019.
+
 
 <a name="egomotion"></a>
 ## Localization and Ego-Motion Estimation
@@ -599,12 +612,6 @@ IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](htt
 - <a name="Delbruck14iscas"></a>Delbruck, T., Villanueva, V., Longinotti, L.,  
 *[Integration of dynamic vision sensor with inertial measurement unit for electronically stabilized event-based vision](http://doi.org/10.1109/ISCAS.2014.6865714)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2014, pp. 2636-2639. [YouTube](https://youtu.be/Tzy4WF6Qp-Y)
-
-<a name="video-processing"></a>
-## Video Processing
-- <a name="Brandli14iscas"></a>Brandli, C., Muller, L., Delbruck, T.,  
-*[Real-time, high-speed video decompression using a frame- and event-based DAVIS sensor](https://doi.org/10.1109/ISCAS.2014.6865228)*,  
-IEEE Int. Symp. on Circuits and Systems (ISCAS), 2014, pp. 686-689.
 
 
 <a name="pattern-recognition"></a>
