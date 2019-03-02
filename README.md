@@ -698,6 +698,9 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
 - <a name="Wang19wacv"></a>Wang, Q., Zhang, Y., Yuan, J., Lu, Y.,  
 *[Space-time Event Clouds for Gesture Recognition: from RGB Cameras to Event Cameras](https://cse.buffalo.edu/~jsyuan/papers/2019/WACV_2019_Qinyi.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
+- <a name="Chen19fnins"></a>Chen, G., Chen, J., Lienen, M., Conradt, J., Roehrbein, F., Knoll, A.C.,  
+*[FLGR: Fixed Length Gists Representation Learning for RNN-HMM Hybrid-Based Neuromorphic Continuous Gesture Recognition](https://dx.doi.org/10.3389%2Ffnins.2019.00073)*,  
+Front. Neurosci., 2019, 13:73.
 
 
 <a name="control"></a>
