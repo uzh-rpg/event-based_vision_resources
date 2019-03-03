@@ -494,6 +494,7 @@ Asian Conf. Computer Vision (ACCV), 2018. [PDF](https://cedric-scheerlinck.githu
 *[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](https://arxiv.org/abs/1811.08230)*,  
 arXiv:1811.08230, 2018.
 
+
 <a name="video-synthesis"></a>
 ## Video Synthesis
 - <a name="Brandli14iscas"></a>Brandli, C., Muller, L., Delbruck, T.,  
@@ -684,6 +685,12 @@ arXiv: 1804.09236, 2018.
 - <a name="LiuW18arxiv"></a>Liu, W., Chen, H., Goel, R., Huang, Y., Veeraraghavan, A., Patel, A.,  
 *[Fast Retinomorphic Event-Driven Representations for Video Recognition and Reinforcement Learning](https://arxiv.org/pdf/1805.06374.pdf)*,  
 arXiv: 1805.06374, 2018.
+- <a name="Cannici18arxiv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
+*[Asynchronous Convolutional Networks for Object Detection in Neuromorphic Cameras](https://arxiv.org/abs/1805.07931)*,  
+arXiv: 1805.07931, 2018.
+- <a name="Cohen18tnnls"></a>Cohen, G., Afshar, S., Orchard, G., Tapson, J., Benosman, R., van Schaik, A.,  
+[Spatial and Temporal Downsampling in Event-Based Visual Classification](https://doi.org/10.1109/TNNLS.2017.2785272),  
+IEEE Trans. Neural Netw. Learn. Syst., 29(10):5030-5044, Oct. 2018.
 - <a name="Shrestha18nips"></a>Shrestha, S., Orchard, G.,  
 *[SLAYER: Spike Layer Error Reassignment in time](https://arxiv.org/abs/1810.08646)*,  
 Advances in Neural Information Processing Systems (NeurIPS) 2018. [PDF](https://arxiv.org/pdf/1810.08646.pdf), [YouTube](https://youtu.be/JGdatqqci5o).
@@ -696,9 +703,9 @@ arXiv: 1811.07802, 2018.
 - <a name="Alonso18arxiv"></a>Alonso I., Murillo A.,  
 *[EV-SegNet: Semantic Segmentation for Event-based Cameras](https://arxiv.org/pdf/1811.12039.pdf)*,  
 arXiv: 1811.12039, 2018.
-- <a name="Cannici18arxiv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
-*[Asynchronous Convolutional Networks for Object Detection in Neuromorphic Cameras](https://arxiv.org/abs/1805.07931)*,  
-arXiv:1805.07931, 2018.
+- <a name="Afshar18fnins"></a>Afshar, S., Hamilton, T. J., Tapson, J., van Schaik, A., Cohen, G.,  
+[Investigation of Event-Based Surfaces for High-Speed Detection, Unsupervised Feature Extraction, and Object Recognition](https://doi.org/10.3389/fnins.2018.01047),  
+Front. Neurosci., 2018, 12:1047.
 - <a name="Cannici19wacv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
 *[Attention Mechanisms for Object Recognition With Event-Based Cameras](https://arxiv.org/abs/1807.09480)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
@@ -745,11 +752,14 @@ IEEE Robotics and Automation Letters (RA-L), 2019.
 ## Space Applications
 - <a name="Cohen17amos"></a>Cohen, G., Afshar, S., van Schaik, A., Wabnitz, A., Bessell, T., Rutten, M., Morreale, B.,  
 *[Event-based Sensing for Space Situational Awareness](https://amostech.com/TechnicalPapers/2017/Optical-Systems/Cohen.pdf)*,  
-Proc. Advanced Maui Optical and Space Surveillance (AMOS) Technologies Conf., 2017.
+Proc. Advanced Maui Optical and Space Surveillance Technologies Conf. (AMOS), 2017.
 - <a name="Cheung18fusion"></a>
 Cheung, B., Rutten, M., Davey, S., Cohen, G.,  
 *[Probabilistic Multi Hypothesis Tracker for an Event Based Sensor](http://dx.doi.org/10.23919/ICIF.2018.8455718)*,  
 Int. Conf. Information Fusion (FUSION) 2018, pp. 1-8.
+- <a name="Cohen18amos"></a>Cohen, G., Afshar, S., van Schaik, A.,  
+*[Approaches for Astrometry using Event-Based Sensors](https://amostech.com/TechnicalPapers/2018/Poster/Cohen.pdf)*,  
+Proc. Advanced Maui Optical and Space Surveillance Technologies Conf. (AMOS), 2018.
 - <a name="Chin18arxiv"></a>Chin, T.-J., Bagchi, S., Eriksson, A., van Schaik, A.,  
 *[Star Tracking using an Event Camera](https://arxiv.org/pdf/1812.02895)*,  
 arXiv:1812.02895, 2018.
