@@ -1030,6 +1030,9 @@ Ph.D. Thesis, Imperial College London, United Kingdom, 2017.
 - <a name="Huang18PhD"></a>Huang, J.,  
 *[Asynchronous high-speed feature extraction image sensor (CelePixel)](http://hdl.handle.net/10220/46625)*,  
 Ph.D. Thesis, Nanyang Technological University, Singapore, 2018.
+- <a name="Gibson18PhD"></a>Gibson, T. T.,  
+*[Inspired by nature: timescale-free and grid-free event-based computing with spiking neural networks](https://doi.org/10.14264/uql.2018.664)*,  
+Ph.D. Thesis, The University of Queensland, Brisbane, Australia, 2018.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
