@@ -514,6 +514,9 @@ arXiv:1812.02041, 2018.
 - <a name="Wang19arxiv"></a>Wang, Z., Jiang, W., Katsaggelos, A., Cossairt, O.,  
 *[Event-driven Video Frame Synthesis](https://arxiv.org/abs/1902.09680)*,  
 arXiv:1902.09680, 2019.
+- <a name="Pan19cvpr"></a>Pan, L., Scheerlinck, C., Yu, X., Hartley, R., Liu, M., Dao, Y.,  
+*[Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera](https://arxiv.org/abs/1811.10180)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2019. [PDF](https://arxiv.org/pdf/1811.10180.pdf).
 
 
 <a name="egomotion"></a>
