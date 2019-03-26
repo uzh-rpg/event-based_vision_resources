@@ -14,6 +14,7 @@
     - [Optical Flow Estimation](#optical-flow-estimation)
     - [Intensity-Image Reconstruction](#image-reconstruction)
     - [Video Synthesis](#video-synthesis)
+    - [Color](#color)
     - [Localization and Ego-motion estimation](#egomotion)
     - [Visual Odometry and SLAM (Simultaneous Localization And Mapping)](#VOSLAM)
     - [Visual-Inertial Odometry](#visual-inertial)
@@ -521,6 +522,11 @@ arXiv:1902.09680, 2019.
 *[Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera](https://arxiv.org/abs/1811.10180)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2019. [PDF](https://arxiv.org/pdf/1811.10180.pdf).
 
+<a name="color"></a>
+## Color
+- <a name="Marcireau18fns"></a>Marcireau, A., Ieng, S., Simon-Chane, C., Benosman R.,  
+*[Event-Based Color Segmentation With a High Dynamic Range Sensor](https://doi.org/10.3389/fnins.2018.00135)*,  
+Front. Neurosci. (2018), 12:135.
 
 <a name="egomotion"></a>
 ## Localization and Ego-Motion Estimation
