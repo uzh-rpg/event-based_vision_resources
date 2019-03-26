@@ -62,13 +62,15 @@ ___
     - Prototype, commercially n.a.
 - **Smart DVS (GAEP)**: Posch, C., Hoffstaetter, M., Schoen, P., *[A SPARC-compatible general purpose Address-Event processor with 20-bit 10ns-resolution asynchronous sensor data interface in 0.18um CMOS](https://doi.org/10.1109/ISCAS.2010.5537575)*, IEEE International Symposium on Circuits and Systems (ISCAS), 2010.
     - Prototype, commercially n.a.
-- **DAVIS (Dynamic and Active-Pixel Vision Sensor)** :
-Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333-2341, 2014.
+- **DAVIS (Dynamic and Active-Pixel Vision Sensor)**
     - [Product page at iniVation](https://inivation.com/dvs/).  [**Buy a DAVIS**](https://inivation.com/buy/)
     - [Product specifications](https://inivation.com/support/product-specifications/)
     - [User guide](https://inivation.com/support/hardware/davis240/)
+    - <a name="Brandli14ijssc"></a>**DAVIS240**: Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333-2341, 2014.
     - <a name="Li15iscas"></a>**Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734)*, IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 718-721.
-    - <a name="Moeys17tbcs"></a>**SDAVIS192**: Moeys, D., Corradi F., Li C., Bamford S., Longinotti L., Voigt F., Berry S., Taverni G., Helmchen F., Delbruck T., *[A Sensitive Dynamic and Active Pixel Vision Sensor for Color or Neural Imaging Applications](https://doi.org/10.1109/TBCAS.2017.2759783)*, IEEE Trans. Biomed. Circuits Syst., 2017, pp. 123-136.
+    - <a name="Moeys17tbcas"></a>**SDAVIS192**: Moeys, D., Corradi, F., Li, C., Bamford, S., Longinotti, L., Voigt, F., Berry, S., Taverni, G., Helmchen, F., Delbruck, T., *[A Sensitive Dynamic and Active Pixel Vision Sensor for Color or Neural Imaging Applications](https://doi.org/10.1109/TBCAS.2017.2759783)*, IEEE Trans. Biomed. Circuits Syst., 2017, pp. 123-136.
+    - <a name="Taverni18tcas"></a>**DAVIS346**:Taverni, G., Moeys, D., Li, C., Cavaco, C., Motsnyi, V., Bello, D., Delbruck, T., *[Front and Back Illuminated Dynamic and Active
+Pixel Vision Sensors Comparison](https://doi.org/10.1109/TCSII.2018.2824899)*, IEEE Trans. Circuits Syst. II, Express Briefs, 65(5):677-681, 2018.
 - [**Insightness's Silicon Eye**](https://youtu.be/Y0mIb_MehK8) QVGA event sensor. 
     - [The Silicon Eye Technology](http://www.insightness.com/?p=361)
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Insightness.pdf) and [Video](https://youtu.be/6YyOW6DDGKw) by [Christian Brandli](http://www.insightness.com/#team), CEO and co-founder of Insightness.
