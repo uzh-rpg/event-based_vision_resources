@@ -526,6 +526,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2019. [PDF](https://ar
 *Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor*.
 - [Moeys et. al. TBCS 2017](#Moeys17tbcs),  
 *A Sensitive Dynamic and Active Pixel Vision Sensor for Color or Neural Imaging Applications*.
+- [Moeys et. al. ISCAS 2017](#Moeys17iscas),  
+*Color temporal contrast sensitivity in dynamic vision sensors*.
 - <a name="Marcireau18fns"></a>Marcireau, A., Ieng, S., Simon-Chane, C., Benosman R.,  
 *[Event-Based Color Segmentation With a High Dynamic Range Sensor](https://doi.org/10.3389/fnins.2018.00135)*,  
 Front. Neurosci. (2018), 12:135.
