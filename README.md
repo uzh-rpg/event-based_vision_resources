@@ -464,6 +464,9 @@ arXiv:1809.08625, 2018.
 - <a name="Akolkar18arxiv"></a>Akolkar, H., Ieng, S.-H., Benosman, R.,  
 *[See before you see: Real-time high speed motion prediction using fast aperture-robust event-driven visual flow](https://arxiv.org/pdf/1811.11135)*,  
 arXiv:1811.11135, 2018.
+- <a name="Nagata19iwait"></a>Nagata, J., Sekikawa, Y., Hara, K., Aoki, Y.,  
+[FOE-based regularization for optical flow estimation from an in-vehicle event camera](https://doi.org/10.1117/12.2521520),  
+Proc. SPIE 11049, Int. Workshop on Advanced Image Technology (IWAIT) 2019, Singapore.
 
 
 <a name="image-reconstruction"></a>
