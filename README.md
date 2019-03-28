@@ -235,6 +235,9 @@ British Machine Vision Conf. (BMVC), 2018.  [Video](http://bmvc2018.org/contents
 - <a name="Dardelet18arxiv"></a>Dardelet, L., Ieng, S.-H., Benosman, R.,  
 *[Event-Based Features Selection and Tracking from Intertwined Estimation of Velocity and Generative Contours](https://arxiv.org/pdf/1811.07839)*,  
 arXiv:1811.07839, 2018.
+- <a name="Wu18chreoc"></a>Wu, J., Zhang, K., Zhang, Y., Xie, X., Shi, G.,  
+[High-Speed Object Tracking with Dynamic Vision Sensor](https://doi.org/10.1007/978-981-13-6553-9_18),  
+China High Resolution Earth Observation Conference (CHREOC), 2018.
 
 
 <a name="corner-detection"></a>
