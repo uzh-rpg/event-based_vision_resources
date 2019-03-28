@@ -357,6 +357,9 @@ IEEE Trans. Ind. Electron., 63(1):418-428, 2016.
 - <a name="Firouzi16npl"></a>Firouzi, M. and Conradt, J.,  
 *[Asynchronous Event-based Cooperative Stereo Matching Using Neuromorphic Silicon Retinas](http://doi.org/10.1007/s11063-015-9434-5),*  
 Neural Processing Letters, 43(2):311-326, Apr. 2016. [PDF](https://mediatum.ub.tum.de/doc/1254531/131347.pdf)
+- <a name="Zou16icip"></a>Zou, D., Guo, P., Wang, Q., Wang, X., Shao, G., Shi, F., Li, J., Park P.-K.J.,  
+*[Context-Aware Event-driven Stereo Matching](https://doi.org/10.1109/ICIP.2016.7532523)*,  
+IEEE Int. Conf. Image Processing (ICIP), 2016.
 - <a name="Osswald17srep"></a>Osswald, M., Ieng, S.-H., Benosman, R., Indiveri, G.,  
 *[A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems](http://doi.org/10.1038/srep40703)*,  
 Scientific Reports 7, Article number: 40703 (2017).
