@@ -733,7 +733,8 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
 *[FLGR: Fixed Length Gists Representation Learning for RNN-HMM Hybrid-Based Neuromorphic Continuous Gesture Recognition](https://dx.doi.org/10.3389%2Ffnins.2019.00073)*,  
 Front. Neurosci., 2019, 13:73.
 - <a name="Lenz19arxiv"></a>Gregor, L., Sio-Hoi, I., Ryad, B.,  
-*[Event-based Dynamic Face Detection and Tracking Based on Activity](http://arxiv.org/abs/1803.10106)*, arXiv, 2019. [YouTube](https://www.youtube.com/watch?v=F5UzXQsr5Es)
+*[Event-based Dynamic Face Detection and Tracking Based on Activity](http://arxiv.org/abs/1803.10106)*,  
+arXiv:1803.10106, 2019. [YouTube](https://www.youtube.com/watch?v=F5UzXQsr5Es)
 
 <a name="control"></a>
 ## Control
