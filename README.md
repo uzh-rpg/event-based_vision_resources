@@ -725,7 +725,7 @@ arXiv: 1811.12039, 2018.
 Front. Neurosci., 2018, 12:1047.
 - <a name="Lenz18arxiv"></a>Lenz, G., Ieng, S.-H., Benosman, R.,  
 *[Event-based Dynamic Face Detection and Tracking Based on Activity](http://arxiv.org/abs/1803.10106)*,  
-arXiv:1803.10106, 2019. [YouTube](https://www.youtube.com/watch?v=F5UzXQsr5Es)
+arXiv:1803.10106, 2018. [YouTube](https://www.youtube.com/watch?v=F5UzXQsr5Es)
 - <a name="Cannici19wacv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
 *[Attention Mechanisms for Object Recognition With Event-Based Cameras](https://arxiv.org/abs/1807.09480)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
