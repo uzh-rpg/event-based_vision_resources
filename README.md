@@ -723,9 +723,6 @@ arXiv: 1811.12039, 2018.
 - <a name="Afshar18fnins"></a>Afshar, S., Hamilton, T. J., Tapson, J., van Schaik, A., Cohen, G.,  
 [Investigation of Event-Based Surfaces for High-Speed Detection, Unsupervised Feature Extraction, and Object Recognition](https://doi.org/10.3389/fnins.2018.01047),  
 Front. Neurosci., 2018, 12:1047.
-- <a name="Lenz18arxiv"></a>Lenz, G., Ieng, S.-H., Benosman, R.,  
-*[Event-based Dynamic Face Detection and Tracking Based on Activity](http://arxiv.org/abs/1803.10106)*,  
-arXiv:1803.10106, 2018. [YouTube](https://www.youtube.com/watch?v=F5UzXQsr5Es)
 - <a name="Cannici19wacv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
 *[Attention Mechanisms for Object Recognition With Event-Based Cameras](https://arxiv.org/abs/1807.09480)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
@@ -735,6 +732,9 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
 - <a name="Chen19fnins"></a>Chen, G., Chen, J., Lienen, M., Conradt, J., Roehrbein, F., Knoll, A.C.,  
 *[FLGR: Fixed Length Gists Representation Learning for RNN-HMM Hybrid-Based Neuromorphic Continuous Gesture Recognition](https://dx.doi.org/10.3389%2Ffnins.2019.00073)*,  
 Front. Neurosci., 2019, 13:73.
+- <a name="Lenz19arxiv"></a>Lenz, G., Ieng, S.-H., Benosman, R.,
+*[Event-based Face Detection and Tracking in the Blink of an Eye](http://arxiv.org/abs/1803.10106)*,
+arXiv:1803.10106, 2019. [YouTube](https://www.youtube.com/watch?v=F5UzXQsr5Es)
 
 
 <a name="control"></a>
