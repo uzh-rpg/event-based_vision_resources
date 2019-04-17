@@ -313,6 +313,9 @@ Int. Conf. Computer Vision Systems (ICVS), 2009, pp. 174-183. [PDF](http://adose
 - <a name="Schraml10iscas"></a>Schraml, S., Belbachir, A. N., Milosevic, N., Schon, P.,  
 *[Dynamic stereo vision system for real-time tracking](https://doi.org/10.1109/ISCAS.2010.5537289)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2010, pp. 1409-1412.
+- <a name="Schraml10cvprw"></a>Schraml, S., Belbachir,  
+*[A spatio-temporal clustering method using real-time motion analysis on event-based 3D vision](https://doi.org/10.1109/CVPRW.2010.5543810)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010.
 - <a name="Belbachir10icdsc"></a>Belbachir, A., Pflugfelder, R., Gmeiner, P.,  
 *[A Neuromorphic Smart Camera for Real-time 360deg distortion-free Panoramas](https://doi.org/10.1145/1865987.1866022)*,  
 IEEE Conference on Distributed Smart Cameras, 2010.
