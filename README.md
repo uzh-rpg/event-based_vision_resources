@@ -280,11 +280,15 @@ Int. J. of Computer Vision (IJCV), 126(12):1394-1414, 2018. [PDF](http://rpg.ifi
 - [Kim et. al. ECCV 2016](#Kim16eccv),  
 *Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera*.
 - <a name="Gallego18cvpr"></a>Gallego, G., Rebecq, H., Scaramuzza, D.,  
-*[A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation](https://arxiv.org/pdf/1804.01306.pdf)*,  
+*[A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation](https://arxiv.org/pdf/1804.01306)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR18_Gallego.pdf),  [Poster](http://rpg.ifi.uzh.ch/docs/CVPR18_Gallego_poster.pdf),  [YouTube](https://youtu.be/KFMZFhi-9Aw),  [Spotlight presentation](https://youtu.be/IOntXI5iRzA).
 - <a name="Haessig19srep"></a>Haessig, G., Berthelon, X., Ieng, S.-H., Benosman, R.,  
 [A Spiking Neural Network Model of Depth from Defocus for Event-based Neuromorphic Vision](https://doi.org/10.1038/s41598-019-40064-0),  
 Scientific Reports 9, Article number: 3744 (2019).
+- <a name="Gallego19cvpr"></a>Gallego, G., Gehrig, M., Scaramuzza, D.,  
+*[Focus Is All You Need: Loss Functions For Event-based Vision](https://arxiv.org/pdf/1904.07235)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Gallego.pdf)
+
 
 ### Monocular Depth Estimation using Structured Light
 - <a name="Brandli14fnins"></a>Brandli, C., Mantel, T.A., Hutter, M., Hoepflinger, M.A., Berner, R., Siegwart, R., Delbruck, T.,  
@@ -395,6 +399,7 @@ European Conf. Computer Vision (ECCV) 2018. [YouTube](https://youtu.be/4oa7e4hsr
 *[Semi-Dense 3D Reconstruction with a Stereo Event Camera](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou.pdf)*,  
 European Conf. Computer Vision (ECCV) 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou_poster.pdf),  [YouTube](https://youtu.be/Qrnpj2FD1e4).
 
+
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
 - <a name="Benosman12neunet"></a>Delbruck, T.,  
@@ -473,6 +478,8 @@ Proc. SPIE 11049, Int. Workshop on Advanced Image Technology (IWAIT) 2019, Singa
 - <a name="ParedesValles19tpami"></a>Paredes-Valles, F., Scheper, K. Y. W., de Croon, G. C. H. E.,  
 *[Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception](https://ieeexplore.ieee.org/document/8660483)*,  
 IEEE Trans. Pattern Anal. Mach. Intell (TPAMI), 2019. [PDF](https://arxiv.org/abs/1807.10936), [YouTube](https://www.youtube.com/watch?v=FJrba02kZII&list=PL_KSX9GOn2P80tm3IsgbmPAUi2KDE53zI&index=2&t=0s), [Code](https://github.com/tudelft/cuSNN).
+- [Gallego et. al. CVPR 2019](#Gallego19cvpr),  
+*Focus Is All You Need: Loss Functions For Event-based Vision*.
 
 
 <a name="image-reconstruction"></a>
@@ -510,6 +517,9 @@ Asian Conf. Computer Vision (ACCV), 2018. [PDF](https://cedric-scheerlinck.githu
 - <a name="Mostafavi18arxiv"></a>Mostafavi I., S.M., Wang, L., Ho, Y.S., Yoon, K.J.,  
 *[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](https://arxiv.org/abs/1811.08230)*,  
 arXiv:1811.08230, 2018.
+- <a name="Rebecq19cvpr"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
+*[Events-to-Video: Bringing Modern Computer Vision to Event Cameras](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf),  [YouTube](https://youtu.be/IdYrC4cUO0I)
 
 
 <a name="video-synthesis"></a>
@@ -608,6 +618,8 @@ IEEE Robotics and Automation Letters (RA-L), 2(2):632-639, 2017.
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
 - [Gallego et. al. CVPR 2018](#Gallego18cvpr),  
 *A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation*.
+- [Gallego et. al. CVPR 2019](#Gallego19cvpr),  
+*Focus Is All You Need: Loss Functions For Event-based Vision*.
 
 
 <a name="visual-inertial"></a>
@@ -626,7 +638,9 @@ British Machine Vision Conf. (BMVC), 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC
 - <a name="Rosinol18ral"></a>Rosinol Vidal, A., Rebecq, H., Horstschaefer, T., Scaramuzza, D.,  
 *[Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios](https://doi.org/10.1109/LRA.2018.2793357)*,  
 IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq.pdf), [YouTube](https://youtu.be/jIvJuWdmemE), [Poster](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq_poster.pdf), [Project page](http://rpg.ifi.uzh.ch/ultimateslam.html), [ICRA18 video pitch](https://youtu.be/0hDGFFJQfmA).
- 
+- [Rebecq et. al. CVPR 2019](#Rebecq19cvpr),  
+*Events-to-Video: Bringing Modern Computer Vision to Event Cameras*. 
+
 
 <a name="visual-stabilization"></a>
 ## Visual Stabilization
@@ -740,6 +754,10 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
 Front. Neurosci., 2019, 13:73.
 - [Paredes-Valles et. al. TPAMI 2019](#ParedesValles19tpami),  
 *Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception.*
+- [Gallego et. al. CVPR 2019](#Gallego19cvpr),  
+*Focus Is All You Need: Loss Functions For Event-based Vision*.
+- [Rebecq et. al. CVPR 2019](#Rebecq19cvpr),  
+*Events-to-Video: Bringing Modern Computer Vision to Event Cameras*.
 
 
 <a name="control"></a>
@@ -772,6 +790,7 @@ IEEE Int. Conf. Humanoid Robotics (Humanoids), 2016, pp. 732-738.
 - <a name="Falanga19ral"></a>Falanga, D., Kim, S., Scaramuzza, D.,  
 *[How Fast is Too Fast? The Role of Perception Latency in High-Speed Sense and Avoid](http://rpg.ifi.uzh.ch/docs/RAL19_Falanga.pdf)*,  
 IEEE Robotics and Automation Letters (RA-L), 2019.
+
 
 <a name="space"></a>
 ## Space Applications
