@@ -1117,14 +1117,15 @@ MSc. Thesis, University of Zurich, 2016.
 <br><br>
 <a name="people"></a>
 # People / Organizations
-- [Institute of NeuroInformatics](https://www.ini.uzh.ch/) (INI) of the University of Zurich (UZH) and ETH Zurich.
-- [iniVation AG](https://www.inivation.com/) (commercialization of neuromorphic vision technology from INI).
+- [Institute of NeuroInformatics](https://www.ini.uzh.ch/) (INI) of the University of Zurich (UZH) and ETH Zurich, Switzerland.
+- [iniVation AG](https://www.inivation.com/) (commercialization of neuromorphic vision technology from INI), Switzerland.
 - [Dynamic Vision Sensor (DVS) - asynchronous temporal contrast silicon retina](http://siliconretina.ini.uzh.ch/wiki/index.php)
-- [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) (RPG-UZH).
-- [Institut de la Vision](http://neuromorphic-vision.com/) Neuromorphics group Paris.
-- [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/) Sensing & vision solutions group in Vienna.
-- [Sinapse](http://sinapse.nus.edu.sg/) Singapore Institute for Neurotechnology.
-- [Western Sydney University’s International Centre for Neuromorphic Systems (ICNS)](https://www.westernsydney.edu.au/icns)
+- [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) of the University of Zurich (UZH) and ETH Zurich, Switzerland.
+- [Institut de la Vision](http://neuromorphic-vision.com/) Neuromorphics group Paris, France.
+- [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/) Sensing & vision solutions group in Vienna, Austria.
+- [Event-Driven Perception for Robotics (EDPR)](www.edpr.iit.it) group at Istituto  Italiano  di  Tecnologia (IIT), Italy.
+- [Sinapse](http://sinapse.nus.edu.sg/) Singapore Institute for Neurotechnology, Singapore.
+- [Western Sydney University’s International Centre for Neuromorphic Systems (ICNS)](https://www.westernsydney.edu.au/icns), Australia.
 
 <br><br>
 <a name="contributing"></a>
