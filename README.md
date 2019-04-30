@@ -1123,7 +1123,7 @@ MSc. Thesis, University of Zurich, 2016.
 - [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) of the University of Zurich (UZH) and ETH Zurich, Switzerland.
 - [Institut de la Vision](http://neuromorphic-vision.com/) Neuromorphics group Paris, France.
 - [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/) Sensing & vision solutions group in Vienna, Austria.
-- [Event-Driven Perception for Robotics (EDPR)](www.edpr.iit.it) group at Istituto  Italiano  di  Tecnologia (IIT), Italy.
+- [Event-Driven Perception for Robotics (EDPR)](https://www.edpr.iit.it) group at Istituto  Italiano  di  Tecnologia (IIT), Italy.
 - [Sinapse](http://sinapse.nus.edu.sg/) Singapore Institute for Neurotechnology, Singapore.
 - [Western Sydney University’s International Centre for Neuromorphic Systems (ICNS)](https://www.westernsydney.edu.au/icns), Australia.
 
