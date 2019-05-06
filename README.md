@@ -784,22 +784,37 @@ IEEE Int. Conf. Computer Vision Workshops (ICCVW), 2009. [PDF](http://www.ini.uz
 - <a name="Delbruck13fnins"></a>Delbruck, T. and Lang, M.,  
 *[Robotic Goalie with 3ms Reaction Time at 4% CPU Load Using Event-Based Dynamic Vision Sensor](https://doi.org/10.3389/fnins.2013.00223)*,  
 Front. Neurosci. (2013), 7:223. [PDF](http://www.zora.uzh.ch/107801/1/fnins-07-00223.pdf), [YouTube](https://youtu.be/IC5x7ftJ96w)
+- <a name="Mueller15ebccsp"></a>Mueller, E., Censi, A., Frazzoli, E.,  
+*[Efficient high speed signal estimation with neuromorphic vision sensors](https://doi.org/10.1109/EBCCSP.2015.7300672)*,  
+IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2015.
 - <a name="Censi15acc"></a>Censi, A.,  
 *[Efficient Neuromorphic Optomotor Heading Regulation](https://doi.org/10.1109/ACC.2015.7171931)*,  
-American Control Conference (ACC), Chicago, IL, 2015, pp. 3854-3861.
+American Control Conference (ACC), 2015, pp. 3854-3861.
 - <a name="Mueggler15ecmr"></a>Mueggler, E., Baumli, N., Fontana, F., Scaramuzza, D.,  
 *[Towards Evasive Maneuvers with Quadrotors using Dynamic Vision Sensors](https://doi.org/10.1109/ECMR.2015.7324048)*,  
 Eur. Conf. Mobile Robots (ECMR), Lincoln, 2015. [PDF](http://rpg.ifi.uzh.ch/docs/ECMR15_Mueggler.pdf)
 - <a name="Delbruck15iscas"></a>Delbruck, T., Pfeiffer, M., Juston, R., Orchard, G., Mueggler, E., Linares-Barranco, A., Tilden, M. W.,  
 *[Human vs. computer slot car racing using an event and frame-based DAVIS vision sensor](https://doi.org/10.1109/ISCAS.2015.7169170)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 2409-2412. [YouTube 1](https://youtu.be/CnGPGiZuFRI), [YouTube 2](https://youtu.be/ALneVn-Ls2Q)
+- <a name="Mueller15cdc"></a>Mueller, E., Censi, A., Frazzoli, E.,  
+*[Low-latency heading feedback control with neuromorphic vision sensors using efficient approximated incremental inference](https://doi.org/10.1109/CDC.2015.7402002)*,  
+IEEE Conf. Decision and Control (CDC), 2015.
 - [Moeys et. al. EBCCSP 2016](#Moeys16ebccsp).  *VISUALISE Predator/Prey Dataset*.
 - <a name="Vasco16humanoids"></a>Vasco, V., Glover, A., Tirupachuri, Y., Solari, F., Chessa M., Bartolozzi C.,  
 *[Vergence control with a neuromorphic iCub](https://doi.org/10.1109/HUMANOIDS.2016.7803355)*,  
 IEEE Int. Conf. Humanoid Robotics (Humanoids), 2016, pp. 732-738.
+- <a name="Singh16cdc"></a>Singh, P., Yong, S. Z., Gregoire, J., Censi, A., Frazzoli, E.,  
+*[Stabilization of linear continuous-time systems using neuromorphic vision sensors](https://doi.org/10.1109/CDC.2016.7798722)*,  
+IEEE Conf. Decision and Control (CDC), 2016.
+- <a name="Singh17cdc"></a>Singh, P., Yong, S. Z., Frazzoli, E.,  
+*[Stabilization of stochastic linear continuous-time systems using noisy neuromorphic vision sensors](https://doi.org/10.23919/ACC.2017.7963008)*,  
+American Control Conference (ACC), 2017.
 - <a name="Falanga19ral"></a>Falanga, D., Kim, S., Scaramuzza, D.,  
 *[How Fast is Too Fast? The Role of Perception Latency in High-Speed Sense and Avoid](http://rpg.ifi.uzh.ch/docs/RAL19_Falanga.pdf)*,  
 IEEE Robotics and Automation Letters (RA-L), 2019.
+- <a name="Singh19tac"></a>Singh, P., Yong, S. Z., Frazzoli, E.,  
+*[Regulation of Linear Systems Using Event-Based Detection Sensors](https://doi.org/10.1109/TAC.2018.2876997)*,  
+IEEE Trans. Automatic Control, 2019.
 
 
 <a name="space"></a>
