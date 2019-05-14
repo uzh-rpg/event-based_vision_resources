@@ -139,7 +139,7 @@ Front. Neurosci. (2016), 10:115.
 # Algorithms
 
 - <a name="Gallego19arxiv"></a>Gallego, G., Delbruck, T., Orchard, G., Bartolozzi, C., Taba, B., Censi, A., Leutenegger, S., Davison, A., Conradt, J., Daniilidis, K., Scaramuzza, D.,  
-*[Event-based Vision: A Survey](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)*,  
+*[**Event-based Vision: A Survey**](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)*,  
 arXiv 2019.
 
 <a name="feature-detection"></a>
@@ -536,6 +536,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 - <a name="Rebecq19cvpr"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
 *[Events-to-Video: Bringing Modern Computer Vision to Event Cameras](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf),  [YouTube](https://youtu.be/IdYrC4cUO0I)
+- [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
+*CED: Color Event Camera Dataset*.
 
 
 <a name="video-synthesis"></a>
@@ -900,10 +902,10 @@ Conf. on Robot Learning (CoRL), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CORL18_Re
 - [Bardow et al. CVPR2016](#Bardow16cvpr), [Four sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
 - [Zhu et al. RAL2018](#Zhu18mvsec): *MVSEC The Multi Vehicle Stereo Event Camera Dataset*.
 
-### Image Reconstruction
+### Intensity-Image Reconstruction from events
 - [Scheerlinck et al. ACCV2018](#Scheerlinck18accv), *Continuous-time Intensity Estimation Using Event Cameras*. [Website](https://cedric-scheerlinck.github.io/continuous-time-intensity-estimation)
-- [CED: Color Event Camera Dataset](http://rpg.ifi.uzh.ch/CED.html),  
-Scheerlinck, C., Rebecq, H., Stoffregen, T., Barnes, N., Mahony, R., Scaramuzza, D.,  
+- <a name="Scheerlinck19cvprw"></a>Scheerlinck, C., Rebecq, H., Stoffregen, T., Barnes, N., Mahony, R., Scaramuzza, D.,  
+[CED: Color Event Camera Dataset](http://rpg.ifi.uzh.ch/CED.html),  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019.
 
 ### Visual Odometry and SLAM
@@ -990,7 +992,7 @@ Front. Neurosci. (2016), 10:496. [Dataset](https://github.com/qian-liu/benchmark
     - [Several algorithms compared](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/) in the paper by [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
     - [Event-Lifetime estimation](https://www.github.com/uzh-rpg/rpg_event_lifetime), associated to the paper [Mueggler et. al. ICRA 2015](#Mueggler15icra).
     
-- **Intensity-Image reconstruction**
+- **Intensity-Image reconstruction from events**
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events), inspired by the paper [Kim et. al. BMVC 2014](#Kim14bmvc).
     - [DVS reconstruction code](https://github.com/VLOGroup/dvs-reconstruction) associated to the paper [Reinbacher et. al. BMVC 2016](#Reinbacher16bmvc).
 
