@@ -779,7 +779,9 @@ Front. Neurosci., 2019, 13:73.
 - <a name="Gehrig19arxiv"></a>Gehrig, D., Loquercio, A., Derpanis, K. G., Scaramuzza, D.,  
 *[End-to-End Learning of Representations for Asynchronous Event-Based Data](http://rpg.ifi.uzh.ch/docs/Arxiv19_Gehrig.pdf)*,  
 arXiv, 2019. [PDF](http://rpg.ifi.uzh.ch/docs/Arxiv19_Gehrig.pdf), [YouTube](https://youtu.be/bQtSx59GXRY),  [Project Page](http://rpg.ifi.uzh.ch/event_representation_learning).
-
+- Jacques Kaiser, Alexander Friedrich, J. Camilo Vasquez Tieck, Daniel Reichard, Arne Roennau, Emre Neftci, Rüdiger Dillmann,
+*[Embodied Neuromorphic Vision with Event-Driven Random Backpropagation](https://arxiv.org/pdf/1904.04805.pdf)*,
+arXiv, 2019. [PDF](https://arxiv.org/pdf/1904.04805.pdf), [Video](https://neurorobotics-files.net/index.php/s/sBQzWFrBPoH9Dx7)
 
 <a name="control"></a>
 ## Control
