@@ -939,6 +939,9 @@ Proc. SPIE 10639, Micro- and Nanotechnology Sensors, Systems, and Applications X
 - <a name="Delmerico19icra"></a>Delmerico, J., Cieslewski, T., Rebecq, H., Faessler, M., Scaramuzza, D.,  
 [Are We Ready for Autonomous Drone Racing? The UZH-FPV Drone Racing Dataset](http://rpg.ifi.uzh.ch/uzh-fpv.html),  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA19_Delmerico.pdf), [YouTube](https://youtu.be/G5w4ZcEzvoo), [Project page](http://rpg.ifi.uzh.ch/uzh-fpv.html).
+- <a name="Lee19icraw"></a>Lee, A. J., Cho, Y., Yoon, S., Shin, Y., Kim, A.,  
+[ViViD: Vision for Visibility Dataset](https://sites.google.com/view/dgbicra2019-vivid/),  
+IEEE Int. Conf. Robotics and Automation (ICRA) Workshop: Dataset Generation and Benchmarking of SLAM Algorithms for Robotics and VR/AR, 2019.
 
 
 ### Recognition
