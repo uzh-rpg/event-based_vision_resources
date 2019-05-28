@@ -463,6 +463,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR) 2016. [YouTube](https:
 - <a name="Liu17iscas"></a>Liu, M., Delbruck, T.,  
 *[Block-Matching Optical Flow for Dynamic Vision Sensors: Algorithm and FPGA Implementation](https://arxiv.org/pdf/1706.05415.pdf)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
+- <a name="Lee17iccas"></a>Lee, A. J., Kim, A.,  
+*[Event-based Real-time Optical Flow Estimation](https://doi.org/10.23919/ICCAS.2017.8204333)*,  
+IEEE Int. Conf. on Control, Automation and Systems (ICCAS), 2017.
 - <a name="Haessig17arxiv"></a>Haessig, G., Cassidy, A. Alvarez, R., Benosman, R., Orchard, G.,  
 *[Spiking Optical Flow for Event-based Sensors Using IBM's TrueNorth Neurosynaptic System](https://doi.org/10.1109/TBCAS.2018.2834558)*,  
 IEEE Trans. Biomed. Circuits Syst., 12(4):860-870, 2018. [PDF](https://arxiv.org/pdf/1710.09820.pdf).
