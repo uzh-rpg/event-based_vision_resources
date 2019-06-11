@@ -21,7 +21,7 @@
     - [Pattern recognition](#pattern-recognition)
     - [Control](#control)
     - [Space Applications](#space)
-    - [Slip detection (Manipulation)](#slip_detection)
+    - [Tactile Sensing Applications](#tactile_sensing)
 
 - [Signal Processing](#signal_processing)
 
@@ -861,12 +861,14 @@ arXiv:1812.02895, 2018.
   [ABC News](https://www.abc.net.au/news/2019-02-24/space-camera-astrosite-created-in-sydney-a-game-change-raaf-says/10842220).
   - [Simultaneous Sky Mapping and Satellite Tracking](https://www.westernsydney.edu.au/icns/research/research_streams/perception/sky_mapping_satellite_tracking)
 
-<a name="slip_detection"></a>
-## Slip detection (Manipulation)
+<a name="tactile_sensing"></a>
+## Tactile Sensing Applications
 - <a name="Rigi18sensors"></a>Rigi, A., Baghaei Naeini, F., Makris, D., Zweiri, Y.,  
 *[A Novel Event-Based Incipient Slip Detection Using Dynamic Active-Pixel Vision Sensor (DAVIS)](https://doi.org/10.3390/s18020333)*,  
 Sensors 2018, 18, 333.
-
+- <a name="Naeini19tim"></a>Naeini, F. B., Alali, A., Al-Husari, R., Rigi, A., AlSharman, M. K., Makris, D., Zweiri, Y.,  
+*[A Novel Dynamic-Vision-Based Approach for Tactile Sensing Applications](https://doi.org/10.1109/TIM.2019.2919354)*,  
+IEEE Trans. Instrum. Meas., 2019.
 
 <a name="signal_processing"></a>
 # Signal Processing
