@@ -1,6 +1,7 @@
 # Event-based Vision Resources
 
 ## Table of Contents:
+- [Survey paper](#survey_paper)
 - [Devices and Manufacturers](#devices)
 - [Companies working on Event-based Vision](#companies_sftwr)
 - [Neuromorphic Systems](#neuromorphic-systems)
@@ -42,6 +43,12 @@
 
 ___
 <br>
+
+<a name="survey_paper"></a>
+# Survey paper with the structure of this repository
+- <a name="Gallego19arxiv"></a>Gallego, G., Delbruck, T., Orchard, G., Bartolozzi, C., Taba, B., Censi, A., Leutenegger, S., Davison, A., Conradt, J., Daniilidis, K., Scaramuzza, D.,  
+*[**Event-based Vision: A Survey**](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)*,  
+arXiv 2019.
 
 <a name="devices"></a>
 # Devices & Companies Manufacturing them
@@ -137,10 +144,6 @@ Front. Neurosci. (2016), 10:115.
 <br><br>
 <a name="algorithms"></a>
 # Algorithms
-
-- <a name="Gallego19arxiv"></a>Gallego, G., Delbruck, T., Orchard, G., Bartolozzi, C., Taba, B., Censi, A., Leutenegger, S., Davison, A., Conradt, J., Daniilidis, K., Scaramuzza, D.,  
-*[**Event-based Vision: A Survey**](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)*,  
-arXiv 2019.
 
 <a name="feature-detection"></a>
 ## Feature Detection and Tracking
