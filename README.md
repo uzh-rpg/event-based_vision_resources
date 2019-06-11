@@ -45,7 +45,7 @@ ___
 <br>
 
 <a name="survey_paper"></a>
-# Survey paper with the structure of this repository
+# Survey paper
 - <a name="Gallego19arxiv"></a>Gallego, G., Delbruck, T., Orchard, G., Bartolozzi, C., Taba, B., Censi, A., Leutenegger, S., Davison, A., Conradt, J., Daniilidis, K., Scaramuzza, D.,  
 *[**Event-based Vision: A Survey**](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)*,  
 arXiv 2019.
