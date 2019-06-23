@@ -794,6 +794,7 @@ arXiv, 2019. [PDF](https://arxiv.org/pdf/1904.04805), [Video](https://neurorobot
 - <a name="LinaresBarranco19arxiv"></a>Linares-Barranco, A., Rios-Navarro, A., Tapiador-Morales, R., Delbruck, T.,  
 *[Dynamic Vision Sensor integration on FPGA-based CNN accelerators for high-speed visual classification](https://arxiv.org/abs/1905.07419)*,  
 arXiv:1905.07419, 2019.
+-<a name="DHP19"></a>Calabrese, E.*, Taverni, G.*, Easthope, C., Skriabine, S., Corradi, F., Longinotti, L., Eng, K., Delbruck, T.,*[DHP19: Dynamic Vision Sensor 3D Human Pose Dataset](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Calabrese_DHP19_Dynamic_Vision_Sensor_3D_Human_Pose_Dataset_CVPRW_2019_paper.pdf)*,IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019.
 
 
 <a name="control"></a>
@@ -912,7 +913,7 @@ Conf. on Robot Learning (CoRL), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CORL18_Re
     - PRED18 - 	VISUALISE Predator/Prey Dataset
     - DDD17 - 	DAVIS Driving Dataset 2017
     - ROSHAMBO17 - 	RoShamBo Rock Scissors Paper game DVS dataset
-    - DHPE17 - 	DAVIS Human Pose Estimation and Action Recognition
+    - DHP19 - 	DAVIS Human Pose Estimation and Action Recognition
 
 ### Optical Flow
 - [DVS/DAVIS Optical Flow Dataset](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) associated to the paper [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
