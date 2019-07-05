@@ -767,6 +767,9 @@ Front. Neurosci., 2018, 12:1047.
 - <a name="Lenz18arxiv"></a>Lenz, G., Ieng, S.-H., Benosman, R.,  
 *[Event-based Face Detection and Tracking in the Blink of an Eye](http://arxiv.org/abs/1803.10106)*,  
 arXiv:1803.10106, 2018. [YouTube](https://www.youtube.com/watch?v=F5UzXQsr5Es)
+- <a name="Ramesh18accvw"></a>Ramesh, B., Ussa, A., Della Vedova, L., Yang, H., Orchard, G.,  
+*[PCA-RECT: An Energy-Efficient Object Detection Approach for Event Cameras](https://doi.org/10.1007/978-3-030-21074-8_35)*,  
+Assian Conf. Computer Vision Workshops (ACCVW), 2018.
 - <a name="Cannici19wacv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
 *[Attention Mechanisms for Object Recognition With Event-Based Cameras](https://arxiv.org/abs/1807.09480)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
