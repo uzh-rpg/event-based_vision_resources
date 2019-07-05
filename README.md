@@ -56,8 +56,7 @@ arXiv 2019.
     - [Product page at iniVation](https://inivation.com/dvs/). [**Buy a DVS**](https://inivation.com/buy/)
     - [Product specifications](https://inivation.com/support/product-specifications/)    
     - [User guide](https://inivation.com/support/hardware/dvs128/)
-    - [Introductory videos about the DVS](https://inivation.com/dvs/videos/dvs-introduction/)
-    - [More videos about the DVS technology](https://inivation.com/dvs/videos/)
+    - [Introductory videos about the DVS technology](https://inivation.com/dvs/videos/)
     - [iniVation AG](https://inivation.com/) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*. [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Jakobsen.pdf) by [S. E. Jakobsen](https://inivation.com/company/), board member of iniVation.
 - **Samsung's DVS**
     - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Eric_Ryu_Samsung.pdf) and [Video](https://youtu.be/7fAPckjQSGE) by [Hyunsurk Eric Ryu](https://www.linkedin.com/in/hyunsurk-eric-ryu-82745712), Samsung Electronics  (2019).
