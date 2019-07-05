@@ -542,6 +542,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 - <a name="Rebecq19cvpr"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
 *[Events-to-Video: Bringing Modern Computer Vision to Event Cameras](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf),  [YouTube](https://youtu.be/IdYrC4cUO0I)
+- <a name="Rebecq19arxiv"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
+*[High Speed and High Dynamic Range Video with an Event Camera](http://rpg.ifi.uzh.ch/docs/arXiv19_Rebecq.pdf)*,  
+arXiv:1906.07165, 2019. [PDF](http://rpg.ifi.uzh.ch/docs/arXiv19_Rebecq.pdf),  [YouTube](https://youtu.be/eomALySSGVU), [Code](https://github.com/uzh-rpg/rpg_e2vid)
 - [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
 *CED: Color Event Camera Dataset*.
 
@@ -664,6 +667,8 @@ British Machine Vision Conf. (BMVC), 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC
 IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq.pdf), [YouTube](https://youtu.be/jIvJuWdmemE), [Poster](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq_poster.pdf), [Project page](http://rpg.ifi.uzh.ch/ultimateslam.html), [ICRA18 video pitch](https://youtu.be/0hDGFFJQfmA).
 - [Rebecq et. al. CVPR 2019](#Rebecq19cvpr),  
 *Events-to-Video: Bringing Modern Computer Vision to Event Cameras*. 
+- [Rebecq et. al. arXiv 2019](#Rebecq19arxiv),  
+*High Speed and High Dynamic Range Video with an Event Camera*. 
 
 
 <a name="visual-stabilization"></a>
@@ -788,6 +793,8 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019.
 *Focus Is All You Need: Loss Functions For Event-based Vision*.
 - [Rebecq et. al. CVPR 2019](#Rebecq19cvpr),  
 *Events-to-Video: Bringing Modern Computer Vision to Event Cameras*.
+- [Rebecq et. al. arXiv 2019](#Rebecq19arxiv),  
+*High Speed and High Dynamic Range Video with an Event Camera*. 
 - <a name="Gehrig19arxiv"></a>Gehrig, D., Loquercio, A., Derpanis, K. G., Scaramuzza, D.,  
 *[End-to-End Learning of Representations for Asynchronous Event-Based Data](http://rpg.ifi.uzh.ch/docs/Arxiv19_Gehrig.pdf)*,  
 arXiv, 2019. [PDF](http://rpg.ifi.uzh.ch/docs/Arxiv19_Gehrig.pdf), [YouTube](https://youtu.be/bQtSx59GXRY),  [Project Page](http://rpg.ifi.uzh.ch/event_representation_learning).
