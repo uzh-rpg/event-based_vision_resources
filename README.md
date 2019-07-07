@@ -303,7 +303,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018. [PDF](http://rp
 Scientific Reports 9, Article number: 3744 (2019).
 - <a name="Gallego19cvpr"></a>Gallego, G., Gehrig, M., Scaramuzza, D.,  
 *[Focus Is All You Need: Loss Functions For Event-based Vision](https://arxiv.org/pdf/1904.07235)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Gallego.pdf)
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Gallego.pdf), [Poster](http://rpg.ifi.uzh.ch/docs/CVPR19_Gallego_poster.pdf), [YouTube](https://youtu.be/SU_Fp4xS_g4?t=1059)
 - <a name="Chaney19cvprw"></a>Chaney, K., Zhu, A., Daniilidis, K.,  
 *[Learning Event-based Height from Plane and Parallax](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Chaney_Learning_Event-Based_Height_From_Plane_and_Parallax_CVPRW_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Video pitch](https://youtu.be/S1OLnbnB_qo)  
