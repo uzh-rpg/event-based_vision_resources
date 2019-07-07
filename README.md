@@ -245,6 +245,9 @@ arXiv:1811.07839, 2018.
 - <a name="Wu18chreoc"></a>Wu, J., Zhang, K., Zhang, Y., Xie, X., Shi, G.,  
 [High-Speed Object Tracking with Dynamic Vision Sensor](https://doi.org/10.1007/978-981-13-6553-9_18),  
 China High Resolution Earth Observation Conference (CHREOC), 2018.
+- <a name="Foster19elim"></a>Foster, B.J., Ye, D.H., Bouman, C.A.,  
+*[Multi-target tracking with an event-based vision sensor and a partial-update GMPHD filter](https://www.ingentaconnect.com/contentone/ist/ei/2019/00002019/00000013/art00002?crawler=true&mimetype=application/pdf)*,  
+IS&T International Symposium on Electronic Imaging 2019. Computational Imaging XVII.
 
 
 <a name="corner-detection"></a>
@@ -812,6 +815,9 @@ arXiv:1905.07419, 2019.
 - <a name="Calabrese19cvprw"></a>Calabrese, E., Taverni, G., Easthope, C., Skriabine, S., Corradi, F., Longinotti, L., Eng, K., Delbruck, T.,  
 *[DHP19: Dynamic Vision Sensor 3D Human Pose Dataset](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Calabrese_DHP19_Dynamic_Vision_Sensor_3D_Human_Pose_Dataset_CVPRW_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019.
+- <a name="Pradhan19iscas"></a>Pradhan, B. R., Bethi, Y., Narayanan, S., Chakraborty, A., Thakur, C. S.,  
+*[n-HAR: A Neuromorphic Event-Based Human Activity Recognition System Using Memory Surfaces](https://doi.org/10.1109/ISCAS.2019.8702581)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2019.
 
 
 <a name="control"></a>
@@ -992,6 +998,9 @@ Front. Neurosci. (2016), 10:496. [Dataset](https://github.com/qian-liu/benchmark
 - <a name="dvsgesture_dataset"></a>[DVS128 Gesture Dataset](http://research.ibm.com/dvsgesture/): The dataset that was used to build the real-time gesture recognition system described in [Amir et al. CVPR 2017](#Amir17cvpr).
 - <a name="ncars_dataset"></a>[N-CARS Dataset](http://www.prophesee.ai/dataset-n-cars/): A large real-world event-based dataset for car classification.     [Sironi et al. CVPR 2018](#Sironi18cvpr).
 - [Mitrokhin et. al. IROS 2018](#Mitrokhin18iros) *Event-based Moving Object Detection and Tracking*. [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
+- <a name="Miao19fnbot"></a>Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., Knoll, A.,  
+*[Neuromorphic Vision Datasets for Pedestrian Detection, Action Recognition, and Fall Detection](https://doi.org/10.3389/fnbot.2019.00038),*  
+Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark)
 
 
 
