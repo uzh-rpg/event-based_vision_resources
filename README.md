@@ -507,8 +507,14 @@ Proc. SPIE 11049, Int. Workshop on Advanced Image Technology (IWAIT) 2019, Singa
 - <a name="ParedesValles19tpami"></a>Paredes-Valles, F., Scheper, K. Y. W., de Croon, G. C. H. E.,  
 *[Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception](https://ieeexplore.ieee.org/document/8660483)*,  
 IEEE Trans. Pattern Anal. Mach. Intell (TPAMI), 2019. [PDF](https://arxiv.org/abs/1807.10936), [YouTube](https://www.youtube.com/watch?v=FJrba02kZII&list=PL_KSX9GOn2P80tm3IsgbmPAUi2KDE53zI&index=2&t=0s), [Code](https://github.com/tudelft/cuSNN).
+- <a name="Stoffregen19cvpr"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
+*[Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1812.08156), [YouTube](https://youtu.be/aDzFSG4yV0M)
 - [Gallego et. al. CVPR 2019](#Gallego19cvpr),  
 *Focus Is All You Need: Loss Functions For Event-based Vision*.
+- <a name="Stoffregen19cvpr"></a>Stoffregen, T., Kleeman, L.,  
+*[Event Cameras, Contrast Maximization and Reward Functions: An Analysis](http://openaccess.thecvf.com/content_CVPR_2019/html/Stoffregen_Event_Cameras_Contrast_Maximization_and_Reward_Functions_An_Analysis_CVPR_2019_paper.html)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 - [Gehrig et. al. arXiv 2019](#Gehrig19arxiv),  
 *End-to-End Learning of Representations for Asynchronous Event-Based Data*.
 
@@ -549,11 +555,11 @@ Asian Conf. Computer Vision (ACCV), 2018. [PDF](https://cedric-scheerlinck.githu
 *[Sparse Coding Enables the Reconstruction of High-Fidelity Images and Video from Retinal Spike Trains](https://doi.org/10.1145/3229884.3229892)*,  
 Int. Conf. Neuromorphic Systems (ICONS), 2018. Article No. 8. [PDF](https://dl.acm.org/ft_gateway.cfm?id=3229892&ftid=1990359&dwn=1&CFID=41965358&CFTOKEN=fe90e12f8b0b321e-23C508A3-0508-BCD6-37A17F6C8E171DAB)
 - <a name="Mostafavi19cvpr"></a>Mostafavi I., S.M., Wang, L., Ho, Y.S., Yoon, K.J.,  
-*[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](https://arxiv.org/abs/1811.08230)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
+*[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Event-Based_High_Dynamic_Range_Image_and_Very_High_Frame_Rate_CVPR_2019_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/abs/1811.08230)
 - <a name="Rebecq19cvpr"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
 *[Events-to-Video: Bringing Modern Computer Vision to Event Cameras](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf),  [YouTube](https://youtu.be/IdYrC4cUO0I)
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf),  [YouTube](https://youtu.be/IdYrC4cUO0I), [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Henri_Rebecq.pdf), [Video pitch](https://youtu.be/1LZKtnQ-6lA).
 - <a name="Rebecq19arxiv"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
 *[High Speed and High Dynamic Range Video with an Event Camera](http://rpg.ifi.uzh.ch/docs/arXiv19_Rebecq.pdf)*,  
 arXiv:1906.07165, 2019. [PDF](http://rpg.ifi.uzh.ch/docs/arXiv19_Rebecq.pdf),  [YouTube](https://youtu.be/eomALySSGVU), [Code](https://github.com/uzh-rpg/rpg_e2vid)
@@ -578,9 +584,9 @@ arXiv:1812.02041, 2018.
 - <a name="Wang19arxiv"></a>Wang, Z., Jiang, W., Katsaggelos, A., Cossairt, O.,  
 *[Event-driven Video Frame Synthesis](https://arxiv.org/abs/1902.09680)*,  
 arXiv:1902.09680, 2019.
-- <a name="Pan19cvpr"></a>Pan, L., Scheerlinck, C., Yu, X., Hartley, R., Liu, M., Dao, Y.,  
-*[Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera](https://arxiv.org/abs/1811.10180)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1811.10180.pdf).
+- <a name="Pan19cvpr"></a>Pan, L., Scheerlinck, C., Yu, X., Hartley, R., Liu, M., Dai, Y.,  
+*[Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pan_Bringing_a_Blurry_Frame_Alive_at_High_Frame-Rate_With_an_CVPR_2019_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1811.10180.pdf). [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Yuchao_Dai.pdf), [Video CVPR](https://drive.google.com/file/d/1NscnUF2QxK0of4ZW7T8kneJTH1X76l2u/view), [Video CVPRW](https://youtu.be/JcgboJ_7JAE), [Code](https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera)
 
 
 <a name="egomotion"></a>
@@ -811,6 +817,12 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019.
 *Events-to-Video: Bringing Modern Computer Vision to Event Cameras*.
 - [Rebecq et. al. arXiv 2019](#Rebecq19arxiv),  
 *High Speed and High Dynamic Range Video with an Event Camera*. 
+- <a name="Sekikawa19cvpr"></a>Sekikawa, Y., Hara, K., Saito, H.,  
+*[EventNet: Asynchronous Recursive Event Processing](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sekikawa_EventNet_Asynchronous_Recursive_Event_Processing_CVPR_2019_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/abs/1812.07045), [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Yusuke_Sekikawa.pdf), [YouTube](https://youtu.be/jHcxQRC-7iQ)
+- <a name="Wang19cvpr"></a>Wang, Y., Du, B., Shen, Y., Wu, K., Zhao, G., Sun, J., Wen, H.,  
+*[EV-Gait: Event-Based Robust Gait Recognition Using Dynamic Vision Sensors](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_EV-Gait_Event-Based_Robust_Gait_Recognition_Using_Dynamic_Vision_Sensors_CVPR_2019_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 - <a name="Gehrig19arxiv"></a>Gehrig, D., Loquercio, A., Derpanis, K. G., Scaramuzza, D.,  
 *[End-to-End Learning of Representations for Asynchronous Event-Based Data](http://rpg.ifi.uzh.ch/docs/Arxiv19_Gehrig.pdf)*,  
 arXiv, 2019. [PDF](http://rpg.ifi.uzh.ch/docs/Arxiv19_Gehrig.pdf), [YouTube](https://youtu.be/bQtSx59GXRY),  [Project Page](http://rpg.ifi.uzh.ch/event_representation_learning).
