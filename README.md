@@ -1203,6 +1203,9 @@ Ph.D. Thesis, Nanyang Technological University, Singapore, 2018.
 - <a name="Gibson18PhD"></a>Gibson, T. T.,  
 *[Inspired by nature: timescale-free and grid-free event-based computing with spiking neural networks](https://doi.org/10.14264/uql.2018.664)*,  
 Ph.D. Thesis, The University of Queensland, Brisbane, Australia, 2018.
+- <a name="Bardow19PhD"></a>Bardow, P. A.,  
+*[Estimating General Motion and Intensity from Event Cameras](https://www.doc.ic.ac.uk/~ajd/Publications/Bardow-P-2019-PhD-Thesis.pdf)*,  
+Ph.D. Thesis, Imperial College London, United Kingdom, 2019.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
