@@ -841,6 +841,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Pro
 - <a name="Pradhan19iscas"></a>Pradhan, B. R., Bethi, Y., Narayanan, S., Chakraborty, A., Thakur, C. S.,  
 *[n-HAR: A Neuromorphic Event-Based Human Activity Recognition System Using Memory Surfaces](https://doi.org/10.1109/ISCAS.2019.8702581)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2019.
+- <a name="Rueckauer19arxiv"></a>Rueckauer, B., Kanzig, N., Liu, S.-C., Delbruck, T., Sandamirskaya, Y.,  
+*[Closing the Accuracy Gap in an Event-Based VisualRecognition Task](https://arxiv.org/pdf/1906.08859.pdf)*,  
+arXiv, 2019.
 
 
 <a name="control"></a>
@@ -902,7 +905,7 @@ Int. Conf. Information Fusion (FUSION) 2018, pp. 1-8.
 - <a name="Cohen18amos"></a>Cohen, G., Afshar, S., van Schaik, A.,  
 *[Approaches for Astrometry using Event-Based Sensors](https://amostech.com/TechnicalPapers/2018/Poster/Cohen.pdf)*,  
 Proc. Advanced Maui Optical and Space Surveillance Technologies Conf. (AMOS), 2018.
-- <a name="Chin18arxiv"></a>Chin, T.-J., Bagchi, S., Eriksson, A., van Schaik, A.,  
+- <a name="Chin19cvprw"></a>Chin, T.-J., Bagchi, S., Eriksson, A., van Schaik, A.,  
 *[Star Tracking using an Event Camera](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Chin_Star_Tracking_Using_an_Event_Camera_CVPRW_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF](https://arxiv.org/pdf/1812.02895). [Project page](https://cs.adelaide.edu.au/~tjchin/startracking/). [Video pitch](https://youtu.be/XuYYhyS8IwM)
 - Western Sydney University ICNS
@@ -913,6 +916,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF
 - <a name="Zolnowski19neosst"></a>Zolnowski, M., Reszelewski, R., Moeys, D.P., Delbruck, T., Kaminski, K.,  
 *[Observational Evaluation of Event Cameras Performance in Optical Space Surveillance](https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/475/NEOSST1-paper475.pdf)*,  
 Proc. NEO and Debris Detection Conference, Darmstadt, Germany, Jan. 2019.
+- <a name="Chin19arxiv"></a>Chin, T.-J., Bagchi, S.,  
+*[Event-based Star Tracking via Multiresolution Progressive Hough Transforms](https://arxiv.org/pdf/1906.07866.pdf)*,  
+arXiv, 2019.
 
 
 <a name="tactile_sensing"></a>
