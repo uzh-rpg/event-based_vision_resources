@@ -847,8 +847,11 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Pro
 *[n-HAR: A Neuromorphic Event-Based Human Activity Recognition System Using Memory Surfaces](https://doi.org/10.1109/ISCAS.2019.8702581)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2019.
 - <a name="Rueckauer19arxiv"></a>Rueckauer, B., Kanzig, N., Liu, S.-C., Delbruck, T., Sandamirskaya, Y.,  
-*[Closing the Accuracy Gap in an Event-Based VisualRecognition Task](https://arxiv.org/pdf/1906.08859.pdf)*,  
+*[Closing the Accuracy Gap in an Event-Based Visual Recognition Task](https://arxiv.org/pdf/1906.08859.pdf)*,  
 arXiv, 2019.
+- <a name="Sokolova19mva"></a>Sokolova, A., Konushin, A.,  
+*[Human identification by gait from event-based camera](https://doi.org/10.23919/MVA.2019.8758019)*,  
+Int. Conf. Machine Vision Applications (MVA), 2019.
 
 
 <a name="control"></a>
