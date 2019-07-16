@@ -688,6 +688,8 @@ IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](htt
 *Events-to-Video: Bringing Modern Computer Vision to Event Cameras*. 
 - [Rebecq et. al. arXiv 2019](#Rebecq19arxiv),  
 *High Speed and High Dynamic Range Video with an Event Camera*. 
+- [Nelson, K. J., MSc Thesis 2019](#Nelson19MSc),  
+*Event-Based Visual-Inertial Odometry on a Fixed-Wing Unmanned Aerial Vehicle*.
 
 
 <a name="visual-stabilization"></a>
@@ -1243,6 +1245,10 @@ MSc. Thesis, University of Zurich, 2014.
 - <a name="Horstschaefer16MSc"></a>Horstschaefer, T.,  
 *[Parallel Tracking, Depth Estimation, and Image Reconstruction with an Event Camera](http://www.kutter-fonds.ethz.ch/App_Themes/default/datalinks/2016_MT_Horstschaefer1.pdf)*,  
 MSc. Thesis, University of Zurich, 2016.
+- <a name="Nelson19MSc"></a>Nelson, K. J.,  
+*[Event-Based Visual-Inertial Odometry on a Fixed-Wing Unmanned Aerial Vehicle](https://apps.dtic.mil/docs/citations/AD1076268)*,  
+MSc. Thesis, Air Force Institute of Technology, USA, 2019. [PDF](https://apps.dtic.mil/dtic/tr/fulltext/u2/1076268.pdf)
+
 
 
 <br><br>
