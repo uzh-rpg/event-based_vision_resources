@@ -220,9 +220,9 @@ British Machine Vision Conf. (BMVC), 2017.
 - <a name="Peng17tnnls"></a>Peng, X., Zhao, B., Yan, R., Tang H., Yi, Z.,  
 *[Bag of Events: An Efficient Probability-Based Feature Extraction Method for AER Image Sensors](http://dx.doi.org/10.1109/TNNLS.2016.2536741)*,  
 IEEE Trans. Neural Netw. Learn. Syst., 28(4):791-803, 2017.
-- <a name="Ramesh17arxiv"></a>Ramesh, B., Yang, H., Orchard, G., Le Thi, N.A., Xiang, C,  
-*[DART: Distribution Aware Retinal Transform for Event-based Cameras](https://arxiv.org/pdf/1710.10800.pdf)*,  
-arXiv:1710.10800, 2017.
+- <a name="Ramesh19pami"></a>Ramesh, B., Yang, H., Orchard, G., Le Thi, N.A., Xiang, C,  
+*[DART: Distribution Aware Retinal Transform for Event-based Cameras](https://doi.org/10.1109/TPAMI.2019.2919301)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2019. [PDF](https://arxiv.org/pdf/1710.10800.pdf)
 - <a name="Gehrig18eccv"></a>Gehrig, D., Rebecq, H., Gallego, G., Scaramuzza, D.,  
 *[Asynchronous, Photometric Feature Tracking using Events and Frames](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig.pdf)*,  
 European Conf. Computer Vision (ECCV), 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig_poster.pdf), [YouTube](https://youtu.be/A7UfeUnG6c4), [Oral presentation](https://youtu.be/7EvY8SxdLl8), [Tracking analysis code](https://github.com/uzh-rpg/rpg_feature_tracking_analysis)
@@ -424,6 +424,9 @@ European Conf. Computer Vision (ECCV), 2018. [Poster](http://rpg.ifi.uzh.ch/docs
 - <a name="DominguezMorales19electr"></a>Dominguez-Morales, M., Dominguez-Morales, J. P., Jimenez-Fernandez, A., Linares-Barranco, A., Jimenez-Moreno, G.,  
 *[Stereo Matching in Address-Event-Representation (AER) Bio-Inspired Binocular Systems in a Field-Programmable Gate Array (FPGA)](https://doi.org/10.3390/electronics8040410)*,  
 Electronics 2019, 8(4), 410.
+- <a name="Hadviger19arxiv"></a>Hadviger, A., Markovic, I., Petrovic, I.,  
+*[Stereo Event Lifetime and Disparity Estimation for Dynamic Vision Sensors](https://arxiv.org/pdf/1907.07518)*,  
+arXiv:1907.07518, 2019.
 
 
 <a name="optical-flow-estimation"></a>
@@ -617,7 +620,7 @@ Robotics: Science and Systems XI (RSS), 2015. [PDF](http://rpg.ifi.uzh.ch/docs/R
 Front. Neurosci. (2016), 9:522.  
 - <a name="Gallego18pami"></a>Gallego, G., Lund, J.E.A., Mueggler, E., Rebecq, H., Delbruck, T., Scaramuzza, D.,  
 *[Event-based, 6-DOF Camera Tracking from Photometric Depth Maps](http://dx.doi.org/10.1109/TPAMI.2017.2769655)*,  
-IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2017. [PDF](http://rpg.ifi.uzh.ch/docs/PAMI17_Gallego.pdf),  [YouTube](https://youtu.be/iZZ77F-hwzs?t=5), [Datasets](http://rpg.ifi.uzh.ch/direct_event_camera_tracking/index.html)
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/PAMI17_Gallego.pdf),  [YouTube](https://youtu.be/iZZ77F-hwzs?t=5), [Datasets](http://rpg.ifi.uzh.ch/direct_event_camera_tracking/index.html)
 - <a name="Reinbacher17iccp"></a>Reinbacher, C., Munda, G., Pock, T.,  
 *[Real-Time Panoramic Tracking for Event Cameras](https://doi.org/10.1109/ICCPHOT.2017.7951488)*,  
 IEEE Int. Conf. Computational Photography (ICCP), 2017, pp. 1-9. [PDF](https://arxiv.org/abs/1703.05161), [YouTube](https://youtu.be/Qy0brSlirmk), [Code](https://github.com/VLOGroup/dvs-panotracking)
@@ -852,6 +855,9 @@ arXiv, 2019.
 - <a name="Sokolova19mva"></a>Sokolova, A., Konushin, A.,  
 *[Human identification by gait from event-based camera](https://doi.org/10.23919/MVA.2019.8758019)*,  
 Int. Conf. Machine Vision Applications (MVA), 2019.
+- <a name="Afshar19arxiv"></a>Afshar, S., Xu, Y., Tapson, J., van Schaik, A., Cohen, G.,  
+*[Event-based Feature Extraction using Adaptive Selection Thresholds](https://arxiv.org/pdf/1907.07853)*,  
+arXiv:1907.07853, 2019
 
 
 <a name="control"></a>
@@ -943,6 +949,8 @@ IEEE Trans. Instrum. Meas., 2019.
 - Ieng, S.-H., Posch, C., Benosman, R.,  
 *[Asynchronous Neuromorphic Event-Driven Image Filtering](https://doi.org/10.1109/JPROC.2014.2347355)*,  
 Proc. IEEE, 102(10):1485-1499, 2014. [PDF](http://neuromorphic-vision.com/public/publications/20/publication.pdf)
+- [Mueggler et al. ICRA 2015](#Mueggler15icra),  
+*Lifetime Estimation of Events from Dynamic Vision Sensors*.
 - <a name="Sabatier17tip"></a>Sabatier, Q., Ieng, S.-H., Benosman, R.,  
 *[Asynchronous Event-Based Fourier Analysis](https://doi.org/10.1109/TIP.2017.2661702)*,  
 IEEE Trans. Image Process., 2017, pp. 2192-2202.
@@ -951,6 +959,9 @@ IEEE Trans. Image Process., 2017, pp. 2192-2202.
 IEEE Trans. Emerging Topics in Computing, 2018.
 - [Scheerlinck et. al. RAL 2019](#Scheerlinck19ral),  
 *Asynchronous Spatial Image Convolutions for Event Cameras*.
+- <a name="Lee19arxiv"></a>Lee, S., Kim, H., Kim, H.J.,  
+*[Edge Detection for Event Cameras using Intra-pixel-area Events](https://arxiv.org/pdf/1907.07469)*,  
+arXiv:1907.07469, 2019.
 
 
 <br><br>
