@@ -511,7 +511,7 @@ Proc. SPIE 11049, Int. Workshop on Advanced Image Technology (IWAIT) 2019, Singa
 - <a name="ParedesValles19tpami"></a>Paredes-Valles, F., Scheper, K. Y. W., de Croon, G. C. H. E.,  
 *[Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception](https://ieeexplore.ieee.org/document/8660483)*,  
 IEEE Trans. Pattern Anal. Mach. Intell (TPAMI), 2019. [PDF](https://arxiv.org/abs/1807.10936), [YouTube](https://www.youtube.com/watch?v=FJrba02kZII&list=PL_KSX9GOn2P80tm3IsgbmPAUi2KDE53zI&index=2&t=0s), [Code](https://github.com/tudelft/cuSNN).
-- <a name="Stoffregen19cvpr"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
+- <a name="Zhu19cvpr"></a>Zhu, A. Z., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1812.08156), [YouTube](https://youtu.be/aDzFSG4yV0M)
 - [Gallego et. al. CVPR 2019](#Gallego19cvpr),  
@@ -521,8 +521,6 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://a
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 - [Gehrig et. al. arXiv 2019](#Gehrig19arxiv),  
 *End-to-End Learning of Representations for Asynchronous Event-Based Data*.
-- [Zhu et. al. CVPR 2019](#Zhu19cvpr),  
-*Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion.*
 
 <a name="image-reconstruction"></a>
 ## Intensity-Image Reconstruction from events
@@ -863,10 +861,8 @@ Int. Conf. Machine Vision Applications (MVA), 2019.
 arXiv:1907.07853, 2019
 - <a name="Zhu19arxiv"></a>Zhu, A.Z., Wang, Z., Daniilidis, K.,  
 *[Motion Equivariant Networks for Event Cameras with the Temporal Normalization Transform](https://arxiv.org/abs/1902.06820),* arXiv:1902.06820, 2019.
-- <a name="Zhu19cvpr"></a>Zhu, A.Z., Yuan, L., Chaney, K., Daniilidis, K.,  
-*[Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)*,  
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [YouTube](https://youtu.be/cdcg-CdV7TU).
-
+- [Zhu et. al. CVPR 2019](#Zhu19cvpr),  
+*Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion.*
 
 <a name="control"></a>
 ## Control
