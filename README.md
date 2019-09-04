@@ -867,7 +867,7 @@ arXiv:1907.07853, 2019
 *Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion.*
 - <a name="Baldwin19iciar"></a>Baldwin R.W., Almatrafi M., Kaufman J.R., Asari V., Hirakawa K.,  
 *[Inceptive Event Time-Surfaces for Object Classification Using Neuromorphic Cameras](https://link.springer.com/chapter/10.1007/978-3-030-27272-2_35)*,  
-Int. Conf. on Image Analysis and Recognition (ICIAR), 2019 - *Springer Best Paper Award*. [PDF](https://rdcu.be/bQcGk), [Code](https://github.com/bald6354/iets).
+Int. Conf. on Image Analysis and Recognition (ICIAR), 2019. [PDF](https://rdcu.be/bQcGk), [Code](https://github.com/bald6354/iets).
 
 <a name="control"></a>
 ## Control
