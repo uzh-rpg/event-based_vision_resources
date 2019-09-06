@@ -868,6 +868,12 @@ arXiv:1907.07853, 2019
 - <a name="Baldwin19iciar"></a>Baldwin R.W., Almatrafi M., Kaufman J.R., Asari V., Hirakawa K.,  
 *[Inceptive Event Time-Surfaces for Object Classification Using Neuromorphic Cameras](https://link.springer.com/chapter/10.1007/978-3-030-27272-2_35)*,  
 Int. Conf. on Image Analysis and Recognition (ICIAR), 2019. [PDF](https://rdcu.be/bQcGk), [Code](https://github.com/bald6354/iets).
+- <a name="chadha2019neuromorphic"></a>A Chadha, Y Bi, A Abbas, Y Andreopoulos,  
+*[Neuromorphic Vision Sensing for CNN-based Action Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8683606),*  
+ICASSP. (2019).
+- <a name="bi2019graph"></a>Yin Bi, Aaron Chadha, Alhabib Abbas, Eirina Bourtsoulatze, Yiannis Andreopoulos,  
+*[Graph-Based Object Classification for Neuromorphic Vision Sensing](https://arxiv.org/pdf/1908.06648.pdf),*  
+ ICCV 2019, [Github Page](https://github.com/PIX2NVS/NVS2Graph).
 
 <a name="control"></a>
 ## Control
@@ -993,6 +999,9 @@ British Machine Vis. Conf. (BMVC), 2018. [YouTube](https://youtu.be/z8uJh_xUq7A)
 - <a name="Rebecq18corl"></a>H. Rebecq, D. Gehrig, D. Scaramuzza,  
 *[ESIM: an Open Event Camera Simulator](http://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf),*  
 Conf. on Robot Learning (CoRL), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf), [YouTube](https://youtu.be/ytKOIX_2clo), [Project Page](http://rpg.ifi.uzh.ch/esim/index.html).
+- <a name="chadha2019neuromorphic"></a>Yin Bi, Yiannis Andreopoulos,  
+*[PIX2NVS: Parameterized conversion of pixel-domain video frames to neuromorphic vision streams](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8296630),*  
+ICIP, (2017), [GitHub Page](https://github.com/PIX2NVS/PIX2NVS).
 
 
 ## Datasets (sorted by topic)
@@ -1070,8 +1079,10 @@ Front. Neurosci. (2016), 10:496. [Dataset](https://github.com/qian-liu/benchmark
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Project page](https://spritea.github.io/DET/).
 - <a name="Miao19fnbot"></a>Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., Knoll, A.,  
 *[Neuromorphic Vision Datasets for Pedestrian Detection, Action Recognition, and Fall Detection](https://doi.org/10.3389/fnbot.2019.00038),*  
-Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark)
-
+Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark) 
+ - <a name="bi2019graph"></a>Yin Bi, Aaron Chadha, Alhabib Abbas, Eirina Bourtsoulatze, Yiannis Andreopoulos,  
+*[Graph-Based Object Classification for Neuromorphic Vision Sensing](https://arxiv.org/pdf/1908.06648.pdf),*  
+ ICCV 2019, [Github Page](https://github.com/PIX2NVS/NVS2Graph), [ASL-DVS Dataset](https://www.dropbox.com/sh/ibq0jsicatn7l6r/AACNrNELV56rs1YInMWUs9CAa?dl=0).
 
 
 <br><br>
