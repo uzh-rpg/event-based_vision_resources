@@ -225,10 +225,10 @@ IEEE Trans. Neural Netw. Learn. Syst., 28(4):791-803, 2017.
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2019. [PDF](https://arxiv.org/pdf/1710.10800.pdf)
 - <a name="Gehrig18eccv"></a>Gehrig, D., Rebecq, H., Gallego, G., Scaramuzza, D.,  
 *[Asynchronous, Photometric Feature Tracking using Events and Frames](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig.pdf)*,  
-European Conf. Computer Vision (ECCV), 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig_poster.pdf), [YouTube](https://youtu.be/A7UfeUnG6c4), [Oral presentation](https://youtu.be/7EvY8SxdLl8), [Tracking analysis code](https://github.com/uzh-rpg/rpg_feature_tracking_analysis)
-- <a name="LinaresBarrancoA18entropy"></a>Linares-Barranco, A., Liu, H., Rios-Navarro, A., Gomez-Rodriguez, F., Moeys, D., Delbruck, T.
+European Conf. Computer Vision (ECCV), 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig_poster.pdf), [YouTube](https://youtu.be/A7UfeUnG6c4), [Oral presentation](https://youtu.be/7EvY8SxdLl8), [Tracking analysis code](https://github.com/uzh-rpg/rpg_feature_tracking_analysis)  
+- <a name="LinaresBarrancoA18entropy"></a>Linares-Barranco, A., Liu, H., Rios-Navarro, A., Gomez-Rodriguez, F., Moeys, D., Delbruck, T.  
 *[Approaching Retinal Ganglion Cell Modeling and FPGA Implementation for Robotics](https://doi.org/10.3390/e20060475)*,  
-Entropy 2018, 20(6), 475.
+Entropy 2018, 20(6), 475.  
 - <a name="Mitrokhin18iros"></a>Mitrokhin, A., Fermüller, C., Parameshwara, C., Aloimonos, Y.,  
 *[Event-based Moving Object Detection and Tracking](https://doi.org/10.1109/IROS.2018.8593805)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018. [PDF](https://arxiv.org/pdf/1803.04523.pdf), [YouTube](https://youtu.be/UCAJi0ZFaZ8), [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
@@ -257,9 +257,9 @@ IS&T International Symposium on Electronic Imaging 2019. Computational Imaging X
 - <a name="Alzugaray193dv"></a>Alzugaray, I., Chli, M.,  
 *[Asynchronous Multi-Hypothesis Tracking of Features with Event Cameras](https://doi.org/10.3929/ethz-b-000360434)*,  
 Int. Conf. 3D Vision (3DV), 2019. [PDF](https://doi.org/10.3929/ethz-b-000360434), [YouTube](https://youtu.be/eguV_AIbteU)
-- <a name="LinaresBarrancoA19access"></a>Linares-Barranco, A., Perez-Pena, F., Moeys, D., Gomez-Rodriguez, F., Jimenez-Moreno, G., Delbruck, T. 
+- <a name="LinaresBarrancoA19access"></a>Linares-Barranco, A., Perez-Pena, F., Moeys, D., Gomez-Rodriguez, F., Jimenez-Moreno, G., Delbruck, T.  
 *[Low Latency Event-based Filtering and Feature Extraction for Dynamic Vision Sensors in Real-Time FPGA Applications](https://doi.org/10.1109/ACCESS.2019.2941282)*,  
-IEEE-Acess 2019, early access.
+IEEE-Acess 2019.
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
@@ -825,9 +825,9 @@ Robotics: Science and Systems XIV (RSS), 2019. [PDF](https://www.research-collec
 - <a name="Chen19fnins"></a>Chen, G., Chen, J., Lienen, M., Conradt, J., Roehrbein, F., Knoll, A.C.,  
 *[FLGR: Fixed Length Gists Representation Learning for RNN-HMM Hybrid-Based Neuromorphic Continuous Gesture Recognition](https://dx.doi.org/10.3389%2Ffnins.2019.00073)*,  
 Front. Neurosci., 2019, 13:73.
-- <a name="Tapiador18tbiocas"></a>Tapiador-Morales, R., Linares-Barranco, A., Jimenez-Fernandez, A., Jimenez-Moreno, G. 
+- <a name="Tapiador18tbiocas"></a>Tapiador-Morales, R., Linares-Barranco, A., Jimenez-Fernandez, A., Jimenez-Moreno, G.  
 *[Neuromorphic LIF Row-by-Row Multiconvolution Processor for FPGA](https://doi.org/10.1109/TBCAS.2018.2880012)*,  
-IEEE Transactions on Biomedical Circuits and Systems, 2019, vol. 13, issue 1.
+IEEE Trans. Biomed. Circuits Syst, 2019, vol. 13, issue 1.  
 - <a name="Jiang19icra"></a> Jiang, Z., Xia, P., Huang, K., Stechele, W., Chen, G., Bing, Z., Knoll, A.,  
 *Mixed Frame-/Event-Driven Fast Pedestrian Detection*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2019.
@@ -1321,7 +1321,7 @@ MSc. Thesis, Air Force Institute of Technology, USA, 2019. [PDF](https://apps.dt
 - [Western Sydney University’s International Centre for Neuromorphic Systems (ICNS)](https://www.westernsydney.edu.au/icns), Australia.
 - [Perception and Robotics Group](http://prg.cs.umd.edu/) at University of Maryland (UMD).
 - [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), [Mike Davies](https://newsroom.intel.com/news/bobbleheads-tool-test-neuromorphic-mind/#gs.nndw9d) (Intel’s neuromorphic computing program leader).
-- [RTC-lab Sevilla](http://www.rtc.us.es/), University of Seville, SPAIN
+- [Robotics and Technology of Computers Lab - Sevilla (RTC)](http://www.rtc.us.es/) of the University of Seville (USE), Seville, SPAIN  
 
 <br><br>
 <a name="contributing"></a>
