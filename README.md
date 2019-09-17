@@ -37,7 +37,7 @@
 - [Workshops and Tutorials](#workshops)
 - [Theses and Dissertations](#theses)
     - [Dissertations](#theses-phd)
-    - [Master Theses](#theses-master)
+    - [Master's Theses](#theses-master)
 - [People / Organizations](#people)
 - [Contributing](#contributing)
 
@@ -390,6 +390,10 @@ Neural Processing Letters, 43(2):311-326, Apr. 2016. [PDF](https://mediatum.ub.t
 - <a name="Zou16icip"></a>Zou, D., Guo, P., Wang, Q., Wang, X., Shao, G., Shi, F., Li, J., Park P.-K.J.,  
 *[Context-Aware Event-driven Stereo Matching](https://doi.org/10.1109/ICIP.2016.7532523)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2016.
+- [Kaelber, F., Bachelor Thesis 2016](#Kaelber16BS),  
+*A probabilistic method forevent stream registration*.
+- [Galanis, M., Bachelor Thesis 2016](#Galanis16BS),  
+*DVS event stream registration*.
 - <a name="Osswald17srep"></a>Osswald, M., Ieng, S.-H., Benosman, R., Indiveri, G.,  
 *[A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems](http://doi.org/10.1038/srep40703)*,  
 Scientific Reports 7, Article number: 40703 (2017).
@@ -1273,7 +1277,7 @@ Ph.D. Thesis, Imperial College London, United Kingdom, 2019.
 
 
 <a name="theses-master"></a>
-### Masters' Theses
+### Master's (and Bachelor's) Theses
 - <a name="Reisinger06MSc"></a>Reisinger, K.,  
 *[EMC testing on Silicon Retinas](http://catalogplus.tuwien.ac.at/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=UTW_alma2164793430003336&indx=1&recIds=UTW_alma2164793430003336&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&vl(D487844771UI4)=20-YEAR&vl(487848257UI0)=creator&vl(drStartMonth6)=00&vl(487849216UI1)=title&&vl(drEndYear6)=Jahr&dscnt=0&vl(1UIStartWith0)=contains&vl(976016785UI2)=any&vl(1UIStartWith2)=contains&mode=Advanced&vid=UTW&vl(boolOperator1)=AND&tab=default_tab&vl(487849261UI3)=all_items&vl(freeText1)=silicon+retina&vl(drStartDay6)=00&vl(drStartYear6)=Jahr&dstmp=1518094639224&frbg=&vl(487849310UI5)=ger&vl(1UIStartWith1)=contains&srt=rank&vl(boolOperator0)=AND&vl(drEndMonth6)=00&Submit=Suche&vl(freeText2)=&vl(boolOperator2)=AND&dum=true&vl(freeText0)=Reisinger&vl(drEndDay6)=00)*,  
 MSc. Thesis, TU Wien & AIT, 2006.
@@ -1292,6 +1296,12 @@ MSc. Thesis, University of Zurich, 2014.
 - <a name="Horstschaefer16MSc"></a>Horstschaefer, T.,  
 *[Parallel Tracking, Depth Estimation, and Image Reconstruction with an Event Camera](http://www.kutter-fonds.ethz.ch/App_Themes/default/datalinks/2016_MT_Horstschaefer1.pdf)*,  
 MSc. Thesis, University of Zurich, 2016.
+- <a name="Kaelber16BS"></a>Kaelber, F., (Everding, L, Conradt, J.,)    
+*[A probabilistic method forevent stream registration](https://mediatum.ub.tum.de/doc/1327653/1327653.pdf)*,  
+Bacherlor Thesis, TU Munich, 2016.
+- <a name="Galanis16BS"></a>Galanis, M., (Everding, L, Conradt, J.,)    
+*[DVS event stream registration](https://mediatum.ub.tum.de/doc/1367575/1367575.pdf)*,  
+Bacherlor Thesis, TU Munich, 2016.
 - <a name="Nelson19MSc"></a>Nelson, K. J.,  
 *[Event-Based Visual-Inertial Odometry on a Fixed-Wing Unmanned Aerial Vehicle](https://apps.dtic.mil/docs/citations/AD1076268)*,  
 MSc. Thesis, Air Force Institute of Technology, USA, 2019. [PDF](https://apps.dtic.mil/dtic/tr/fulltext/u2/1076268.pdf)
