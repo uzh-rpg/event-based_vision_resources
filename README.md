@@ -536,6 +536,10 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://a
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 - [Gehrig et. al. ICCV 2019](#Gehrig19iccv),  
 *End-to-End Learning of Representations for Asynchronous Event-Based Data*.
+- <a name="Stoffregen19iccv"></a>Stoffregen, T., Gallego, G., Drummond, T., Kleeman, L., Scaramuzza, D.,  
+*[Event-Based Motion Segmentation by Motion Compensation](http://rpg.ifi.uzh.ch/docs/ICCV19_Stoffregen.pdf)*,  
+IEEE Int. Conf. Computer Vision (ICCV), 2019. [PDF (animations best viewed with Acrobat Reader)](http://rpg.ifi.uzh.ch/docs/ICCV19_Stoffregen.pdf), [YouTube](https://youtu.be/0q6ap_OSBAk)
+
 
 <a name="image-reconstruction"></a>
 ## Intensity-Image Reconstruction from events
