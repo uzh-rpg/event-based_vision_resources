@@ -961,9 +961,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF
 - <a name="Zolnowski19neosst"></a>Zolnowski, M., Reszelewski, R., Moeys, D.P., Delbruck, T., Kaminski, K.,  
 *[Observational Evaluation of Event Cameras Performance in Optical Space Surveillance](https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/475/NEOSST1-paper475.pdf)*,  
 Proc. NEO and Debris Detection Conference, Darmstadt, Germany, Jan. 2019.
-- <a name="Chin19arxiv"></a>Chin, T.-J., Bagchi, S.,  
+- <a name="Chin20wacv"></a>Chin, T.-J., Bagchi, S.,  
 *[Event-based Star Tracking via Multiresolution Progressive Hough Transforms](https://arxiv.org/pdf/1906.07866.pdf)*,  
-arXiv, 2019.
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2020.
 
 
 <a name="tactile_sensing"></a>
