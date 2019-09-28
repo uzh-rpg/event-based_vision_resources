@@ -950,10 +950,13 @@ IEEE Conf. Decision and Control (CDC), 2016.
 American Control Conference (ACC), 2017.
 - <a name="Falanga19ral"></a>Falanga, D., Kim, S., Scaramuzza, D.,  
 *[How Fast is Too Fast? The Role of Perception Latency in High-Speed Sense and Avoid](http://rpg.ifi.uzh.ch/docs/RAL19_Falanga.pdf)*,  
-IEEE Robotics and Automation Letters (RA-L), 2019.
+IEEE Robotics and Automation Letters (RA-L), 2019. [YouTube](https://youtu.be/sbJAi6SXOQw)
 - <a name="Singh19tac"></a>Singh, P., Yong, S. Z., Frazzoli, E.,  
 *[Regulation of Linear Systems Using Event-Based Detection Sensors](https://doi.org/10.1109/TAC.2018.2876997)*,  
 IEEE Trans. Automatic Control, 2019.
+- <a name="Sanket19arxiv"></a>Sanket, N.J., Parameshwara, C.M., Singh, C.D., Kuruttukulam, A.V., Fermüller, C., Scaramuzza, D., Aloimonos, Y.,  
+[EVDodge: Embodied AI For High-Speed Dodging On A Quadrotor Using Event Cameras](https://arxiv.org/pdf/1906.02919),  
+arXiv:1906.02919, 2019. [PDF](https://prg.cs.umd.edu/research/EVDodge_files/EVDodge.pdf), [YouTube](https://youtu.be/k1uzsiDI4hM), [Project page](http://prg.cs.umd.edu/EVDodgeNet), [Code](https://github.com/prgumd/EVDodge).
 
 
 <a name="space"></a>
