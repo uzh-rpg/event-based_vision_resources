@@ -1089,6 +1089,11 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019. [PDF](http://rpg.ifi.uzh.c
 [ViViD: Vision for Visibility Dataset](https://sites.google.com/view/dgbicra2019-vivid/),  
 IEEE Int. Conf. Robotics and Automation (ICRA) Workshop: Dataset Generation and Benchmarking of SLAM Algorithms for Robotics and VR/AR, 2019.
 
+### Segmentation
+- <a name="Mitrokhin19iros"></a>Mitrokhin, A., Ye, C., Fermuller, C., Aloimonos, Y., Delbruck, T.,  
+[EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](https://arxiv.org/abs/1903.07520),  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
+
 
 ### Recognition
 - <a name="Orchard15fnins"></a>Orchard, G., Jayawant, A., Cohen, G.K., Thakor, N.,  
@@ -1305,6 +1310,9 @@ Ph.D. Thesis, The University of Queensland, Brisbane, Australia, 2018.
 - <a name="Bardow19PhD"></a>Bardow, P. A.,  
 *[Estimating General Motion and Intensity from Event Cameras](https://www.doc.ic.ac.uk/~ajd/Publications/Bardow-P-2019-PhD-Thesis.pdf)*,  
 Ph.D. Thesis, Imperial College London, United Kingdom, 2019.
+- <a name="Ye19PhD"></a>Ye, C.,  
+*[Learning of Dense Optical Flow, Motion and Depth, from Sparse Event Cameras](https://doi.org/10.13016/fhqf-g7xr)*,  
+Ph.D. Thesis, University of Maryland, USA, 2019.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
