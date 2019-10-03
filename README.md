@@ -907,6 +907,9 @@ IEEE Int. Conf. Computer Vision (ICCV), 2019, [Github Page](https://github.com/P
 - <a name="Li19icme"></a>Li, J., Dong, S., Yu, Z., Tian, Y., Huang, T.,  
 *[Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving](https://doi.org/10.1109/ICME.2019.00242),*  
 IEEE Int. Conf. Multimedia and Expo (ICME), 2019.
+- <a name="Iacono19iros"></a>Iacono, M., D'Angelo, G., Glover, A., Tikhanoff, V., Niebur, E., Bartolozzi, C.,  
+*Proto-Object Based Saliency for Event-Driven Cameras*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
 
 
 <a name="control"></a>
