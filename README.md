@@ -133,6 +133,9 @@ Wiley. ISBN: 978-1-118-92762-5, 2014.
 - <a name="Chicca14ieee"></a>Chicca, E., Stefanini, F., Bartolozzi, C., Indiveri, G.,  
 *[Neuromorphic Electronic Circuits for Building Autonomous Cognitive Systems](http://dx.doi.org/10.1109/JPROC.2014.2313954)*,  
 Proc. IEEE, 102(9):1367-1388, 2014.
+- <a name="Posch15ieee"></a>Posch, C., Benosman, R., Etienne-Cummings, R.,  
+*[How Neuromorphic Image Sensors Steal Tricks From the Human Eye](https://spectrum.ieee.org/biomedical/devices/how-neuromorphic-image-sensors-steal-tricks-from-the-human-eye)*, also published as *[Giving Machines Humanlike Eyes](https://doi.org/10.1109/MSPEC.2015.7335800)*,  
+IEEE Spectrum, 52(12):44-49, 2015.
 - <a name="Delbruck16essderc"></a>Delbruck, T.,  
 *[Neuromorophic Vision Sensing and Processing (Invited paper)](https://doi.org/10.1109/ESSDERC.2016.7599576)*,  
 46th Eur. Solid-State Device Research Conference (ESSDERC), Lausanne, 2016, pp. 7-14.
