@@ -407,7 +407,7 @@ Neural Processing Letters, 43(2):311-326, Apr. 2016. [PDF](https://mediatum.ub.t
 *[Context-Aware Event-driven Stereo Matching](https://doi.org/10.1109/ICIP.2016.7532523)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2016.
 - [Kaelber, F., Bachelor Thesis 2016](#Kaelber16BS),  
-*A probabilistic method forevent stream registration*.
+*A probabilistic method for event stream registration*.
 - [Galanis, M., Bachelor Thesis 2016](#Galanis16BS),  
 *DVS event stream registration*.
 - <a name="Osswald17srep"></a>Osswald, M., Ieng, S.-H., Benosman, R., Indiveri, G.,  
@@ -1344,7 +1344,7 @@ MSc. Thesis, University of Zurich, 2014.
 *[Parallel Tracking, Depth Estimation, and Image Reconstruction with an Event Camera](http://www.kutter-fonds.ethz.ch/App_Themes/default/datalinks/2016_MT_Horstschaefer1.pdf)*,  
 MSc. Thesis, University of Zurich, 2016.
 - <a name="Kaelber16BS"></a>Kaelber, F., (Everding, L, Conradt, J.,)    
-*[A probabilistic method forevent stream registration](https://mediatum.ub.tum.de/doc/1327653/1327653.pdf)*,  
+*[A probabilistic method for event stream registration](https://mediatum.ub.tum.de/doc/1327653/1327653.pdf)*,  
 Bacherlor Thesis, TU Munich, 2016.
 - <a name="Galanis16BS"></a>Galanis, M., (Everding, L, Conradt, J.,)    
 *[DVS event stream registration](https://mediatum.ub.tum.de/doc/1367575/1367575.pdf)*,  
