@@ -1094,12 +1094,13 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019. [PDF](http://rpg.ifi.uzh.c
 - <a name="Lee19icraw"></a>Lee, A. J., Cho, Y., Yoon, S., Shin, Y., Kim, A.,  
 [ViViD: Vision for Visibility Dataset](https://sites.google.com/view/dgbicra2019-vivid/),  
 IEEE Int. Conf. Robotics and Automation (ICRA) Workshop: Dataset Generation and Benchmarking of SLAM Algorithms for Robotics and VR/AR, 2019.
+- [Mitrokhin et. al. IROS 2019](#Mitrokhin19iros).  
+*EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras*
 
 ### Segmentation
-- <a name="Mitrokhin19iros"></a>Mitrokhin, A., Ye, C., Fermuller, C., Aloimonos, Y., Delbruck, T.,  
-[EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](https://arxiv.org/abs/1903.07520),  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
-
+- <a name="Mitrokhin19iros"></a>Mitrokhin, A., Ye, C., Fermüller, C., Aloimonos, Y., Delbrück, T.,  
+*[EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras]*(https://arxiv.org/abs/1903.07520),  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019. [PDF](https://arxiv.org/pdf/1903.07520.pdf), [Dataset](https://better-flow.github.io/evimo), [Project page](http://prg.cs.umd.edu/EV-IMO.html)
 
 ### Recognition
 - <a name="Orchard15fnins"></a>Orchard, G., Jayawant, A., Cohen, G.K., Thakor, N.,  
