@@ -262,7 +262,7 @@ IS&T International Symposium on Electronic Imaging 2019. Computational Imaging X
 Int. Conf. 3D Vision (3DV), 2019. [PDF](https://doi.org/10.3929/ethz-b-000360434), [YouTube](https://youtu.be/eguV_AIbteU)
 - <a name="LinaresBarranco19access"></a>Linares-Barranco, A., Perez-Pena, F., Moeys, D.P., Gomez-Rodriguez, F., Jimenez-Moreno, G., Delbruck, T.  
 *[Low Latency Event-based Filtering and Feature Extraction for Dynamic Vision Sensors in Real-Time FPGA Applications](https://doi.org/10.1109/ACCESS.2019.2941282)*,  
-IEEE Access, vol. 7, pp. 134926-134942, 2019.
+IEEE Access, vol. 7, pp. 134926-134942, 2019. [Code](https://github.com/RTC-research-group/EDIP_library)
 - <a name="Li19access"></a>Li, K., Shi, D., Zhang, Y., Li, R., Qin, W., Li, R.,  
 *[Feature Tracking Based on Line Segments](https://doi.org/10.1109/ACCESS.2019.2933594)*,  
 IEEE Access, vol. 7, pp. 110874-110883, 2019.
