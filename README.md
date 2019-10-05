@@ -260,12 +260,12 @@ IS&T International Symposium on Electronic Imaging 2019. Computational Imaging X
 - <a name="Alzugaray193dv"></a>Alzugaray, I., Chli, M.,  
 *[Asynchronous Multi-Hypothesis Tracking of Features with Event Cameras](https://doi.org/10.3929/ethz-b-000360434)*,  
 Int. Conf. 3D Vision (3DV), 2019. [PDF](https://doi.org/10.3929/ethz-b-000360434), [YouTube](https://youtu.be/eguV_AIbteU)
-- <a name="LinaresBarrancoA19access"></a>Linares-Barranco, A., Perez-Pena, F., Moeys, D., Gomez-Rodriguez, F., Jimenez-Moreno, G., Delbruck, T.  
+- <a name="LinaresBarranco19access"></a>Linares-Barranco, A., Perez-Pena, F., Moeys, D.P., Gomez-Rodriguez, F., Jimenez-Moreno, G., Delbruck, T.  
 *[Low Latency Event-based Filtering and Feature Extraction for Dynamic Vision Sensors in Real-Time FPGA Applications](https://doi.org/10.1109/ACCESS.2019.2941282)*,  
-IEEE Acess, 2019.
+IEEE Access, vol. 7, pp. 134926-134942, 2019.
 - <a name="Li19access"></a>Li, K., Shi, D., Zhang, Y., Li, R., Qin, W., Li, R.,  
 *[Feature Tracking Based on Line Segments](https://doi.org/10.1109/ACCESS.2019.2933594)*,  
-IEEE Acess, 2019.
+IEEE Access, vol. 7, pp. 110874-110883, 2019.
 - <a name="Xu19arxiv"></a>Xu, L., Xu, W., Golyanik, V., Habermann, M., Fang, L., Theobalt, C.,  
 *[EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera](https://arxiv.org/pdf/1908.11505)*,  
 arXiv:1908.11505, 2019. [ZDNet news](https://www.zdnet.com/article/high-speed-motion-capture-using-a-single-event-camera/)
