@@ -1314,6 +1314,9 @@ Ph.D. Thesis, Nanyang Technological University, Singapore, 2018.
 - <a name="Gibson18PhD"></a>Gibson, T. T.,  
 *[Inspired by nature: timescale-free and grid-free event-based computing with spiking neural networks](https://doi.org/10.14264/uql.2018.664)*,  
 Ph.D. Thesis, The University of Queensland, Brisbane, Australia, 2018.
+- <a name="Martel19PhD"></a>Martel, J.,  
+*[Unconventional Processing with Unconventional Visual Sensing. Parallel, Distributed and Event Based Vision Algorithms & Systems](https://doi.org/10.3929/ethz-b-000362900)*,  
+Ph.D. Thesis, ETH Zurich, Zurich, Switzerland, 2019.
 - <a name="Bardow19PhD"></a>Bardow, P. A.,  
 *[Estimating General Motion and Intensity from Event Cameras](https://www.doc.ic.ac.uk/~ajd/Publications/Bardow-P-2019-PhD-Thesis.pdf)*,  
 Ph.D. Thesis, Imperial College London, United Kingdom, 2019.
