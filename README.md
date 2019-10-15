@@ -913,6 +913,9 @@ IEEE Int. Conf. Multimedia and Expo (ICME), 2019.
 - <a name="Iacono19iros"></a>Iacono, M., D'Angelo, G., Glover, A., Tikhanoff, V., Niebur, E., Bartolozzi, C.,  
 *Proto-Object Based Saliency for Event-Driven Cameras*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
+- <a name="bi19arxiv"></a>Bi, Y., Chadha, A., Abbas, A.,  Bourtsoulatze, E., Andreopoulos, Y.,  
+*[Graph-based Spatial-temporal Feature Learning for Neuromorphic Vision Sensing](https://arxiv.org/pdf/1910.03579),*  
+arXiv:1910.03579, 2019.
 
 
 <a name="control"></a>
