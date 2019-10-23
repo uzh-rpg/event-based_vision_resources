@@ -1251,6 +1251,7 @@ Int. Conf. Computer Supported Education (CSEDU), SCITEPRESS Digital Library, (20
 - [Capo Caccia Workshops toward Cognitive Neuromorphic Engineering](http://capocaccia.iniforum.ch/).
 - [IEEE Embedded Vision Workshop Series](https://embeddedvisionworkshop.wordpress.com), with focus on Biologically-inspired vision and embedded systems.
 - [Neuro-Inspired Computational Elements (NICE) Workshop Series](https://niceworkshop.org/nice-2019/)
+    - [Videos](https://www.youtube.com/channel/UCKTLpjY9e8cMK12d2-Z-usA)
 
 
 <br><br>
