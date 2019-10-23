@@ -916,6 +916,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
 - <a name="bi19arxiv"></a>Bi, Y., Chadha, A., Abbas, A.,  Bourtsoulatze, E., Andreopoulos, Y.,  
 *[Graph-based Spatial-temporal Feature Learning for Neuromorphic Vision Sensing](https://arxiv.org/pdf/1910.03579),*  
 arXiv:1910.03579, 2019.
+- <a name="Nan19ssci"></a>Nan, Y., Xiao, R., Gao, S., Yan, R.,  
+*[An Event-based Hierarchy Model forObject Recognition](https://www.researchgate.net/publication/336318915_An_Event-based_Hierarchy_Model_for_Object_Recognition)*,  
+IEEE Symp. Series in Computational Intelligence (SSCI), 2019.
 
 
 <a name="control"></a>
