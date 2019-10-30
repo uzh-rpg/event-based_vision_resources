@@ -1154,6 +1154,7 @@ Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark)
 - [evl (Open Source Computer Vision Library for Event-based camera and vision for C++)](https://github.com/EventVisionLibrary/evl)
 - [ROS (Robotic Operating System)](https://github.com/uzh-rpg/rpg_dvs_ros)
 - [YARP (Yet Another Robot Platform)](https://github.com/robotology/event-driven)
+- [Prophesee ROS Wrapper](https://github.com/prophesee-ai/prophesee_ros_wrapper) ROS driver and messages for Prophesee event-based sensors
 
 
 <a name="calibration"></a>
