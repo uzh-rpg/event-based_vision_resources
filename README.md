@@ -37,7 +37,7 @@
 - [Workshops and Tutorials](#workshops)
 - [Theses and Dissertations](#theses)
     - [Dissertations](#theses-phd)
-    - [Master Theses](#theses-master)
+    - [Master's Theses](#theses-master)
 - [People / Organizations](#people)
 - [Contributing](#contributing)
 
@@ -61,6 +61,7 @@ arXiv 2019.
 - **Samsung's DVS**
     - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Eric_Ryu_Samsung.pdf) and [Video](https://youtu.be/7fAPckjQSGE) by [Hyunsurk Eric Ryu](https://www.linkedin.com/in/hyunsurk-eric-ryu-82745712), Samsung Electronics  (2019).
     - Son, B., et al., *[A 640×480 dynamic vision sensor with a 9µm pixel and 300Meps address-event representation](https://doi.org/10.1109/ISSCC.2017.7870263)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), San Francisco, CA, 2017, pp. 66-67.
+    - [SmartThings Vision](https://www.samsung.com/se/smartthings/smartthings-vision-u999/) commercial product for home monitoring.
 - **DLS (Dynamic Line Sensor)**: Posch, C., Hofstaetter, M., Matolin, D., Vanstraelen, G., Schoen, P., Donath, N., and Litzenberger, M., *[A dual-line optical transient sensor with on-chip precision time-stamp generation](https://doi.org/10.1109/ISSCC.2007.373513)*, IEEE Int. Solid-State Circuits Conf. - Digest of Technical Papers, Lisbon Falls, MN, US, 2007.
     - [Fact sheet at AIT](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_Linescan-Chip_DLS_en.pdf).
 - **LWIR DVS**: Posch, C., Matolin, D., Wohlgenannt, R., Maier, T., Litzenberger, M., *[A Microbolometer Asynchronous Dynamic Vision Sensor for LWIR](https://doi.org/10.1109/JSEN.2009.2020658)*, IEEE Sensors Journal, 9 (2009), 6; S. 654 - 664.
@@ -133,11 +134,14 @@ Wiley. ISBN: 978-1-118-92762-5, 2014.
 - <a name="Chicca14ieee"></a>Chicca, E., Stefanini, F., Bartolozzi, C., Indiveri, G.,  
 *[Neuromorphic Electronic Circuits for Building Autonomous Cognitive Systems](http://dx.doi.org/10.1109/JPROC.2014.2313954)*,  
 Proc. IEEE, 102(9):1367-1388, 2014.
+- <a name="Posch15ieee"></a>Posch, C., Benosman, R., Etienne-Cummings, R.,  
+*[How Neuromorphic Image Sensors Steal Tricks From the Human Eye](https://spectrum.ieee.org/biomedical/devices/how-neuromorphic-image-sensors-steal-tricks-from-the-human-eye)*, also published as *[Giving Machines Humanlike Eyes](https://doi.org/10.1109/MSPEC.2015.7335800)*,  
+IEEE Spectrum, 52(12):44-49, 2015.
 - <a name="Delbruck16essderc"></a>Delbruck, T.,  
 *[Neuromorophic Vision Sensing and Processing (Invited paper)](https://doi.org/10.1109/ESSDERC.2016.7599576)*,  
 46th Eur. Solid-State Device Research Conference (ESSDERC), Lausanne, 2016, pp. 7-14.
 - <a name="Vanarse16fnins"></a>Vanarse, A., Osseiran, A., Rassau, A,  
-*[A Review of Current Neuromorphic Approaches for Vision, Auditory, and Olfactory Sensors](http://dx.doi.org/10.3389/fnins.2016.00115)*,
+*[A Review of Current Neuromorphic Approaches for Vision, Auditory, and Olfactory Sensors](http://dx.doi.org/10.3389/fnins.2016.00115)*,  
 Front. Neurosci. (2016), 10:115.
 
 <br><br>
@@ -225,7 +229,10 @@ IEEE Trans. Neural Netw. Learn. Syst., 28(4):791-803, 2017.
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2019. [PDF](https://arxiv.org/pdf/1710.10800.pdf)
 - <a name="Gehrig18eccv"></a>Gehrig, D., Rebecq, H., Gallego, G., Scaramuzza, D.,  
 *[Asynchronous, Photometric Feature Tracking using Events and Frames](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig.pdf)*,  
-European Conf. Computer Vision (ECCV), 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig_poster.pdf), [YouTube](https://youtu.be/A7UfeUnG6c4), [Oral presentation](https://youtu.be/7EvY8SxdLl8), [Tracking analysis code](https://github.com/uzh-rpg/rpg_feature_tracking_analysis)
+European Conf. Computer Vision (ECCV), 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig_poster.pdf), [YouTube](https://youtu.be/A7UfeUnG6c4), [Oral presentation](https://youtu.be/7EvY8SxdLl8), [Tracking analysis code](https://github.com/uzh-rpg/rpg_feature_tracking_analysis)  
+- <a name="LinaresBarrancoA18entropy"></a>Linares-Barranco, A., Liu, H., Rios-Navarro, A., Gomez-Rodriguez, F., Moeys, D., Delbruck, T.  
+*[Approaching Retinal Ganglion Cell Modeling and FPGA Implementation for Robotics](https://doi.org/10.3390/e20060475)*,  
+Entropy 2018, 20(6), 475.  
 - <a name="Mitrokhin18iros"></a>Mitrokhin, A., Fermüller, C., Parameshwara, C., Aloimonos, Y.,  
 *[Event-based Moving Object Detection and Tracking](https://doi.org/10.1109/IROS.2018.8593805)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018. [PDF](https://arxiv.org/pdf/1803.04523.pdf), [YouTube](https://youtu.be/UCAJi0ZFaZ8), [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
@@ -254,6 +261,19 @@ IS&T International Symposium on Electronic Imaging 2019. Computational Imaging X
 - <a name="Alzugaray193dv"></a>Alzugaray, I., Chli, M.,  
 *[Asynchronous Multi-Hypothesis Tracking of Features with Event Cameras](https://doi.org/10.3929/ethz-b-000360434)*,  
 Int. Conf. 3D Vision (3DV), 2019. [PDF](https://doi.org/10.3929/ethz-b-000360434), [YouTube](https://youtu.be/eguV_AIbteU)
+- <a name="LinaresBarranco19access"></a>Linares-Barranco, A., Perez-Pena, F., Moeys, D.P., Gomez-Rodriguez, F., Jimenez-Moreno, G., Delbruck, T.  
+*[Low Latency Event-based Filtering and Feature Extraction for Dynamic Vision Sensors in Real-Time FPGA Applications](https://doi.org/10.1109/ACCESS.2019.2941282)*,  
+IEEE Access, vol. 7, pp. 134926-134942, 2019. [Code](https://github.com/RTC-research-group/EDIP_library)
+- <a name="Li19access"></a>Li, K., Shi, D., Zhang, Y., Li, R., Qin, W., Li, R.,  
+*[Feature Tracking Based on Line Segments](https://doi.org/10.1109/ACCESS.2019.2933594)*,  
+IEEE Access, vol. 7, pp. 110874-110883, 2019.
+- <a name="Xu19arxiv"></a>Xu, L., Xu, W., Golyanik, V., Habermann, M., Fang, L., Theobalt, C.,  
+*[EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera](https://arxiv.org/pdf/1908.11505)*,  
+arXiv:1908.11505, 2019. [ZDNet news](https://www.zdnet.com/article/high-speed-motion-capture-using-a-single-event-camera/)
+- <a name="Bolten19iccs"></a>Bolten T., Pohle-Fröhlich R., Tönnies K.D.,  
+*[Application of Hierarchical Clustering for Object Tracking with a Dynamic Vision Sensor](https://doi.org/10.1007/978-3-030-22750-0_13)*,  
+Int. Conf. Computational Science (ICCS) 2019. [PDF](https://www.hs-niederrhein.de/fileadmin/dateien/Institute_und_Kompetenzzentren/iPattern/selfarchived/bolten-iccs-2019.pdf)
+
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
@@ -390,6 +410,10 @@ Neural Processing Letters, 43(2):311-326, Apr. 2016. [PDF](https://mediatum.ub.t
 - <a name="Zou16icip"></a>Zou, D., Guo, P., Wang, Q., Wang, X., Shao, G., Shi, F., Li, J., Park P.-K.J.,  
 *[Context-Aware Event-driven Stereo Matching](https://doi.org/10.1109/ICIP.2016.7532523)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2016.
+- [Kaelber, F., Bachelor Thesis 2016](#Kaelber16BS),  
+*A probabilistic method for event stream registration*.
+- [Galanis, M., Bachelor Thesis 2016](#Galanis16BS),  
+*DVS event stream registration*.
 - <a name="Osswald17srep"></a>Osswald, M., Ieng, S.-H., Benosman, R., Indiveri, G.,  
 *[A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems](http://doi.org/10.1038/srep40703)*,  
 Scientific Reports 7, Article number: 40703 (2017).
@@ -430,6 +454,9 @@ Electronics 2019, 8(4), 410.
 - <a name="Hadviger19arxiv"></a>Hadviger, A., Markovic, I., Petrovic, I.,  
 *[Stereo Event Lifetime and Disparity Estimation for Dynamic Vision Sensors](https://arxiv.org/pdf/1907.07518)*,  
 arXiv:1907.07518, 2019.
+- <a name="Tulyakov19iccv"></a>Tulyakov, S., Fleuret, F., Kiefel, M., Gehler, P., Hirsch., M.,  
+*[Learning an event sequence embedding for dense event-based deep stereo](https://www.idiap.ch/~fleuret/papers/tulyakov-et-al-iccv2019.pdf)*,  
+IEEE Int. Conf. Computer Vision (ICCV), 2019.
 
 
 <a name="optical-flow-estimation"></a>
@@ -521,8 +548,12 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://a
 - <a name="Stoffregen19cvpr"></a>Stoffregen, T., Kleeman, L.,  
 *[Event Cameras, Contrast Maximization and Reward Functions: An Analysis](http://openaccess.thecvf.com/content_CVPR_2019/html/Stoffregen_Event_Cameras_Contrast_Maximization_and_Reward_Functions_An_Analysis_CVPR_2019_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
-- [Gehrig et. al. arXiv 2019](#Gehrig19arxiv),  
+- [Gehrig et. al. ICCV 2019](#Gehrig19iccv),  
 *End-to-End Learning of Representations for Asynchronous Event-Based Data*.
+- <a name="Stoffregen19iccv"></a>Stoffregen, T., Gallego, G., Drummond, T., Kleeman, L., Scaramuzza, D.,  
+*[Event-Based Motion Segmentation by Motion Compensation](http://rpg.ifi.uzh.ch/docs/ICCV19_Stoffregen.pdf)*,  
+IEEE Int. Conf. Computer Vision (ICCV), 2019. [PDF (animations best viewed with Acrobat Reader)](http://rpg.ifi.uzh.ch/docs/ICCV19_Stoffregen.pdf), [YouTube](https://youtu.be/0q6ap_OSBAk)
+
 
 <a name="image-reconstruction"></a>
 ## Intensity-Image Reconstruction from events
@@ -551,7 +582,7 @@ British Machine Vision Conf. (BMVC), 2016. [PDF](http://www.bmva.org/bmvc/2016/p
 *[Color Temporal Contrast Sensitivity in Dynamic Vision Sensors](http://dx.doi.org/10.1109/ISCAS.2017.8050412)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2017. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=65634).
 - <a name="Munda18ijcv"></a>Munda, G., Reinbacher, C., Pock, T.,  
-*[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](https://doi.org/10.1007/s11263-018-1106-2)*, 
+*[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](https://doi.org/10.1007/s11263-018-1106-2)*,  
 Int. J. of Computer Vision (IJCV), 2018.
 - <a name="Scheerlinck18accv"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
 *[Continuous-time Intensity Estimation Using Event Cameras](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf)*,  
@@ -593,8 +624,8 @@ arXiv:1902.09680, 2019.
 *[Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pan_Bringing_a_Blurry_Frame_Alive_at_High_Frame-Rate_With_an_CVPR_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1811.10180.pdf). [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Yuchao_Dai.pdf), [Video CVPR](https://drive.google.com/file/d/1NscnUF2QxK0of4ZW7T8kneJTH1X76l2u/view), [Video CVPRW](https://youtu.be/JcgboJ_7JAE), [Code](https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera)
 - <a name="Pini19iciap"></a>Pini, S., Borghi, G., Vezzani, R., Cucchiara, R.,  
-*[Video synthesis from Intensity and Event Frames](http://hdl.handle.net/11380/1178955)*,  
-Int. Conf. Image Analysis and Processing, 2019. [PDF](https://iris.unimore.it/retrieve/handle/11380/1178955/224434/ICIAP19_Event_Cameras.pdf)
+*[Video synthesis from Intensity and Event Frames](https://doi.org/10.1007/978-3-030-30642-7_28)*,  
+Int. Conf. Image Analysis and Processing (ICIAP), 2019. Lecture Notes in Computer Science, vol 11751. [PDF](https://iris.unimore.it/retrieve/handle/11380/1178955/224434/ICIAP19_Event_Cameras.pdf)
 
 
 <a name="egomotion"></a>
@@ -612,7 +643,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2013. [PDF](http://rp
 *[Event-based, 6-DOF Pose Tracking for High-Speed Maneuvers](https://doi.org/10.1109/IROS.2014.6942940)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Chicago, IL, 2014, pp. 2761-2768. [PDF](http://rpg.ifi.uzh.ch/docs/IROS14_Mueggler.pdf), [YouTube](https://youtu.be/LauQ6LWTkxM)
 - <a name="Gallego15arxiv"></a>Gallego, G., Forster, C., Mueggler, E., Scaramuzza, D.,  
-*[Event-based Camera Pose Tracking using a Generative Event Model](https://arxiv.org/pdf/1510.01972v1)*,  
+*[Event-based Camera Pose Tracking using a Generative Event Model](https://arxiv.org/pdf/1510.01972)*,  
 arXiv:1510.01972, 2015.
 - <a name="Mueggler15rss"></a>Mueggler, E., Gallego G., Scaramuzza, D.,   
 *[Continuous-Time Trajectory Estimation for Event-based Vision Sensors](http://dx.doi.org/10.15607/RSS.2015.XI.036)*,  
@@ -675,6 +706,9 @@ IEEE Robotics and Automation Letters (RA-L), 2(2):632-639, 2017.
 *A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation*.
 - [Gallego et. al. CVPR 2019](#Gallego19cvpr),  
 *Focus Is All You Need: Loss Functions For Event-based Vision*.
+- <a name="ZhuD19arxiv"></a>Zhu, D., Dong, J., Xu, Z., Ye, C., Hu, Y., Su, H., Liu, Z., Chen, G.,  
+*[Neuromorphic Visual Odometry System for Intelligent Vehicle Application with Bio-inspired Vision Sensor](https://arxiv.org/pdf/1909.02490)*,  
+arXiv:1909.02490, 2019.
 
 
 <a name="visual-inertial"></a>
@@ -820,6 +854,9 @@ Robotics: Science and Systems XIV (RSS), 2019. [PDF](https://www.research-collec
 - <a name="Chen19fnins"></a>Chen, G., Chen, J., Lienen, M., Conradt, J., Roehrbein, F., Knoll, A.C.,  
 *[FLGR: Fixed Length Gists Representation Learning for RNN-HMM Hybrid-Based Neuromorphic Continuous Gesture Recognition](https://dx.doi.org/10.3389%2Ffnins.2019.00073)*,  
 Front. Neurosci., 2019, 13:73.
+- <a name="Tapiador18tbiocas"></a>Tapiador-Morales, R., Linares-Barranco, A., Jimenez-Fernandez, A., Jimenez-Moreno, G.  
+*[Neuromorphic LIF Row-by-Row Multiconvolution Processor for FPGA](https://doi.org/10.1109/TBCAS.2018.2880012)*,  
+IEEE Trans. Biomed. Circuits Syst, 2019, vol. 13, issue 1.  
 - <a name="Jiang19icra"></a> Jiang, Z., Xia, P., Huang, K., Stechele, W., Chen, G., Bing, Z., Knoll, A.,  
 *Mixed Frame-/Event-Driven Fast Pedestrian Detection*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2019.
@@ -837,9 +874,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://a
 - <a name="Wang19cvpr"></a>Wang, Y., Du, B., Shen, Y., Wu, K., Zhao, G., Sun, J., Wen, H.,  
 *[EV-Gait: Event-Based Robust Gait Recognition Using Dynamic Vision Sensors](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_EV-Gait_Event-Based_Robust_Gait_Recognition_Using_Dynamic_Vision_Sensors_CVPR_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
-- <a name="Gehrig19arxiv"></a>Gehrig, D., Loquercio, A., Derpanis, K. G., Scaramuzza, D.,  
-*[End-to-End Learning of Representations for Asynchronous Event-Based Data](http://rpg.ifi.uzh.ch/docs/Arxiv19_Gehrig.pdf)*,  
-arXiv, 2019. [PDF](http://rpg.ifi.uzh.ch/docs/Arxiv19_Gehrig.pdf), [YouTube](https://youtu.be/bQtSx59GXRY),  [Project Page](http://rpg.ifi.uzh.ch/event_representation_learning).
+- <a name="Gehrig19iccv"></a>Gehrig, D., Loquercio, A., Derpanis, K. G., Scaramuzza, D.,  
+*[End-to-End Learning of Representations for Asynchronous Event-Based Data](http://rpg.ifi.uzh.ch/docs/ICCV19_Gehrig.pdf)*,  
+IEEE Int. Conf. Computer Vision (ICCV), 2019. [YouTube](https://youtu.be/bQtSx59GXRY),  [Project Page](https://github.com/uzh-rpg/rpg_event_representation_learning).
 - <a name="Kaiser19arxiv"></a>Kaiser, J., Friedrich, A., Vasquez Tieck, J.C., Reichard, D., Roennau, A., Neftci, E., Dillmann, R.,  
 *[Embodied Neuromorphic Vision with Event-Driven Random Backpropagation](https://arxiv.org/abs/1904.04805)*,  
 arXiv, 2019. [PDF](https://arxiv.org/pdf/1904.04805), [Video](https://neurorobotics-files.net/index.php/s/sBQzWFrBPoH9Dx7)
@@ -868,6 +905,25 @@ arXiv:1907.07853, 2019
 - <a name="Baldwin19iciar"></a>Baldwin R.W., Almatrafi M., Kaufman J.R., Asari V., Hirakawa K.,  
 *[Inceptive Event Time-Surfaces for Object Classification Using Neuromorphic Cameras](https://link.springer.com/chapter/10.1007/978-3-030-27272-2_35)*,  
 Int. Conf. on Image Analysis and Recognition (ICIAR), 2019. [PDF](https://rdcu.be/bQcGk), [Code](https://github.com/bald6354/iets).
+- <a name="chadha19icassp"></a>Chadha, A., Bi, Y., A., Abbas, A., Andreopoulos, Y.,  
+*[Neuromorphic Vision Sensing for CNN-based Action Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8683606),*  
+IEEE Int. Conf. Acoust., Speech, Signal Proc. (ICASSP), 2019, [Github Page](https://github.com/PIX2NVS/NVS_ActionRecognition).
+- <a name="bi19iccv"></a>Bi, Y., Chadha, A., Abbas, A.,  Bourtsoulatze, E., Andreopoulos, Y.,  
+*[Graph-Based Object Classification for Neuromorphic Vision Sensing](https://arxiv.org/pdf/1908.06648.pdf),*  
+IEEE Int. Conf. Computer Vision (ICCV), 2019, [Github Page](https://github.com/PIX2NVS/NVS2Graph), [ASL-DVS Dataset](https://www.dropbox.com/sh/ibq0jsicatn7l6r/AACNrNELV56rs1YInMWUs9CAa?dl=0).
+- <a name="Li19icme"></a>Li, J., Dong, S., Yu, Z., Tian, Y., Huang, T.,  
+*[Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving](https://doi.org/10.1109/ICME.2019.00242),*  
+IEEE Int. Conf. Multimedia and Expo (ICME), 2019.
+- <a name="Iacono19iros"></a>Iacono, M., D'Angelo, G., Glover, A., Tikhanoff, V., Niebur, E., Bartolozzi, C.,  
+*Proto-Object Based Saliency for Event-Driven Cameras*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
+- <a name="bi19arxiv"></a>Bi, Y., Chadha, A., Abbas, A.,  Bourtsoulatze, E., Andreopoulos, Y.,  
+*[Graph-based Spatial-temporal Feature Learning for Neuromorphic Vision Sensing](https://arxiv.org/pdf/1910.03579),*  
+arXiv:1910.03579, 2019.
+- <a name="Nan19ssci"></a>Nan, Y., Xiao, R., Gao, S., Yan, R.,  
+*[An Event-based Hierarchy Model forObject Recognition](https://www.researchgate.net/publication/336318915_An_Event-based_Hierarchy_Model_for_Object_Recognition)*,  
+IEEE Symp. Series in Computational Intelligence (SSCI), 2019.
+
 
 <a name="control"></a>
 ## Control
@@ -910,10 +966,13 @@ IEEE Conf. Decision and Control (CDC), 2016.
 American Control Conference (ACC), 2017.
 - <a name="Falanga19ral"></a>Falanga, D., Kim, S., Scaramuzza, D.,  
 *[How Fast is Too Fast? The Role of Perception Latency in High-Speed Sense and Avoid](http://rpg.ifi.uzh.ch/docs/RAL19_Falanga.pdf)*,  
-IEEE Robotics and Automation Letters (RA-L), 2019.
+IEEE Robotics and Automation Letters (RA-L), 2019. [YouTube](https://youtu.be/sbJAi6SXOQw)
 - <a name="Singh19tac"></a>Singh, P., Yong, S. Z., Frazzoli, E.,  
 *[Regulation of Linear Systems Using Event-Based Detection Sensors](https://doi.org/10.1109/TAC.2018.2876997)*,  
 IEEE Trans. Automatic Control, 2019.
+- <a name="Sanket19arxiv"></a>Sanket, N.J., Parameshwara, C.M., Singh, C.D., Kuruttukulam, A.V., Fermüller, C., Scaramuzza, D., Aloimonos, Y.,  
+[EVDodge: Embodied AI For High-Speed Dodging On A Quadrotor Using Event Cameras](https://arxiv.org/pdf/1906.02919),  
+arXiv:1906.02919, 2019. [PDF](https://prg.cs.umd.edu/research/EVDodge_files/EVDodge.pdf), [YouTube](https://youtu.be/k1uzsiDI4hM), [Project page](http://prg.cs.umd.edu/EVDodgeNet), [Code](https://github.com/prgumd/EVDodge).
 
 
 <a name="space"></a>
@@ -939,9 +998,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF
 - <a name="Zolnowski19neosst"></a>Zolnowski, M., Reszelewski, R., Moeys, D.P., Delbruck, T., Kaminski, K.,  
 *[Observational Evaluation of Event Cameras Performance in Optical Space Surveillance](https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/475/NEOSST1-paper475.pdf)*,  
 Proc. NEO and Debris Detection Conference, Darmstadt, Germany, Jan. 2019.
-- <a name="Chin19arxiv"></a>Chin, T.-J., Bagchi, S.,  
+- <a name="Chin20wacv"></a>Chin, T.-J., Bagchi, S.,  
 *[Event-based Star Tracking via Multiresolution Progressive Hough Transforms](https://arxiv.org/pdf/1906.07866.pdf)*,  
-arXiv, 2019.
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2020.
 
 
 <a name="tactile_sensing"></a>
@@ -987,12 +1046,16 @@ IEEE Int. Conf. on Simulation, Modeling, and Programming for Autonomous Robots (
 - E. Mueggler, H. Rebecq, G. Gallego, T. Delbruck, D. Scaramuzza,  
 *[The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM](http://rpg.ifi.uzh.ch/davis_data.html),*  
 Int. J. Robotics Research, 36:2, pp. 142-149, 2017. [PDF](https://arxiv.org/pdf/1610.08336.pdf), [PDF IJRR](http://dx.doi.org/10.1177/0278364917691115), [YouTube](https://youtu.be/bVVBTQ7l36I), [Dataset](http://rpg.ifi.uzh.ch/davis_data.html).
+- <a name="bi17icip"></a>Bi, Y. and Andreopoulos, Y.,  
+*[PIX2NVS: Parameterized conversion of pixel-domain video frames to neuromorphic vision streams](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8296630),*  
+IEEE Int. Conf. Image Processing (ICIP), 2017, [GitHub Page](https://github.com/PIX2NVS/PIX2NVS).
 - <a name="Li18bmvc"></a>W. Li, S. Saeedi, J. McCormac, R. Clark, D. Tzoumanikas, Q. Ye, Y. Huang, R. Tang, S. Leutenegger,  
 [Interiornet: Mega-scale multi-sensor photo-realistic indoor scenes dataset](https://arxiv.org/pdf/1809.00716.pdf),  
 British Machine Vis. Conf. (BMVC), 2018. [YouTube](https://youtu.be/z8uJh_xUq7A), [Project Page](https://interiornet.org/).
 - <a name="Rebecq18corl"></a>H. Rebecq, D. Gehrig, D. Scaramuzza,  
 *[ESIM: an Open Event Camera Simulator](http://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf),*  
 Conf. on Robot Learning (CoRL), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf), [YouTube](https://youtu.be/ytKOIX_2clo), [Project Page](http://rpg.ifi.uzh.ch/esim/index.html).
+
 
 
 ## Datasets (sorted by topic)
@@ -1041,7 +1104,13 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019. [PDF](http://rpg.ifi.uzh.c
 - <a name="Lee19icraw"></a>Lee, A. J., Cho, Y., Yoon, S., Shin, Y., Kim, A.,  
 [ViViD: Vision for Visibility Dataset](https://sites.google.com/view/dgbicra2019-vivid/),  
 IEEE Int. Conf. Robotics and Automation (ICRA) Workshop: Dataset Generation and Benchmarking of SLAM Algorithms for Robotics and VR/AR, 2019.
+- [Mitrokhin et. al. IROS 2019](#Mitrokhin19iros).  
+*EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras*
 
+### Segmentation
+- <a name="Mitrokhin19iros"></a>Mitrokhin, A., Ye, C., Fermüller, C., Aloimonos, Y., Delbrück, T.,  
+*[EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](https://arxiv.org/abs/1903.07520)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019. [PDF](https://arxiv.org/pdf/1903.07520.pdf), [Dataset](https://better-flow.github.io/evimo), [Project page](http://prg.cs.umd.edu/EV-IMO.html)
 
 ### Recognition
 - <a name="Orchard15fnins"></a>Orchard, G., Jayawant, A., Cohen, G.K., Thakor, N.,  
@@ -1070,8 +1139,7 @@ Front. Neurosci. (2016), 10:496. [Dataset](https://github.com/qian-liu/benchmark
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Project page](https://spritea.github.io/DET/).
 - <a name="Miao19fnbot"></a>Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., Knoll, A.,  
 *[Neuromorphic Vision Datasets for Pedestrian Detection, Action Recognition, and Fall Detection](https://doi.org/10.3389/fnbot.2019.00038),*  
-Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark)
-
+Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark) 
 
 
 <br><br>
@@ -1086,6 +1154,7 @@ Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark)
 - [evl (Open Source Computer Vision Library for Event-based camera and vision for C++)](https://github.com/EventVisionLibrary/evl)
 - [ROS (Robotic Operating System)](https://github.com/uzh-rpg/rpg_dvs_ros)
 - [YARP (Yet Another Robot Platform)](https://github.com/robotology/event-driven)
+- [Prophesee ROS Wrapper](https://github.com/prophesee-ai/prophesee_ros_wrapper) ROS driver and messages for Prophesee event-based sensors
 
 
 <a name="calibration"></a>
@@ -1185,6 +1254,8 @@ Int. Conf. Computer Supported Education (CSEDU), SCITEPRESS Digital Library, (20
 - [The Telluride Neuromorphic Cognition Engineering Workshops](http://telluride.iniforum.ch/accounts/login/?next=/).
 - [Capo Caccia Workshops toward Cognitive Neuromorphic Engineering](http://capocaccia.iniforum.ch/).
 - [IEEE Embedded Vision Workshop Series](https://embeddedvisionworkshop.wordpress.com), with focus on Biologically-inspired vision and embedded systems.
+- [Neuro-Inspired Computational Elements (NICE) Workshop Series](https://niceworkshop.org/nice-2019/)
+    - [Videos](https://www.youtube.com/channel/UCKTLpjY9e8cMK12d2-Z-usA)
 
 
 <br><br>
@@ -1255,15 +1326,21 @@ Ph.D. Thesis, Nanyang Technological University, Singapore, 2018.
 - <a name="Gibson18PhD"></a>Gibson, T. T.,  
 *[Inspired by nature: timescale-free and grid-free event-based computing with spiking neural networks](https://doi.org/10.14264/uql.2018.664)*,  
 Ph.D. Thesis, The University of Queensland, Brisbane, Australia, 2018.
+- <a name="Martel19PhD"></a>Martel, J.,  
+*[Unconventional Processing with Unconventional Visual Sensing. Parallel, Distributed and Event Based Vision Algorithms & Systems](https://doi.org/10.3929/ethz-b-000362900)*,  
+Ph.D. Thesis, ETH Zurich, Zurich, Switzerland, 2019.
 - <a name="Bardow19PhD"></a>Bardow, P. A.,  
 *[Estimating General Motion and Intensity from Event Cameras](https://www.doc.ic.ac.uk/~ajd/Publications/Bardow-P-2019-PhD-Thesis.pdf)*,  
 Ph.D. Thesis, Imperial College London, United Kingdom, 2019.
+- <a name="Ye19PhD"></a>Ye, C.,  
+*[Learning of Dense Optical Flow, Motion and Depth, from Sparse Event Cameras](https://doi.org/10.13016/fhqf-g7xr)*,  
+Ph.D. Thesis, University of Maryland, USA, 2019.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
 
 <a name="theses-master"></a>
-### Masters' Theses
+### Master's (and Bachelor's) Theses
 - <a name="Reisinger06MSc"></a>Reisinger, K.,  
 *[EMC testing on Silicon Retinas](http://catalogplus.tuwien.ac.at/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=UTW_alma2164793430003336&indx=1&recIds=UTW_alma2164793430003336&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&vl(D487844771UI4)=20-YEAR&vl(487848257UI0)=creator&vl(drStartMonth6)=00&vl(487849216UI1)=title&&vl(drEndYear6)=Jahr&dscnt=0&vl(1UIStartWith0)=contains&vl(976016785UI2)=any&vl(1UIStartWith2)=contains&mode=Advanced&vid=UTW&vl(boolOperator1)=AND&tab=default_tab&vl(487849261UI3)=all_items&vl(freeText1)=silicon+retina&vl(drStartDay6)=00&vl(drStartYear6)=Jahr&dstmp=1518094639224&frbg=&vl(487849310UI5)=ger&vl(1UIStartWith1)=contains&srt=rank&vl(boolOperator0)=AND&vl(drEndMonth6)=00&Submit=Suche&vl(freeText2)=&vl(boolOperator2)=AND&dum=true&vl(freeText0)=Reisinger&vl(drEndDay6)=00)*,  
 MSc. Thesis, TU Wien & AIT, 2006.
@@ -1282,10 +1359,18 @@ MSc. Thesis, University of Zurich, 2014.
 - <a name="Horstschaefer16MSc"></a>Horstschaefer, T.,  
 *[Parallel Tracking, Depth Estimation, and Image Reconstruction with an Event Camera](http://www.kutter-fonds.ethz.ch/App_Themes/default/datalinks/2016_MT_Horstschaefer1.pdf)*,  
 MSc. Thesis, University of Zurich, 2016.
+- <a name="Kaelber16BS"></a>Kaelber, F., (Everding, L, Conradt, J.,)    
+*[A probabilistic method for event stream registration](https://mediatum.ub.tum.de/doc/1327653/1327653.pdf)*,  
+Bacherlor Thesis, TU Munich, 2016.
+- <a name="Galanis16BS"></a>Galanis, M., (Everding, L, Conradt, J.,)    
+*[DVS event stream registration](https://mediatum.ub.tum.de/doc/1367575/1367575.pdf)*,  
+Bacherlor Thesis, TU Munich, 2016.
 - <a name="Nelson19MSc"></a>Nelson, K. J.,  
 *[Event-Based Visual-Inertial Odometry on a Fixed-Wing Unmanned Aerial Vehicle](https://apps.dtic.mil/docs/citations/AD1076268)*,  
 MSc. Thesis, Air Force Institute of Technology, USA, 2019. [PDF](https://apps.dtic.mil/dtic/tr/fulltext/u2/1076268.pdf)
-
+- <a name="Attanasio19MSc"></a>Attanasio, G.,  
+*[Event-based camera communications: a measurement-based analysis](https://webthesis.biblio.polito.it/11693/1/tesi.pdf)*,  
+MSc. Thesis, Politecnico di Torino, 2019.
 
 
 <br><br>
@@ -1301,8 +1386,10 @@ MSc. Thesis, Air Force Institute of Technology, USA, 2019. [PDF](https://apps.dt
 - [Event-Driven Perception for Robotics (EDPR)](https://www.edpr.iit.it) group at Istituto Italiano di Tecnologia (IIT), Italy.
 - [Sinapse](http://sinapse.nus.edu.sg/) Singapore Institute for Neurotechnology, Singapore.
 - [Western Sydney University’s International Centre for Neuromorphic Systems (ICNS)](https://www.westernsydney.edu.au/icns), Australia.
-- [Perception and Robotics Group](http://prg.cs.umd.edu/) at University of Maryland (UMD).
+- [Perception and Robotics Group](http://prg.cs.umd.edu/) at University of Maryland (UMD). [Fermüller's Lab on Event-based vision](http://users.umiacs.umd.edu/~fer/dvs.html)
 - [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), [Mike Davies](https://newsroom.intel.com/news/bobbleheads-tool-test-neuromorphic-mind/#gs.nndw9d) (Intel’s neuromorphic computing program leader).
+  - [Video CVPRW 2019](https://youtu.be/jhQgElvtb1s),  [Video Intel NICE 2018 Loihi](https://vimeo.com/264342847),  [Video Intel NICE 2018 Day 3](https://vimeo.com/258246382).
+- [Robotics and Technology of Computers Lab - Sevilla (RTC)](http://www.rtc.us.es/) of the University of Seville (USE), Seville, SPAIN  
 
 <br><br>
 <a name="contributing"></a>
