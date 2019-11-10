@@ -273,6 +273,10 @@ arXiv:1908.11505, 2019. [ZDNet news](https://www.zdnet.com/article/high-speed-mo
 - <a name="Bolten19iccs"></a>Bolten T., Pohle-Fröhlich R., Tönnies K.D.,  
 *[Application of Hierarchical Clustering for Object Tracking with a Dynamic Vision Sensor](https://doi.org/10.1007/978-3-030-22750-0_13)*,  
 Int. Conf. Computational Science (ICCS) 2019. [PDF](https://www.hs-niederrhein.de/fileadmin/dateien/Institute_und_Kompetenzzentren/iPattern/selfarchived/bolten-iccs-2019.pdf)
+- <a name="Chen19mm"></a>Chen, H., Wu, Q., Liang, Y., Gao, X., Wang, H.,  
+*[Asynchronous Tracking-by-Detection on Adaptive Time Surfaces for Event-based Object Tracking](https://doi.org/10.1145/3343031.3350975)*,  
+ACM Int. Conf. on Multimedia (MM), 2019.
+
 
 
 <a name="corner-detection"></a>
