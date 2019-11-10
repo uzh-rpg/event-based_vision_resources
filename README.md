@@ -555,7 +555,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 IEEE Int. Conf. Computer Vision (ICCV), 2019. [PDF (animations best viewed with Acrobat Reader)](http://rpg.ifi.uzh.ch/docs/ICCV19_Stoffregen.pdf), [YouTube](https://youtu.be/0q6ap_OSBAk)
 - <a name="almatrafi2019davis"></a>Almatrafi, M. M.,  Hirakawa, K.,  
 *[DAViS Camera Optical Flow](http://doi.org/10.1109/TCI.2019.2948787)*,  
-IEEE Transactions on Computational Imaging (TCI), 2019.
+IEEE Trans. Comput. Imag. (TCI), 2019.
 
 
 <a name="image-reconstruction"></a>
@@ -902,7 +902,8 @@ Int. Conf. Machine Vision Applications (MVA), 2019.
 *[Event-based Feature Extraction using Adaptive Selection Thresholds](https://arxiv.org/pdf/1907.07853)*,  
 arXiv:1907.07853, 2019
 - <a name="Zhu19arxiv"></a>Zhu, A.Z., Wang, Z., Daniilidis, K.,  
-*[Motion Equivariant Networks for Event Cameras with the Temporal Normalization Transform](https://arxiv.org/abs/1902.06820),* arXiv:1902.06820, 2019.
+*[Motion Equivariant Networks for Event Cameras with the Temporal Normalization Transform](https://arxiv.org/abs/1902.06820)*,  
+arXiv:1902.06820, 2019.
 - [Zhu et. al. CVPR 2019](#Zhu19cvpr),  
 *Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion.*
 - <a name="Baldwin19iciar"></a>Baldwin R.W., Almatrafi M., Kaufman J.R., Asari V., Hirakawa K.,  
@@ -926,6 +927,9 @@ arXiv:1910.03579, 2019.
 - <a name="Nan19ssci"></a>Nan, Y., Xiao, R., Gao, S., Yan, R.,  
 *[An Event-based Hierarchy Model forObject Recognition](https://www.researchgate.net/publication/336318915_An_Event-based_Hierarchy_Model_for_Object_Recognition)*,  
 IEEE Symp. Series in Computational Intelligence (SSCI), 2019.
+- <a name="Chen19tci"></a>Chen, H., Liu, W., Goel, R., Lua, R., Siddharth, M., Huang, Y., Veeraraghavan, A., Patel, A.,  
+*[Fast Retinomorphic Event-Driven Representations for Video Gameplay and Action Recognition](https://doi.org/10.1109/TCI.2019.2948755)*,  
+IEEE Trans. Comput. Imag. (TCI), 2019.
 
 
 <a name="control"></a>
