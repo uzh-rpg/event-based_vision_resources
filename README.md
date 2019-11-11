@@ -917,17 +917,21 @@ Int. Conf. on Image Analysis and Recognition (ICIAR), 2019. [PDF](https://rdcu.b
 *[Neuromorphic Vision Sensing for CNN-based Action Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8683606),*  
 IEEE Int. Conf. Acoust., Speech, Signal Proc. (ICASSP), 2019, [Github Page](https://github.com/PIX2NVS/NVS_ActionRecognition).
 - <a name="bi19iccv"></a>Bi, Y., Chadha, A., Abbas, A.,  Bourtsoulatze, E., Andreopoulos, Y.,  
-*[Graph-Based Object Classification for Neuromorphic Vision Sensing](https://arxiv.org/pdf/1908.06648.pdf),*  
-IEEE Int. Conf. Computer Vision (ICCV), 2019, [Github Page](https://github.com/PIX2NVS/NVS2Graph), [ASL-DVS Dataset](https://www.dropbox.com/sh/ibq0jsicatn7l6r/AACNrNELV56rs1YInMWUs9CAa?dl=0).
+*[Graph-Based Object Classification for Neuromorphic Vision Sensing](http://openaccess.thecvf.com/content_ICCV_2019/html/Bi_Graph-Based_Object_Classification_for_Neuromorphic_Vision_Sensing_ICCV_2019_paper.html),*  
+IEEE Int. Conf. Computer Vision (ICCV), 2019. 
+[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bi_Graph-Based_Object_Classification_for_Neuromorphic_Vision_Sensing_ICCV_2019_paper.pdf), [Suppl. Mat.](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Bi_Graph-Based_Object_Classification_ICCV_2019_supplemental.pdf), [PDF arXiv](https://arxiv.org/pdf/1908.06648.pdf), [Github Page](https://github.com/PIX2NVS/NVS2Graph), [ASL-DVS Dataset](https://www.dropbox.com/sh/ibq0jsicatn7l6r/AACNrNELV56rs1YInMWUs9CAa?dl=0).
+- <a name="bi19arxiv"></a>Bi, Y., Chadha, A., Abbas, A.,  Bourtsoulatze, E., Andreopoulos, Y.,  
+*[Graph-based Spatial-temporal Feature Learning for Neuromorphic Vision Sensing](https://arxiv.org/pdf/1910.03579),*  
+arXiv:1910.03579, 2019.
 - <a name="Li19icme"></a>Li, J., Dong, S., Yu, Z., Tian, Y., Huang, T.,  
 *[Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving](https://doi.org/10.1109/ICME.2019.00242),*  
 IEEE Int. Conf. Multimedia and Expo (ICME), 2019.
 - <a name="Iacono19iros"></a>Iacono, M., D'Angelo, G., Glover, A., Tikhanoff, V., Niebur, E., Bartolozzi, C.,  
 *Proto-Object Based Saliency for Event-Driven Cameras*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
-- <a name="bi19arxiv"></a>Bi, Y., Chadha, A., Abbas, A.,  Bourtsoulatze, E., Andreopoulos, Y.,  
-*[Graph-based Spatial-temporal Feature Learning for Neuromorphic Vision Sensing](https://arxiv.org/pdf/1910.03579),*  
-arXiv:1910.03579, 2019.
+- <a name="gao19iccvw"></a>Gao, S., Guo, G., Chen, C.L.P.,  
+*[Event-Based Incremental Broad Learning System for Object Classification](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Gao_Event-Based_Incremental_Broad_Learning_System_for_Object_Classification_ICCVW_2019_paper.pdf),*  
+IEEE Int. Conf. Computer Vision Workshop (ICCVW), 2019.
 - <a name="Nan19ssci"></a>Nan, Y., Xiao, R., Gao, S., Yan, R.,  
 *[An Event-based Hierarchy Model forObject Recognition](https://www.researchgate.net/publication/336318915_An_Event-based_Hierarchy_Model_for_Object_Recognition)*,  
 IEEE Symp. Series in Computational Intelligence (SSCI), 2019.
