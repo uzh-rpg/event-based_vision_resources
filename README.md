@@ -466,7 +466,7 @@ European Conf. Computer Vision (ECCV), 2018. [Poster](http://rpg.ifi.uzh.ch/docs
 Electronics 2019, 8(4), 410.
 - <a name="Hadviger19arxiv"></a>Hadviger, A., Markovic, I., Petrovic, I.,  
 *[Stereo Event Lifetime and Disparity Estimation for Dynamic Vision Sensors](https://arxiv.org/pdf/1907.07518)*,  
-arXiv:1907.07518, 2019.
+European Conf. Mobile Robots (ECMR), 2019. [PDF arXiv](https://arxiv.org/pdf/1907.07518).
 - <a name="Tulyakov19iccv"></a>Tulyakov, S., Fleuret, F., Kiefel, M., Gehler, P., Hirsch., M.,  
 *[Learning an event sequence embedding for dense event-based deep stereo](https://www.idiap.ch/~fleuret/papers/tulyakov-et-al-iccv2019.pdf)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2019.
