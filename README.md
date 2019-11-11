@@ -185,7 +185,7 @@ ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http:/
 IEEE Biomedical Circuits and Systems Conference (BioCAS), Lausanne, 2014, pp. 178-178.
 - <a name="Lagorce15tnnls"></a>Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R.,  
 *[Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking](https://doi.org/10.1109/TNNLS.2014.2352401)*,  
-IEEE Trans. Neural Netw. Learn. Syst., 26(8):1710-1720, 2015.
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(8):1710-1720, 2015.
 - <a name="Lagorce15fnins"></a>Lagorce, X., Ieng, S.-H., Clady, X., Pfeiffer, M., Benosman, R.,  
 *[Spatiotemporal features for asynchronous event-based data](http://dx.doi.org/10.3389/fnins.2015.00046)*,  
 Front. Neurosci. (2015), 9:46.
@@ -227,7 +227,7 @@ arXiv:1707.07188, 2017.
 British Machine Vision Conf. (BMVC), 2017.
 - <a name="Peng17tnnls"></a>Peng, X., Zhao, B., Yan, R., Tang H., Yi, Z.,  
 *[Bag of Events: An Efficient Probability-Based Feature Extraction Method for AER Image Sensors](http://dx.doi.org/10.1109/TNNLS.2016.2536741)*,  
-IEEE Trans. Neural Netw. Learn. Syst., 28(4):791-803, 2017.
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 28(4):791-803, 2017.
 - <a name="Ramesh19pami"></a>Ramesh, B., Yang, H., Orchard, G., Le Thi, N.A., Xiang, C,  
 *[DART: Distribution Aware Retinal Transform for Event-based Cameras](https://doi.org/10.1109/TPAMI.2019.2919301)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2019. [PDF](https://arxiv.org/pdf/1710.10800.pdf)
@@ -384,7 +384,7 @@ Int. Symp. Visual Computing (ISVC) 2011, Advances in Visual Computing, pp. 674-6
 IEEE Trans. Neural Netw., 22(11):1723-1734, 2011.
 - <a name="Rogister12tnnls"></a>Rogister, P. , Benosman, R., Ieng, S.-H., Lichtsteiner, P., Delbruck, T.,  
 *[Asynchronous Event-Based Binocular Stereo Matching](https://doi.org/10.1109/TNNLS.2011.2180025)*,  
-IEEE Trans. Neural Netw. Learn. Syst., 23(2):347-353, 2012.
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 23(2):347-353, 2012.
 - <a name="Carneiro13neunet"></a>Carneiro, J., Ieng, S.-H., Posch, C., Benosman, R.,  
 *[Event-based 3D reconstruction from neuromorphic retinas](https://doi.org/10.1016/j.neunet.2013.03.006)*,  
 Neural Networks (2013), 45:27-38.
@@ -442,7 +442,7 @@ Conf. Biomimetic and Biohybrid Systems. Living Machines 2017: Biomimetic and Bio
 British Machine Vision Conf. (BMVC), 2017. [Supp. Material](https://www.dropbox.com/s/eztqo109iue6ned/Active%20Papers%20Paper%2096%20%20Supplementary%20File.zip?dl=1).
 - Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S., Benosman, R., Linares-Barranco, B.,  
 *[Event-driven Stereo Visual Tracking Algorithm to Solve Object Occlusion](https://doi.org/10.1109/TNNLS.2017.2759326)*,  
-IEEE Trans. Neural Netw. Learn. Syst., 2017.
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2017.
 - <a name="Xie17fnins"></a>Xie, Z., Chen, S., Orchard, G.  
 *[Event-Based Stereo Depth Estimation Using Belief Propagation](https://doi.org/10.3389/fnins.2017.00535)*,  
 Front. Neurosci. (2017), 11:535.  [YouTube](https://youtu.be/ngJpY1lcbdw)
@@ -486,7 +486,7 @@ Neural Networks (2012), 27:32-37.
 IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2013, pp. 298-301.
 - <a name="Benosman14tnnls"></a>Benosman, R., Clercq, C., Lagorce, X., Ieng, S.-H., Bartolozzi, C.,  
 *[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537),*  
-IEEE Trans. Neural Netw. Learn. Syst., 25(2):407-417, 2014.
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 25(2):407-417, 2014.
     - [Code (jAER): LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java)
 - <a name="Clady14fnins"></a> Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
 *[Asynchronous visual event-based time-to-contact](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
@@ -775,14 +775,14 @@ IEEE Int. Symp. Circuits and Systems (ISCAS) 2012, pp. 736-740. [PDF](http://www
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 35(11):2706-2719, 2013.
 - <a name="Lee14tnnls"></a>Lee, J. H., Delbruck, T., Pfeiffer, M., Park, P. K. J., Shin, C.-W., Ryu, H., Kang, B. C.,  
 *[Real-Time Gesture Interface Based on Event-Driven Processing From Stereo Silicon Retinas](https://doi.org/10.1109/TNNLS.2014.2308551)*,  
-IEEE Trans. Neural Netw. Learn. Syst., 25(12):2250-2263, 2014.
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 25(12):2250-2263, 2014.
 - <a name="Orchard15tpami"></a>Orchard, G., Meyer, C., Etienne-Cummings, R., Posch, C., Thakor, N., Benosman, R.,  
 *[HFIRST: A Temporal Approach to Object Recognition](https://doi.org/10.1109/TPAMI.2015.2392947)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 37(10):2028-2040, 2015. [PDF](https://arxiv.org/pdf/1508.01176.pdf)
     - [Code](http://www.garrickorchard.com/code/hfirst): HFIRST: A simple spiking neural network for recognition based on the canonical frame-based HMAX model.
 - Zhao, B., Ding, R., Chen, S., Linares-Barranco, B., Tang, H.,  
 *[Feedforward Categorization on AER Motion Events using Cortex-like Features in a Spiking Neural Network](https://doi.org/10.1109/TNNLS.2014.2362542)*,  
-IEEE Trans. Neural Netw. Learn. Syst., 26(9):1963-1978, 2015.
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(9):1963-1978, 2015.
 - Park, P.K.J. et al.,  
 *[Computationally efficient, real-time motion recognition based on bio-inspired visual and cognitive processing](http://dx.doi.org/10.1109/ICIP.2015.7350936)*,  
 IEEE Int. Conf. Image Processing (ICIP), Quebec City, QC, 2015, pp. 932-935.
@@ -831,7 +831,7 @@ arXiv: 1805.06374, 2018.
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF](https://arxiv.org/pdf/1805.07931). [Video pitch](https://youtu.be/JKRSeg3WrGw)
 - <a name="Cohen18tnnls"></a>Cohen, G., Afshar, S., Orchard, G., Tapson, J., Benosman, R., van Schaik, A.,  
 [Spatial and Temporal Downsampling in Event-Based Visual Classification](https://doi.org/10.1109/TNNLS.2017.2785272),  
-IEEE Trans. Neural Netw. Learn. Syst., 29(10):5030-5044, Oct. 2018.
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 29(10):5030-5044, Oct. 2018.
 - <a name="Shrestha18nips"></a>Shrestha, S., Orchard, G.,  
 *[SLAYER: Spike Layer Error Reassignment in time](https://arxiv.org/abs/1810.08646)*,  
 Advances in Neural Information Processing Systems (NeurIPS) 2018. [PDF](https://arxiv.org/pdf/1810.08646.pdf), [YouTube](https://youtu.be/JGdatqqci5o).
