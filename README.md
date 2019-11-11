@@ -813,6 +813,9 @@ Front. Neurosci. (2017), 11:350.
 - Yousefzadeh, A., Masquelier, T., Serrano-Gotarredona, T., Linares-Barranco, B.,  
 *[Live demonstration: Hardware implementation of convolutional STDP for on-line visual feature learning](https://doi.org/10.1109/ISCAS.2017.8050395)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
+- <a name="Sullivan17roman"></a>Sullivan, K., Lawson, W.,  
+*[Representing motion information from event-based cameras](https://doi.org/10.1109/ROMAN.2017.8172497)*,  
+IEEE Int. Symp. Robot and Human Interactive Comm. (RO-MAN), 2017.
 - <a name="Sironi18cvpr"></a>Sironi, A., Brambilla, M., Bourdis, N., Lagorce, X., Benosman, R.,    
 *[HATS: Histograms of Averaged Time Surfaces for Robust Event-based Object Classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sironi_HATS_Histograms_of_CVPR_2018_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018. [PDF](https://arxiv.org/abs/1803.07913).
