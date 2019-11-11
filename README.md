@@ -194,7 +194,10 @@ Front. Neurosci. (2015), 9:46.
 Neural Computation (2015), 27(4):925-953.
 - <a name="LinaresBarranco15iscas"></a>Linares-Barranco, A., Gómez-Rodríguez, F., Villanueva, V., Longinotti, L., Delbrück, T.,    
 *[A USB3.0 FPGA event-based filtering and tracking framework for dynamic vision sensors](https://doi.org/10.1109/ISCAS.2015.7169172)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 2417-2420.
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
+- <a name="LinaresBarranco15iscas"></a>Leow, H. S., Nikolic, K.,  
+*[Machine vision using combined frame-based and event-based vision sensor](https://doi.org/10.1109/ISCAS.2015.7168731)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
 - <a name="Barranco15iccv"></a>Barranco, F., Teo, C. L., Fermüller, C., Aloimonos, Y.,  
 *[Contour Detection and Characterization for Asynchronous Event Sensors](https://doi.org/10.1109/ICCV.2015.63)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2015, pp. 486-494. [PDF](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Barranco_Contour_Detection_and_ICCV_2015_paper.pdf)
