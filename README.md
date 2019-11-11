@@ -1065,9 +1065,12 @@ IEEE Trans. Instrum. Meas., 2019.
 
 <a name="signal_processing"></a>
 # Signal Processing
-- Ieng, S.-H., Posch, C., Benosman, R.,  
+- <a name="Ieng14ieee"></a>Ieng, S.-H., Posch, C., Benosman, R.,  
 *[Asynchronous Neuromorphic Event-Driven Image Filtering](https://doi.org/10.1109/JPROC.2014.2347355)*,  
 Proc. IEEE, 102(10):1485-1499, 2014. [PDF](http://neuromorphic-vision.com/public/publications/20/publication.pdf)
+- <a name="Fillatre15eusipco"></a>Fillatre, L., Antonini, M.,   
+*[Uniformly minimum variance unbiased estimation for asynchronous event-based cameras](https://doi.org/10.1109/ICIP.2014.7025834)*,  
+IEEE Int. Conf. Image Processing (ICIP), 2014.
 - [Mueggler et al. ICRA 2015](#Mueggler15icra),  
 *Lifetime Estimation of Events from Dynamic Vision Sensors*.
 - <a name="Liu15iscas"></a>Klein, P., Conradt, J., Liu, S.-C.,  
