@@ -800,13 +800,13 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 25(12):2250-2263, 2014.
 *[HFIRST: A Temporal Approach to Object Recognition](https://doi.org/10.1109/TPAMI.2015.2392947)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 37(10):2028-2040, 2015. [PDF](https://arxiv.org/pdf/1508.01176.pdf)
     - [Code](http://www.garrickorchard.com/code/hfirst): HFIRST: A simple spiking neural network for recognition based on the canonical frame-based HMAX model.
-- Zhao, B., Ding, R., Chen, S., Linares-Barranco, B., Tang, H.,  
+- <a name="Zhao15tnnls"></a>Zhao, B., Ding, R., Chen, S., Linares-Barranco, B., Tang, H.,  
 *[Feedforward Categorization on AER Motion Events using Cortex-like Features in a Spiking Neural Network](https://doi.org/10.1109/TNNLS.2014.2362542)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(9):1963-1978, 2015.
-- Park, P.K.J. et al.,  
+- <a name="Park15icip"></a>Park, P.K.J., Lee, K., Lee, J.H., Kang, B., Shin, C.-W., Woo, J., Kim, J.-S., Suh, Y., Kim, S., Moradi, S., Gurel, O., Ryu, H.,  
 *[Computationally efficient, real-time motion recognition based on bio-inspired visual and cognitive processing](http://dx.doi.org/10.1109/ICIP.2015.7350936)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2015.
-- Park, P.K.J. et al.,  
+- <a name="Park16icip"></a>Park, P.K.J., Cho, B.H., Park, J.M., Lee, K., Kim, H.Y., Kang, H.A., Lee, H.G., Woo, J., Roh, Y., Lee, W.J., Shin, C.-W., Wang, Q., Ryu, H.,  
 *[Performance improvement of deep learning based gesture recognition using spatiotemporal demosaicing technique](http://dx.doi.org/10.1109/ICIP.2016.7532633)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2016.
 - [Barua et. al. WACV 2016](#Barua16wacv). Face recognition.
