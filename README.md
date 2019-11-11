@@ -1001,6 +1001,9 @@ IEEE Conf. Decision and Control (CDC), 2016.
 - <a name="Singh17cdc"></a>Singh, P., Yong, S. Z., Frazzoli, E.,  
 *[Stabilization of stochastic linear continuous-time systems using noisy neuromorphic vision sensors](https://doi.org/10.23919/ACC.2017.7963008)*,  
 American Control Conference (ACC), 2017.
+- <a name="Glover18icra"></a>Glover, A., Vasco, V., Bartolozzi, C.,  
+*[A Controlled-Delay Event Camera Framework for On-Line Robotics](https://doi.org/10.1109/ICRA.2018.8460541)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2018.
 - <a name="Falanga19ral"></a>Falanga, D., Kim, S., Scaramuzza, D.,  
 *[How Fast is Too Fast? The Role of Perception Latency in High-Speed Sense and Avoid](http://rpg.ifi.uzh.ch/docs/RAL19_Falanga.pdf)*,  
 IEEE Robotics and Automation Letters (RA-L), 2019. [YouTube](https://youtu.be/sbJAi6SXOQw)
