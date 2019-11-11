@@ -1054,8 +1054,9 @@ IEEE Trans. Emerging Topics in Computing, 2018.
 - [Scheerlinck et. al. RAL 2019](#Scheerlinck19ral),  
 *Asynchronous Spatial Image Convolutions for Event Cameras*.
 - <a name="Lee19arxiv"></a>Lee, S., Kim, H., Kim, H.J.,  
-*[Edge Detection for Event Cameras using Intra-pixel-area Events](https://arxiv.org/pdf/1907.07469)*,  
-arXiv:1907.07469, 2019.
+*[Edge Detection for Event Cameras using Intra-pixel-area Events](https://bmvc2019.org/wp-content/uploads/papers/1140-paper.pdf)*,  
+British Machine Vision Conf. (BMVC), 2019. [PDF arXiv](https://arxiv.org/pdf/1907.07469)
+
 
 
 <br><br>
