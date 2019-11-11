@@ -856,6 +856,12 @@ Assian Conf. Computer Vision Workshops (ACCVW), 2018.
 - <a name="Negri18icecs"></a>Negri, P., Soto, M., Linares-Barranco, B., Serrano-Gotarredona, T.,  
 *[Scene Context Classification with Event-Driven Spiking Deep Neural Networks](https://dx.doi.org/10.1109/ICECS.2018.8617982)*,  
 IEEE Int. Conf. Electronics, Circuits and Systems (ICECS), 2018.
+- <a name="Sekikawa183dv"></a>Sekikawa, Y., Ishikawa, K., Hara, K., Yoshida, Y., Suzuki, K., Sato, I., Saito, H.,  
+*[Constant Velocity 3D Convolution](https://doi.org/10.1109/3DV.2018.00047)*,  
+Int. Conf. 3D Vision (3DV), 2018.
+- <a name="Sekikawa18access"></a>Sekikawa, Y., Ishikawa, K., Saito, H.,  
+*[Constant Velocity 3D Convolution](https://doi.org/10.1109/ACCESS.2018.2883340)*,  
+IEEE Access, vol. 6, pp. 76490-76501, 2018.
 - <a name="Cannici19wacv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
 *[Attention Mechanisms for Object Recognition With Event-Based Cameras](https://arxiv.org/abs/1807.09480)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
