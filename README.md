@@ -283,7 +283,9 @@ Int. Conf. Computational Science (ICCS) 2019. [PDF](https://www.hs-niederrhein.d
 - <a name="Chen19mm"></a>Chen, H., Wu, Q., Liang, Y., Gao, X., Wang, H.,  
 *[Asynchronous Tracking-by-Detection on Adaptive Time Surfaces for Event-based Object Tracking](https://doi.org/10.1145/3343031.3350975)*,  
 ACM Int. Conf. on Multimedia (MM), 2019.
-
+- <a name="Reverter19tnnls"></a>Reverter Valeiras, D., Clady, X., Ieng, S.-H., Benosman, R.,  
+*[Event-Based Line Fitting and Segment Detection Using a Neuromorphic Visual Sensor](https://doi.org/10.1109/TNNLS.2018.2807983)*,  
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 30(4):1218-1230, 2019.
 
 
 <a name="corner-detection"></a>
