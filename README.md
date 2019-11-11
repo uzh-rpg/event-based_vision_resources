@@ -860,7 +860,7 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
 *[Space-time Event Clouds for Gesture Recognition: from RGB Cameras to Event Cameras](https://cse.buffalo.edu/~jsyuan/papers/2019/WACV_2019_Qinyi.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
 - <a name="Zanardi19rss"></a>Zanardi, A., Aumiller, A.J., Zilly, J., Censi, A., Frazzoli, E.,  
-[Cross-Modal Learning Filtersfor RGB-Neuromorphic Wormhole Learning](http://www.roboticsproceedings.org/rss15/p45.html),  
+[Cross-Modal Learning Filters for RGB-Neuromorphic Wormhole Learning](http://www.roboticsproceedings.org/rss15/p45.html),  
 Robotics: Science and Systems XIV (RSS), 2019. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/349414/1/rsswebsite.pdf)
 - <a name="Chen19fnins"></a>Chen, G., Chen, J., Lienen, M., Conradt, J., Roehrbein, F., Knoll, A.C.,  
 *[FLGR: Fixed Length Gists Representation Learning for RNN-HMM Hybrid-Based Neuromorphic Continuous Gesture Recognition](https://dx.doi.org/10.3389%2Ffnins.2019.00073)*,  
