@@ -451,6 +451,9 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2017.
 - <a name="Xie17fnins"></a>Xie, Z., Chen, S., Orchard, G.  
 *[Event-Based Stereo Depth Estimation Using Belief Propagation](https://doi.org/10.3389/fnins.2017.00535)*,  
 Front. Neurosci. (2017), 11:535.  [YouTube](https://youtu.be/ngJpY1lcbdw)
+- <a name="Kaiser18icann"></a>Kaiser, J., Weinland, J., Keller, P., Steffen, L., Vasquez Tieck, J.C., Reichard, D., Roennau, A., Conradt, J., Dillmann, R.,  
+*[Microsaccades for Neuromorphic Stereo Vision](https://doi.org/10.1007/978-3-030-01418-6_24)*,  
+Int. Conf. Artificial Neural Networks (ICANN), 2018.
 - <a name="Martel18iscas"></a>Martel, J. N.; Mueller, J.; Conradt, J., Sandamirskaya, Y.,  
 *[An Active Approach to Solving the Stereo Matching Problem using Event-Based Sensors](http://dx.doi.org/10.1109/ISCAS.2018.8351411)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2018, pp. 1-5. [Live Demo](https://doi.org/10.1109/ISCAS.2018.8351861)
@@ -473,6 +476,9 @@ European Conf. Mobile Robots (ECMR), 2019. [PDF arXiv](https://arxiv.org/pdf/190
 - <a name="Tulyakov19iccv"></a>Tulyakov, S., Fleuret, F., Kiefel, M., Gehler, P., Hirsch., M.,  
 *[Learning an event sequence embedding for dense event-based deep stereo](https://www.idiap.ch/~fleuret/papers/tulyakov-et-al-iccv2019.pdf)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2019.
+- <a name="19fnbot"></a>Steffen, L., Reichard, D., Weinland, J., Kaiser, J., Roennau, A., Dillmann, R.,  
+*[Neuromorphic Stereo Vision: A Survey of Bio-Inspired Sensors and Algorithms](https://doi.org/10.3389/fnbot.2019.00028)*,  
+Front. Neurorobot. (2019) 13:28.
 
 
 <a name="optical-flow-estimation"></a>
