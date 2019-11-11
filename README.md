@@ -66,7 +66,7 @@ arXiv 2019.
     - [Fact sheet at AIT](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_Linescan-Chip_DLS_en.pdf).
 - **LWIR DVS**: Posch, C., Matolin, D., Wohlgenannt, R., Maier, T., Litzenberger, M., *[A Microbolometer Asynchronous Dynamic Vision Sensor for LWIR](https://doi.org/10.1109/JSEN.2009.2020658)*, IEEE Sensors Journal, 9 (2009), 6; S. 654 - 664.
     - Prototype, commercially n.a.
-- **Smart DVS (GAEP)**: Posch, C., Hoffstaetter, M., Schoen, P., *[A SPARC-compatible general purpose Address-Event processor with 20-bit 10ns-resolution asynchronous sensor data interface in 0.18um CMOS](https://doi.org/10.1109/ISCAS.2010.5537575)*, IEEE International Symposium on Circuits and Systems (ISCAS), 2010.
+- **Smart DVS (GAEP)**: Posch, C., Hoffstaetter, M., Schoen, P., *[A SPARC-compatible general purpose Address-Event processor with 20-bit 10ns-resolution asynchronous sensor data interface in 0.18um CMOS](https://doi.org/10.1109/ISCAS.2010.5537575)*, IEEE Int. Symp. Circuits and Systems (ISCAS), 2010.
     - Prototype, commercially n.a.
 - **DAVIS (Dynamic and Active-Pixel Vision Sensor)** :
 Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333-2341, 2014.
@@ -453,7 +453,7 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2017.
 Front. Neurosci. (2017), 11:535.  [YouTube](https://youtu.be/ngJpY1lcbdw)
 - <a name="Martel18iscas"></a>Martel, J. N.; Mueller, J.; Conradt, J., Sandamirskaya, Y.,  
 *[An Active Approach to Solving the Stereo Matching Problem using Event-Based Sensors](http://dx.doi.org/10.1109/ISCAS.2018.8351411)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2018, pp. 1-5.
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2018, pp. 1-5. [Live Demo](https://doi.org/10.1109/ISCAS.2018.8351861)
 - <a name="Andreopoulos18cvpr"></a>Andreopoulos, A., Kashyap, H.J., Nayak, T.K., Amir, A., Flickner, M.D.,  
 *[A Low Power, High Throughput, Fully Event-Based Stereo System](http://openaccess.thecvf.com/content_cvpr_2018/papers/Andreopoulos_A_Low_Power_CVPR_2018_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018.
@@ -1067,6 +1067,9 @@ IEEE Trans. Instrum. Meas., 2019.
 Proc. IEEE, 102(10):1485-1499, 2014. [PDF](http://neuromorphic-vision.com/public/publications/20/publication.pdf)
 - [Mueggler et al. ICRA 2015](#Mueggler15icra),  
 *Lifetime Estimation of Events from Dynamic Vision Sensors*.
+- <a name="Liu15iscas"></a>Klein, P., Conradt, J., Liu, S.-C.,  
+*[Scene stitching with event-driven sensors on a robot head platform](https://doi.org/10.1109/ISCAS.2015.7169173)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
 - <a name="Fillatre15eusipco"></a>Fillatre, L.,  
 *[Bayes classification for asynchronous event-based cameras](https://doi.org/10.1109/EUSIPCO.2015.7362498)*,  
 European Signal Process. Conf. (EUSIPCO), 2015.
