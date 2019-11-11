@@ -1056,6 +1056,9 @@ IEEE Trans. Instrum. Meas., 2019.
 Proc. IEEE, 102(10):1485-1499, 2014. [PDF](http://neuromorphic-vision.com/public/publications/20/publication.pdf)
 - [Mueggler et al. ICRA 2015](#Mueggler15icra),  
 *Lifetime Estimation of Events from Dynamic Vision Sensors*.
+- <a name="Fillatre15eusipco"></a>Fillatre, L.,  
+*[Bayes classification for asynchronous event-based cameras](https://doi.org/10.1109/EUSIPCO.2015.7362498)*,  
+European Signal Process. Conf. (EUSIPCO), 2015.
 - <a name="Sabatier17tip"></a>Sabatier, Q., Ieng, S.-H., Benosman, R.,  
 *[Asynchronous Event-Based Fourier Analysis](https://doi.org/10.1109/TIP.2017.2661702)*,  
 IEEE Trans. Image Process., 2017, pp. 2192-2202.
