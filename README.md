@@ -143,6 +143,10 @@ IEEE Spectrum, 52(12):44-49, 2015.
 - <a name="Vanarse16fnins"></a>Vanarse, A., Osseiran, A., Rassau, A,  
 *[A Review of Current Neuromorphic Approaches for Vision, Auditory, and Olfactory Sensors](http://dx.doi.org/10.3389/fnins.2016.00115)*,  
 Front. Neurosci. (2016), 10:115.
+- <a name="Liu19msp"></a>Liu, S.-C., Rueckauer, B., Ceolini, E., Huber, A., Delbruck, T.,  
+*[Event-Driven Sensing for Efficient Perception: Vision and audition algorithms](https://doi.org/10.1109/MSP.2019.2928127)*,  
+IEEE Signal Processing Magazine, vol. 36, no. 6, pp. 29-37, 2019.
+
 
 <br><br>
 <a name="algorithms"></a>
