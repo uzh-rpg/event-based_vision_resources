@@ -869,7 +869,7 @@ Front. Neurosci., 2019, 13:73.
 *[Neuromorphic LIF Row-by-Row Multiconvolution Processor for FPGA](https://doi.org/10.1109/TBCAS.2018.2880012)*,  
 IEEE Trans. Biomed. Circuits Syst, 2019, vol. 13, issue 1.  
 - <a name="Jiang19icra"></a> Jiang, Z., Xia, P., Huang, K., Stechele, W., Chen, G., Bing, Z., Knoll, A.,  
-*Mixed Frame-/Event-Driven Fast Pedestrian Detection*,  
+*[Mixed Frame-/Event-Driven Fast Pedestrian Detection](https://doi.org/10.1109/ICRA.2019.8793924)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2019.
 - [Paredes-Valles et. al. TPAMI 2019](#ParedesValles19tpami),  
 *Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception.*
