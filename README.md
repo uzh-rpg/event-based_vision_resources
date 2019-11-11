@@ -256,6 +256,9 @@ arXiv:1811.07839, 2018.
 - <a name="Wu18chreoc"></a>Wu, J., Zhang, K., Zhang, Y., Xie, X., Shi, G.,  
 *[High-Speed Object Tracking with Dynamic Vision Sensor](https://doi.org/10.1007/978-981-13-6553-9_18)*,  
 China High Resolution Earth Observation Conference (CHREOC), 2018.
+- <a name="Huang18tcsvt"></a>Huang, J., Wang, S., Guo, M., Chen, S.,  
+*[Event-Guided Structured Output Tracking of Fast-Moving Objects Using a CeleX Sensor](https://doi.org/10.1109/TCSVT.2018.2841516)*,  
+IEEE Trans. Circuits Syst. Video Technol. (TCSVT), vol. 28, no. 9, pp. 2413-2417, 2018.
 - <a name="Renner19cvprw"></a>Renner, A., Evanusa, M., Sandamirskaya, Y.,  
 *[Event-based attention and tracking on neuromorphic hardware](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Renner_Event-Based_Attention_and_Tracking_on_Neuromorphic_Hardware_CVPRW_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Video pitch](https://youtu.be/eWBEJOr056E)
