@@ -953,13 +953,15 @@ IEEE Symp. Series in Computational Intelligence (SSCI), 2019.
 - <a name="Chen19tci"></a>Chen, H., Liu, W., Goel, R., Lua, R., Siddharth, M., Huang, Y., Veeraraghavan, A., Patel, A.,  
 *[Fast Retinomorphic Event-Driven Representations for Video Gameplay and Action Recognition](https://doi.org/10.1109/TCI.2019.2948755)*,  
 IEEE Trans. Comput. Imag. (TCI), 2019.
+- <a name="Hu19aicas"></a>Hu, Y., Chen, H. M., Delbruck, T.,  
+*[Slasher: Stadium racer car for event camera end-to-end learning autonomous driving experiments](https://doi.org/10.1109/AICAS.2019.8771520)*,  
+IEEE Int. Conf. AI Circuits Syst. (AICAS), 2019.
 - <a name="Lungu19aicas"></a>Lungu, I. A., Liu, S.-C., Delbruck, T.,  
 *[Fast event-driven incremental learning of hand symbols](https://doi.org/10.1109/AICAS.2019.8771472)*,  
 IEEE Int. Conf. AI Circuits Syst. (AICAS), 2019.
 - <a name="Lungu19jetcas"></a>Lungu, I. A., Liu, S.-C., Delbruck, T.,  
 *[Incremental learning of hand symbols using event-based cameras](https://doi.org/10.1109/JETCAS.2019.2951062)*,  
 IEEE J. Emerging Sel. Topics Circuits Syst. (JETCAS), 2019.
-
 
 
 <a name="control"></a>
