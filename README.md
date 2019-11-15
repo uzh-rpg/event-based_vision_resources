@@ -516,7 +516,7 @@ Proc. IEEE (2014), 102(10):1537-1556. [PDF](http://www.cfar.umd.edu/~fer/postscr
 IEEE Int. Conf. Image Processing (ICIP), 2014.
 - <a name="Barranco15iwann"></a>Barranco, F., Fermûller, C., Aloimonos, Y.,  
 *[Bio-inspired Motion Estimation with Event-Driven Sensors](https://doi.org/10.1007/978-3-319-19258-1_27)*,  
-Int. Work-Conf. Artificial Neural Networks (IWANN) 2015, Advances in Computational Intelligence, pp. 309-321.
+Int. Work-Conf. Artificial Neural Networks (IWANN) 2015, Advances in Computational Intell., pp. 309-321.
 - <a name="Conradt15robio"></a>Conradt, J.,  
 *[On-Board Real-Time Optic-Flow for Miniature Event-Based Vision Sensors](https://doi.org/10.1109/ROBIO.2015.7419043)*,  
 IEEE Int. Conf. Robotics and Biomimetics (ROBIO), 2015, pp. 1858-1863.
@@ -969,8 +969,8 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
 *[Event-Based Incremental Broad Learning System for Object Classification](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Gao_Event-Based_Incremental_Broad_Learning_System_for_Object_Classification_ICCVW_2019_paper.pdf),*  
 IEEE Int. Conf. Computer Vision Workshop (ICCVW), 2019.
 - <a name="Nan19ssci"></a>Nan, Y., Xiao, R., Gao, S., Yan, R.,  
-*[An Event-based Hierarchy Model forObject Recognition](https://www.researchgate.net/publication/336318915_An_Event-based_Hierarchy_Model_for_Object_Recognition)*,  
-IEEE Symp. Series in Computational Intelligence (SSCI), 2019.
+*[An Event-based Hierarchy Model for Object Recognition](https://www.researchgate.net/publication/336318915_An_Event-based_Hierarchy_Model_for_Object_Recognition)*,  
+IEEE Symp. Series in Computational Intell. (SSCI), 2019.
 - <a name="Chen19tci"></a>Chen, H., Liu, W., Goel, R., Lua, R., Siddharth, M., Huang, Y., Veeraraghavan, A., Patel, A.,  
 *[Fast Retinomorphic Event-Driven Representations for Video Gameplay and Action Recognition](https://doi.org/10.1109/TCI.2019.2948755)*,  
 IEEE Trans. Comput. Imag. (TCI), 2019.
