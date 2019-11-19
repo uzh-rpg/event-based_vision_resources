@@ -983,6 +983,9 @@ IEEE Int. Conf. AI Circuits Syst. (AICAS), 2019.
 - <a name="Lungu19jetcas"></a>Lungu, I. A., Liu, S.-C., Delbruck, T.,  
 *[Incremental learning of hand symbols using event-based cameras](https://doi.org/10.1109/JETCAS.2019.2951062)*,  
 IEEE J. Emerging Sel. Topics Circuits Syst. (JETCAS), 2019.
+- <a name="Damien19visigrapp"></a>Damien, J., Hubert, K., Frederic, C.,  
+*[Convolutional Neural Network for Detection and Classification with Event-based Data](https://www.scitepress.org/PublicationsDetail.aspx?ID=gn69gKYUbaM%3d&t=1)*,  
+Int. Joint Conf. Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP), 2019. [PDF](https://pdfs.semanticscholar.org/0453/c19ced72b649e0609f04cd861a75140ed734.pdf).
 
 
 <a name="control"></a>
