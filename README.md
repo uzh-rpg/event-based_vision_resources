@@ -667,7 +667,7 @@ Int. Conf. Image Analysis and Processing (ICIAP), 2019. Lecture Notes in Compute
 ## Super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
 *[Super-resolution of spatiotemporal event-stream image](https://doi.org/10.1016/j.neucom.2018.12.048)*,  
-Neurocomputing, Vol. 335, pp.206-214, 2019.
+Neurocomputing, vol. 335, pp. 206-214, 2019. [PDF pre-print](https://arxiv.org/abs/1802.02398)
 - <a name="Mostafavi19arxiv"></a>Mostafavi I., S.M.,  Choi, J., Yoon, K.J,  
 *[Learning to Super Resolve Intensity Images from Events](https://arxiv.org/abs/1912.01196)*,  
 arXiv:1912.01196, 2019.
