@@ -16,10 +16,10 @@
     - [Intensity-Image Reconstruction](#image-reconstruction)
     - [Video Synthesis](#video-synthesis)
     - [Super-resolution](#super-resolution)
+    - [Visual Stabilization](#visual-stabilization)
     - [Localization and Ego-motion estimation](#egomotion)
     - [Visual Odometry and SLAM (Simultaneous Localization And Mapping)](#VOSLAM)
     - [Visual-Inertial Odometry](#visual-inertial)
-    - [Visual Stabilization](#visual-stabilization)
     - [Pattern recognition](#pattern-recognition)
     - [Control](#control)
     - [Space Applications](#space)
@@ -662,12 +662,24 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://a
 *[Video synthesis from Intensity and Event Frames](https://doi.org/10.1007/978-3-030-30642-7_28)*,  
 Int. Conf. Image Analysis and Processing (ICIAP), 2019. Lecture Notes in Computer Science, vol 11751. [PDF](https://iris.unimore.it/retrieve/handle/11380/1178955/224434/ICIAP19_Event_Cameras.pdf)
 
+
 <a name="super-resolution"></a>
 ## Super-resolution
+- <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
+*[Super-resolution of spatiotemporal event-stream image](https://doi.org/10.1016/j.neucom.2018.12.048)*,  
+Neurocomputing, Vol. 335, pp.206-214, 2019.
 - <a name="Mostafavi19arxiv"></a>Mostafavi I., S.M.,  Choi, J., Yoon, K.J,  
 *[Learning to Super Resolve Intensity Images from Events](https://arxiv.org/abs/1912.01196)*,  
-arXiv:arXiv:1912.01196, 2019.
+arXiv:1912.01196, 2019.
     
+
+<a name="visual-stabilization"></a>
+## Visual Stabilization
+- <a name="Delbruck14iscas"></a>Delbruck, T., Villanueva, V., Longinotti, L.,  
+*[Integration of dynamic vision sensor with inertial measurement unit for electronically stabilized event-based vision](http://doi.org/10.1109/ISCAS.2014.6865714)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2014, pp. 2636-2639. [YouTube](https://youtu.be/Tzy4WF6Qp-Y)
+
+
 <a name="egomotion"></a>
 ## Localization and Ego-Motion Estimation
 - [Cook et. al. IJCNN 2011](#Cook11ijcnn),  
@@ -773,13 +785,6 @@ IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](htt
 *High Speed and High Dynamic Range Video with an Event Camera*. 
 - [Nelson, K. J., MSc Thesis 2019](#Nelson19MSc),  
 *Event-Based Visual-Inertial Odometry on a Fixed-Wing Unmanned Aerial Vehicle*.
-
-
-<a name="visual-stabilization"></a>
-## Visual Stabilization
-- <a name="Delbruck14iscas"></a>Delbruck, T., Villanueva, V., Longinotti, L.,  
-*[Integration of dynamic vision sensor with inertial measurement unit for electronically stabilized event-based vision](http://doi.org/10.1109/ISCAS.2014.6865714)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2014, pp. 2636-2639. [YouTube](https://youtu.be/Tzy4WF6Qp-Y)
 
 
 <a name="pattern-recognition"></a>
