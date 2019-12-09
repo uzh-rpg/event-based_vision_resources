@@ -1005,7 +1005,9 @@ Int. Joint Conf. Computer Vision, Imaging and Computer Graphics Theory and Appli
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2019.
 - [Li and Shi, Front. Neurorobot. 2019](#Li19fnbot),  
 *Robust Event-Based Object Tracking Combining Correlation Filter and CNN Representation*.
-
+- <a name="Zhu19arxivGAN"></a>Zhu, A., Wang, Z., Khant, K., Daniilidis, K.,  
+*[EventGAN: Leveraging Large Scale Image Datasets for Event Cameras](https://arxiv.org/pdf/1912.01584)*,  
+arXiv:1912.01584, 2019.
 
 <a name="control"></a>
 ## Control
@@ -1474,6 +1476,9 @@ MSc. Thesis, Air Force Institute of Technology, USA, 2019. [PDF](https://apps.dt
 - <a name="Attanasio19MSc"></a>Attanasio, G.,  
 *[Event-based camera communications: a measurement-based analysis](https://webthesis.biblio.polito.it/11693/1/tesi.pdf)*,  
 MSc. Thesis, Politecnico di Torino, 2019.
+- <a name="Wang19MSc"></a>Wang, Z.,  
+*[Motion Equivariance of Event-based Camera Data with the Temporal Normalization Transform](https://arxiv.org/pdf/1911.12801)*,  
+MSc. Thesis, University of Pennsylvania, 2019.
 
 
 <br><br>
