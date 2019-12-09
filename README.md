@@ -290,6 +290,9 @@ ACM Int. Conf. on Multimedia (MM), 2019.
 - <a name="Reverter19tnnls"></a>Reverter Valeiras, D., Clady, X., Ieng, S.-H., Benosman, R.,  
 *[Event-Based Line Fitting and Segment Detection Using a Neuromorphic Visual Sensor](https://doi.org/10.1109/TNNLS.2018.2807983)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 30(4):1218-1230, 2019.
+- <a name="Li19fnbot"></a> Li, H., Shi, L.,  
+*[Robust Event-Based Object Tracking Combining Correlation Filter and CNN Representation](https://doi.org/10.3389/fnbot.2019.00082)*,  
+Front. Neurorobot. 13:82, 2019. [Dataset](https://figshare.com/s/70565903453eef7c3965)
 
 
 <a name="corner-detection"></a>
@@ -1000,6 +1003,8 @@ Int. Joint Conf. Computer Vision, Imaging and Computer Graphics Theory and Appli
 - <a name="Xiao19tnnls"></a>Xiao, R., Tang, H., Ma, Y., Yan, R., Orchard, G.,  
 *[An Event-Driven Categorization Model for AER Image Sensors Using Multispike Encoding and Learning](https://doi.org/10.1109/TNNLS.2019.2945630)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2019.
+- [Li and Shi, Front. Neurorobot. 2019](#Li19fnbot),  
+*Robust Event-Based Object Tracking Combining Correlation Filter and CNN Representation*.
 
 
 <a name="control"></a>
