@@ -666,7 +666,7 @@ Int. Conf. Image Analysis and Processing (ICIAP), 2019. Lecture Notes in Compute
 ## Super-resolution
 - <a name="Mostafavi19arxiv"></a>Mostafavi I., S.M.,  Choi, J., Yoon, K.J,  
 *[Learning to Super Resolve Intensity Images from Events](https://arxiv.org/abs/1912.01196)*,  
-arXiv:arXiv:1912.01196, 2019. [PDF](https://arxiv.org/pdf/1912.01196.pdf)
+arXiv:arXiv:1912.01196, 2019.
     
 <a name="egomotion"></a>
 ## Localization and Ego-Motion Estimation
