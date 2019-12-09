@@ -15,7 +15,7 @@
     - [Optical Flow Estimation](#optical-flow-estimation)
     - [Intensity-Image Reconstruction](#image-reconstruction)
     - [Video Synthesis](#video-synthesis)
-    - [Super Resolution](#super-resolution)
+    - [Super-resolution](#super-resolution)
     - [Localization and Ego-motion estimation](#egomotion)
     - [Visual Odometry and SLAM (Simultaneous Localization And Mapping)](#VOSLAM)
     - [Visual-Inertial Odometry](#visual-inertial)
