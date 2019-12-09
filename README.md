@@ -15,6 +15,7 @@
     - [Optical Flow Estimation](#optical-flow-estimation)
     - [Intensity-Image Reconstruction](#image-reconstruction)
     - [Video Synthesis](#video-synthesis)
+    - [Super Resolution](#super-resolution)
     - [Localization and Ego-motion estimation](#egomotion)
     - [Visual Odometry and SLAM (Simultaneous Localization And Mapping)](#VOSLAM)
     - [Visual-Inertial Odometry](#visual-inertial)
@@ -661,7 +662,12 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://a
 *[Video synthesis from Intensity and Event Frames](https://doi.org/10.1007/978-3-030-30642-7_28)*,  
 Int. Conf. Image Analysis and Processing (ICIAP), 2019. Lecture Notes in Computer Science, vol 11751. [PDF](https://iris.unimore.it/retrieve/handle/11380/1178955/224434/ICIAP19_Event_Cameras.pdf)
 
-
+<a name="super-resolution"></a>
+## Super-resolution
+- <a name="Mostafavi19arxiv"></a>Mostafavi I., S.M.,  Choi, J., Yoon, K.J,  
+*[Learning to Super Resolve Intensity Images from Events](https://arxiv.org/abs/1912.01196)*,  
+arXiv:arXiv:1912.01196, 2019. [PDF](https://arxiv.org/pdf/1912.01196.pdf)
+    
 <a name="egomotion"></a>
 ## Localization and Ego-Motion Estimation
 - [Cook et. al. IJCNN 2011](#Cook11ijcnn),  
