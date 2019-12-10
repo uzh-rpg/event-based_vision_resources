@@ -1088,6 +1088,10 @@ Proc. NEO and Debris Detection Conference, Darmstadt, Germany, Jan. 2019.
 - <a name="Chin20wacv"></a>Chin, T.-J., Bagchi, S.,  
 *[Event-based Star Tracking via Multiresolution Progressive Hough Transforms](https://arxiv.org/pdf/1906.07866.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2020.
+- <a name="Afshar19arxiv"></a>Afshar, S., Nicholson, A. P., van Schaik, A., Cohen, G.,  
+*[Event-based Object Detection and Tracking for Space Situational Awareness](https://arxiv.org/pdf/1911.08730)*,  
+arXiv:1911.08730, 2019.
+
 
 
 <a name="tactile_sensing"></a>
