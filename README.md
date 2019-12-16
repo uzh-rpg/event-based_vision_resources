@@ -250,6 +250,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018. [PDF](https://a
 - <a name="Iacono18iros"></a>Iacono, M., Weber, S., Glover, A., Bartolozzi, C.,  
 *[Towards Event-Driven Object Detection with Off-The-Shelf Deep Learning](https://doi.org/10.1109/IROS.2018.8594119)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018.
+- <a name="Glover18irosw"></a>Glover, A., Stokes, A.B., Furber, S., Bartolozzi, C.,  
+*[ATIS + SpiNNaker: a Fully Event-based Visual Tracking Demonstration](https://arxiv.org/pdf/1912.01320)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems Workshops (IROSW), 2018. Workshop on Unconventional Sensing and Processing for Robotic Visual Perception.
 - <a name="Iacono18iros"></a>
 Ramesh, B., Zhang, S., Lee, Z.-W., Gao, Z., Orchard, G., Xiang, C.,  
 *[Long-term object tracking with a moving event camera](http://bmvc2018.org/contents/papers/0814.pdf)*,  
@@ -293,6 +296,7 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 30(4):1218-1230, 2019.
 - <a name="Li19fnbot"></a> Li, H., Shi, L.,  
 *[Robust Event-Based Object Tracking Combining Correlation Filter and CNN Representation](https://doi.org/10.3389/fnbot.2019.00082)*,  
 Front. Neurorobot. 13:82, 2019. [Dataset](https://figshare.com/s/70565903453eef7c3965)
+
 
 
 <a name="corner-detection"></a>
