@@ -652,9 +652,6 @@ The Visual Computer, 2017. [PDF](https://cg.cs.tsinghua.edu.cn/papers/TVC-2017-H
 - <a name="Shedligeri18arxiv"></a>Shedligeri, P.A., Shah, K., Kumar, D., Mitra, K.,  
 *[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://arxiv.org/pdf/1805.06140.pdf)*,  
 arXiv:1805.06140, 2018.
-- <a name="Pini18arxiv"></a>Pini S., Borghi G., Vezzani R., Cucchiara R.,  
-*[Learn to See by Events: RGB Frame Synthesis from Event Cameras](https://arxiv.org/abs/1812.02041)*,  
-arXiv:1812.02041, 2018.
 - <a name="Wang19arxiv"></a>Wang, Z., Jiang, W., Katsaggelos, A., Cossairt, O.,  
 *[Event-driven Video Frame Synthesis](https://arxiv.org/abs/1902.09680)*,  
 arXiv:1902.09680, 2019.
@@ -664,6 +661,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://a
 - <a name="Pini19iciap"></a>Pini, S., Borghi, G., Vezzani, R., Cucchiara, R.,  
 *[Video synthesis from Intensity and Event Frames](https://doi.org/10.1007/978-3-030-30642-7_28)*,  
 Int. Conf. Image Analysis and Processing (ICIAP), 2019. Lecture Notes in Computer Science, vol 11751. [PDF](https://iris.unimore.it/retrieve/handle/11380/1178955/224434/ICIAP19_Event_Cameras.pdf)
+- <a name="Pini20visapp"></a>Pini S., Borghi G., Vezzani R.,  
+*[Learn to See by Events: Color Frame Synthesis from Event and RGB Cameras](http://hdl.handle.net/11380/1185831)*,  
+Int. Joint Conf. on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP) 2020. [PDF](https://arxiv.org/pdf/1812.02041)
 
 
 <a name="super-resolution"></a>
