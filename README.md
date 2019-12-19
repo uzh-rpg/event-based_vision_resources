@@ -516,6 +516,9 @@ Front. Neurosci. (2014), 8:9.
 - <a name="Tschechne14annpr"></a>Tschechne, S., Sailer R., Neumann, H.,  
 *[Bio-Inspired Optic Flow from Event-Based Neuromorphic Sensor Input](https://doi.org/10.1007/978-3-319-11656-3_16)*,  
 IAPR Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR) 2014, pp. 171-182.
+- <a name="Brosch14bict"></a>Brosch, T., Tschechne, S., Sailer, R., von Egloffstein, N., Abdul-Kreem L.I., Neumann, H.,  
+*[On event-based motion detection and integration](http://dx.doi.org/10.4108/icst.bict.2014.257904)*,  
+Int. Conf. Bio-inspired Information and Comm. Technol. (BICT), 2014. [PDF](https://dl.acm.org/citation.cfm?id=2744588)
 - <a name="Barranco14ieee"></a>Barranco, F., Fermüller, C., Aloimonos, Y.,  
 *[Contour motion estimation for asynchronous event-driven cameras](https://doi.org/10.1109/JPROC.2014.2347207)*,  
 Proc. IEEE (2014), 102(10):1537-1556. [PDF](http://www.cfar.umd.edu/~fer/postscript/contourmotion-dvs-final.pdf)
@@ -531,6 +534,9 @@ IEEE Int. Conf. Robotics and Biomimetics (ROBIO), 2015, pp. 1858-1863.
 - <a name="Brosch15fnins"></a>Brosch, T., Tschechne, S., Neumann, H.,  
 *[On event-based optical flow detection](https://doi.org/10.3389/fnins.2015.00137)*,  
 Front. Neurosci. (2015), 9:137.
+- <a name="Brosch15bict"></a>Brosch, T., Neumann, H.,  
+*[Event-based optical flow on neuromorphic hardware](https://doi.org/10.4108/eai.3-12-2015.2262447)*,  
+Int. Conf. Bio-inspired Information and Comm. Technol. (BICT), 2015. [PDF](https://dl.acm.org/citation.cfm?id=2954727)
 - <a name="Kosiorek15techrep"></a>Kosiorek, A., Adrian, D., Rausch, J., Conradt, J.,  
 *[An Efficient Event-Based Optical Flow Implementation in C/C++ and CUDA](https://www.nst.ei.tum.de/fileadmin/w00bqs/www/publications/pp/2015SS-PP-RealTimeDVSOpticFlow.pdf),*  
 Tech. Rep. TU Munich, 2015.
@@ -553,12 +559,12 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
 - <a name="Lee17iccas"></a>Lee, A. J., Kim, A.,  
 *[Event-based Real-time Optical Flow Estimation](https://doi.org/10.23919/ICCAS.2017.8204333)*,  
 IEEE Int. Conf. on Control, Automation and Systems (ICCAS), 2017.
-- <a name="Haessig17arxiv"></a>Haessig, G., Cassidy, A. Alvarez, R., Benosman, R., Orchard, G.,  
-*[Spiking Optical Flow for Event-based Sensors Using IBM's TrueNorth Neurosynaptic System](https://doi.org/10.1109/TBCAS.2018.2834558)*,  
-IEEE Trans. Biomed. Circuits Syst., 12(4):860-870, 2018. [PDF](https://arxiv.org/pdf/1710.09820.pdf).
 - <a name="Stoffregen17acra"></a>Stoffregen, T., Kleeman, L.,  
 *[Simultaneous Optical Flow and Segmentation (SOFAS) using Dynamic Vision Sensor](http://www.araa.asn.au/acra/acra2017/papers/pap127s1-file1.pdf)*,  
 Australasian Conf. Robotics and Automation (ACRA), 2017. [PDF](https://arxiv.org/pdf/1805.12326.pdf), [YouTube](https://youtu.be/JVkQOW_iUqs)
+- <a name="Haessig17arxiv"></a>Haessig, G., Cassidy, A. Alvarez, R., Benosman, R., Orchard, G.,  
+*[Spiking Optical Flow for Event-based Sensors Using IBM's TrueNorth Neurosynaptic System](https://doi.org/10.1109/TBCAS.2018.2834558)*,  
+IEEE Trans. Biomed. Circuits Syst., 12(4):860-870, 2018. [PDF](https://arxiv.org/pdf/1710.09820.pdf).
 - [Gallego et. al. CVPR 2018](#Gallego18cvpr),  
 *A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation*.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
