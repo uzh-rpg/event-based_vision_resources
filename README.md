@@ -505,7 +505,7 @@ Joint estimation of optical flow, image intensity and angular velocity with a ro
 Neural Networks (2012), 27:32-37.
 - <a name="Orchard13biocas"></a>Orchard, G., Benosman, R., Etienne-Cummings, R., Thakor, N,  
 *[A Spiking Neural Network Architecture for Visual Motion Estimation](https://doi.org/10.1109/BioCAS.2013.6679698)*,  
-IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2013, pp. 298-301.
+IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2013, pp. 298-301. [PDF](https://www.researchgate.net/publication/261075772_A_spiking_neural_network_architecture_for_visual_motion_estimation), [Code](https://github.com/gorchard/Spiking_Motion)
 - <a name="Benosman14tnnls"></a>Benosman, R., Clercq, C., Lagorce, X., Ieng, S.-H., Bartolozzi, C.,  
 *[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537),*  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 25(2):407-417, 2014.
@@ -523,7 +523,7 @@ Int. Conf. Bio-inspired Information and Comm. Technol. (BICT), 2014. [PDF](https
 *[Contour motion estimation for asynchronous event-driven cameras](https://doi.org/10.1109/JPROC.2014.2347207)*,  
 Proc. IEEE (2014), 102(10):1537-1556. [PDF](http://www.cfar.umd.edu/~fer/postscript/contourmotion-dvs-final.pdf)
 - <a name="Lee14icip"></a>Lee, J.H., Lee, K., Ryu, H., Park, P.K.J., Shin, C.W., Woo, J., Kim, J.-S.,  
-*[Real-time motion estimation based on event-based vision sensor]()*,  
+*[Real-time motion estimation based on event-based vision sensor](https://doi.org/10.1109/ICIP.2014.7025040)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2014.
 - <a name="Barranco15iwann"></a>Barranco, F., Fermûller, C., Aloimonos, Y.,  
 *[Bio-inspired Motion Estimation with Event-Driven Sensors](https://doi.org/10.1007/978-3-319-19258-1_27)*,  
@@ -565,6 +565,9 @@ Australasian Conf. Robotics and Automation (ACRA), 2017. [PDF](https://arxiv.org
 - <a name="Haessig17arxiv"></a>Haessig, G., Cassidy, A. Alvarez, R., Benosman, R., Orchard, G.,  
 *[Spiking Optical Flow for Event-based Sensors Using IBM's TrueNorth Neurosynaptic System](https://doi.org/10.1109/TBCAS.2018.2834558)*,  
 IEEE Trans. Biomed. Circuits Syst., 12(4):860-870, 2018. [PDF](https://arxiv.org/pdf/1710.09820.pdf).
+- <a name="Aung18iscas"></a>Aung, M.T., Teo, R., Orchard, G.,  
+*[Event-based Plane-fitting Optical Flow for Dynamic Vision Sensors in FPGA](https://doi.org/10.1109/ISCAS.2018.8351588)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2018. [Code](https://github.com/gorchard/FPGA_event_based_optical_flow)
 - [Gallego et. al. CVPR 2018](#Gallego18cvpr),  
 *A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation*.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
@@ -823,7 +826,7 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 25(12):2250-2263, 2014.
 - <a name="Orchard15tpami"></a>Orchard, G., Meyer, C., Etienne-Cummings, R., Posch, C., Thakor, N., Benosman, R.,  
 *[HFIRST: A Temporal Approach to Object Recognition](https://doi.org/10.1109/TPAMI.2015.2392947)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 37(10):2028-2040, 2015. [PDF](https://arxiv.org/pdf/1508.01176.pdf)
-    - [Code](http://www.garrickorchard.com/code/hfirst): HFIRST: A simple spiking neural network for recognition based on the canonical frame-based HMAX model.
+    - [Code](https://github.com/gorchard/HFIRST): HFIRST: A simple spiking neural network for recognition based on the canonical frame-based HMAX model.
 - <a name="Zhao15tnnls"></a>Zhao, B., Ding, R., Chen, S., Linares-Barranco, B., Tang, H.,  
 *[Feedforward Categorization on AER Motion Events using Cortex-like Features in a Spiking Neural Network](https://doi.org/10.1109/TNNLS.2014.2362542)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(9):1963-1978, 2015.
