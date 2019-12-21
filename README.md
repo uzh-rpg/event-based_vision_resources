@@ -123,6 +123,9 @@ Current Opinion in Neurobiology, 20:3(288-295), 2010.
 - <a name="Posch12jinst"></a>Posch, C.,  
 *[Bio-inspired vision](https://doi.org/10.1088/1748-0221/7/01/C01054)*,  
 J. of Instrumentation, 7 C01054, 2012.  Bio-inspired explanation of the DVS and the ATIS.
+- <a name="Posch15bicv"></a>Posch, C.,  
+*[Bioinspired vision sensing](https://doi.org/10.1002/9783527680863.ch2)*,  
+Biologically Inspired Computer Vision, Wiley-Blackwell, pp. 11-28, 2015. [book index](http://bicv.github.io/toc/index.html)
 - <a name="Delbruck12eccvw"></a>Delbruck, T.,  
 *[Fun with asynchronous vision sensors and processing](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=delbruck_funwithasynsensors_2012.pdf)*.  
 Computer Vision - ECCV 2012. Workshops and Demonstrations. Springer Berlin/Heidelberg, 2012. A position paper and summary of recent accomplishments of the INI Sensors' group.
