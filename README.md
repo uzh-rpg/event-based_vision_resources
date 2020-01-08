@@ -187,6 +187,9 @@ ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http:/
 - <a name="Lagorce14biocas"></a>Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R.,  
 *[Live demonstration: Neuromorphic event-based multi-kernel algorithm for high speed visual features tracking](https://doi.org/10.1109/BioCAS.2014.6981681)*,  
 IEEE Biomedical Circuits and Systems Conference (BioCAS), Lausanne, 2014, pp. 178-178.
+- <a name="Saner14VMV"></a>D. Saner, O. Wang, S. Heinzle, Y. Pritch, A. Smolic, A. Sorkine-Hornung, M. Gross,  
+*[High-Speed Object Tracking Using an Asynchronous Temporal Contrast Sensor](http://dx.doi.org/10.2312/vmv.20141280)*,  
+Vision, Modeling and Visualization (Darmstadt, Germany, October 8-10, 2014), pp. 87-94.
 - <a name="Lagorce15tnnls"></a>Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R.,  
 *[Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking](https://doi.org/10.1109/TNNLS.2014.2352401)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(8):1710-1720, 2015.
