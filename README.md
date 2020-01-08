@@ -16,6 +16,7 @@
     - [Intensity-Image Reconstruction](#image-reconstruction)
     - [Video Synthesis](#video-synthesis)
     - [Super-resolution](#super-resolution)
+    - [Tone mapping](#tone-mapping)
     - [Visual Stabilization](#visual-stabilization)
     - [Localization and Ego-motion estimation](#egomotion)
     - [Visual Odometry and SLAM (Simultaneous Localization And Mapping)](#VOSLAM)
@@ -477,7 +478,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018.
    - [Stereo Dataset](https://ibm.ent.box.com/s/3hiq58ww1pbbjrinh367ykfdf60xsfm8).
 - <a name="Ieng18fnins"></a> Ieng, S.-H., Carneiro, J., Osswald, M., Benosman, R.,  
 *[Neuromorphic Event-Based Generalized Time-Based Stereovision](https://doi.org/10.3389/fnins.2018.00442)*,  
-Front. Neurosci. 12:442, 2018.
+Front. Neurosci. (2018), 12:442.
 - <a name="Zhu18eccv"></a>Zhu, A., Chen, Y., Daniilidis, K.,  
 *[Realtime Time Synchronized Event-based Stereo](https://arxiv.org/abs/1803.09025)*,  
 European Conf. Computer Vision (ECCV), 2018. [YouTube](https://youtu.be/4oa7e4hsrYo)
@@ -557,7 +558,7 @@ IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2015.
 IEEE Int. Conf. Robotics and Automation (ICRA), 2015, pp. 4874-4881. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pdf), [PPT](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pptm), [Code](https://www.github.com/uzh-rpg/rpg_event_lifetime)
 - <a name="Rueckauer16fnins"></a>Rueckauer, B. and Delbruck, T.,  
 *[Evaluation of Event-Based Algorithms for Optical Flow with Ground-Truth from Inertial Measurement Sensor](https://doi.org/10.3389/fnins.2016.00176),*  
-Front. Neurosci (2016). 10:176.
+Front. Neurosci. (2016), 10:176.
     - [Code (jAER)](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/)
 - <a name="Bardow16cvpr"></a>Bardow, P. A., Davison, A. J., Leutenegger, S.,  
 *[Simultaneous Optical Flow and Intensity Estimation from an Event Camera](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.pdf)*,  
@@ -696,7 +697,14 @@ Neurocomputing, vol. 335, pp. 206-214, 2019. [PDF pre-print](https://arxiv.org/a
 - <a name="Mostafavi19arxiv"></a>Mostafavi I., S.M.,  Choi, J., Yoon, K.J,  
 *[Learning to Super Resolve Intensity Images from Events](https://arxiv.org/abs/1912.01196)*,  
 arXiv:1912.01196, 2019.
-    
+
+
+<a name="tone-mapping"></a>
+## Tone Mapping
+- <a name="SimonChane16fnins"></a>Simon Chane, C., Ieng, S.-H., Posch, C., Benosman, R.,  
+*[Event-Based Tone Mapping for Asynchronous Time-Based Image Sensor](https://doi.org/10.3389/fnins.2016.00391)*,  
+Front. Neurosci. (2016), 10:391.
+
 
 <a name="visual-stabilization"></a>
 ## Visual Stabilization
@@ -905,7 +913,7 @@ arXiv: 1811.07802, 2018.
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF](https://arxiv.org/pdf/1811.12039.pdf). [Project page](https://github.com/Shathe/Ev-SegNet). [Video pitch](https://youtu.be/AuXN7y3bMqo)
 - <a name="Afshar18fnins"></a>Afshar, S., Hamilton, T. J., Tapson, J., van Schaik, A., Cohen, G.,  
 [Investigation of Event-Based Surfaces for High-Speed Detection, Unsupervised Feature Extraction, and Object Recognition](https://doi.org/10.3389/fnins.2018.01047),  
-Front. Neurosci., 2018, 12:1047.
+Front. Neurosci. (2018), 12:1047.
 - <a name="Lenz18arxiv"></a>Lenz, G., Ieng, S.-H., Benosman, R.,  
 *[Event-based Face Detection and Tracking in the Blink of an Eye](http://arxiv.org/abs/1803.10106)*,  
 arXiv:1803.10106, 2018. [YouTube](https://www.youtube.com/watch?v=F5UzXQsr5Es)
@@ -932,7 +940,7 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
 Robotics: Science and Systems XIV (RSS), 2019. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/349414/1/rsswebsite.pdf)
 - <a name="Chen19fnins"></a>Chen, G., Chen, J., Lienen, M., Conradt, J., Roehrbein, F., Knoll, A.C.,  
 *[FLGR: Fixed Length Gists Representation Learning for RNN-HMM Hybrid-Based Neuromorphic Continuous Gesture Recognition](https://dx.doi.org/10.3389%2Ffnins.2019.00073)*,  
-Front. Neurosci., 2019, 13:73.
+Front. Neurosci. (2019), 13:73.
 - <a name="Tapiador18tbiocas"></a>Tapiador-Morales, R., Linares-Barranco, A., Jimenez-Fernandez, A., Jimenez-Moreno, G.  
 *[Neuromorphic LIF Row-by-Row Multiconvolution Processor for FPGA](https://doi.org/10.1109/TBCAS.2018.2880012)*,  
 IEEE Trans. Biomed. Circuits Syst, 2019, vol. 13, issue 1.  
@@ -1337,7 +1345,7 @@ IEEE Access, vol. 7, pp. 138415-138425, 2019.
 - [Loris](https://github.com/neuromorphic-paris/loris) Python package to read files from neuromorphic cameras. 
 - Marcireau A., Ieng S.-H., Benosman R.,  
 *[Sepia, Tarsier, and Chameleon: A Modular C++ Framework for Event-Based Computer Vision](https://doi.org/10.3389/fnins.2019.01338)*,  
-Front. Neurosci., 2020. [Code](https://github.com/neuromorphic-paris/tutorials)
+Front. Neurosci. (2020). [Code](https://github.com/neuromorphic-paris/tutorials)
 
 <br><br>
 <a name="processors-platforms"></a>
