@@ -735,7 +735,10 @@ arXiv:1510.01972, 2015.
 Robotics: Science and Systems XI (RSS), 2015. [PDF](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler.pdf), [PPT](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler.pptm),  [Poster](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler_poster.pdf)
 - <a name="Reverter16fnins"></a>Reverter Valeiras, D., Orchard, G., Ieng, S.-H., Benosman, R.,  
 *[Neuromorphic Event-Based 3D Pose Estimation](https://doi.org/10.3389/fnins.2015.00522)*.  
-Front. Neurosci. (2016), 9:522.  
+Front. Neurosci. (2016), 9:522.
+- <a name="Reverter16fninsb"></a>Reverter Valeiras, D., Kime, S., Ieng, S.-H., Benosman, R.,  
+*[An Event-Based Solution to the Perspective-n-Point Problem](https://doi.org/10.3389/fnins.2016.00208)*.  
+Front. Neurosci. (2016), 10:208.
 - <a name="Gallego18pami"></a>Gallego, G., Lund, J.E.A., Mueggler, E., Rebecq, H., Delbruck, T., Scaramuzza, D.,  
 *[Event-based, 6-DOF Camera Tracking from Photometric Depth Maps](http://dx.doi.org/10.1109/TPAMI.2017.2769655)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/PAMI17_Gallego.pdf),  [YouTube](https://youtu.be/iZZ77F-hwzs?t=5), [Datasets](http://rpg.ifi.uzh.ch/direct_event_camera_tracking/index.html)
