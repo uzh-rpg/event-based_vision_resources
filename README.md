@@ -242,7 +242,7 @@ British Machine Vision Conf. (BMVC), 2017.
 - <a name="Peng17tnnls"></a>Peng, X., Zhao, B., Yan, R., Tang H., Yi, Z.,  
 *[Bag of Events: An Efficient Probability-Based Feature Extraction Method for AER Image Sensors](http://dx.doi.org/10.1109/TNNLS.2016.2536741)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 28(4):791-803, 2017.
-- <a name="Ramesh19pami"></a>Ramesh, B., Yang, H., Orchard, G., Le Thi, N.A., Xiang, C,  
+- <a name="Ramesh19tpami"></a>Ramesh, B., Yang, H., Orchard, G., Le Thi, N.A., Xiang, C,  
 *[DART: Distribution Aware Retinal Transform for Event-based Cameras](https://doi.org/10.1109/TPAMI.2019.2919301)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2019. [PDF](https://arxiv.org/pdf/1710.10800.pdf)
 - <a name="Gehrig18eccv"></a>Gehrig, D., Rebecq, H., Gallego, G., Scaramuzza, D.,  
@@ -660,9 +660,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://a
 - <a name="Rebecq19cvpr"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
 *[Events-to-Video: Bringing Modern Computer Vision to Event Cameras](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf),  [YouTube](https://youtu.be/IdYrC4cUO0I), [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Henri_Rebecq.pdf), [Video pitch](https://youtu.be/1LZKtnQ-6lA).
-- <a name="Rebecq19arxiv"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
-*[High Speed and High Dynamic Range Video with an Event Camera](http://rpg.ifi.uzh.ch/docs/arXiv19_Rebecq.pdf)*,  
-arXiv:1906.07165, 2019. [PDF](http://rpg.ifi.uzh.ch/docs/arXiv19_Rebecq.pdf),  [YouTube](https://youtu.be/eomALySSGVU), [Code](https://github.com/uzh-rpg/rpg_e2vid)
+- <a name="Rebecq19tpami"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
+*[High Speed and High Dynamic Range Video with an Event Camera](https://doi.org/10.1109/TPAMI.2019.2963386)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/TPAMI19_Rebecq.pdf),  [YouTube](https://youtu.be/eomALySSGVU), [Code](https://github.com/uzh-rpg/rpg_e2vid)
 - [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
 *CED: Color Event Camera Dataset*.
 
@@ -820,7 +820,7 @@ British Machine Vision Conf. (BMVC), 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC
 IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq.pdf), [YouTube](https://youtu.be/jIvJuWdmemE), [Poster](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq_poster.pdf), [Project page](http://rpg.ifi.uzh.ch/ultimateslam.html), [ICRA18 video pitch](https://youtu.be/0hDGFFJQfmA).
 - [Rebecq et. al. CVPR 2019](#Rebecq19cvpr),  
 *Events-to-Video: Bringing Modern Computer Vision to Event Cameras*. 
-- [Rebecq et. al. arXiv 2019](#Rebecq19arxiv),  
+- [Rebecq et. al. TPAMI 2019](#Rebecq19tpami),  
 *High Speed and High Dynamic Range Video with an Event Camera*. 
 - [Nelson, K. J., MSc Thesis 2019](#Nelson19MSc),  
 *Event-Based Visual-Inertial Odometry on a Fixed-Wing Unmanned Aerial Vehicle*.
@@ -959,7 +959,7 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019.
 *Focus Is All You Need: Loss Functions For Event-based Vision*.
 - [Rebecq et. al. CVPR 2019](#Rebecq19cvpr),  
 *Events-to-Video: Bringing Modern Computer Vision to Event Cameras*.
-- [Rebecq et. al. arXiv 2019](#Rebecq19arxiv),  
+- [Rebecq et. al. TPAMI 2019](#Rebecq19tpami),  
 *High Speed and High Dynamic Range Video with an Event Camera*. 
 - <a name="Sekikawa19cvpr"></a>Sekikawa, Y., Hara, K., Saito, H.,  
 *[EventNet: Asynchronous Recursive Event Processing](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sekikawa_EventNet_Asynchronous_Recursive_Event_Processing_CVPR_2019_paper.pdf)*,  
