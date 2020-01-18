@@ -314,7 +314,7 @@ Front. Neurorobot. 13:82, 2019. [Dataset](https://figshare.com/s/70565903453eef7
 
 - <a name="Clady15neunet"></a>Clady, X., Ieng, S.-H., Benosman, R.,  
 *[Asynchronous event-based corner detection and matching](https://doi.org/10.1016/j.neunet.2015.02.013)*,  
-Neural Networks (2015), 66:91-106.
+Neural Networks (2015), 66:91-106. [PDF](https://www.neuromorphic-vision.com/public/publications/38/publication.pdf)
 - <a name="Vasco16iros"></a>Vasco, V., Glover, A., Bartolozzi, C.,  
 *[Fast event-based Harris corner detection exploiting the advantages of event-driven cameras](https://doi.org/10.1109/IROS.2016.7759610)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2016, pp. 4144-4149. [YouTube](https://youtu.be/YkI7AfBDBKE), [Code](https://github.com/robotology/event-driven)
