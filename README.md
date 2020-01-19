@@ -164,10 +164,13 @@ IEEE Signal Processing Magazine, vol. 36, no. 6, pp. 29-37, 2019.
 ## Feature Detection and Tracking
 - <a name="Litzenberger06dspws"></a>Litzenberger, M., Posch, C., Bauer, D., Belbachir, A. N., Schon. P., Kohn, B., Garn, H.,  
 *[Embedded Vision System for Real-Time Object Tracking using an Asynchronous Transient Vision Sensor](https://doi.org/10.1109/DSPWS.2006.265448)*,  
-IEEE 12th Digital Signal Proc. Workshop and 4th IEEE Signal Proc. Education Workshop, Teton National Park, WY, 2006, pp. 173-178.
+IEEE 12th Digital Signal Proc. Workshop and 4th IEEE Signal Proc. Education Workshop, Teton National Park, WY, 2006, pp. 173-178. [PDF](http://www.belbachir.info/PDF/dsp2006.pdf)
 - <a name="Litzenberger06itsc"></a>Litzenberger, M., Kohn, B., Belbachir, A.N., Donath, N., Gritsch, G., Garn, H., Posch, C., Schraml, S.,  
 *[Estimation of Vehicle Speed Based on Asynchronous Data from a Silicon Retina Optical Sensor](https://doi.org/10.1109/ITSC.2006.1706816)*,  
 IEEE Intelligent Transportation Systems Conf., Toronto, Ont., 2006, pp. 653-658. [PDF](http://belbachir.info/PDF/itsc2006.pdf)
+- <a name="Litzenberger07icdsc"></a>Litzenberger, M., Belbachir, N., Schon, P., Posch, C.,  
+*[Embedded Smart Camera for High Speed Vision](https://doi.org/10.1109/ICDSC.2007.4357509)*,  
+ACM/IEEE Int. Conf. on Distributed Smart Cameras, 2007. [PDF](http://belbachir.info/PDF/icdsc2007.pdf)
 - <a name="Drazen11eif"></a>Drazen, D., Lichtsteiner, P., Haefliger, P., Delbruck, T., Jensen, A.,  
 *[Toward real-time particle tracking using an event-based dynamic vision sensor](https://doi.org/10.1007/s00348-011-1207-y)*,  
 Experiments in Fluids (2011), 51(1):1465-1469. [PDF](http://www.zora.uzh.ch/60624/1/Drazen_EIF_2011.pdf)
@@ -396,7 +399,13 @@ Int. Conf. Computer Vision Systems (ICVS), 2009, pp. 174-183. [PDF](http://adose
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2010, pp. 1409-1412.
 - <a name="Schraml10cvprw"></a>Schraml, S., Belbachir,  
 *[A spatio-temporal clustering method using real-time motion analysis on event-based 3D vision](https://doi.org/10.1109/CVPRW.2010.5543810)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010.
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF](http://www.belbachir.info/PDF/cvpr1_2010.pdf)
+- <a name="Schraml10cvprw2"></a>Schraml, S., Belbachir, Braendle, N.,  
+*[A Real-time Pedestrian Classification Method for Event-based Dynamic Stereo Vision](https://doi.org/10.1109/CVPRW.2010.5543775)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF](http://www.belbachir.info/PDF/cvpr2_2010.pdf)
+- <a name="Schraml10cvprw3"></a>Schraml, S., Belbachir, Braendle, N.,  
+*[Real-time classification of pedestrians and cyclists for intelligent counting of non-motorized traffic](https://doi.org/10.1109/CVPRW.2010.5543170)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF](http://www.belbachir.info/PDF/cvpr3_2010.pdf)
 - <a name="Belbachir10icdsc"></a>Belbachir, A., Pflugfelder, R., Gmeiner, P.,  
 *[A Neuromorphic Smart Camera for Real-time 360deg distortion-free Panoramas](https://doi.org/10.1145/1865987.1866022)*,  
 IEEE Conference on Distributed Smart Cameras, 2010.
