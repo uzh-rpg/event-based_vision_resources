@@ -408,13 +408,19 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF](http://www.belbachir.info/PDF/cvpr3_2010.pdf)
 - <a name="Belbachir10icdsc"></a>Belbachir, A., Pflugfelder, R., Gmeiner, P.,  
 *[A Neuromorphic Smart Camera for Real-time 360deg distortion-free Panoramas](https://doi.org/10.1145/1865987.1866022)*,  
-IEEE Conference on Distributed Smart Cameras, 2010.
+IEEE Conference on Distributed Smart Cameras (ICDSC), 2010. [PDF](http://www.belbachir.info/PDF/icdsc2010.pdf)
 - <a name="Kogler11atasc"></a>Kogler, J., Sulzbachner, C., Humenberger, M., Eibensteiner, F.,  
 *[Address-Event Based Stereo Vision with Bio-Inspired Silicon Retina Imagers](http://doi.org/10.5772/12941)*,  
 Advances in Theory and Applications of Stereo Vision (2011), pp. 165-188.
 - <a name="Kogler11icvs"></a>Kogler, J., Humenberger, M., Sulzbachner, C.,  
 *[Event-Based Stereo Matching Approaches for Frameless Address Event Stereo Data](http://doi.org/10.1007/978-3-642-24028-7_62)*,  
 Int. Symp. Visual Computing (ISVC) 2011, Advances in Visual Computing, pp. 674-685.
+- <a name="Belbachir11cvprw"></a>Belbachir, A.N., Schraml, S., Nowakoska, A.,  
+*[Event-Driven Stereo Vision for Fall Detection](https://doi.org/10.1109/CVPRW.2011.5981819)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2011.
+- <a name="Belbachir11iccvw"></a>Belbachir, A.N., Nowakoska, A., Schraml, S., Wiesmann, G., Sablatnig, R.,  
+*[Event-Driven Feature Analysis in a 4D Spatiotemporal Representation](https://doi.org/10.1109/ICCVW.2011.6130437)*,  
+IEEE Int. Conf. Computer Vision Workshops (ICCVW), 2011.
 - <a name="Benosman11tnn"></a>Benosman, R., Ieng, S. H., Rogister, P., Posch, C.,  
 *[Asynchronous Event-Based Hebbian Epipolar Geometry](https://doi.org/10.1109/TNN.2011.2167239)*,  
 IEEE Trans. Neural Netw., 22(11):1723-1734, 2011. [PDF](https://www.neuromorphic-vision.com/public/publications/10/publication.pdf)
@@ -424,6 +430,15 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 23(2):347-353, 2012. [PDF](https:
 - <a name="Belbachir12iscas"></a>Belbachir, A.N., Litzenberger, M., Schraml, S., Hofstätter, M., Bauer, D., Schön, P., Humenberger, M., Sulzbachner, C., Lunden, T., Merne, M.,  
 *[CARE: A dynamic stereo vision sensor system for fall detection](https://doi.org/10.1109/ISCAS.2012.6272141)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2012.
+- <a name="Humenberger12cvprw"></a>Humenberger, M., Schraml, S., Sulzbachner, C., Belbachir, A.N., Srp A., Vajda, F.,  
+*[Embedded Fall Detection with a Neural Network and Bio-inspired Stereo Vision](https://doi.org/10.1109/CVPRW.2012.6238896)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2012.
+- <a name="Belbachir12iscas2"></a>Belbachir, A.N., Mayerhofer, M., Matolin, D., Colineau, J.,  
+*[Real-time 360 degrees Panoramic Views using BiCa360, the Fast Rotating Dynamic Vision Sensor to up to 10 Rotations per Sec](https://doi.org/10.1109/ISCAS.2012.6272139)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2012.
+- <a name="Belbachir12icdsc"></a>Belbachir, A.N., Mayerhofer, M., Matolin, D., Colineau, J.,  
+*[360SCAN: High-speed rotating line sensor for real-time 360 degrees panoramic vision](https://ieeexplore.ieee.org/document/6470127)*,  
+IEEE Int. Conf. Distributed Smart Cameras (ICDSC), 2012.
 - <a name="Carneiro13neunet"></a>Carneiro, J., Ieng, S.-H., Posch, C., Benosman, R.,  
 *[Event-based 3D reconstruction from neuromorphic retinas](https://doi.org/10.1016/j.neunet.2013.03.006)*,  
 Neural Networks (2013), 45:27-38. [PDF](https://www.neuromorphic-vision.com/public/publications/5/publication.pdf)
@@ -867,8 +882,14 @@ IEEE J. of Solid-State Circuits, 47(2):504-517, 2012.
 *[Live demonstration: Gesture-Based remote control using stereo pair of dynamic vision sensors](https://doi.org/10.1109/ISCAS.2012.6272144)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS) 2012, pp. 736-740. [PDF](http://www.zora.uzh.ch/75315/1/Lee_et_al_Live_demonstration.pdf), [YouTube](https://youtu.be/IlKimfJN21A)
 - <a name="Kohn12iscas"></a>Kohn, B., Belbachir, A.N., Hahn, T., Kaufmann, H.,  
-*[Event-driven Body Motion Analysis For Real-time Gesture Recognition]()*,  
+*[Event-driven Body Motion Analysis For Real-time Gesture Recognition](https://doi.org/10.1109/ISCAS.2012.6272132)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS) 2012. [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.839.4932&rep=rep1&type=pdf)
+- <a name="Kohn12cvprw"></a>Kohn, B., Belbachir, A.N., Nowakowska, A.,  
+*[Real-time Gesture Recognition using a Bio-inspired 3D Vision Sensor](https://doi.org/10.1109/CVPRW.2012.6239184)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2012.
+- <a name="Kohn12cvprw2"></a>Kohn, B., Nowakowska, A., Belbachir, A.N.,  
+*[Real-time Body Motion Analysis for Dance Pattern Recognition](https://doi.org/10.1109/CVPRW.2012.6238894)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2012.
 - <a name="PerezCarrasco13tpami"></a>Perez-Carrasco, J. A., Zhao, B., Serrano, C., Acha, B., Serrano-Gotarredona, T., Chen, S., Linares-Barranco, B.,  
 *[Mapping from Frame-Driven to Frame-Free Event-Driven Vision Systems by Low-Rate Rate-Coding and Coincidence Processing. Application to Feed-Forward ConvNets](https://doi.org/10.1109/TPAMI.2013.71)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 35(11):2706-2719, 2013.
