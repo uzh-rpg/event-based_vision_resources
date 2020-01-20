@@ -448,6 +448,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2014, pp. 
 - <a name="Eibensteiner14cvprw"></a>Eibensteiner, F., Kogler, J., Scharinger, J.,  
 *[A High-Performance Hardware Architecture for a Frameless Stereo Vision Algorithm Implemented on a FPGA Platform](https://doi.org/10.1109/CVPRW.2014.97)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2014, pp. 637-644.
+- <a name="Kogler14jei"></a>Kogler, J., Eibensteiner, F., Humenberger, M., Sulzbachner, C., Gelautz, M., Scharinger, J.,  
+*[Enhancement of sparse silicon retina-based stereo matching using belief propagation and two-stage postfiltering](https://doi.org/10.1117/1.JEI.23.4.043011)*,  
+J. Electronic Imaging, 23(4), 043011 (2014).
 - <a name="Schraml15cvpr"></a>Schraml, S., Belbachir, A. N., Bischof, H.,  
 *[Event-Driven Stereo Matching for Real-Time 3D Panoramic Vision](https://doi.org/10.1109/CVPR.2015.7298644)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2015, pp. 466-474. [PDF](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schraml_Event-Driven_Stereo_Matching_2015_CVPR_paper.pdf). [Slides](https://www.anyline.io/wp-content/uploads/2016/03/event-driven-stereo-for-3d-360deg-panoramic-vision.pdf).
@@ -519,6 +522,7 @@ European Conf. Mobile Robots (ECMR), 2019. [PDF arXiv](https://arxiv.org/pdf/190
 - <a name="Tulyakov19iccv"></a>Tulyakov, S., Fleuret, F., Kiefel, M., Gehler, P., Hirsch., M.,  
 *[Learning an event sequence embedding for dense event-based deep stereo](https://www.idiap.ch/~fleuret/papers/tulyakov-et-al-iccv2019.pdf)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2019.
+
 
 
 <a name="optical-flow-estimation"></a>
