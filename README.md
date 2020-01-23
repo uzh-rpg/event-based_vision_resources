@@ -706,6 +706,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rp
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/TPAMI19_Rebecq.pdf),  [YouTube](https://youtu.be/eomALySSGVU), [Code](https://github.com/uzh-rpg/rpg_e2vid)
 - [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
 *CED: Color Event Camera Dataset*.
+- <a name="Scheerlinck20wacv"></a>Scheerlinck, C., Rebecq, H., Gehrig, D., Barnes, N., Mahony, R., Scaramuzza, D.,  
+*[Fast Image Reconstruction with an Event Camera](https://cedric-scheerlinck.github.io/firenet)*,  
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2019. [PDF](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf),  [YouTube](https://youtu.be/QaGYFtR2-X8), [Website](https://cedric-scheerlinck.github.io/firenet)
 
 
 <a name="video-synthesis"></a>
