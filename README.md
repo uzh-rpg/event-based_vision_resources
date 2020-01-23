@@ -710,6 +710,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2019. [PDF](http://rpg.ifi.uz
 *[Fast Image Reconstruction with an Event Camera](https://cedric-scheerlinck.github.io/firenet)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2019. [PDF](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf),  [YouTube](https://youtu.be/QaGYFtR2-X8), [Website](https://cedric-scheerlinck.github.io/firenet)
 
+
 <a name="video-synthesis"></a>
 ## Video Synthesis
 - <a name="Brandli14iscas"></a>Brandli, C., Muller, L., Delbruck, T.,  
