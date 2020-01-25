@@ -919,6 +919,9 @@ Front. Neurosci. 10:184. [PDF](https://www.neuromorphic-vision.com/public/public
 - <a name="Moeys16ebccsp"></a>Moeys, D., Corradi F., Kerr, E., Vance, P., Das, G., Neil, D., Kerr, D., Delbruck, T.,  
 *[Steering a Predator Robot using a Mixed Frame/Event-Driven Convolutional Neural Network](https://doi.org/10.1109/EBCCSP.2016.7605233)*,  
 IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2016. [PDF](https://arxiv.org/pdf/1606.09433.pdf), [YouTube 1](https://youtu.be/fL3YCIPxuhM), [YouTube 2](https://youtu.be/lPF3Youpmqk)
+- <a name="Li16bics"></a>Li, H., Li, G., Shi, L.,  
+*[Classification of Spatiotemporal Events Based on Random Forest](https://doi.org/10.1007/978-3-319-49685-6_13)*,  
+Int. Conf. Brain Inspired Cognitive Systems (BICS), 2016.
 - <a name="Lagorce17tpami"></a>Lagorce, X., Orchard, G., Gallupi, F., Shi, B., Benosman, R.,  
 *[HOTS: A Hierarchy Of event-based Time-Surfaces for pattern recognition](https://doi.org/10.1109/TPAMI.2016.2574707)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 39(7):1346-1359, 2017. [PDF](https://www.neuromorphic-vision.com/public/publications/1/publication.pdf)
@@ -940,6 +943,9 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
 - <a name="Sullivan17roman"></a>Sullivan, K., Lawson, W.,  
 *[Representing motion information from event-based cameras](https://doi.org/10.1109/ROMAN.2017.8172497)*,  
 IEEE Int. Symp. Robot and Human Interactive Comm. (RO-MAN), 2017.
+- <a name="Li16neucom"></a>Li, H., Li, G., Ji, X., Shi, L.P.,  
+*[Deep representation via convolutional neural network for classification of spatiotemporal event streams](https://doi.org/10.1016/j.neucom.2018.02.019)*,  
+Neurocomputing 299, 2018.
 - <a name="Sironi18cvpr"></a>Sironi, A., Brambilla, M., Bourdis, N., Lagorce, X., Benosman, R.,    
 *[HATS: Histograms of Averaged Time Surfaces for Robust Event-based Object Classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sironi_HATS_Histograms_of_CVPR_2018_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018. [PDF](https://arxiv.org/abs/1803.07913).
