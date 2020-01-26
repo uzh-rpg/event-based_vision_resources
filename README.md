@@ -269,8 +269,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018.
 - <a name="Glover18irosw"></a>Glover, A., Stokes, A.B., Furber, S., Bartolozzi, C.,  
 *[ATIS + SpiNNaker: a Fully Event-based Visual Tracking Demonstration](https://arxiv.org/pdf/1912.01320)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems Workshops (IROSW), 2018. Workshop on Unconventional Sensing and Processing for Robotic Visual Perception.
-- <a name="Iacono18iros"></a>
-Ramesh, B., Zhang, S., Lee, Z.-W., Gao, Z., Orchard, G., Xiang, C.,  
+- <a name="Ramesh18bmvc"></a>Ramesh, B., Zhang, S., Lee, Z.-W., Gao, Z., Orchard, G., Xiang, C.,  
 *[Long-term object tracking with a moving event camera](http://bmvc2018.org/contents/papers/0814.pdf)*,  
 British Machine Vision Conf. (BMVC), 2018.  [Video](http://bmvc2018.org/contents/supplementary/video/0814_video.mp4)
 - <a name="Dardelet18arxiv"></a>Dardelet, L., Ieng, S.-H., Benosman, R.,  
@@ -553,7 +552,7 @@ Joint estimation of optical flow, image intensity and angular velocity with a ro
 Neural Networks (2012), 27:32-37. [PDF](https://www.neuromorphic-vision.com/public/publications/12/publication.pdf), [Suppl. Mat.](https://www.neuromorphic-vision.com/public/publications/12/supplementaryMaterial.zip)
 - <a name="Orchard13biocas"></a>Orchard, G., Benosman, R., Etienne-Cummings, R., Thakor, N,  
 *[A Spiking Neural Network Architecture for Visual Motion Estimation](https://doi.org/10.1109/BioCAS.2013.6679698)*,  
-IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2013, pp. 298-301. [PDF](https://www.researchgate.net/publication/261075772_A_spiking_neural_network_architecture_for_visual_motion_estimation), [Code](https://github.com/gorchard/Spiking_Motion)
+IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2013. [PDF](https://www.researchgate.net/publication/261075772_A_spiking_neural_network_architecture_for_visual_motion_estimation), [Code](https://github.com/gorchard/Spiking_Motion)
 - <a name="Benosman14tnnls"></a>Benosman, R., Clercq, C., Lagorce, X., Ieng, S.-H., Bartolozzi, C.,  
 *[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537),*  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 25(2):407-417, 2014. [PDF](https://www.neuromorphic-vision.com/public/publications/3/publication.pdf)
@@ -899,6 +898,9 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 35(11):2706-2719, 2013.
 - <a name="Lee14tnnls"></a>Lee, J. H., Delbruck, T., Pfeiffer, M., Park, P.K.J., Shin, C.-W., Ryu, H., Kang, B. C.,  
 *[Real-Time Gesture Interface Based on Event-Driven Processing From Stereo Silicon Retinas](https://doi.org/10.1109/TNNLS.2014.2308551)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 25(12):2250-2263, 2014.
+- <a name="Ghosh14biocas"></a>Ghosh, R., Mishra, A., Orchard, G., Thakor, N.,  
+*[Real-time object recognition and orientation estimation using an event-based camera and CNN](https://doi.org/10.1109/BioCAS.2014.6981783)*,  
+IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2014.
 - <a name="Orchard15tpami"></a>Orchard, G., Meyer, C., Etienne-Cummings, R., Posch, C., Thakor, N., Benosman, R.,  
 *[HFIRST: A Temporal Approach to Object Recognition](https://doi.org/10.1109/TPAMI.2015.2392947)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 37(10):2028-2040, 2015. [PDF](https://arxiv.org/pdf/1508.01176.pdf), [PDF](https://www.neuromorphic-vision.com/public/publications/36/publication.pdf)
