@@ -168,6 +168,9 @@ IEEE 12th Digital Signal Proc. Workshop and 4th IEEE Signal Proc. Education Work
 - <a name="Litzenberger06itsc"></a>Litzenberger, M., Kohn, B., Belbachir, A.N., Donath, N., Gritsch, G., Garn, H., Posch, C., Schraml, S.,  
 *[Estimation of Vehicle Speed Based on Asynchronous Data from a Silicon Retina Optical Sensor](https://doi.org/10.1109/ITSC.2006.1706816)*,  
 IEEE Intelligent Transportation Systems Conf., Toronto, Ont., 2006, pp. 653-658. [PDF](http://belbachir.info/PDF/itsc2006.pdf)
+- <a name="Bauer07ejes"></a>Bauer, D., Belbachir, A. N., Donath, N., Gritsch, G., Kohn, B., Litzenberger, M., Posch, C., Schön, P., Schraml, S.,  
+*[Embedded Vehicle Speed Estimation System Using an Asynchronous Temporal Contrast Vision Sensor](https://link.springer.com/article/10.1155/2007/82174)*,  
+EURASIP J. Embedded Systems, 2007:082174. [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.424&rep=rep1&type=pdf)
 - <a name="Litzenberger07icdsc"></a>Litzenberger, M., Belbachir, N., Schon, P., Posch, C.,  
 *[Embedded Smart Camera for High Speed Vision](https://doi.org/10.1109/ICDSC.2007.4357509)*,  
 ACM/IEEE Int. Conf. on Distributed Smart Cameras, 2007. [PDF](http://belbachir.info/PDF/icdsc2007.pdf)
