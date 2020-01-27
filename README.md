@@ -419,6 +419,18 @@ arXiv:1811.10771, 2018.
 - <a name="Schraml07visapp"></a>Schraml, C., Schon, P., Milosevic, N.,  
 *[Smartcam for real-time stereo vision - address-event based embedded system](http://doi.org/10.5220/0002057604660471)*,  
 Int. Conf. Computer Vision Theory and Applications (VISAPP), 2007, pp. 466-471.
+    - <a name="Schraml10iscas"></a>Schraml, S., Belbachir, A. N., Milosevic, N., Schon, P.,  
+*[Dynamic stereo vision system for real-time tracking](https://doi.org/10.1109/ISCAS.2010.5537289)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2010, pp. 1409-1412.
+    - <a name="Schraml10cvprw"></a>Schraml, S., Belbachir,  
+*[A spatio-temporal clustering method using real-time motion analysis on event-based 3D vision](https://doi.org/10.1109/CVPRW.2010.5543810)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF](http://www.belbachir.info/PDF/cvpr1_2010.pdf)
+    - <a name="Schraml10cvprw2"></a>Schraml, S., Belbachir, Braendle, N.,  
+*[A Real-time Pedestrian Classification Method for Event-based Dynamic Stereo Vision](https://doi.org/10.1109/CVPRW.2010.5543775)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF](http://www.belbachir.info/PDF/cvpr2_2010.pdf)
+    - <a name="Schraml10cvprw3"></a>Schraml, S., Belbachir, Braendle, N.,  
+*[Real-time classification of pedestrians and cyclists for intelligent counting of non-motorized traffic](https://doi.org/10.1109/CVPRW.2010.5543170)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF](http://www.belbachir.info/PDF/cvpr3_2010.pdf)
 - <a name="Kogler09icvs"></a>Kogler, J., Sulzbachner, C., Kubinger, W.,  
 *[Bio-inspired stereo vision system with silicon retina imagers](https://doi.org/10.1007/978-3-642-04667-4_18)*,  
 Int. Conf. Computer Vision Systems (ICVS), 2009, pp. 174-183. [PDF](http://adose-eu.org/documents/Paper/2009_10_13-15.pdf)
@@ -431,21 +443,6 @@ Advances in Theory and Applications of Stereo Vision (2011), pp. 165-188.
     - <a name="Kogler11icvs"></a>Kogler, J., Humenberger, M., Sulzbachner, C.,  
 *[Event-Based Stereo Matching Approaches for Frameless Address Event Stereo Data](http://doi.org/10.1007/978-3-642-24028-7_62)*,  
 Int. Symp. Visual Computing (ISVC) 2011, Advances in Visual Computing, pp. 674-685.
-- <a name="Schraml10iscas"></a>Schraml, S., Belbachir, A. N., Milosevic, N., Schon, P.,  
-*[Dynamic stereo vision system for real-time tracking](https://doi.org/10.1109/ISCAS.2010.5537289)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2010, pp. 1409-1412.
-- <a name="Schraml10cvprw"></a>Schraml, S., Belbachir,  
-*[A spatio-temporal clustering method using real-time motion analysis on event-based 3D vision](https://doi.org/10.1109/CVPRW.2010.5543810)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF](http://www.belbachir.info/PDF/cvpr1_2010.pdf)
-- <a name="Schraml10cvprw2"></a>Schraml, S., Belbachir, Braendle, N.,  
-*[A Real-time Pedestrian Classification Method for Event-based Dynamic Stereo Vision](https://doi.org/10.1109/CVPRW.2010.5543775)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF](http://www.belbachir.info/PDF/cvpr2_2010.pdf)
-- <a name="Schraml10cvprw3"></a>Schraml, S., Belbachir, Braendle, N.,  
-*[Real-time classification of pedestrians and cyclists for intelligent counting of non-motorized traffic](https://doi.org/10.1109/CVPRW.2010.5543170)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF](http://www.belbachir.info/PDF/cvpr3_2010.pdf)
-- <a name="Belbachir11cvprw"></a>Belbachir, A.N., Schraml, S., Nowakoska, A.,  
-*[Event-Driven Stereo Vision for Fall Detection](https://doi.org/10.1109/CVPRW.2011.5981819)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2011.
 - <a name="Belbachir11iccvw"></a>Belbachir, A.N., Nowakoska, A., Schraml, S., Wiesmann, G., Sablatnig, R.,  
 *[Event-Driven Feature Analysis in a 4D Spatiotemporal Representation](https://doi.org/10.1109/ICCVW.2011.6130437)*,  
 IEEE Int. Conf. Computer Vision Workshops (ICCVW), 2011.
@@ -458,6 +455,9 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 23(2):347-353, 2012. [PDF](https:
 - <a name="Belbachir12iscas"></a>Belbachir, A.N., Litzenberger, M., Schraml, S., Hofstätter, M., Bauer, D., Schön, P., Humenberger, M., Sulzbachner, C., Lunden, T., Merne, M.,  
 *[CARE: A dynamic stereo vision sensor system for fall detection](https://doi.org/10.1109/ISCAS.2012.6272141)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2012.
+    - <a name="Belbachir11cvprw"></a>Belbachir, A.N., Schraml, S., Nowakoska, A.,  
+*[Event-Driven Stereo Vision for Fall Detection](https://doi.org/10.1109/CVPRW.2011.5981819)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2011.
     - <a name="Humenberger12cvprw"></a>Humenberger, M., Schraml, S., Sulzbachner, C., Belbachir, A.N., Srp A., Vajda, F.,  
 *[Embedded Fall Detection with a Neural Network and Bio-inspired Stereo Vision](https://doi.org/10.1109/CVPRW.2012.6238896)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2012.
@@ -467,12 +467,15 @@ Neural Networks (2013), 45:27-38. [PDF](https://www.neuromorphic-vision.com/publ
 - [Lee et. al., TNNLS 2014](#Lee14tnnls)
 - [Carneiro, Ph.D. Thesis, 2014](#Carneiro14PhD),  
 *Asynchronous Event-Based 3D Vision*.
-- <a name="Piatkowska13iccvw"></a>Piatkowska, E., Belbachir, A. N., Gelautz, M.,  
-*[Asynchronous Stereo Vision for Event-Driven Dynamic Stereo Sensor Using an Adaptive Cooperative Approach](https://doi.org/10.1109/ICCVW.2013.13)*,  
-IEEE Int. Conf. Computer Vision Workshops (ICCVW), 2013, pp. 45-50.
 - <a name="Piatkowska14mst"></a>Piatkowska, E., Belbachir, A. N., Gelautz, M.,  
 *[Cooperative and asynchronous stereo vision for dynamic vision sensors](http://dx.doi.org/10.1088/0957-0233/25/5/055108)*,  
 Meas. Sci. Technol. (2014), 25(5).
+    - <a name="Piatkowska13iccvw"></a>Piatkowska, E., Belbachir, A. N., Gelautz, M.,  
+*[Asynchronous Stereo Vision for Event-Driven Dynamic Stereo Sensor Using an Adaptive Cooperative Approach](https://doi.org/10.1109/ICCVW.2013.13)*,  
+IEEE Int. Conf. Computer Vision Workshops (ICCVW), 2013, pp. 45-50.
+    - <a name="Piatkowska17cvprw"></a>Piatkowska, E., Kogler, J., Belbachir, N., Gelautz, M.,  
+*[Improved Cooperative Stereo Matching for Dynamic Vision Sensors with Ground Truth Evaluation](http://doi.org/10.1109/CVPRW.2017.51)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2017, pp. 370-377. [PDF](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Piatkowska_Improved_Cooperative_Stereo_CVPR_2017_paper.pdf).
 - <a name="Camunas14iscas"></a>Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Linares-Barranco, B., Ieng, S., Benosman, R.,  
 *[Event-Driven Stereo Vision with Orientation Filters](https://doi.org/10.1109/ISCAS.2014.6865114)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2014, pp. 257-260.
@@ -498,9 +501,6 @@ IEEE Int. Conf. Image Processing (ICIP), 2016.
 - <a name="Osswald17srep"></a>Osswald, M., Ieng, S.-H., Benosman, R., Indiveri, G.,  
 *[A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems](http://doi.org/10.1038/srep40703)*,  
 Scientific Reports 7, Article number: 40703 (2017). [PDF](https://www.neuromorphic-vision.com/public/publications/44/publication.pdf)
-- <a name="Piatkowska17cvprw"></a>Piatkowska, E., Kogler, J., Belbachir, N., Gelautz, M.,  
-*[Improved Cooperative Stereo Matching for Dynamic Vision Sensors with Ground Truth Evaluation](http://doi.org/10.1109/CVPRW.2017.51)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2017, pp. 370-377. [PDF](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Piatkowska_Improved_Cooperative_Stereo_CVPR_2017_paper.pdf).
 - <a name="Dikov17lmlncs"></a>Dikov, G., Firouzi, M., Röhrbein, F., Conradt, J., Richter, C.,  
 *[Spiking Cooperative Stereo-Matching at 2 ms Latency with Neuromorphic Hardware](https://doi.org/10.1007/978-3-319-63537-8_11)*,  
 Conf. Biomimetic and Biohybrid Systems. Living Machines 2017: Biomimetic and Biohybrid Systems, pp. 119-137. Lecture Notes in Computer Science, vol 10384. Springer, Cham.  [PDF](https://www.researchgate.net/publication/318449954_Spiking_Cooperative_Stereo-Matching_at_2_ms_Latency_with_Neuromorphic_Hardware),  [Videos](https://figshare.com/s/0d9fb146149b832ed8ec)
