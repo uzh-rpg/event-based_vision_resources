@@ -15,6 +15,7 @@
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
         - [Monocular](#depth-mono)
         - [Stereo](#depth-stereo)
+                - [Multi-perspective Panoramas](#depth-stereo-pano)
     - [Optical Flow Estimation](#optical-flow-estimation)
     - [Intensity-Image Reconstruction](#image-reconstruction)
     - [Video Synthesis](#video-synthesis)
@@ -421,6 +422,15 @@ Int. Conf. Computer Vision Theory and Applications (VISAPP), 2007, pp. 466-471.
 - <a name="Kogler09icvs"></a>Kogler, J., Sulzbachner, C., Kubinger, W.,  
 *[Bio-inspired stereo vision system with silicon retina imagers](https://doi.org/10.1007/978-3-642-04667-4_18)*,  
 Int. Conf. Computer Vision Systems (ICVS), 2009, pp. 174-183. [PDF](http://adose-eu.org/documents/Paper/2009_10_13-15.pdf)
+    - <a name="Kogler10scce"></a>Kogler, J., Sulzbachner, C., Eibensteiner, F., Humenberger, M.,  
+*[Address-Event Matching for a Silicon Retina based Stereoo Vision System](https://pdfs.semanticscholar.org/2a76/ebed789fdca9dc9e40dc412f6bba3cfa3ef2.pdf)*,  
+Int. Conf. from Scientific Computing to Computational Engineering (IC-SCCE), 2010.
+    - <a name="Kogler11atasc"></a>Kogler, J., Sulzbachner, C., Humenberger, M., Eibensteiner, F.,  
+*[Address-Event Based Stereo Vision with Bio-Inspired Silicon Retina Imagers](http://doi.org/10.5772/12941)*,  
+Advances in Theory and Applications of Stereo Vision (2011), pp. 165-188.
+    - <a name="Kogler11icvs"></a>Kogler, J., Humenberger, M., Sulzbachner, C.,  
+*[Event-Based Stereo Matching Approaches for Frameless Address Event Stereo Data](http://doi.org/10.1007/978-3-642-24028-7_62)*,  
+Int. Symp. Visual Computing (ISVC) 2011, Advances in Visual Computing, pp. 674-685.
 - <a name="Schraml10iscas"></a>Schraml, S., Belbachir, A. N., Milosevic, N., Schon, P.,  
 *[Dynamic stereo vision system for real-time tracking](https://doi.org/10.1109/ISCAS.2010.5537289)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2010, pp. 1409-1412.
@@ -433,15 +443,6 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF
 - <a name="Schraml10cvprw3"></a>Schraml, S., Belbachir, Braendle, N.,  
 *[Real-time classification of pedestrians and cyclists for intelligent counting of non-motorized traffic](https://doi.org/10.1109/CVPRW.2010.5543170)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF](http://www.belbachir.info/PDF/cvpr3_2010.pdf)
-- <a name="Belbachir10icdsc"></a>Belbachir, A., Pflugfelder, R., Gmeiner, P.,  
-*[A Neuromorphic Smart Camera for Real-time 360deg distortion-free Panoramas](https://doi.org/10.1145/1865987.1866022)*,  
-IEEE Conference on Distributed Smart Cameras (ICDSC), 2010. [PDF](http://www.belbachir.info/PDF/icdsc2010.pdf)
-- <a name="Kogler11atasc"></a>Kogler, J., Sulzbachner, C., Humenberger, M., Eibensteiner, F.,  
-*[Address-Event Based Stereo Vision with Bio-Inspired Silicon Retina Imagers](http://doi.org/10.5772/12941)*,  
-Advances in Theory and Applications of Stereo Vision (2011), pp. 165-188.
-- <a name="Kogler11icvs"></a>Kogler, J., Humenberger, M., Sulzbachner, C.,  
-*[Event-Based Stereo Matching Approaches for Frameless Address Event Stereo Data](http://doi.org/10.1007/978-3-642-24028-7_62)*,  
-Int. Symp. Visual Computing (ISVC) 2011, Advances in Visual Computing, pp. 674-685.
 - <a name="Belbachir11cvprw"></a>Belbachir, A.N., Schraml, S., Nowakoska, A.,  
 *[Event-Driven Stereo Vision for Fall Detection](https://doi.org/10.1109/CVPRW.2011.5981819)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2011.
@@ -457,15 +458,9 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 23(2):347-353, 2012. [PDF](https:
 - <a name="Belbachir12iscas"></a>Belbachir, A.N., Litzenberger, M., Schraml, S., Hofstätter, M., Bauer, D., Schön, P., Humenberger, M., Sulzbachner, C., Lunden, T., Merne, M.,  
 *[CARE: A dynamic stereo vision sensor system for fall detection](https://doi.org/10.1109/ISCAS.2012.6272141)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2012.
-- <a name="Humenberger12cvprw"></a>Humenberger, M., Schraml, S., Sulzbachner, C., Belbachir, A.N., Srp A., Vajda, F.,  
+    - <a name="Humenberger12cvprw"></a>Humenberger, M., Schraml, S., Sulzbachner, C., Belbachir, A.N., Srp A., Vajda, F.,  
 *[Embedded Fall Detection with a Neural Network and Bio-inspired Stereo Vision](https://doi.org/10.1109/CVPRW.2012.6238896)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2012.
-- <a name="Belbachir12iscas2"></a>Belbachir, A.N., Mayerhofer, M., Matolin, D., Colineau, J.,  
-*[Real-time 360 degrees Panoramic Views using BiCa360, the Fast Rotating Dynamic Vision Sensor to up to 10 Rotations per Sec](https://doi.org/10.1109/ISCAS.2012.6272139)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2012.
-- <a name="Belbachir12icdsc"></a>Belbachir, A.N., Mayerhofer, M., Matolin, D., Colineau, J.,  
-*[360SCAN: High-speed rotating line sensor for real-time 360 degrees panoramic vision](https://ieeexplore.ieee.org/document/6470127)*,  
-IEEE Int. Conf. Distributed Smart Cameras (ICDSC), 2012.
 - <a name="Carneiro13neunet"></a>Carneiro, J., Ieng, S.-H., Posch, C., Benosman, R.,  
 *[Event-based 3D reconstruction from neuromorphic retinas](https://doi.org/10.1016/j.neunet.2013.03.006)*,  
 Neural Networks (2013), 45:27-38. [PDF](https://www.neuromorphic-vision.com/public/publications/5/publication.pdf)
@@ -484,21 +479,12 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2014, pp. 257-260.
 - <a name="Camunas14fnins"></a>Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S. H., Benosman, R. B., Linares-Barranco, B.,  
 *[On the use of orientation filters for 3D reconstruction in event–driven stereo vision](https://doi.org/10.3389/fnins.2014.00048)*,  
 Front. Neurosci. (2014) 8:48. [PDF](https://www.neuromorphic-vision.com/public/publications/29/publication.pdf)
-- <a name="Belbachir14cvprw"></a>Belbachir, A. N., Schraml, S., Mayerhofer, M., Hofstatter, M.,  
-*[A Novel HDR Depth Camera for Real-time 3D 360-degree Panoramic Vision](https://doi.org/10.1109/CVPRW.2014.69)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2014, pp. 419-426. [PDF](http://www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W13/papers/Belbachir_A_Novel_HDR_2014_CVPR_paper.pdf)
 - <a name="Eibensteiner14cvprw"></a>Eibensteiner, F., Kogler, J., Scharinger, J.,  
 *[A High-Performance Hardware Architecture for a Frameless Stereo Vision Algorithm Implemented on a FPGA Platform](https://doi.org/10.1109/CVPRW.2014.97)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2014, pp. 637-644.
 - <a name="Kogler14jei"></a>Kogler, J., Eibensteiner, F., Humenberger, M., Sulzbachner, C., Gelautz, M., Scharinger, J.,  
 *[Enhancement of sparse silicon retina-based stereo matching using belief propagation and two-stage postfiltering](https://doi.org/10.1117/1.JEI.23.4.043011)*,  
 J. Electronic Imaging, 23(4), 043011 (2014).
-- <a name="Schraml15cvpr"></a>Schraml, S., Belbachir, A. N., Bischof, H.,  
-*[Event-Driven Stereo Matching for Real-Time 3D Panoramic Vision](https://doi.org/10.1109/CVPR.2015.7298644)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2015, pp. 466-474. [PDF](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schraml_Event-Driven_Stereo_Matching_2015_CVPR_paper.pdf). [Slides](https://www.anyline.io/wp-content/uploads/2016/03/event-driven-stereo-for-3d-360deg-panoramic-vision.pdf).
-- <a name="Schraml16tie"></a>S. Schraml, A. N. Belbachir,  Bischof, H.,  
-*[An Event-Driven Stereo System for Real-Time 3-D 360° Panoramic Vision](https://doi.org/10.1109/TIE.2015.2477265)*,  
-IEEE Trans. Ind. Electron., 63(1):418-428, 2016.
 - <a name="Firouzi16npl"></a>Firouzi, M. and Conradt, J.,  
 *[Asynchronous Event-based Cooperative Stereo Matching Using Neuromorphic Silicon Retinas](http://doi.org/10.1007/s11063-015-9434-5),*  
 Neural Processing Letters, 43(2):311-326, Apr. 2016. [PDF](https://mediatum.ub.tum.de/doc/1254531/131347.pdf)
@@ -540,7 +526,7 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2018, pp. 1-5. [Live Demo](https:/
 *[A Low Power, High Throughput, Fully Event-Based Stereo System](http://openaccess.thecvf.com/content_cvpr_2018/papers/Andreopoulos_A_Low_Power_CVPR_2018_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018.
    - [Stereo Dataset](https://ibm.ent.box.com/s/3hiq58ww1pbbjrinh367ykfdf60xsfm8).
-- <a name="Ieng18fnins"></a> Ieng, S.-H., Carneiro, J., Osswald, M., Benosman, R.,  
+- <a name="Ieng18fnins"></a>Ieng, S.-H., Carneiro, J., Osswald, M., Benosman, R.,  
 *[Neuromorphic Event-Based Generalized Time-Based Stereovision](https://doi.org/10.3389/fnins.2018.00442)*,  
 Front. Neurosci. (2018), 12:442.
 - <a name="Zhu18eccv"></a>Zhu, A., Chen, Y., Daniilidis, K.,  
@@ -565,7 +551,28 @@ European Conf. Mobile Robots (ECMR), 2019. [PDF arXiv](https://arxiv.org/pdf/190
 *[Learning an event sequence embedding for dense event-based deep stereo](https://www.idiap.ch/~fleuret/papers/tulyakov-et-al-iccv2019.pdf)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2019.
 
-
+<a name="depth-stereo-pano"></a>
+#### Multi-perspective Panoramas
+- <a name="TUCO14ait"></a>[smart eye TUCO-3D camera](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_Panoramic-Imaging-Sensor_en.pdf),  
+Stereoscopic panoramic imaging camera based on dynamic vision sensors. [PDF](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/TUCO-3D_Vision2014.pdf)
+- <a name="Belbachir10icdsc"></a>Belbachir, A., Pflugfelder, R., Gmeiner, P.,  
+*[A Neuromorphic Smart Camera for Real-time 360deg distortion-free Panoramas](https://doi.org/10.1145/1865987.1866022)*,  
+IEEE Conference on Distributed Smart Cameras (ICDSC), 2010. [PDF](http://www.belbachir.info/PDF/icdsc2010.pdf)
+- <a name="Belbachir12iscas2"></a>Belbachir, A.N., Mayerhofer, M., Matolin, D., Colineau, J.,  
+*[Real-time 360 degrees Panoramic Views using BiCa360, the Fast Rotating Dynamic Vision Sensor to up to 10 Rotations per Sec](https://doi.org/10.1109/ISCAS.2012.6272139)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2012.
+- <a name="Belbachir12icdsc"></a>Belbachir, A.N., Mayerhofer, M., Matolin, D., Colineau, J.,  
+*[360SCAN: High-speed rotating line sensor for real-time 360 degrees panoramic vision](https://ieeexplore.ieee.org/document/6470127)*,  
+IEEE Int. Conf. Distributed Smart Cameras (ICDSC), 2012.
+- <a name="Belbachir14cvprw"></a>Belbachir, A. N., Schraml, S., Mayerhofer, M., Hofstatter, M.,  
+*[A Novel HDR Depth Camera for Real-time 3D 360-degree Panoramic Vision](https://doi.org/10.1109/CVPRW.2014.69)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2014, pp. 419-426. [PDF](http://www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W13/papers/Belbachir_A_Novel_HDR_2014_CVPR_paper.pdf)
+- <a name="Schraml15cvpr"></a>Schraml, S., Belbachir, A. N., Bischof, H.,  
+*[Event-Driven Stereo Matching for Real-Time 3D Panoramic Vision](https://doi.org/10.1109/CVPR.2015.7298644)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2015, pp. 466-474. [PDF](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schraml_Event-Driven_Stereo_Matching_2015_CVPR_paper.pdf). [Slides](https://www.anyline.io/wp-content/uploads/2016/03/event-driven-stereo-for-3d-360deg-panoramic-vision.pdf).
+- <a name="Schraml16tie"></a>S. Schraml, A. N. Belbachir,  Bischof, H.,  
+*[An Event-Driven Stereo System for Real-Time 3-D 360° Panoramic Vision](https://doi.org/10.1109/TIE.2015.2477265)*,  
+IEEE Trans. Ind. Electron., 63(1):418-428, 2016.
 
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
