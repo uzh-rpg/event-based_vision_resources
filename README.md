@@ -443,12 +443,15 @@ Advances in Theory and Applications of Stereo Vision (2011), pp. 165-188.
     - <a name="Kogler11icvs"></a>Kogler, J., Humenberger, M., Sulzbachner, C.,  
 *[Event-Based Stereo Matching Approaches for Frameless Address Event Stereo Data](http://doi.org/10.1007/978-3-642-24028-7_62)*,  
 Int. Symp. Visual Computing (ISVC) 2011, Advances in Visual Computing, pp. 674-685.
-- <a name="Benosman11tnn"></a>Benosman, R., Ieng, S. H., Rogister, P., Posch, C.,  
-*[Asynchronous Event-Based Hebbian Epipolar Geometry](https://doi.org/10.1109/TNN.2011.2167239)*,  
-IEEE Trans. Neural Netw., 22(11):1723-1734, 2011. [PDF](https://www.neuromorphic-vision.com/public/publications/10/publication.pdf)
-- <a name="Rogister12tnnls"></a>Rogister, P. , Benosman, R., Ieng, S.-H., Lichtsteiner, P., Delbruck, T.,  
-*[Asynchronous Event-Based Binocular Stereo Matching](https://doi.org/10.1109/TNNLS.2011.2180025)*,  
-IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 23(2):347-353, 2012. [PDF](https://www.neuromorphic-vision.com/public/publications/16/publication.pdf)
+- <a name="Sulzbachner11cvprw"></a>Sulzbachner, C., Zinner, C., Kogler, J.,  
+*[An optimized silicon retina stereo matching algorithm using time-space correlation](https://doi.org/10.1109/CVPRW.2011.5981722)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2011. [PDF](http://encevis.de/documents/Paper/2011_06_20-25.pdf)
+    - <a name="Eibensteiner11eurocast"></a>F. Eibensteiner, J. Kogler, C. Sulzbachner, J. Scharinger.
+*[Stereo-Vision Algorithm Based on Bio-Inspired Silicon Retinas for Implementation in Hardware](https://doi.org/10.1007/978-3-642-27549-4_80)*,  
+Int. Conf. Computer Aided Systems Theory EUROCAST, LNCS, pp. 624–631, 2011.
+    - <a name="Eibensteiner14cvprw"></a>Eibensteiner, F., Kogler, J., Scharinger, J.,  
+*[A High-Performance Hardware Architecture for a Frameless Stereo Vision Algorithm Implemented on a FPGA Platform](https://doi.org/10.1109/CVPRW.2014.97)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2014, pp. 637-644.
 - <a name="Belbachir11cvprw"></a>Belbachir, A.N., Schraml, S., Nowakoska, A.,  
 *[Event-Driven Stereo Vision for Fall Detection](https://doi.org/10.1109/CVPRW.2011.5981819)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2011.
@@ -461,12 +464,18 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2012.
     - <a name="Humenberger12cvprw"></a>Humenberger, M., Schraml, S., Sulzbachner, C., Belbachir, A.N., Srp A., Vajda, F.,  
 *[Embedded Fall Detection with a Neural Network and Bio-inspired Stereo Vision](https://doi.org/10.1109/CVPRW.2012.6238896)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2012.
+- <a name="Benosman11tnn"></a>Benosman, R., Ieng, S. H., Rogister, P., Posch, C.,  
+*[Asynchronous Event-Based Hebbian Epipolar Geometry](https://doi.org/10.1109/TNN.2011.2167239)*,  
+IEEE Trans. Neural Netw., 22(11):1723-1734, 2011. [PDF](https://www.neuromorphic-vision.com/public/publications/10/publication.pdf)
+- <a name="Rogister12tnnls"></a>Rogister, P. , Benosman, R., Ieng, S.-H., Lichtsteiner, P., Delbruck, T.,  
+*[Asynchronous Event-Based Binocular Stereo Matching](https://doi.org/10.1109/TNNLS.2011.2180025)*,  
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 23(2):347-353, 2012. [PDF](https://www.neuromorphic-vision.com/public/publications/16/publication.pdf)
 - <a name="Carneiro13neunet"></a>Carneiro, J., Ieng, S.-H., Posch, C., Benosman, R.,  
 *[Event-based 3D reconstruction from neuromorphic retinas](https://doi.org/10.1016/j.neunet.2013.03.006)*,  
 Neural Networks (2013), 45:27-38. [PDF](https://www.neuromorphic-vision.com/public/publications/5/publication.pdf)
-- [Lee et. al., TNNLS 2014](#Lee14tnnls)
-- [Carneiro, Ph.D. Thesis, 2014](#Carneiro14PhD),  
+    - [Carneiro, Ph.D. Thesis, 2014](#Carneiro14PhD),  
 *Asynchronous Event-Based 3D Vision*.
+- [Lee et. al., TNNLS 2014](#Lee14tnnls)
 - <a name="Piatkowska14mst"></a>Piatkowska, E., Belbachir, A. N., Gelautz, M.,  
 *[Cooperative and asynchronous stereo vision for dynamic vision sensors](http://dx.doi.org/10.1088/0957-0233/25/5/055108)*,  
 Meas. Sci. Technol. (2014), 25(5).
@@ -476,15 +485,12 @@ IEEE Int. Conf. Computer Vision Workshops (ICCVW), 2013, pp. 45-50.
     - <a name="Piatkowska17cvprw"></a>Piatkowska, E., Kogler, J., Belbachir, A. N., Gelautz, M.,  
 *[Improved Cooperative Stereo Matching for Dynamic Vision Sensors with Ground Truth Evaluation](http://doi.org/10.1109/CVPRW.2017.51)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2017, pp. 370-377. [PDF](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Piatkowska_Improved_Cooperative_Stereo_CVPR_2017_paper.pdf).
-- <a name="Camunas14iscas"></a>Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Linares-Barranco, B., Ieng, S., Benosman, R.,  
-*[Event-Driven Stereo Vision with Orientation Filters](https://doi.org/10.1109/ISCAS.2014.6865114)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2014, pp. 257-260.
 - <a name="Camunas14fnins"></a>Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S. H., Benosman, R. B., Linares-Barranco, B.,  
 *[On the use of orientation filters for 3D reconstruction in event–driven stereo vision](https://doi.org/10.3389/fnins.2014.00048)*,  
 Front. Neurosci. (2014) 8:48. [PDF](https://www.neuromorphic-vision.com/public/publications/29/publication.pdf)
-- <a name="Eibensteiner14cvprw"></a>Eibensteiner, F., Kogler, J., Scharinger, J.,  
-*[A High-Performance Hardware Architecture for a Frameless Stereo Vision Algorithm Implemented on a FPGA Platform](https://doi.org/10.1109/CVPRW.2014.97)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2014, pp. 637-644.
+    - <a name="Camunas14iscas"></a>Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Linares-Barranco, B., Ieng, S., Benosman, R.,  
+*[Event-Driven Stereo Vision with Orientation Filters](https://doi.org/10.1109/ISCAS.2014.6865114)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2014, pp. 257-260.
 - <a name="Kogler14jei"></a>Kogler, J., Eibensteiner, F., Humenberger, M., Sulzbachner, C., Gelautz, M., Scharinger, J.,  
 *[Enhancement of sparse silicon retina-based stereo matching using belief propagation and two-stage postfiltering](https://doi.org/10.1117/1.JEI.23.4.043011)*,  
 J. Electronic Imaging, 23(4), 043011 (2014).
