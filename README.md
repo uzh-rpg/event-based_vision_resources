@@ -5,6 +5,9 @@
 - [Devices and Manufacturers](#devices)
 - [Companies working on Event-based Vision](#companies_sftwr)
 - [Neuromorphic Systems](#neuromorphic-systems)
+- [Review papers](#reviewpapers)
+    - [Bio-inpsiration](#reviewpapers-bio)
+    - [Algorithms, Applications](#reviewpapers-algs)
 
 - [Applications / Algorithms](#algorithms)
     - [Feature Detection and Tracking](#feature-detection)
@@ -120,21 +123,9 @@ Advances in neural information processing systems, 1217-1224, 2006.
 - <a name="Delbruck08issle"></a>Delbruck, T.,  
 [Frame-free dynamic digital vision](http://www.zora.uzh.ch/17620/)*,  
 Int. Symp. Secure-Life Electronics, Advanced Electronics for Quality Life and Society, University of Tokyo, Tokyo, Japan, Mar. 6-7, 2008, pp. 21-26. Introduces the software architecture of jAER and shows examples of several event-based processing algorithms.
-- <a name="Delbruck10iscas"></a>Delbruck, T.,  
-*[Activity-driven, event-based vision sensors](https://doi.org/10.1109/ISCAS.2010.5537149)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2010. [PDF](https://e-lab.github.io/data/papers/ISCAS2010actsens.pdf).
 - <a name="Liu10conb"></a>Liu, S.-C. and Delbruck, T.,  
 *[Neuromorphic sensory systems](https://doi.org/10.1016/j.conb.2010.03.007)*,  
 Current Opinion in Neurobiology, 20:3(288-295), 2010.
-- <a name="Posch12jinst"></a>Posch, C.,  
-*[Bio-inspired vision](https://doi.org/10.1088/1748-0221/7/01/C01054)*,  
-J. of Instrumentation, 7 C01054, 2012.  Bio-inspired explanation of the DVS and the ATIS. [PDF](https://www.neuromorphic-vision.com/public/publications/17/publication.pdf)
-- <a name="Posch15bicv"></a>Posch, C.,  
-*[Bioinspired vision sensing](https://doi.org/10.1002/9783527680863.ch2)*,  
-Biologically Inspired Computer Vision, Wiley-Blackwell, pp. 11-28, 2015. [book index](http://bicv.github.io/toc/index.html)
-- <a name="Delbruck12eccvw"></a>Delbruck, T.,  
-*[Fun with asynchronous vision sensors and processing](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=delbruck_funwithasynsensors_2012.pdf)*.  
-Computer Vision - ECCV 2012. Workshops and Demonstrations. Springer Berlin/Heidelberg, 2012. A position paper and summary of recent accomplishments of the INI Sensors' group.
 - <a name="ZamarrenoRamos13tbcas"></a> Zamarreño-Ramos, C., Linares-Barranco, A., Serrano-Gotarredona, T., Linares-Barranco, B.,  
 *[Multi-Casting Mesh AER: A Scalable Assembly Approach for Reconfigurable Neuromorphic Structured AER Systems. Application to ConvNets](https://doi.org/10.1109/TBCAS.2012.2195725)*,  
 IEEE Trans. Biomed. Circuits Syst., 7(1):82-102, 2013.
@@ -144,18 +135,50 @@ Wiley. ISBN: 978-1-118-92762-5, 2014.
 - <a name="Chicca14ieee"></a>Chicca, E., Stefanini, F., Bartolozzi, C., Indiveri, G.,  
 *[Neuromorphic Electronic Circuits for Building Autonomous Cognitive Systems](http://dx.doi.org/10.1109/JPROC.2014.2313954)*,  
 Proc. IEEE, 102(9):1367-1388, 2014.
-- <a name="Posch15ieee"></a>Posch, C., Benosman, R., Etienne-Cummings, R.,  
-*[How Neuromorphic Image Sensors Steal Tricks From the Human Eye](https://spectrum.ieee.org/biomedical/devices/how-neuromorphic-image-sensors-steal-tricks-from-the-human-eye)*, also published as *[Giving Machines Humanlike Eyes](https://doi.org/10.1109/MSPEC.2015.7335800)*,  
-IEEE Spectrum, 52(12):44-49, 2015. [PDF](https://www.neuromorphic-vision.com/public/publications/33/publication.pdf)
-- <a name="Delbruck16essderc"></a>Delbruck, T.,  
-*[Neuromorophic Vision Sensing and Processing (Invited paper)](https://doi.org/10.1109/ESSDERC.2016.7599576)*,  
-46th Eur. Solid-State Device Research Conference (ESSDERC), Lausanne, 2016, pp. 7-14.
 - <a name="Vanarse16fnins"></a>Vanarse, A., Osseiran, A., Rassau, A,  
 *[A Review of Current Neuromorphic Approaches for Vision, Auditory, and Olfactory Sensors](http://dx.doi.org/10.3389/fnins.2016.00115)*,  
 Front. Neurosci. (2016), 10:115.
 - <a name="Liu19msp"></a>Liu, S.-C., Rueckauer, B., Ceolini, E., Huber, A., Delbruck, T.,  
 *[Event-Driven Sensing for Efficient Perception: Vision and audition algorithms](https://doi.org/10.1109/MSP.2019.2928127)*,  
 IEEE Signal Processing Magazine, vol. 36, no. 6, pp. 29-37, 2019.
+
+<br><br>
+<a name="reviewpapers"></a>
+# Review / Overview papers
+
+<a name="reviewpapers-bio"></a>
+## Sensor designs, Bio-inpsiration
+- <a name="Delbruck10iscas"></a>Delbruck, T.,  
+*[Activity-driven, event-based vision sensors](https://doi.org/10.1109/ISCAS.2010.5537149)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2010. [PDF](https://e-lab.github.io/data/papers/ISCAS2010actsens.pdf).
+- <a name="Posch12jinst"></a>Posch, C.,  
+*[Bio-inspired vision](https://doi.org/10.1088/1748-0221/7/01/C01054)*,  
+J. of Instrumentation, 7 C01054, 2012.  Bio-inspired explanation of the DVS and the ATIS. [PDF](https://www.neuromorphic-vision.com/public/publications/17/publication.pdf)
+- Posch, C., Serrano-Gotarredona, T., Linares-Barranco, B., Delbruck, T.,  
+*[Retinomorphic Event-Based Vision Sensors: Bioinspired Cameras With Spiking Output](https://doi.org/10.1109/JPROC.2014.2346153),*  
+Proc. IEEE (2014), 102(10):1470-1484. [PDF](https://www.neuromorphic-vision.com/public/publications/21/publication.pdf)
+- <a name="Posch15bicv"></a>Posch, C.,  
+*[Bioinspired vision sensing](https://doi.org/10.1002/9783527680863.ch2)*,  
+Biologically Inspired Computer Vision, Wiley-Blackwell, pp. 11-28, 2015. [book index](http://bicv.github.io/toc/index.html)
+- <a name="Posch15ieee"></a>Posch, C., Benosman, R., Etienne-Cummings, R.,  
+*[How Neuromorphic Image Sensors Steal Tricks From the Human Eye](https://spectrum.ieee.org/biomedical/devices/how-neuromorphic-image-sensors-steal-tricks-from-the-human-eye)*, also published as *[Giving Machines Humanlike Eyes](https://doi.org/10.1109/MSPEC.2015.7335800)*,  
+IEEE Spectrum, 52(12):44-49, 2015. [PDF](https://www.neuromorphic-vision.com/public/publications/33/publication.pdf)
+
+<a name="reviewpapers-algs"></a>
+## Algorithms, Applications
+- <a name="Delbruck12eccvw"></a>Delbruck, T.,  
+*[Fun with asynchronous vision sensors and processing](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=delbruck_funwithasynsensors_2012.pdf)*.  
+Computer Vision - ECCV 2012. Workshops and Demonstrations. Springer Berlin/Heidelberg, 2012. A position paper and summary of recent accomplishments of the INI Sensors' group.
+- <a name="Delbruck16essderc"></a>Delbruck, T.,  
+*[Neuromorophic Vision Sensing and Processing (Invited paper)](https://doi.org/10.1109/ESSDERC.2016.7599576)*,  
+46th Eur. Solid-State Device Research Conference (ESSDERC), Lausanne, 2016, pp. 7-14.
+- Lakshmi, A., Chakraborty, A., Thakur, C.S.,  
+*[Neuromorphic vision: From sensors to event-based algorithms](https://doi.org/10.1002/widm.1310)*,  
+Wiley Interdiscip. Rev. Data Min. Knowl. Discov. 9(4), 2019.
+- [Steffen, L. et al., Front. Neurorobot. 2019](#Steffen19fnbot),  
+*Neuromorphic Stereo Vision: A Survey of Bio-Inspired Sensors and Algorithms*.
+- [Gallego et al. arXiv 2019](#Gallego19arxiv),  
+*[Event-based Vision: A Survey](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)*.
 
 
 <br><br>
