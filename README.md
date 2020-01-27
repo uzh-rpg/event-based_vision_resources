@@ -6,7 +6,7 @@
 - [Companies working on Event-based Vision](#companies_sftwr)
 - [Neuromorphic Systems](#neuromorphic-systems)
 - [Review papers](#reviewpapers)
-    - [Bio-inpsiration](#reviewpapers-bio)
+    - [Bio-inspiration](#reviewpapers-bio)
     - [Algorithms, Applications](#reviewpapers-algs)
 
 - [Applications / Algorithms](#algorithms)
@@ -147,7 +147,7 @@ IEEE Signal Processing Magazine, vol. 36, no. 6, pp. 29-37, 2019.
 # Review / Overview papers
 
 <a name="reviewpapers-bio"></a>
-## Sensor designs, Bio-inpsiration
+## Sensor designs, Bio-inspiration
 - <a name="Delbruck10iscas"></a>Delbruck, T.,  
 *[Activity-driven, event-based vision sensors](https://doi.org/10.1109/ISCAS.2010.5537149)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2010. [PDF](https://e-lab.github.io/data/papers/ISCAS2010actsens.pdf).
