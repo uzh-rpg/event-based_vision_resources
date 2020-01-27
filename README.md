@@ -15,7 +15,7 @@
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
         - [Monocular](#depth-mono)
         - [Stereo](#depth-stereo)
-            - [Multi-perspective Panoramas](#depth-stereo-pano)
+        - [Stereoscopic panoramic imaging](#depth-stereo-pano)
     - [Optical Flow Estimation](#optical-flow-estimation)
     - [Scene Flow Estimation](#scene-flow-estimation)
     - [Intensity-Image Reconstruction](#image-reconstruction)
@@ -113,7 +113,6 @@ Proc. IEEE (2014), 102(10):1470-1484. [PDF](https://www.neuromorphic-vision.com/
     - [UCOS Universal Counting Sensor](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_People-Counting-Sensor_en.pdf)
     - [IVS Industrial Vision Sensor](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_Industrial-Vision-Sensor_en.pdf)
 
-<br><br>
 <a name="neuromorphic-systems"></a>
 # Neuromorphic Systems
 - <a name="SerranoGotarredona99tcas"></a> Serrano-Gotarredona, T. , Andreou, A.G. , Linares-Barranco, B.,  
@@ -144,7 +143,6 @@ Front. Neurosci. (2016), 10:115.
 *[Event-Driven Sensing for Efficient Perception: Vision and audition algorithms](https://doi.org/10.1109/MSP.2019.2928127)*,  
 IEEE Signal Processing Magazine, vol. 36, no. 6, pp. 29-37, 2019.
 
-<br><br>
 <a name="reviewpapers"></a>
 # Review / Overview papers
 
@@ -183,7 +181,6 @@ Wiley Interdiscip. Rev. Data Min. Knowl. Discov. 9(4), 2019.
 *[Event-based Vision: A Survey](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)*.
 
 
-<br><br>
 <a name="algorithms"></a>
 # Algorithms
 
@@ -357,6 +354,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2016, pp. 4144-4149. 
 - <a name="Mueggler17bmvc"></a>Mueggler, E., Bartolozzi, C., Scaramuzza, D.,  
 *[Fast Event-based Corner Detection](http://rpg.ifi.uzh.ch/docs/BMVC17_Mueggler.pdf)*,  
 British Machine Vision Conf. (BMVC), 2017. [YouTube](https://youtu.be/tgvM4ELesgI), [Code](https://github.com/uzh-rpg/rpg_corner_events)
+    - <a name="Liu19cvprw"></a>Liu, H., Kao, W.-T., Delbruck, T.,  
+*[Live Demonstration: A Real-time Event-based Fast Corner Detection Demo based on FPGA](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Liu_Live_Demonstration_A_Real-Time_Event-Based_Fast_Corner_Detection_Demo_Based_CVPRW_2019_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019.
 - <a name="Alzugaray18ral"></a>Alzugaray, I., Chli, M.,  
 *[Asynchronous Corner Detection and Tracking for Event Cameras in Real Time](http://dx.doi.org/10.1109/LRA.2018.2849882)*,  
 IEEE Robotics and Automation Letters (RA-L), 3(4):3177-3184, Oct. 2018.  [PDF](https://doi.org/10.3929/ethz-b-000277131), [YouTube](https://youtu.be/bKUAZ7IQcf0), [Code](https://github.com/ialzugaray/arc_star_ros).
@@ -403,6 +403,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019
 - [Zhu et. al. CVPR 2019](#Zhu19cvpr),  
 *Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion.*
 
+<a name="depth-mono-active"></a>
 ### Monocular Depth Estimation using Structured Light
 - <a name="Brandli14fnins"></a>Brandli, C., Mantel, T.A., Hutter, M., Hoepflinger, M.A., Berner, R., Siegwart, R., Delbruck, T.,  
 *[Adaptive Pulsed Laser Line Extraction for Terrain Reconstruction using a Dynamic Vision Sensor](https://doi.org/10.3389/fnins.2013.00275)*,  
@@ -565,8 +566,9 @@ European Conf. Mobile Robots (ECMR), 2019. [PDF arXiv](https://arxiv.org/pdf/190
 *[Learning an event sequence embedding for dense event-based deep stereo](https://www.idiap.ch/~fleuret/papers/tulyakov-et-al-iccv2019.pdf)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2019.
 
+
 <a name="depth-stereo-pano"></a>
-#### Multi-perspective Panoramas
+### Stereoscopic Panoramic Imaging
 - <a name="TUCO14ait"></a>[smart eye TUCO-3D camera](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_Panoramic-Imaging-Sensor_en.pdf),  
 Stereoscopic panoramic imaging camera based on dynamic vision sensors. [PDF](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/TUCO-3D_Vision2014.pdf)
 - <a name="Belbachir10icdsc"></a>Belbachir, A. N., Pflugfelder, R., Gmeiner, P.,  
@@ -587,6 +589,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2015, pp. 466-474. [P
 - <a name="Schraml16tie"></a>Schraml, S., Belbachir, A. N., Bischof, H.,  
 *[An Event-Driven Stereo System for Real-Time 3-D 360° Panoramic Vision](https://doi.org/10.1109/TIE.2015.2477265)*,  
 IEEE Trans. Ind. Electron., 63(1):418-428, 2016.
+
 
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
@@ -725,6 +728,8 @@ Int. Joint Conf. on Neural Networks (IJCNN), San Jose, CA, 2011, pp. 770-776. [P
     - <a name="Martel15iscas"></a>Martel, J. N. P., Chau, M., Dudek, P., Cook, M.,  
     *[Toward joint approximate inference of visual quantities on cellular processor arrays](https://doi.org/10.1109/ISCAS.2015.7169083)*,  
     IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 2061-2064.
+- [Belbachir et al. CVPRW 2014](#Belbachir14cvprw),  
+*A Novel HDR Depth Camera for Real-time 3D 360-degree Panoramic Vision*.
 - <a name="Kim14bmvc"></a>Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A. J.,  
 *[Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/)*, 
 British Machine Vision Conf. (BMVC), 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU).
