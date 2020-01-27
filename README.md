@@ -433,20 +433,20 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF](http://www.belbachir.info/PDF/cvpr3_2010.pdf)
 - <a name="Kogler09icvs"></a>Kogler, J., Sulzbachner, C., Kubinger, W.,  
 *[Bio-inspired stereo vision system with silicon retina imagers](https://doi.org/10.1007/978-3-642-04667-4_18)*,  
-Int. Conf. Computer Vision Systems (ICVS), 2009, pp. 174-183. [PDF](http://adose-eu.org/documents/Paper/2009_10_13-15.pdf)
-    - <a name="Kogler10scce"></a>Kogler, J., Sulzbachner, C., Eibensteiner, F., Humenberger, M.,  
-*[Address-Event Matching for a Silicon Retina based Stereoo Vision System](https://pdfs.semanticscholar.org/2a76/ebed789fdca9dc9e40dc412f6bba3cfa3ef2.pdf)*,  
-Int. Conf. from Scientific Computing to Computational Engineering (IC-SCCE), 2010.
-    - <a name="Kogler11atasc"></a>Kogler, J., Sulzbachner, C., Humenberger, M., Eibensteiner, F.,  
-*[Address-Event Based Stereo Vision with Bio-Inspired Silicon Retina Imagers](http://doi.org/10.5772/12941)*,  
-Advances in Theory and Applications of Stereo Vision (2011), pp. 165-188.
+Int. Conf. Computer Vision Systems (ICVS), 2009.
     - <a name="Kogler11icvs"></a>Kogler, J., Humenberger, M., Sulzbachner, C.,  
 *[Event-Based Stereo Matching Approaches for Frameless Address Event Stereo Data](http://doi.org/10.1007/978-3-642-24028-7_62)*,  
 Int. Symp. Visual Computing (ISVC) 2011, Advances in Visual Computing, pp. 674-685.
-- <a name="Sulzbachner11cvprw"></a>Sulzbachner, C., Zinner, C., Kogler, J.,  
+    - <a name="Kogler11atasc"></a>Kogler, J., Sulzbachner, C., Humenberger, M., Eibensteiner, F.,  
+*[Address-Event Based Stereo Vision with Bio-Inspired Silicon Retina Imagers](http://doi.org/10.5772/12941)*,  
+Advances in Theory and Applications of Stereo Vision (2011), pp. 165-188.
+- <a name="Kogler10scce"></a>Kogler, J., Sulzbachner, C., Eibensteiner, F., Humenberger, M.,  
+*[Address-Event Matching for a Silicon Retina based Stereoo Vision System](https://pdfs.semanticscholar.org/2a76/ebed789fdca9dc9e40dc412f6bba3cfa3ef2.pdf)*,  
+Int. Conf. from Scientific Computing to Computational Engineering (IC-SCCE), 2010.
+    - <a name="Sulzbachner11cvprw"></a>Sulzbachner, C., Zinner, C., Kogler, J.,  
 *[An optimized silicon retina stereo matching algorithm using time-space correlation](https://doi.org/10.1109/CVPRW.2011.5981722)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2011. [PDF](http://encevis.de/documents/Paper/2011_06_20-25.pdf)
-    - <a name="Eibensteiner11eurocast"></a>F. Eibensteiner, J. Kogler, C. Sulzbachner, J. Scharinger.
+    - <a name="Eibensteiner11eurocast"></a>Eibensteiner, F., Kogler, J., Sulzbachner, C., Scharinger, J.,  
 *[Stereo-Vision Algorithm Based on Bio-Inspired Silicon Retinas for Implementation in Hardware](https://doi.org/10.1007/978-3-642-27549-4_80)*,  
 Int. Conf. Computer Aided Systems Theory EUROCAST, LNCS, pp. 624–631, 2011.
     - <a name="Eibensteiner14cvprw"></a>Eibensteiner, F., Kogler, J., Scharinger, J.,  
