@@ -15,8 +15,9 @@
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
         - [Monocular](#depth-mono)
         - [Stereo](#depth-stereo)
-                - [Multi-perspective Panoramas](#depth-stereo-pano)
+            - [Multi-perspective Panoramas](#depth-stereo-pano)
     - [Optical Flow Estimation](#optical-flow-estimation)
+    - [Scene Flow Estimation](#scene-flow-estimation)
     - [Intensity-Image Reconstruction](#image-reconstruction)
     - [Video Synthesis](#video-synthesis)
     - [Super-resolution](#super-resolution)
@@ -440,9 +441,14 @@ Int. Symp. Visual Computing (ISVC) 2011, Advances in Visual Computing, pp. 674-6
     - <a name="Kogler11atasc"></a>Kogler, J., Sulzbachner, C., Humenberger, M., Eibensteiner, F.,  
 *[Address-Event Based Stereo Vision with Bio-Inspired Silicon Retina Imagers](http://doi.org/10.5772/12941)*,  
 Advances in Theory and Applications of Stereo Vision (2011), pp. 165-188.
+    - [Kogler, J., Ph.D. Thesis 2016](#Kogler16PhD),  
+*Design and evaluation of stereo matching techniques for silicon retina cameras*.
 - <a name="Kogler10scce"></a>Kogler, J., Sulzbachner, C., Eibensteiner, F., Humenberger, M.,  
 *[Address-Event Matching for a Silicon Retina based Stereoo Vision System](https://pdfs.semanticscholar.org/2a76/ebed789fdca9dc9e40dc412f6bba3cfa3ef2.pdf)*,  
 Int. Conf. from Scientific Computing to Computational Engineering (IC-SCCE), 2010.
+    - <a name="Sulzbachner10elmar"></a>Sulzbachner, C., Kogler, J., Eibensteiner, F.,  
+*[A novel verification approach for silicon retina stereo matching](https://ieeexplore.ieee.org/abstract/document/5606120)*,  
+IEEE Int. Symp. Electronics in Marine (ELMAR), 2010.
     - <a name="Sulzbachner11cvprw"></a>Sulzbachner, C., Zinner, C., Kogler, J.,  
 *[An optimized silicon retina stereo matching algorithm using time-space correlation](https://doi.org/10.1109/CVPRW.2011.5981722)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2011. [PDF](http://encevis.de/documents/Paper/2011_06_20-25.pdf)
@@ -451,7 +457,10 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2011. [PDF
 Int. Conf. Computer Aided Systems Theory EUROCAST, LNCS, pp. 624–631, 2011.
     - <a name="Eibensteiner14cvprw"></a>Eibensteiner, F., Kogler, J., Scharinger, J.,  
 *[A High-Performance Hardware Architecture for a Frameless Stereo Vision Algorithm Implemented on a FPGA Platform](https://doi.org/10.1109/CVPRW.2014.97)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2014, pp. 637-644.
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2014. [PDF](http://openaccess.thecvf.com/content_cvpr_workshops_2014/W17/papers/Eibensteiner_A_High-Performance_Hardware_2014_CVPR_paper.pdf)
+    - <a name="Eibensteiner17radio"></a>Eibensteiner, F., Brachtendorf, H. G., Scharinger, J.,  
+*[Event-driven stereo vision algorithm based on silicon retina sensors](http://doi.org/10.1109/RADIOELEK.2017.7937602)*,  
+27th Int. Conf. Radioelektronika, 2017.
 - <a name="Belbachir11cvprw"></a>Belbachir, A.N., Schraml, S., Nowakoska, A.,  
 *[Event-Driven Stereo Vision for Fall Detection](https://doi.org/10.1109/CVPRW.2011.5981819)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2011.
@@ -494,9 +503,17 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2014, pp. 257-260.
 - <a name="Kogler14jei"></a>Kogler, J., Eibensteiner, F., Humenberger, M., Sulzbachner, C., Gelautz, M., Scharinger, J.,  
 *[Enhancement of sparse silicon retina-based stereo matching using belief propagation and two-stage postfiltering](https://doi.org/10.1117/1.JEI.23.4.043011)*,  
 J. Electronic Imaging, 23(4), 043011 (2014).
+    - [Kogler, J., Ph.D. Thesis 2016](#Kogler16PhD),  
+*Design and evaluation of stereo matching techniques for silicon retina cameras*.
 - <a name="Firouzi16npl"></a>Firouzi, M. and Conradt, J.,  
 *[Asynchronous Event-based Cooperative Stereo Matching Using Neuromorphic Silicon Retinas](http://doi.org/10.1007/s11063-015-9434-5),*  
 Neural Processing Letters, 43(2):311-326, Apr. 2016. [PDF](https://mediatum.ub.tum.de/doc/1254531/131347.pdf)
+    - <a name="Dikov17lmlncs"></a>Dikov, G., Firouzi, M., Röhrbein, F., Conradt, J., Richter, C.,  
+*[Spiking Cooperative Stereo-Matching at 2 ms Latency with Neuromorphic Hardware](https://doi.org/10.1007/978-3-319-63537-8_11)*,  
+Conf. Biomimetic and Biohybrid Systems. Living Machines 2017: Biomimetic and Biohybrid Systems, pp. 119-137. Lecture Notes in Computer Science, vol 10384. Springer, Cham.  [PDF](https://www.researchgate.net/publication/318449954_Spiking_Cooperative_Stereo-Matching_at_2_ms_Latency_with_Neuromorphic_Hardware),  [Videos](https://figshare.com/s/0d9fb146149b832ed8ec)
+    - <a name="Kaiser18icann"></a>Kaiser, J., Weinland, J., Keller, P., Steffen, L., Vasquez Tieck, J.C., Reichard, D., Roennau, A., Conradt, J., Dillmann, R.,  
+*[Microsaccades for Neuromorphic Stereo Vision](https://doi.org/10.1007/978-3-030-01418-6_24)*,  
+Int. Conf. Artificial Neural Networks (ICANN), 2018.
 - <a name="Zou16icip"></a>Zou, D., Guo, P., Wang, Q., Wang, X., Shao, G., Shi, F., Li, J., Park, P.K.J.,  
 *[Context-Aware Event-driven Stereo Matching](https://doi.org/10.1109/ICIP.2016.7532523)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2016.
@@ -507,12 +524,6 @@ IEEE Int. Conf. Image Processing (ICIP), 2016.
 - <a name="Osswald17srep"></a>Osswald, M., Ieng, S.-H., Benosman, R., Indiveri, G.,  
 *[A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems](http://doi.org/10.1038/srep40703)*,  
 Scientific Reports 7, Article number: 40703 (2017). [PDF](https://www.neuromorphic-vision.com/public/publications/44/publication.pdf)
-- <a name="Dikov17lmlncs"></a>Dikov, G., Firouzi, M., Röhrbein, F., Conradt, J., Richter, C.,  
-*[Spiking Cooperative Stereo-Matching at 2 ms Latency with Neuromorphic Hardware](https://doi.org/10.1007/978-3-319-63537-8_11)*,  
-Conf. Biomimetic and Biohybrid Systems. Living Machines 2017: Biomimetic and Biohybrid Systems, pp. 119-137. Lecture Notes in Computer Science, vol 10384. Springer, Cham.  [PDF](https://www.researchgate.net/publication/318449954_Spiking_Cooperative_Stereo-Matching_at_2_ms_Latency_with_Neuromorphic_Hardware),  [Videos](https://figshare.com/s/0d9fb146149b832ed8ec)
-- <a name="Eibensteiner17radio"></a>Eibensteiner, F., Brachtendorf, H. G., Scharinger, J.,  
-*[Event-driven stereo vision algorithm based on silicon retina sensors](http://doi.org/10.1109/RADIOELEK.2017.7937602)*,  
-27th Int. Conf. Radioelektronika, Brno, 2017, pp. 1-6.
 - <a name="Zou17bmvc"></a>Zou, D., Shi, F., Liu, W., Li, J., Wang, Q., Park, P.K.J., Shi, C.-W., Roh, Y.J., Ryu, H.,  
 *[Robust Dense Depth Map Estimation from Sparse DVS Stereos](https://www.dropbox.com/s/ee6dn8zy4odpfwl/0096.pdf?dl=1)*,  
 British Machine Vision Conf. (BMVC), 2017. [Supp. Material](https://www.dropbox.com/s/eztqo109iue6ned/Active%20Papers%20Paper%2096%20%20Supplementary%20File.zip?dl=1).
@@ -522,16 +533,13 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2017.
 - <a name="Xie17fnins"></a>Xie, Z., Chen, S., Orchard, G.  
 *[Event-Based Stereo Depth Estimation Using Belief Propagation](https://doi.org/10.3389/fnins.2017.00535)*,  
 Front. Neurosci. (2017), 11:535.  [YouTube](https://youtu.be/ngJpY1lcbdw)
-- <a name="Kaiser18icann"></a>Kaiser, J., Weinland, J., Keller, P., Steffen, L., Vasquez Tieck, J.C., Reichard, D., Roennau, A., Conradt, J., Dillmann, R.,  
-*[Microsaccades for Neuromorphic Stereo Vision](https://doi.org/10.1007/978-3-030-01418-6_24)*,  
-Int. Conf. Artificial Neural Networks (ICANN), 2018.
 - <a name="Martel18iscas"></a>Martel, J. N.; Mueller, J.; Conradt, J., Sandamirskaya, Y.,  
 *[An Active Approach to Solving the Stereo Matching Problem using Event-Based Sensors](http://dx.doi.org/10.1109/ISCAS.2018.8351411)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2018, pp. 1-5. [Live Demo](https://doi.org/10.1109/ISCAS.2018.8351861)
 - <a name="Andreopoulos18cvpr"></a>Andreopoulos, A., Kashyap, H.J., Nayak, T.K., Amir, A., Flickner, M.D.,  
 *[A Low Power, High Throughput, Fully Event-Based Stereo System](http://openaccess.thecvf.com/content_cvpr_2018/papers/Andreopoulos_A_Low_Power_CVPR_2018_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018.
-   - [Stereo Dataset](https://ibm.ent.box.com/s/3hiq58ww1pbbjrinh367ykfdf60xsfm8).
+    - [Stereo Dataset](https://ibm.ent.box.com/s/3hiq58ww1pbbjrinh367ykfdf60xsfm8).
 - <a name="Ieng18fnins"></a>Ieng, S.-H., Carneiro, J., Osswald, M., Benosman, R.,  
 *[Neuromorphic Event-Based Generalized Time-Based Stereovision](https://doi.org/10.3389/fnins.2018.00442)*,  
 Front. Neurosci. (2018), 12:442.
@@ -637,7 +645,7 @@ Tech. Rep. TU Munich, 2015.
 IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2015.
 - <a name="Giulioni16fnins"></a>Giulioni, M., Lagorce, X., Galluppi, F., Benosman, R.,  
 *[Event-Based Computation of Motion Flow on a Neuromorphic Analog Neural Platform](https://doi.org/10.3389/fnins.2016.00035)*,  
-Front. Neurosci. 10:35. [PDF](https://www.neuromorphic-vision.com/public/publications/46/publication.pdf)
+Front. Neurosci. (2016), 10:35. [PDF](https://www.neuromorphic-vision.com/public/publications/46/publication.pdf)
 - <a name="Rueckauer16fnins"></a>Rueckauer, B. and Delbruck, T.,  
 *[Evaluation of Event-Based Algorithms for Optical Flow with Ground-Truth from Inertial Measurement Sensor](https://doi.org/10.3389/fnins.2016.00176),*  
 Front. Neurosci. (2016), 10:176.
@@ -666,6 +674,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
 Robotics: Science and Systems XIV (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE), [Code](https://github.com/daniilidis-group/EV-FlowNet)
+    - [Gehrig et. al. ICCV 2019](#Gehrig19iccv),  
+*End-to-End Learning of Representations for Asynchronous Event-Based Data*.
 - <a name="Liu18bmvc"></a>Liu, M., Delbruck, T.,  
 *[Adaptive Time-Slice Block-Matching Optical Flow Algorithm for Dynamic Vision Sensors](http://bmvc2018.org/contents/papers/0280.pdf)*,  
 British Machine Vision Conf. (BMVC), 2018. [Supplementary material](https://docs.google.com/document/d/10X0z4zznuV9j1OOjWpJGv-YCWujkF7FiYjG6efwUrP0/edit), [Video](https://youtu.be/fGJ8jyqziBI)
@@ -687,14 +697,21 @@ IEEE Trans. Pattern Anal. Mach. Intell (TPAMI), 2019. [PDF](https://arxiv.org/ab
 - <a name="Zhu19cvpr"></a>Zhu, A. Z., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1812.08156), [YouTube](https://youtu.be/aDzFSG4yV0M)
-- [Gehrig et. al. ICCV 2019](#Gehrig19iccv),  
-*End-to-End Learning of Representations for Asynchronous Event-Based Data*.
 - <a name="Khoei19neco"></a>Khoei, M.A., Benosman, R.,  
 *[Asynchronous Event-Based Motion Processing: From Visual Events to Probabilistic Sensory Representation](https://doi.org/10.1162/neco_a_01191)*,  
 Neural Computation (2019), 31(6):1114-1138. [PDF](https://www.neuromorphic-vision.com/public/publications/56/publication.pdf)
 - <a name="Almatrafi19davis"></a>Almatrafi, M. M.,  Hirakawa, K.,  
 *[DAViS Camera Optical Flow](http://doi.org/10.1109/TCI.2019.2948787)*,  
 IEEE Trans. Comput. Imag. (TCI), 2019.
+
+
+<a name="scene-flow-estimation"></a>
+## Scene Flow Estimation
+- <a name="Ieng17fnins"></a>Ieng, S.-H., Carneiro, J., Benosman, R.,  
+*[Event-Based 3D Motion Flow Estimation Using 4D Spatio Temporal Subspaces Properties](https://doi.org/10.3389/fnins.2016.00596)*
+Front. Neurosci. (2017), 10:596.
+    - [Carneiro, Ph.D. Thesis, 2014](#Carneiro14PhD),  
+*Asynchronous Event-Based 3D Vision - Chapter 3*.
 
 
 <a name="image-reconstruction"></a>
@@ -1579,6 +1596,9 @@ Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2015. [PDF](https://www.research-
 - <a name="Lagorce15PhD"></a>Lagorce, X.,  
 *[Computational methods for event-based signals and applications](https://tel.archives-ouvertes.fr/tel-01592392)*,  
 Ph.D. Thesis, Université de Pierre et Marie Curie, Paris, France, 2015. [PDF](https://tel.archives-ouvertes.fr/tel-01592392v2/document)
+- <a name="Kogler16PhD"></a>Kogler, J.,  
+*[Design and evaluation of stereo matching techniques for silicon retina cameras](https://resolver.obvsg.at/urn:nbn:at:at-ubtuw:1-2178)*,  
+Ph.D. Thesis, Technische Universität Wien, Vienna, Austria, 2016. [PDF](http://repositum.tuwien.ac.at/obvutwhs/download/pdf/1310930?originalFilename=true)
 - <a name="Moeys16PhD"></a>Moeys, D. P.,  
 *[Analog and digital implementations of retinal processing for robot navigation systems](https://doi.org/10.3929/ethz-a-010897825)*,  
 Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2016. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/156363/eth-50898-02.pdf?sequence=2&isAllowed=y)
