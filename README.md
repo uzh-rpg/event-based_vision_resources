@@ -649,7 +649,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019
 Front. Neurosci. (2014) 7:275. [PDF](http://www.zora.uzh.ch/107736/1/fnins-07-00275.pdf), [YouTube](https://youtu.be/20OGD5Wwe9Q)
 - <a name="Matsuda15iccp"></a>Matsuda, N., Cossairt, O., Gupta, M.,  
 *[MC3D: Motion Contrast 3D Scanning](https://doi.org/10.1109/ICCPHOT.2015.7168370)*,  
-IEEE Conf. Computational Photography (ICCP), Houston,TX, 2015, pp. 1-10. [PDF](http://compphotolab.northwestern.edu/wordpress/wp-content/uploads/2015/04/dvs_031.pdf), [YouTube](https://youtu.be/m7qOEsTyVwU), [Project page](http://compphotolab.northwestern.edu/project/mc3d-motion-contrast-3d-laser-scanner/)
+IEEE Conf. Computational Photography (ICCP), 2015. [PDF](http://compphotolab.northwestern.edu/wordpress/wp-content/uploads/2015/04/dvs_031.pdf), [YouTube](https://youtu.be/m7qOEsTyVwU), [Project page](http://compphotolab.northwestern.edu/project/mc3d-motion-contrast-3d-laser-scanner/)
 - <a name="Leroux18arxiv"></a>Leroux, T., Ieng, S.-H., Benosman, R.,  
 *[Event-Based Structured Light for Depth Reconstruction using Frequency Tagged Light Patterns](https://arxiv.org/pdf/1811.10771)*,  
 arXiv:1811.10771, 2018.
@@ -1258,7 +1258,7 @@ Front. Neurosci. (2013), 7:223. [PDF](http://www.zora.uzh.ch/107801/1/fnins-07-0
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2007.
 - <a name="Conradt09iscas"></a>Conradt, J., Cook, M., Berner, R., Lichtsteiner, P., Douglas, R. J., Delbruck, T.,  
 *[A Pencil Balancing Robot Using a Pair of AER Dynamic Vision Sensors](https://doi.org/10.1109/ISCAS.2009.5117867)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS) 2009, pp. 781-784. [PDF](https://www.ini.uzh.ch/~conradt/publications/ISCAS2009-JConradt.pdf), [Poster](https://www.ini.uzh.ch/~conradt/publications/NIPS2008-JConradt.pdf), [Project page](https://www.ini.uzh.ch/~conradt/projects/PencilBalancer/), [YouTube 1](https://youtu.be/XVR5wEYkEGk), [YouTube 2](https://youtu.be/f9UngTdngY4), [YouTube 3](https://youtu.be/yCOnDc5r7p8)
+IEEE Int. Symp. Circuits and Systems (ISCAS) 2009. [PDF](https://www.ini.uzh.ch/~conradt/publications/ISCAS2009-JConradt.pdf), [Poster](https://www.ini.uzh.ch/~conradt/publications/NIPS2008-JConradt.pdf), [Project page](https://www.ini.uzh.ch/~conradt/projects/PencilBalancer/), [YouTube 1](https://youtu.be/XVR5wEYkEGk), [YouTube 2](https://youtu.be/f9UngTdngY4), [YouTube 3](https://youtu.be/yCOnDc5r7p8)
     - <a name="Conradt09iccvw"></a>Conradt, J., Berner, R., Cook, M., Delbruck, T.,  
 *[An embedded AER dynamic vision sensor for low-latency pole balancing](https://doi.org/10.1109/ICCVW.2009.5457625)*,  
 IEEE Int. Conf. Computer Vision Workshops (ICCVW), 2009. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=42580)
@@ -1267,20 +1267,20 @@ IEEE Int. Conf. Computer Vision Workshops (ICCVW), 2009. [PDF](http://www.ini.uz
 IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2015.
 - <a name="Censi15acc"></a>Censi, A.,  
 *[Efficient Neuromorphic Optomotor Heading Regulation](https://doi.org/10.1109/ACC.2015.7171931)*,  
-American Control Conference (ACC), 2015, pp. 3854-3861.
+American Control Conference (ACC), 2015.
 - <a name="Mueggler15ecmr"></a>Mueggler, E., Baumli, N., Fontana, F., Scaramuzza, D.,  
 *[Towards Evasive Maneuvers with Quadrotors using Dynamic Vision Sensors](https://doi.org/10.1109/ECMR.2015.7324048)*,  
 Eur. Conf. Mobile Robots (ECMR), Lincoln, 2015. [PDF](http://rpg.ifi.uzh.ch/docs/ECMR15_Mueggler.pdf)
 - <a name="Delbruck15iscas"></a>Delbruck, T., Pfeiffer, M., Juston, R., Orchard, G., Mueggler, E., Linares-Barranco, A., Tilden, M. W.,  
 *[Human vs. computer slot car racing using an event and frame-based DAVIS vision sensor](https://doi.org/10.1109/ISCAS.2015.7169170)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 2409-2412. [YouTube 1](https://youtu.be/CnGPGiZuFRI), [YouTube 2](https://youtu.be/ALneVn-Ls2Q)
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2015. [YouTube 1](https://youtu.be/CnGPGiZuFRI), [YouTube 2](https://youtu.be/ALneVn-Ls2Q)
 - <a name="Mueller15cdc"></a>Mueller, E., Censi, A., Frazzoli, E.,  
 *[Low-latency heading feedback control with neuromorphic vision sensors using efficient approximated incremental inference](https://doi.org/10.1109/CDC.2015.7402002)*,  
 IEEE Conf. Decision and Control (CDC), 2015.
 - [Moeys et. al. EBCCSP 2016](#Moeys16ebccsp).  *VISUALISE Predator/Prey Dataset*.
 - <a name="Vasco16humanoids"></a>Vasco, V., Glover, A., Tirupachuri, Y., Solari, F., Chessa M., Bartolozzi C.,  
 *[Vergence control with a neuromorphic iCub](https://doi.org/10.1109/HUMANOIDS.2016.7803355)*,  
-IEEE Int. Conf. Humanoid Robotics (Humanoids), 2016, pp. 732-738.
+IEEE Int. Conf. Humanoid Robotics (Humanoids), 2016.
 - <a name="Singh16cdc"></a>Singh, P., Yong, S. Z., Gregoire, J., Censi, A., Frazzoli, E.,  
 *[Stabilization of linear continuous-time systems using neuromorphic vision sensors](https://doi.org/10.1109/CDC.2016.7798722)*,  
 IEEE Conf. Decision and Control (CDC), 2016.
@@ -1374,10 +1374,10 @@ British Machine Vision Conf. (BMVC), 2019. [PDF](https://arxiv.org/pdf/1907.0746
 ## Emulators and Simulators
 - <a name="Katz12iscas"></a>Katz, M. L., Nikolic, K., Delbruck, T. (2012),  
 *[Live demonstration: Behavioural emulation of event-based vision sensors](https://doi.org/10.1109/ISCAS.2012.6272143)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2012, pp. 736-740. [PDF](https://drive.google.com/open?id=1asyMIQIAtsl3_KqgfPuZagr_gjKZhbYm)
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2012. [PDF](https://drive.google.com/open?id=1asyMIQIAtsl3_KqgfPuZagr_gjKZhbYm)
 - <a name="kaiser2016towards"></a>Kaiser, J., Tieck, J. C. V., Hubschneider, C., Wolf, P., Weber, M., Hoff, M., Friedrich., A., Wojtasik, K., Roennau, A., Kohlhaas, R., Dillmann, R., Zoellner, M. (2016),  
 *[Towards a framework for end-to-end control of a simulated vehicle with spiking neural networks](https://doi.org/10.1109/SIMPAR.2016.7862386)*,  
-IEEE Int. Conf. on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), 2016, pp. 127-134. [PDF](https://www.researchgate.net/profile/Jacques_Kaiser/publication/309558315_Towards_a_framework_for_end-to-end_control_of_a_simulated_vehicle_with_spiking_neural_networks/links/5bb568b192851ca9ed379dc3/Towards-a-framework-for-end-to-end-control-of-a-simulated-vehicle-with-spiking-neural-networks.pdf), [Gazebo DVS plugin](https://github.com/HBPNeurorobotics/gazebo_dvs_plugin)
+IEEE Int. Conf. on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), 2016. [PDF](https://www.researchgate.net/profile/Jacques_Kaiser/publication/309558315_Towards_a_framework_for_end-to-end_control_of_a_simulated_vehicle_with_spiking_neural_networks/links/5bb568b192851ca9ed379dc3/Towards-a-framework-for-end-to-end-control-of-a-simulated-vehicle-with-spiking-neural-networks.pdf), [Gazebo DVS plugin](https://github.com/HBPNeurorobotics/gazebo_dvs_plugin)
 - E. Mueggler, H. Rebecq, G. Gallego, T. Delbruck, D. Scaramuzza,  
 *[The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM](http://rpg.ifi.uzh.ch/davis_data.html),*  
 Int. J. Robotics Research, 36:2, pp. 142-149, 2017. [PDF](https://arxiv.org/pdf/1610.08336.pdf), [PDF IJRR](http://dx.doi.org/10.1177/0278364917691115), [YouTube](https://youtu.be/bVVBTQ7l36I), [Dataset](http://rpg.ifi.uzh.ch/davis_data.html).
@@ -1446,7 +1446,7 @@ IEEE Int. Conf. Robotics and Automation (ICRA) Workshop: Dataset Generation and 
 *EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras*
 
 ### Segmentation
-- [Mitrokhin et. al. IROS 2018](#Mitrokhin18iros) *Event-based Moving Object Detection and Tracking*. [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
+- [Mitrokhin et. al. IROS 2018](#Mitrokhin18iros), Extreme Event Dataset (EED). [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
 - <a name="Mitrokhin19iros"></a>Mitrokhin, A., Ye, C., Fermüller, C., Aloimonos, Y., Delbrück, T.,  
 *[EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](https://arxiv.org/abs/1903.07520)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019. [PDF](https://arxiv.org/pdf/1903.07520.pdf), [Dataset](https://better-flow.github.io/evimo), [Project page](http://prg.cs.umd.edu/EV-IMO.html)
@@ -1473,7 +1473,7 @@ Front. Neurosci. (2016), 10:496. [Dataset](https://github.com/qian-liu/benchmark
 - <a name="dvsgesture_dataset"></a>[DVS128 Gesture Dataset](http://research.ibm.com/dvsgesture/): The dataset that was used to build the real-time gesture recognition system described in [Amir et al. CVPR 2017](#Amir17cvpr).
 - <a name="ncars_dataset"></a>[N-CARS Dataset](http://www.prophesee.ai/dataset-n-cars/): A large real-world event-based dataset for car classification.     [Sironi et al. CVPR 2018](#Sironi18cvpr).
 - [Mitrokhin et. al. IROS 2018](#Mitrokhin18iros) *Event-based Moving Object Detection and Tracking*. [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
-- <a name="atisplanesdataset"></a>[ATIS Plane Dataset](https://www.westernsydney.edu.au/bens/home/reproducible_research/atis_planes), assocated to the paper *[Afshar et al., Front. Neurosci. 2018](#Afshar18fnins)*    
+- <a name="atisplanesdataset"></a>[ATIS Plane Dataset](https://www.westernsydney.edu.au/bens/home/reproducible_research/atis_planes), assocated to the paper [Afshar et al., Front. Neurosci. 2018](#Afshar18fnins).    
 - <a name="Cheng19cvprw"></a>Cheng, W., Luo, H., Yang, W., Yu, L., Chen, S., Li, W.,  
 *[DET: A High-resolution DVS Dataset for Lane Extraction](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Cheng_DET_A_High-Resolution_DVS_Dataset_for_Lane_Extraction_CVPRW_2019_paper.pdf),*  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Project page](https://spritea.github.io/DET/).
@@ -1513,8 +1513,7 @@ arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset
 - <a name="Song18wrcsara"></a>Song, R., Jiang, Z., Li, Y., Shan, Y., Huang, K.,  
 *[Calibration of Event-based Camera and 3D LiDAR](https://doi.org/10.1109/WRC-SARA.2018.8584215)*,  
 WRC Symposium on Advanced Robotics and Automation (WRC SARA), 2018.
-- <a name="DominguezMorales19access"></a>
-Dominguez-Morales, M. J., Jimenez-Fernandez, A., Jimenez-Moreno, G., Conde, C., Cabello, E., Linares-Barranco, A.,  
+- <a name="DominguezMorales19access"></a>Dominguez-Morales, M. J., Jimenez-Fernandez, A., Jimenez-Moreno, G., Conde, C., Cabello, E., Linares-Barranco, A.,  
 *[Bio-Inspired Stereo Vision Calibration for Dynamic Vision Sensors](https://doi.org/10.1109/ACCESS.2019.2943160)*,  
 IEEE Access, vol. 7, pp. 138415-138425, 2019.
 
@@ -1535,7 +1534,7 @@ IEEE Access, vol. 7, pp. 138415-138425, 2019.
     - [Evaluation code](https://github.com/uzh-rpg/rpg_feature_tracking_analysis) associated to the paper [Gehrig et al. IJCV 2019]("#Gehrig19ijcv)".
 - **Intensity-Image reconstruction from events**
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events), inspired by the paper [Kim et. al. BMVC 2014](#Kim14bmvc).
-    - [DVS reconstruction code](https://github.com/VLOGroup/dvs-reconstruction) associated to the paper [Reinbacher et. al. BMVC 2016](#Reinbacher16bmvc).
+    - [DVS Reconstruction code](https://github.com/VLOGroup/dvs-reconstruction) associated to the paper [Reinbacher et. al. BMVC 2016](#Reinbacher16bmvc).
     - [High-pass filter code](https://github.com/cedric-scheerlinck/dvs_image_reconstruction) associated to the paper [Scheerlinck et al. ACCV 2018](#Scheerlinck18accv)
     - [E2VID code](https://github.com/uzh-rpg/rpg_e2vid) associated to the paper [Rebecq et al. TPAMI 2020](#Rebecq20tpami).
 - **Localization and Ego-Motion Estimation**
@@ -1617,8 +1616,7 @@ Int. Conf. Computer Supported Education (CSEDU), SCITEPRESS Digital Library, (20
 ## Dissertations
 - <a name="Mahowald92PhD"></a>Mahowald, M.,  
 *[VLSI Analogs of Neuronal Visual Processing: A Synthesis of Form and Function](http://resolver.caltech.edu/CaltechTHESIS:09122011-094355148)*,  
-Ph.D. thesis, California Inst. Of Technology, Pasadena, CA, 1992. [PDF](
-http://www.ini.uzh.ch/~tobi/papers/mishathesis.pdf)  
+Ph.D. thesis, California Inst. Of Technology, Pasadena, CA, 1992. [PDF](http://www.ini.uzh.ch/~tobi/papers/mishathesis.pdf)  
 She won the Caltech's Clauser prize for the best PhD thesis for this work, which included the silicon retina, AER communication, and a beautiful stereopsis chip.
 - <a name="Delbruck93PhD"></a>Delbrück, T.,  
 *[Investigations of Analog VLSI Visual Transduction and Motion Processing](http://resolver.caltech.edu/CaltechETD:etd-07022004-144710)*,  
