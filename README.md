@@ -1565,10 +1565,10 @@ Int. Conf. Computer Supported Education (CSEDU), SCITEPRESS Digital Library, (20
 
 <br><br>
 <a name="theses"></a>
-## Theses and Dissertations
+# Theses and Dissertations
 
 <a name="theses-phd"></a>
-### Dissertations
+## Dissertations
 - <a name="Mahowald92PhD"></a>Mahowald, M.,  
 *[VLSI Analogs of Neuronal Visual Processing: A Synthesis of Form and Function](http://resolver.caltech.edu/CaltechTHESIS:09122011-094355148)*,  
 Ph.D. thesis, California Inst. Of Technology, Pasadena, CA, 1992. [PDF](
@@ -1646,9 +1646,8 @@ Ph.D. Thesis, University of Maryland, USA, 2019.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
-
 <a name="theses-master"></a>
-### Master's (and Bachelor's) Theses
+## Master's (and Bachelor's) Theses
 - <a name="Reisinger06MSc"></a>Reisinger, K.,  
 *[EMC testing on Silicon Retinas](http://catalogplus.tuwien.ac.at/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=UTW_alma2164793430003336&indx=1&recIds=UTW_alma2164793430003336&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&vl(D487844771UI4)=20-YEAR&vl(487848257UI0)=creator&vl(drStartMonth6)=00&vl(487849216UI1)=title&&vl(drEndYear6)=Jahr&dscnt=0&vl(1UIStartWith0)=contains&vl(976016785UI2)=any&vl(1UIStartWith2)=contains&mode=Advanced&vid=UTW&vl(boolOperator1)=AND&tab=default_tab&vl(487849261UI3)=all_items&vl(freeText1)=silicon+retina&vl(drStartDay6)=00&vl(drStartYear6)=Jahr&dstmp=1518094639224&frbg=&vl(487849310UI5)=ger&vl(1UIStartWith1)=contains&srt=rank&vl(boolOperator0)=AND&vl(drEndMonth6)=00&Submit=Suche&vl(freeText2)=&vl(boolOperator2)=AND&dum=true&vl(freeText0)=Reisinger&vl(drEndDay6)=00)*,  
 MSc. Thesis, TU Wien & AIT, 2006.
@@ -1684,7 +1683,6 @@ MSc. Thesis, Politecnico di Torino, 2019.
 MSc. Thesis, University of Pennsylvania, 2019.
 
 
-<br><br>
 <a name="people"></a>
 # People / Organizations
 - [Institute of NeuroInformatics](https://www.ini.uzh.ch/) (INI) of the University of Zurich (UZH) and ETH Zurich, Switzerland.
