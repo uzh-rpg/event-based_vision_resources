@@ -78,7 +78,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
     - [Product specifications](https://inivation.com/support/product-specifications/)
     - [User guide](https://inivation.github.io/inivation-docs/Hardware%20user%20guides/User_guide_-_DAVIS240.html)
     - **Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734)*, IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 718-721.
-- [**Insightness's Silicon Eye**](https://youtu.be/Y0mIb_MehK8) QVGA event sensor. 
+- [**Insightness's Silicon Eye**](https://youtu.be/Y0mIb_MehK8) QVGA event sensor.
     - [The Silicon Eye Technology](http://www.insightness.com/?p=361)
     - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Insightness.pdf) and [Video](https://youtu.be/9IJwF9xYEoU) by [Stefan Isler](http://www.insightness.com/#team) (2019).
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Insightness.pdf) and [Video](https://youtu.be/6YyOW6DDGKw) by [Christian Brandli](http://www.insightness.com/#team), CEO and co-founder of Insightness (2017).
@@ -232,9 +232,6 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
 - <a name="LinaresBarranco15iscas"></a>Leow, H. S., Nikolic, K.,  
 *[Machine vision using combined frame-based and event-based vision sensor](https://doi.org/10.1109/ISCAS.2015.7168731)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
-- <a name="Barranco15iccv"></a>Barranco, F., Teo, C. L., Fermüller, C., Aloimonos, Y.,  
-*[Contour Detection and Characterization for Asynchronous Event Sensors](https://doi.org/10.1109/ICCV.2015.63)*,  
-IEEE Int. Conf. Computer Vision (ICCV), 2015, pp. 486-494. [PDF](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Barranco_Contour_Detection_and_ICCV_2015_paper.pdf), [Project page](http://www.umiacs.umd.edu/research/POETICON/DVSContours/)
 - <a name="Liu16iscas"></a>Liu, H., Moeys, D. P., Das, G., Neil, D., Liu, S.-C., Delbruck, T.,  
 *[Combined frame- and event-based detection and tracking](https://doi.org/10.1109/ISCAS.2016.7539103)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2016, pp. 2511-2514.
@@ -675,7 +672,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
     - [Gallego et. al. CVPR 2019](#Gallego19cvpr),  
 *Focus Is All You Need: Loss Functions For Event-based Vision*.
     - [Stoffregen et. al. ICCV 2019](#Stoffregen19iccv),  
-*Event-Based Motion Segmentation by Motion Compensation*. 
+*Event-Based Motion Segmentation by Motion Compensation*.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
 Robotics: Science and Systems XIV (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE), [Code](https://github.com/daniilidis-group/EV-FlowNet)
@@ -733,7 +730,7 @@ Int. Joint Conf. on Neural Networks (IJCNN), San Jose, CA, 2011, pp. 770-776. [P
 - [Belbachir et al. CVPRW 2014](#Belbachir14cvprw),  
 *A Novel HDR Depth Camera for Real-time 3D 360-degree Panoramic Vision*.
 - <a name="Kim14bmvc"></a>Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A. J.,  
-*[Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/)*, 
+*[Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/)*,  
 British Machine Vision Conf. (BMVC), 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU).
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events).
 - <a name="Barua16wacv"></a>Barua, S., Miyatani, Y., Veeraraghavan, A.,  
@@ -928,13 +925,16 @@ IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](htt
 - [Nelson, K. J., MSc Thesis 2019](#Nelson19MSc),  
 *Event-Based Visual-Inertial Odometry on a Fixed-Wing Unmanned Aerial Vehicle*.
 - [Rebecq et. al. TPAMI 2019](#Rebecq19tpami),  
-*High Speed and High Dynamic Range Video with an Event Camera*. 
+*High Speed and High Dynamic Range Video with an Event Camera*.
     - [Rebecq et. al. CVPR 2019](#Rebecq19cvpr),  
-*Events-to-Video: Bringing Modern Computer Vision to Event Cameras*. 
+*Events-to-Video: Bringing Modern Computer Vision to Event Cameras*.
 
 
 <a name="segmentation"></a>
 ## Segmentation
+- <a name="Barranco15iccv"></a>Barranco, F., Teo, C. L., Fermüller, C., Aloimonos, Y.,  
+*[Contour Detection and Characterization for Asynchronous Event Sensors](https://doi.org/10.1109/ICCV.2015.63)*,  
+IEEE Int. Conf. Computer Vision (ICCV), 2015, pp. 486-494. [PDF](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Barranco_Contour_Detection_and_ICCV_2015_paper.pdf), [Project page](http://www.umiacs.umd.edu/research/POETICON/DVSContours/)
 - <a name="Marcireau18fnins"></a>Marcireau, A., Ieng, S.-H., Simon-Chane, C., Benosman, R.,  
 *[Event-Based Color Segmentation With a High Dynamic Range Sensor](https://doi.org/10.3389/fnins.2018.00135)*.  
 Front. Neurosci. (2018), 12:135. [PDF](https://www.neuromorphic-vision.com/public/publications/53/publication.pdf)
@@ -1034,7 +1034,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 39(7):1346-1359, 2017. [PDF](
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2017. [YouTube](https://youtu.be/q5ua91n13TA), [Slides 36-39](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Delbruck.pdf)
 - <a name="Amir17cvpr"></a>Amir, A., Taba, B., Berg, D., Melano, T., McKinstry, J., Di Nolfo, C., Nayak, T., Andreopoulos, A., Garreau, G., Mendoza, M., Kusnitz, J., Debole, M., Esser, S., Delbruck, T., Flickner, M., Modha, D.,  
 *[A Low Power, Fully Event-Based Gesture Recognition System](https://doi.org/10.1109/CVPR.2017.781)*,  
- IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2017. [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Amir_A_Low_Power_CVPR_2017_paper.pdf), [Dataset](#dvsgesture_dataset) 
+ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2017. [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Amir_A_Low_Power_CVPR_2017_paper.pdf), [Dataset](#dvsgesture_dataset)
   - [YouTube: IBM Research demonstrates event-based gesture recognition using a brain-inspired chip](https://youtu.be/g08IW-qRomM)
 - Stromatias, E., Soto, M., Serrano-Gotarredona, T., Linares-Barranco, B.,  
 *[An Event-Based Classifier for Dynamic Vision Sensor and Synthetic Data](https://doi.org/10.3389/fnins.2017.00350)*,  
@@ -1121,7 +1121,7 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019.
 - [Rebecq et. al. CVPR 2019](#Rebecq19cvpr),  
 *Events-to-Video: Bringing Modern Computer Vision to Event Cameras*.
 - [Rebecq et. al. TPAMI 2019](#Rebecq19tpami),  
-*High Speed and High Dynamic Range Video with an Event Camera*. 
+*High Speed and High Dynamic Range Video with an Event Camera*.
 - <a name="Sekikawa19cvpr"></a>Sekikawa, Y., Hara, K., Saito, H.,  
 *[EventNet: Asynchronous Recursive Event Processing](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sekikawa_EventNet_Asynchronous_Recursive_Event_Processing_CVPR_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/abs/1812.07045), [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Yusuke_Sekikawa.pdf), [YouTube](https://youtu.be/jHcxQRC-7iQ)
@@ -1165,7 +1165,7 @@ Int. Conf. on Image Analysis and Recognition (ICIAR), 2019. [PDF](https://rdcu.b
 IEEE Int. Conf. Acoust., Speech, Signal Proc. (ICASSP), 2019, [Github Page](https://github.com/PIX2NVS/NVS_ActionRecognition).
 - <a name="Bi19iccv"></a>Bi, Y., Chadha, A., Abbas, A.,  Bourtsoulatze, E., Andreopoulos, Y.,  
 *[Graph-Based Object Classification for Neuromorphic Vision Sensing](http://openaccess.thecvf.com/content_ICCV_2019/html/Bi_Graph-Based_Object_Classification_for_Neuromorphic_Vision_Sensing_ICCV_2019_paper.html),*  
-IEEE Int. Conf. Computer Vision (ICCV), 2019. 
+IEEE Int. Conf. Computer Vision (ICCV), 2019.
 [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bi_Graph-Based_Object_Classification_for_Neuromorphic_Vision_Sensing_ICCV_2019_paper.pdf), [Suppl. Mat.](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Bi_Graph-Based_Object_Classification_ICCV_2019_supplemental.pdf), [PDF arXiv](https://arxiv.org/pdf/1908.06648.pdf), [Github Page](https://github.com/PIX2NVS/NVS2Graph), [ASL-DVS Dataset](https://www.dropbox.com/sh/ibq0jsicatn7l6r/AACNrNELV56rs1YInMWUs9CAa?dl=0).
 - <a name="Bi19arxiv"></a>Bi, Y., Chadha, A., Abbas, A.,  Bourtsoulatze, E., Andreopoulos, Y.,  
 *[Graph-based Spatial-temporal Feature Learning for Neuromorphic Vision Sensing](https://arxiv.org/pdf/1910.03579),*  
@@ -1437,7 +1437,7 @@ Front. Neurosci. (2016), 10:496. [Dataset](https://github.com/qian-liu/benchmark
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Project page](https://spritea.github.io/DET/).
 - <a name="Miao19fnbot"></a>Miao, S., Chen, G., Ning, X., Zi, Y., Ren, K., Bing, Z., Knoll, A.,  
 *[Neuromorphic Vision Datasets for Pedestrian Detection, Action Recognition, and Fall Detection](https://doi.org/10.3389/fnbot.2019.00038),*  
-Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark) 
+Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark)
 - <a name="deTournemire20arxiv"></a>de Tournemire, P., Nitti, D., Perot, E., Migliore, D., Sironi, A.,  
 *[A Large Scale Event-based Detection Dataset for Automotive](https://arxiv.org/abs/2001.08499)*,  
 arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox), [News](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)
@@ -1494,7 +1494,7 @@ IEEE Access, vol. 7, pp. 138415-138425, 2019.
 - **Intensity-Image reconstruction from events**
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events), inspired by the paper [Kim et. al. BMVC 2014](#Kim14bmvc).
     - [DVS reconstruction code](https://github.com/VLOGroup/dvs-reconstruction) associated to the paper [Reinbacher et. al. BMVC 2016](#Reinbacher16bmvc).
-    - [High-pass filter code](https://github.com/cedric-scheerlinck/dvs_image_reconstruction) associated to the paper [Scheerlinck et al. ACCV 2018](#Scheerlinck18accv) 
+    - [High-pass filter code](https://github.com/cedric-scheerlinck/dvs_image_reconstruction) associated to the paper [Scheerlinck et al. ACCV 2018](#Scheerlinck18accv)
     - [E2VID code](https://github.com/uzh-rpg/rpg_e2vid) associated to the paper [Rebecq et al. TPAMI 2019](#Rebecq19tpami).
 - **Localization and Ego-Motion Estimation**
     - [Panoramic tracking code](https://github.com/VLOGroup/dvs-panotracking) associated to the paper [Reinbacher et. al. ICCP 2017](#Reinbacher17iccp).
@@ -1505,13 +1505,13 @@ IEEE Access, vol. 7, pp. 138415-138425, 2019.
 ## Utilities
 - [Process AEDAT](https://github.com/SensorsINI/processAEDAT): useful scripts to work with data from jAER and cAER.
 - [Matlab functions in jAER project](https://sourceforge.net/p/jaer/code/HEAD/tree/scripts/matlab/)
-- [AEDAT Tools](https://github.com/simbamford/AedatTools/): scripts for Matlab and Python to work with aedat files. 
+- [AEDAT Tools](https://github.com/simbamford/AedatTools/): scripts for Matlab and Python to work with aedat files.
 - [Matlab AER functions](https://github.com/gorchard/Matlab_AER_vision_functions) by G. Orchard. Some basic functions for filtering and displaying AER vision data, as well as making videos.
 - [Python code for AER vision data](https://github.com/gorchard/event-Python) by G. Orchard.
 - [edvstools](https://github.com/Danvil/edvstools), by D. Weikersdorfer: A collection of tools for the embedded Dynamic Vision Sensor eDVS.
 - [Tarsier](https://github.com/neuromorphic-paris/tarsier) Framework for event-based Vision in C++.
 - [CelexMatlabToolbox](https://github.com/yucicheung/CelexMatlabToolbox) by Yuxin Zhang. Tools to decode events generated by CeleX IV DVS, visualize them and denoise.
-- [Loris](https://github.com/neuromorphic-paris/loris) Python package to read files from neuromorphic cameras. 
+- [Loris](https://github.com/neuromorphic-paris/loris) Python package to read files from neuromorphic cameras.
 - Marcireau A., Ieng S.-H., Benosman R.,  
 *[Sepia, Tarsier, and Chameleon: A Modular C++ Framework for Event-Based Computer Vision](https://doi.org/10.3389/fnins.2019.01338)*,  
 Front. Neurosci. (2020). [Code](https://github.com/neuromorphic-paris/tutorials)
