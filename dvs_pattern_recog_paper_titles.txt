@@ -1,0 +1,102 @@
+FE Feature extraction --> before classification?
+OR Object recog --> output a label
+GR Gesture recog --> output a label; there are temporal & human components to it
+RE Regression task (optical flow, image reconstruction, etc.)
+OD Object Detection --> bbox
+OT Object Tracking --> bbox tracking?
+
+Supervised vs Unsupervised
+Hand-crafted vs learned from data
+
+Wikipedia: https://en.wikipedia.org/wiki/Pattern_recognition
+  4.1 Classification algorithms (supervised algorithms predicting categorical labels)
+  4.2 Clustering algorithms (unsupervised algorithms predicting categorical labels)
+  4.3 Ensemble learning algorithms (supervised meta-algorithms for combining multiple learning algorithms together)
+  4.4 General algorithms for predicting arbitrarily-structured (sets of) labels
+  4.5 Multilinear subspace learning algorithms (predicting labels of multidimensional data using tensor representations)
+  4.6 Real-valued sequence labeling algorithms (predicting sequences of real-valued labels)
+  4.7 Regression algorithms (predicting real-valued labels)
+  4.8 Sequence labeling algorithms (predicting sequences of categorical labels)
+
+-----------------
+Label - Paper title
+OR CAVIAR: A 45k-Neuron, 5M-Synapse, 12G-connects/sec AER Hardware Sensory-Processing-Learning-Actuating System for High Speed Visual Object Recognition and Tracking
+OR High Speed Embedded Object Analysis Using a Dual-Line Timed-Address-Event Temporal Contrast Vision Sensor
+FE An Event-Driven Multi-Kernel Convolution Processor Module for Event-Driven Vision Sensors
+GR Live demonstration: Gesture-Based remote control using stereo pair of dynamic vision sensors
+GR Event-driven Body Motion Analysis For Real-time Gesture Recognition
+GR Real-time Gesture Recognition using a Bio-inspired 3D Vision Sensor
+GR Real-time Body Motion Analysis for Dance Pattern Recognition
+FE Mapping from Frame-Driven to Frame-Free Event-Driven Vision Systems by Low-Rate Rate-Coding and Coincidence Processing. Application to Feed-Forward ConvNets
+GR Real-Time Gesture Interface Based on Event-Driven Processing From Stereo Silicon Retinas
+OR Real-time object recognition and orientation estimation using an event-based camera and CNN
+OR HFIRST: A Temporal Approach to Object Recognition
+FE Feedforward Categorization on AER Motion Events using Cortex-like Features in a Spiking Neural Network
+GR Computationally efficient, real-time motion recognition based on bio-inspired visual and cognitive processing
+GR Performance improvement of deep learning based gesture recognition using spatiotemporal demosaicing technique
+OR Skimming Digits: Neuromorphic Classification of Spike-Encoded Images
+OR Face recognition
+OR Steering a Predator Robot using a Mixed Frame/Event-Driven Convolutional Neural Network
+FE Classification of Spatiotemporal Events Based on Random Forest
+FE,OR HOTS: A Hierarchy Of event-based Time-Surfaces for pattern recognition
+FE,OR A Motion-Based Feature for Event-Based Pattern Recognition
+GR A Low Power, Fully Event-Based Gesture Recognition System
+GR IBM Research demonstrates event-based gesture recognition using a brain-inspired chip
+FE An Event-Based Classifier for Dynamic Vision Sensor and Synthetic Data
+FE Live demonstration: Hardware implementation of convolutional STDP for on-line visual feature learning
+FE Representing motion information from event-based cameras
+FE Deep representation via convolutional neural network for classification of spatiotemporal event streams
+OR HATS: Histograms of Averaged Time Surfaces for Robust Event-based Object Classification
+RE Event-based Vision meets Deep Learning on Steering Prediction for Self-driving Cars
+RE EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras
+FE A Sparse Coding Multi-Scale Precise-Timing Machine Learning Algorithm for Neuromorphic Event-Based Sensors
+FE,OR Fast Retinomorphic Event-Driven Representations for Video Recognition and Reinforcement Learning
+OR Asynchronous Convolutional Networks for Object Detection in Neuromorphic Cameras
+FE Spatial and Temporal Downsampling in Event-Based Visual Classification
+FE SLAYER: Spike Layer Error Reassignment in time
+FE When Conventional machine learning meets neuromorphic engineering: Deep Temporal Networks (DTNets) a machine learning framework allowing to operate on Events and Frames and implantable on Tensor Flow Like Hardware
+GR Event-based Gesture Recognition with Dynamic Background Suppression using Smartphone Computational Capabilities
+FE,OR Investigation of Event-Based Surfaces for High-Speed Detection, Unsupervised Feature Extraction, and Object Recognition
+OR Event-based Face Detection and Tracking in the Blink of an Eye
+  PCA-RECT: An Energy-Efficient Object Detection Approach for Event Cameras
+OR? Scene Context Classification with Event-Driven Spiking Deep Neural Networks
+FE Constant Velocity 3D Convolution
+OR Attention Mechanisms for Object Recognition With Event-Based Cameras
+GR Space-time Event Clouds for Gesture Recognition: from RGB Cameras to Event Cameras
+FE Cross-Modal Learning Filters for RGB-Neuromorphic Wormhole Learning
+GR FLGR: Fixed Length Gists Representation Learning for RNN-HMM Hybrid-Based Neuromorphic Continuous Gesture Recognition
+FE Neuromorphic LIF Row-by-Row Multiconvolution Processor for FPGA
+OR Mixed Frame-/Event-Driven Fast Pedestrian Detection
+  Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception
+RE Focus Is All You Need: Loss Functions For Event-based Vision
+RE Events-to-Video: Bringing Modern Computer Vision to Event Cameras
+RE High Speed and High Dynamic Range Video with an Event Camera
+FE EventNet: Asynchronous Recursive Event Processing
+GR EV-Gait: Event-Based Robust Gait Recognition Using Dynamic Vision Sensors
+FE End-to-End Learning of Representations for Asynchronous Event-Based Data
+  Embodied Neuromorphic Vision with Event-Driven Random Backpropagation
+  Dynamic Vision Sensor integration on FPGA-based CNN accelerators for high-speed visual classification
+GR? DHP19: Dynamic Vision Sensor 3D Human Pose Dataset
+GR N-HAR: A Neuromorphic Event-Based Human Activity Recognition System Using Memory Surfaces
+OR? Closing the Accuracy Gap in an Event-Based Visual Recognition Task
+GR Human identification by gait from event-based camera
+FE Event-based Feature Extraction using Adaptive Selection Thresholds
+FE Motion Equivariant Networks for Event Cameras with the Temporal Normalization Transform
+RE Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion
+OR Inceptive Event Time-Surfaces for Object Classification Using Neuromorphic Cameras
+GR Neuromorphic Vision Sensing for CNN-based Action Recognition
+OR Graph-Based Object Classification for Neuromorphic Vision Sensing
+FE? Graph-based Spatial-temporal Feature Learning for Neuromorphic Vision Sensing
+  Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving
+  Proto-Object Based Saliency for Event-Driven Cameras
+OR Event-Based Incremental Broad Learning System for Object Classification
+OR An Event-based Hierarchy Model for Object Recognition
+FE,GR Fast Retinomorphic Event-Driven Representations for Video Gameplay and Action Recognition
+  Slasher: Stadium racer car for event camera end-to-end learning autonomous driving experiments
+GR? Fast event-driven incremental learning of hand symbols
+GR? Incremental learning of hand symbols using event-based cameras
+  Convolutional Neural Network for Detection and Classification with Event-based Data
+An Event-Driven Categorization Model for AER Image Sensors Using Multispike Encoding and Learning
+FE,OT Robust Event-Based Object Tracking Combining Correlation Filter and CNN Representation
+FE EventGAN: Leveraging Large Scale Image Datasets for Event Cameras
+
