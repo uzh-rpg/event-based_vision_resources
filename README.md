@@ -13,17 +13,18 @@
     - [Feature Detection and Tracking](#feature-detection)
         - [Corners](#corner-detection)
         - [Particles in fluids](#particle-detection)
+    - [Optical Flow Estimation](#optical-flow-estimation)
+        - [Scene Flow Estimation](#scene-flow-estimation)
+    - [Reconstruction of Visual Information](#visualization)
+        - [Intensity-Image Reconstruction](#image-reconstruction)
+        - [Video Synthesis](#video-synthesis)
+        - [Super-resolution](#super-resolution)
+        - [Tone mapping](#tone-mapping)
+        - [Visual Stabilization](#visual-stabilization)
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
         - [Monocular](#depth-mono)
         - [Stereo](#depth-stereo)
         - [Stereoscopic panoramic imaging](#depth-stereo-pano)
-    - [Optical Flow Estimation](#optical-flow-estimation)
-    - [Scene Flow Estimation](#scene-flow-estimation)
-    - [Intensity-Image Reconstruction](#image-reconstruction)
-    - [Video Synthesis](#video-synthesis)
-    - [Super-resolution](#super-resolution)
-    - [Tone mapping](#tone-mapping)
-    - [Visual Stabilization](#visual-stabilization)
     - [SLAM (Simultaneous Localization And Mapping)](#slam)
         - [Localization, Ego-motion estimation](#slam-localization)
         - [Visual Odometry](#visual-odometry)
@@ -378,6 +379,240 @@ J. Microscopy (2011), 245(3):236-244. [PDF](https://www.neuromorphic-vision.com/
 ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http://www.ifd.mavt.ethz.ch/research/group-roesgen/dynamic-vision-sensors.html), [PDF](http://www.ifd.mavt.ethz.ch/content/dam/ethz/special-interest/mavt/fluid-dynamics/ifd-dam/research/documents/posters/experimental-methods/daniel_borer_dynamic_vision_sensor.pdf)
 
 
+<a name="optical-flow-estimation"></a>
+## Optical Flow Estimation
+- <a name="Benosman12neunet"></a>Delbruck, T.,  
+*[Frame-free dynamic digital vision](https://www.research-collection.ethz.ch/handle/20.500.11850/81769),*  
+Int. Symp. on Secure-Life Electronics, Advanced Electronics for Quality Life and Society, pp. 21-26, 2008. [PDF](www.ini.uzh.ch/admin/extras/doc_get.php?id=42508)
+- [Cook et. al. IJCNN 2011](#Cook11ijcnn),  
+*Interacting maps for fast visual interpretation*.  (Joint estimation of optical flow, image intensity and angular velocity with a rotating event camera).
+- <a name="Benosman12neunet"></a>Benosman, R., Ieng, S.-H., Clercq, C., Bartolozzi, C., Srinivasan, M.,  
+*[Asynchronous Frameless Event-Based Optical Flow](https://doi.org/10.1016/j.neunet.2011.11.001),*  
+Neural Networks (2012), 27:32-37. [PDF](https://www.neuromorphic-vision.com/public/publications/12/publication.pdf), [Suppl. Mat.](https://www.neuromorphic-vision.com/public/publications/12/supplementaryMaterial.zip)
+- <a name="Orchard13biocas"></a>Orchard, G., Benosman, R., Etienne-Cummings, R., Thakor, N,  
+*[A Spiking Neural Network Architecture for Visual Motion Estimation](https://doi.org/10.1109/BioCAS.2013.6679698)*,  
+IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2013. [PDF](https://www.researchgate.net/publication/261075772_A_spiking_neural_network_architecture_for_visual_motion_estimation), [Code](https://github.com/gorchard/Spiking_Motion)
+- <a name="Benosman14tnnls"></a>Benosman, R., Clercq, C., Lagorce, X., Ieng, S.-H., Bartolozzi, C.,  
+*[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537),*  
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 25(2):407-417, 2014. [PDF](https://www.neuromorphic-vision.com/public/publications/3/publication.pdf), [Code (jAER): LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java)
+    - <a name="Clady14fnins"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
+*[Asynchronous visual event-based time-to-contact](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
+Front. Neurosci. (2014), 8:9. [PDF](https://www.neuromorphic-vision.com/public/publications/30/publication.pdf)
+    - <a name="Mueggler15icra"></a>E. Mueggler, C. Forster, N. Baumli, G. Gallego, D. Scaramuzza,  
+*[Lifetime Estimation of Events from Dynamic Vision Sensors](http://dx.doi.org/10.1109/ICRA.2015.7139876)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2015, pp. 4874-4881. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pdf), [PPT](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pptm), [Code](https://www.github.com/uzh-rpg/rpg_event_lifetime)
+    - <a name="Lee17iccas"></a>Lee, A. J., Kim, A.,  
+*[Event-based Real-time Optical Flow Estimation](https://doi.org/10.23919/ICCAS.2017.8204333)*,  
+IEEE Int. Conf. on Control, Automation and Systems (ICCAS), 2017.
+- <a name="Barranco14ieee"></a>Barranco, F., Fermüller, C., Aloimonos, Y.,  
+*[Contour motion estimation for asynchronous event-driven cameras](https://doi.org/10.1109/JPROC.2014.2347207)*,  
+Proc. IEEE (2014), 102(10):1537-1556. [PDF](http://www.cfar.umd.edu/~fer/postscript/contourmotion-dvs-final.pdf)
+- <a name="Lee14icip"></a>Lee, J.H., Lee, K., Ryu, H., Park, P.K.J., Shin, C.W., Woo, J., Kim, J.-S.,  
+*[Real-time motion estimation based on event-based vision sensor](https://doi.org/10.1109/ICIP.2014.7025040)*,  
+IEEE Int. Conf. Image Processing (ICIP), 2014.
+- <a name="Barranco15iwann"></a>Barranco, F., Fermûller, C., Aloimonos, Y.,  
+*[Bio-inspired Motion Estimation with Event-Driven Sensors](https://doi.org/10.1007/978-3-319-19258-1_27)*,  
+Int. Work-Conf. Artificial Neural Networks (IWANN) 2015, Advances in Computational Intell., pp. 309-321.
+- <a name="Conradt15robio"></a>Conradt, J.,  
+*[On-Board Real-Time Optic-Flow for Miniature Event-Based Vision Sensors](https://doi.org/10.1109/ROBIO.2015.7419043)*,  
+IEEE Int. Conf. Robotics and Biomimetics (ROBIO), 2015, pp. 1858-1863.
+- <a name="Brosch15fnins"></a>Brosch, T., Tschechne, S., Neumann, H.,  
+*[On event-based optical flow detection](https://doi.org/10.3389/fnins.2015.00137)*,  
+Front. Neurosci. (2015), 9:137.
+    - <a name="Tschechne14bict"></a>Tschechne, S., Brosch, T., Sailer, R., von Egloffstein, N., Abdul-Kreem L.I., Neumann, H.,  
+*[On event-based motion detection and integration](http://dx.doi.org/10.4108/icst.bict.2014.257904)*,  
+Int. Conf. Bio-inspired Information and Comm. Technol. (BICT), 2014. [PDF](https://dl.acm.org/citation.cfm?id=2744588)
+    - <a name="Tschechne14annpr"></a>Tschechne, S., Sailer R., Neumann, H.,  
+*[Bio-Inspired Optic Flow from Event-Based Neuromorphic Sensor Input](https://doi.org/10.1007/978-3-319-11656-3_16)*,  
+IAPR Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR) 2014, pp. 171-182.
+    - <a name="Brosch15bict"></a>Brosch, T., Neumann, H.,  
+*[Event-based optical flow on neuromorphic hardware](https://doi.org/10.4108/eai.3-12-2015.2262447)*,  
+Int. Conf. Bio-inspired Information and Comm. Technol. (BICT), 2015. [PDF](https://dl.acm.org/citation.cfm?id=2954727)
+    - <a name="Kosiorek15techrep"></a>Kosiorek, A., Adrian, D., Rausch, J., Conradt, J.,  
+*[An Efficient Event-Based Optical Flow Implementation in C/C++ and CUDA](http://tum.neurocomputing.systems/fileadmin/w00bqs/www/publications/pp/2015SS-PP-RealTimeDVSOpticFlow.pdf),*  
+Tech. Rep. TU Munich, 2015.
+- <a name="Milde15ebccsp"></a>Milde, M. B., Bertrand, O.J.N., Benosman, R., Egelhaaf, M., Chicca, E.,  
+*[Bioinspired event-driven collision avoidance algorithm based on optic flow](https://doi.org/10.1109/EBCCSP.2015.7300673)*,  
+IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2015.
+- <a name="Giulioni16fnins"></a>Giulioni, M., Lagorce, X., Galluppi, F., Benosman, R.,  
+*[Event-Based Computation of Motion Flow on a Neuromorphic Analog Neural Platform](https://doi.org/10.3389/fnins.2016.00035)*,  
+Front. Neurosci. (2016), 10:35. [PDF](https://www.neuromorphic-vision.com/public/publications/46/publication.pdf)
+- <a name="Rueckauer16fnins"></a>Rueckauer, B. and Delbruck, T.,  
+*[Evaluation of Event-Based Algorithms for Optical Flow with Ground-Truth from Inertial Measurement Sensor](https://doi.org/10.3389/fnins.2016.00176),*  
+Front. Neurosci. (2016), 10:176.
+    - [Code (jAER)](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/)
+- <a name="Bardow16cvpr"></a>Bardow, P. A., Davison, A. J., Leutenegger, S.,  
+*[Simultaneous Optical Flow and Intensity Estimation from an Event Camera](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2016. [YouTube](https://youtu.be/1zqJpiheaaI), [Dataset: 4 sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
+- <a name="Stoffregen17acra"></a>Stoffregen, T., Kleeman, L.,  
+*[Simultaneous Optical Flow and Segmentation (SOFAS) using Dynamic Vision Sensor](http://www.araa.asn.au/acra/acra2017/papers/pap127s1-file1.pdf)*,  
+Australasian Conf. Robotics and Automation (ACRA), 2017. [PDF](https://arxiv.org/pdf/1805.12326.pdf), [YouTube](https://youtu.be/JVkQOW_iUqs)
+- <a name="Haessig17arxiv"></a>Haessig, G., Cassidy, A. Alvarez, R., Benosman, R., Orchard, G.,  
+*[Spiking Optical Flow for Event-based Sensors Using IBM's TrueNorth Neurosynaptic System](https://doi.org/10.1109/TBCAS.2018.2834558)*,  
+IEEE Trans. Biomed. Circuits Syst., 12(4):860-870, 2018. [PDF](https://arxiv.org/pdf/1710.09820.pdf)
+- <a name="Aung18iscas"></a>Aung, M.T., Teo, R., Orchard, G.,  
+*[Event-based Plane-fitting Optical Flow for Dynamic Vision Sensors in FPGA](https://doi.org/10.1109/ISCAS.2018.8351588)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2018. [Code](https://github.com/gorchard/FPGA_event_based_optical_flow)
+- [Gallego et. al. CVPR 2018](#Gallego18cvpr),  
+*A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation*.
+    - <a name="Stoffregen19cvpr"></a>Stoffregen, T., Kleeman, L.,  
+*[Event Cameras, Contrast Maximization and Reward Functions: An Analysis](http://openaccess.thecvf.com/content_CVPR_2019/html/Stoffregen_Event_Cameras_Contrast_Maximization_and_Reward_Functions_An_Analysis_CVPR_2019_paper.html)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
+    - [Gallego et. al. CVPR 2019](#Gallego19cvpr),  
+*Focus Is All You Need: Loss Functions For Event-based Vision*.
+    - [Stoffregen et. al. ICCV 2019](#Stoffregen19iccv),  
+*Event-Based Motion Segmentation by Motion Compensation*.
+- <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
+*[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
+Robotics: Science and Systems XIV (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE), [Code](https://github.com/daniilidis-group/EV-FlowNet)
+    - [Gehrig et. al. ICCV 2019](#Gehrig19iccv),  
+*End-to-End Learning of Representations for Asynchronous Event-Based Data*.
+- <a name="Liu18bmvc"></a>Liu, M., Delbruck, T.,  
+*[Adaptive Time-Slice Block-Matching Optical Flow Algorithm for Dynamic Vision Sensors](http://bmvc2018.org/contents/papers/0280.pdf)*,  
+British Machine Vision Conf. (BMVC), 2018. [Supplementary material](https://docs.google.com/document/d/10X0z4zznuV9j1OOjWpJGv-YCWujkF7FiYjG6efwUrP0/edit), [Video](https://youtu.be/fGJ8jyqziBI)
+    - <a name="Liu17iscas"></a>Liu, M., Delbruck, T.,  
+*[Block-Matching Optical Flow for Dynamic Vision Sensors: Algorithm and FPGA Implementation](https://arxiv.org/pdf/1706.05415.pdf)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
+- <a name="Ye18arxiv"></a>Ye, C., Mitrokhin, A., Parameshwara, C., Fermüller, C., Yorke, J. A., Aloimonos,Y,  
+*[Unsupervised Learning of Dense Optical Flow and Depth from Sparse Event Data](https://arxiv.org/pdf/1809.08625.pdf)*,  
+arXiv:1809.08625, 2018.
+- <a name="Akolkar18arxiv"></a>Akolkar, H., Ieng, S.-H., Benosman, R.,  
+*[See before you see: Real-time high speed motion prediction using fast aperture-robust event-driven visual flow](https://arxiv.org/pdf/1811.11135)*,  
+arXiv:1811.11135, 2018.
+- <a name="Nagata19iwait"></a>Nagata, J., Sekikawa, Y., Hara, K., Aoki, Y.,  
+[FOE-based regularization for optical flow estimation from an in-vehicle event camera](https://doi.org/10.1117/12.2521520),  
+Proc. SPIE 11049, Int. Workshop on Advanced Image Technology (IWAIT), 2019.
+- <a name="ParedesValles19tpami"></a>Paredes-Valles, F., Scheper, K. Y. W., de Croon, G. C. H. E.,  
+*[Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception](https://ieeexplore.ieee.org/document/8660483)*,  
+IEEE Trans. Pattern Anal. Mach. Intell (TPAMI), 2019. [PDF](https://arxiv.org/abs/1807.10936), [YouTube](https://www.youtube.com/watch?v=FJrba02kZII&list=PL_KSX9GOn2P80tm3IsgbmPAUi2KDE53zI&index=2&t=0s), [Code](https://github.com/tudelft/cuSNN).
+- <a name="Zhu19cvpr"></a>Zhu, A. Z., Yuan, L., Chaney, K., Daniilidis, K.,  
+*[Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1812.08156), [YouTube](https://youtu.be/aDzFSG4yV0M)
+- <a name="Khoei19neco"></a>Khoei, M.A., Benosman, R.,  
+*[Asynchronous Event-Based Motion Processing: From Visual Events to Probabilistic Sensory Representation](https://doi.org/10.1162/neco_a_01191)*,  
+Neural Computation (2019), 31(6):1114-1138. [PDF](https://www.neuromorphic-vision.com/public/publications/56/publication.pdf)
+- <a name="Almatrafi19davis"></a>Almatrafi, M. M.,  Hirakawa, K.,  
+*[DAViS Camera Optical Flow](http://doi.org/10.1109/TCI.2019.2948787)*,  
+IEEE Trans. Comput. Imag. (TCI), 2019.
+
+
+<a name="scene-flow-estimation"></a>
+### Scene Flow Estimation
+- <a name="Ieng17fnins"></a>Ieng, S.-H., Carneiro, J., Benosman, R.,  
+*[Event-Based 3D Motion Flow Estimation Using 4D Spatio Temporal Subspaces Properties](https://doi.org/10.3389/fnins.2016.00596)*,  
+Front. Neurosci. (2017), 10:596.
+    - [Carneiro, Ph.D. Thesis, 2014](#Carneiro14PhD),  
+*Asynchronous Event-Based 3D Vision - Chapter 3*.
+
+
+<a name="visualization"></a>
+## Reconstruction of Visual Information
+
+
+<a name="image-reconstruction"></a>
+### Intensity-Image Reconstruction from events
+- <a name="Cook11ijcnn"></a>Cook, M., Gugelmann, L., Jug, F., Krautz, C., Steger, A.,  
+*[Interacting maps for fast visual interpretation](https://doi.org/10.1109/IJCNN.2011.6033299)*,  
+Int. Joint Conf. on Neural Networks (IJCNN), San Jose, CA, 2011, pp. 770-776. [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.690.7666&rep=rep1&type=pdf), [YouTube](https://youtu.be/irX3Nd5U0hY)
+    - <a name="Martel15irosw"></a>Martel, J. N. P., Cook, M.,  
+    *[A Framework of Relational Networks to Build Systems with Sensors able to Perform the Joint Approximate Inference of Quantities](https://doi.org/10.5167/uzh-121743)*,  
+    IEEE/RSJ Int. Conf. Intelligent Robots and Systems Workshop (IROSW), 2015. Workshop on Unconventional Computing for Bayesian Inference. [PDF](http://www.zora.uzh.ch/121743/1/RelationalNetSensor.pdf)
+    - <a name="Martel15iscas"></a>Martel, J. N. P., Chau, M., Dudek, P., Cook, M.,  
+    *[Toward joint approximate inference of visual quantities on cellular processor arrays](https://doi.org/10.1109/ISCAS.2015.7169083)*,  
+    IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 2061-2064.
+- [Belbachir et al. CVPRW 2014](#Belbachir14cvprw),  
+*A Novel HDR Depth Camera for Real-time 3D 360-degree Panoramic Vision*.
+- <a name="Kim14bmvc"></a>Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A. J.,  
+*[Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/)*,  
+British Machine Vision Conf. (BMVC), 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU).
+    - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events).
+- <a name="Barua16wacv"></a>Barua, S., Miyatani, Y., Veeraraghavan, A.,  
+*[Direct face detection and video reconstruction from event cameras](http://doi.org/10.1109/WACV.2016.7477561)*,  
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2016, pp. 1-9. [YouTube](https://youtu.be/yGDVlN-L1TU)
+- [Bardow et. al. CVPR 2016](#Bardow16cvpr),  
+*Simultaneous Optical Flow and Intensity Estimation from an Event Camera*.
+- <a name="Moeys17iscas"></a>Moeys, D. P., Li, C., Martel, J. N. P., Bamford, S., Longinotti, L., Motsnyi, V., Bello, D. S. S., Delbruck, T.,  
+*[Color Temporal Contrast Sensitivity in Dynamic Vision Sensors](http://dx.doi.org/10.1109/ISCAS.2017.8050412)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2017. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=65634).
+- <a name="Munda18ijcv"></a>Munda, G., Reinbacher, C., Pock, T.,  
+*[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](https://doi.org/10.1007/s11263-018-1106-2)*,  
+Int. J. of Computer Vision (IJCV), 2018.
+    - <a name="Reinbacher16bmvc"></a>Reinbacher, C., Graber, G., Pock, T.,  
+*[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](http://www.bmva.org/bmvc/2016/papers/paper009/)*,  
+British Machine Vision Conf. (BMVC), 2016. [PDF](http://www.bmva.org/bmvc/2016/papers/paper009/paper009.pdf), [YouTube](https://youtu.be/rvB2URrGT94), [Code](https://github.com/VLOGroup/dvs-reconstruction)
+- <a name="Watkins18icons"></a>Watkins, Y., Thresher, A., Mascarenas, D., Kenyon,  G.T.,  
+*[Sparse Coding Enables the Reconstruction of High-Fidelity Images and Video from Retinal Spike Trains](https://doi.org/10.1145/3229884.3229892)*,  
+Int. Conf. Neuromorphic Systems (ICONS), 2018. Article No. 8. [PDF](https://dl.acm.org/ft_gateway.cfm?id=3229892&ftid=1990359&dwn=1&CFID=41965358&CFTOKEN=fe90e12f8b0b321e-23C508A3-0508-BCD6-37A17F6C8E171DAB)
+- <a name="Scheerlinck18accv"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
+*[Continuous-time Intensity Estimation Using Event Cameras](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf)*,  
+Asian Conf. Computer Vision (ACCV), 2018. [PDF](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf), [YouTube](https://youtu.be/bZ0ZKido0Ag), [Website](https://cedric-scheerlinck.github.io/continuous-time-intensity-estimation)
+- <a name="Mostafavi19cvpr"></a>Mostafavi I., S.M., Wang, L., Ho, Y.S., Yoon, K.J.,  
+*[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Event-Based_High_Dynamic_Range_Image_and_Very_High_Frame_Rate_CVPR_2019_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/abs/1811.08230)
+- <a name="Rebecq20tpami"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
+*[High Speed and High Dynamic Range Video with an Event Camera](https://doi.org/10.1109/TPAMI.2019.2963386)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/TPAMI19_Rebecq.pdf),  [YouTube](https://youtu.be/eomALySSGVU), [Code](https://github.com/uzh-rpg/rpg_e2vid), [Project page](http://rpg.ifi.uzh.ch/E2VID/)
+    - <a name="Rebecq19cvpr"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
+*[Events-to-Video: Bringing Modern Computer Vision to Event Cameras](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf),  [YouTube](https://youtu.be/IdYrC4cUO0I), [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Henri_Rebecq.pdf), [Video pitch](https://youtu.be/1LZKtnQ-6lA).
+    - <a name="Scheerlinck20wacv"></a>Scheerlinck, C., Rebecq, H., Gehrig, D., Barnes, N., Mahony, R., Scaramuzza, D.,  
+*[Fast Image Reconstruction with an Event Camera](https://cedric-scheerlinck.github.io/firenet)*,  
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf),  [YouTube](https://youtu.be/QaGYFtR2-X8), [Website](https://cedric-scheerlinck.github.io/firenet)
+- [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
+*CED: Color Event Camera Dataset*.
+
+
+<a name="video-synthesis"></a>
+### Video Synthesis
+- <a name="Brandli14iscas"></a>Brandli, C., Muller, L., Delbruck, T.,  
+*[Real-time, high-speed video decompression using a frame- and event-based DAVIS sensor](https://doi.org/10.1109/ISCAS.2014.6865228)*,  
+IEEE Int. Symp. on Circuits and Systems (ISCAS), 2014.
+    - [Brandli, Ph.D. Thesis, 2014](#Brandli15PhD),  
+*Event-Based Machine Vision - Section 4.11*.
+- <a name="Liu17tvc"></a>Liu HC., Zhang FL., Marshall D., Shi L., Hu SM.,  
+*[High-speed Video Generation with an Event Camera](https://link.springer.com/article/10.1007/s00371-017-1372-y)*,  
+The Visual Computer, 2017. [PDF](https://cg.cs.tsinghua.edu.cn/papers/TVC-2017-HS-Video.pdf).
+- <a name="Shedligeri18arxiv"></a>Shedligeri, P.A., Shah, K., Kumar, D., Mitra, K.,  
+*[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://arxiv.org/pdf/1805.06140.pdf)*,  
+arXiv:1805.06140, 2018.
+- <a name="Wang19arxiv"></a>Wang, Z., Jiang, W., Katsaggelos, A., Cossairt, O.,  
+*[Event-driven Video Frame Synthesis](https://arxiv.org/abs/1902.09680)*,  
+arXiv:1902.09680, 2019.
+- <a name="Pan19cvpr"></a>Pan, L., Scheerlinck, C., Yu, X., Hartley, R., Liu, M., Dai, Y.,  
+*[Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pan_Bringing_a_Blurry_Frame_Alive_at_High_Frame-Rate_With_an_CVPR_2019_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1811.10180). [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Yuchao_Dai.pdf), [Video CVPR](https://drive.google.com/file/d/1NscnUF2QxK0of4ZW7T8kneJTH1X76l2u/view), [Video CVPRW](https://youtu.be/JcgboJ_7JAE), [Code](https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera)
+    - <a name="Pan19arxiv"></a>Pan, L., Hartley, R., Scheerlinck, C., Liu, M., Yu, X., Dai, Y.,  
+*[High Frame Rate Video Reconstruction based on an Event Camera](https://arxiv.org/pdf/1903.06531)*,  
+arXiv, 2019.
+- <a name="Pini19iciap"></a>Pini, S., Borghi, G., Vezzani, R., Cucchiara, R.,  
+*[Video synthesis from Intensity and Event Frames](https://doi.org/10.1007/978-3-030-30642-7_28)*,  
+Int. Conf. Image Analysis and Processing (ICIAP), 2019. LNCS, vol 11751. [PDF](https://iris.unimore.it/retrieve/handle/11380/1178955/224434/ICIAP19_Event_Cameras.pdf)
+- <a name="Pini20visapp"></a>Pini S., Borghi G., Vezzani R.,  
+*[Learn to See by Events: Color Frame Synthesis from Event and RGB Cameras](http://hdl.handle.net/11380/1185831)*,  
+Int. Joint Conf. on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP) 2020. [PDF](https://arxiv.org/pdf/1812.02041)
+
+<a name="super-resolution"></a>
+### Super-resolution
+- <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
+*[Super-resolution of spatiotemporal event-stream image](https://doi.org/10.1016/j.neucom.2018.12.048)*,  
+Neurocomputing, vol. 335, pp. 206-214, 2019. [PDF pre-print](https://arxiv.org/abs/1802.02398)
+- <a name="Mostafavi19arxiv"></a>Mostafavi I., S.M.,  Choi, J., Yoon, K.J,  
+*[Learning to Super Resolve Intensity Images from Events](https://arxiv.org/abs/1912.01196)*,  
+arXiv, 2019.
+
+<a name="tone-mapping"></a>
+### Tone Mapping
+- <a name="SimonChane16fnins"></a>Simon Chane, C., Ieng, S.-H., Posch, C., Benosman, R.,  
+*[Event-Based Tone Mapping for Asynchronous Time-Based Image Sensor](https://doi.org/10.3389/fnins.2016.00391)*,  
+Front. Neurosci. (2016), 10:391. [PDF](https://www.neuromorphic-vision.com/public/publications/43/publication.pdf)
+
+<a name="visual-stabilization"></a>
+### Visual Stabilization
+- <a name="Delbruck14iscas"></a>Delbruck, T., Villanueva, V., Longinotti, L.,  
+*[Integration of dynamic vision sensor with inertial measurement unit for electronically stabilized event-based vision](http://doi.org/10.1109/ISCAS.2014.6865714)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2014. [YouTube](https://youtu.be/Tzy4WF6Qp-Y)
+
+
 <a name="depth-estimation"></a>
 ## Depth Estimation (3D Reconstruction)
 
@@ -595,239 +830,6 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2015, pp. 466-474. [P
 - <a name="Schraml16tie"></a>Schraml, S., Belbachir, A. N., Bischof, H.,  
 *[An Event-Driven Stereo System for Real-Time 3-D 360° Panoramic Vision](https://doi.org/10.1109/TIE.2015.2477265)*,  
 IEEE Trans. Ind. Electron., 63(1):418-428, 2016.
-
-
-<a name="optical-flow-estimation"></a>
-## Optical Flow Estimation
-- <a name="Benosman12neunet"></a>Delbruck, T.,  
-*[Frame-free dynamic digital vision](https://www.research-collection.ethz.ch/handle/20.500.11850/81769),*  
-Int. Symp. on Secure-Life Electronics, Advanced Electronics for Quality Life and Society, pp. 21-26, 2008. [PDF](www.ini.uzh.ch/admin/extras/doc_get.php?id=42508)
-- [Cook et. al. IJCNN 2011](#Cook11ijcnn),  
-*Interacting maps for fast visual interpretation*.  (Joint estimation of optical flow, image intensity and angular velocity with a rotating event camera).
-- <a name="Benosman12neunet"></a>Benosman, R., Ieng, S.-H., Clercq, C., Bartolozzi, C., Srinivasan, M.,  
-*[Asynchronous Frameless Event-Based Optical Flow](https://doi.org/10.1016/j.neunet.2011.11.001),*  
-Neural Networks (2012), 27:32-37. [PDF](https://www.neuromorphic-vision.com/public/publications/12/publication.pdf), [Suppl. Mat.](https://www.neuromorphic-vision.com/public/publications/12/supplementaryMaterial.zip)
-- <a name="Orchard13biocas"></a>Orchard, G., Benosman, R., Etienne-Cummings, R., Thakor, N,  
-*[A Spiking Neural Network Architecture for Visual Motion Estimation](https://doi.org/10.1109/BioCAS.2013.6679698)*,  
-IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2013. [PDF](https://www.researchgate.net/publication/261075772_A_spiking_neural_network_architecture_for_visual_motion_estimation), [Code](https://github.com/gorchard/Spiking_Motion)
-- <a name="Benosman14tnnls"></a>Benosman, R., Clercq, C., Lagorce, X., Ieng, S.-H., Bartolozzi, C.,  
-*[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537),*  
-IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 25(2):407-417, 2014. [PDF](https://www.neuromorphic-vision.com/public/publications/3/publication.pdf), [Code (jAER): LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java)
-    - <a name="Clady14fnins"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
-*[Asynchronous visual event-based time-to-contact](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
-Front. Neurosci. (2014), 8:9. [PDF](https://www.neuromorphic-vision.com/public/publications/30/publication.pdf)
-    - <a name="Mueggler15icra"></a>E. Mueggler, C. Forster, N. Baumli, G. Gallego, D. Scaramuzza,  
-*[Lifetime Estimation of Events from Dynamic Vision Sensors](http://dx.doi.org/10.1109/ICRA.2015.7139876)*,  
-IEEE Int. Conf. Robotics and Automation (ICRA), 2015, pp. 4874-4881. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pdf), [PPT](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pptm), [Code](https://www.github.com/uzh-rpg/rpg_event_lifetime)
-    - <a name="Lee17iccas"></a>Lee, A. J., Kim, A.,  
-*[Event-based Real-time Optical Flow Estimation](https://doi.org/10.23919/ICCAS.2017.8204333)*,  
-IEEE Int. Conf. on Control, Automation and Systems (ICCAS), 2017.
-- <a name="Barranco14ieee"></a>Barranco, F., Fermüller, C., Aloimonos, Y.,  
-*[Contour motion estimation for asynchronous event-driven cameras](https://doi.org/10.1109/JPROC.2014.2347207)*,  
-Proc. IEEE (2014), 102(10):1537-1556. [PDF](http://www.cfar.umd.edu/~fer/postscript/contourmotion-dvs-final.pdf)
-- <a name="Lee14icip"></a>Lee, J.H., Lee, K., Ryu, H., Park, P.K.J., Shin, C.W., Woo, J., Kim, J.-S.,  
-*[Real-time motion estimation based on event-based vision sensor](https://doi.org/10.1109/ICIP.2014.7025040)*,  
-IEEE Int. Conf. Image Processing (ICIP), 2014.
-- <a name="Barranco15iwann"></a>Barranco, F., Fermûller, C., Aloimonos, Y.,  
-*[Bio-inspired Motion Estimation with Event-Driven Sensors](https://doi.org/10.1007/978-3-319-19258-1_27)*,  
-Int. Work-Conf. Artificial Neural Networks (IWANN) 2015, Advances in Computational Intell., pp. 309-321.
-- <a name="Conradt15robio"></a>Conradt, J.,  
-*[On-Board Real-Time Optic-Flow for Miniature Event-Based Vision Sensors](https://doi.org/10.1109/ROBIO.2015.7419043)*,  
-IEEE Int. Conf. Robotics and Biomimetics (ROBIO), 2015, pp. 1858-1863.
-- <a name="Brosch15fnins"></a>Brosch, T., Tschechne, S., Neumann, H.,  
-*[On event-based optical flow detection](https://doi.org/10.3389/fnins.2015.00137)*,  
-Front. Neurosci. (2015), 9:137.
-    - <a name="Tschechne14bict"></a>Tschechne, S., Brosch, T., Sailer, R., von Egloffstein, N., Abdul-Kreem L.I., Neumann, H.,  
-*[On event-based motion detection and integration](http://dx.doi.org/10.4108/icst.bict.2014.257904)*,  
-Int. Conf. Bio-inspired Information and Comm. Technol. (BICT), 2014. [PDF](https://dl.acm.org/citation.cfm?id=2744588)
-    - <a name="Tschechne14annpr"></a>Tschechne, S., Sailer R., Neumann, H.,  
-*[Bio-Inspired Optic Flow from Event-Based Neuromorphic Sensor Input](https://doi.org/10.1007/978-3-319-11656-3_16)*,  
-IAPR Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR) 2014, pp. 171-182.
-    - <a name="Brosch15bict"></a>Brosch, T., Neumann, H.,  
-*[Event-based optical flow on neuromorphic hardware](https://doi.org/10.4108/eai.3-12-2015.2262447)*,  
-Int. Conf. Bio-inspired Information and Comm. Technol. (BICT), 2015. [PDF](https://dl.acm.org/citation.cfm?id=2954727)
-    - <a name="Kosiorek15techrep"></a>Kosiorek, A., Adrian, D., Rausch, J., Conradt, J.,  
-*[An Efficient Event-Based Optical Flow Implementation in C/C++ and CUDA](http://tum.neurocomputing.systems/fileadmin/w00bqs/www/publications/pp/2015SS-PP-RealTimeDVSOpticFlow.pdf),*  
-Tech. Rep. TU Munich, 2015.
-- <a name="Milde15ebccsp"></a>Milde, M. B., Bertrand, O.J.N., Benosman, R., Egelhaaf, M., Chicca, E.,  
-*[Bioinspired event-driven collision avoidance algorithm based on optic flow](https://doi.org/10.1109/EBCCSP.2015.7300673)*,  
-IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2015.
-- <a name="Giulioni16fnins"></a>Giulioni, M., Lagorce, X., Galluppi, F., Benosman, R.,  
-*[Event-Based Computation of Motion Flow on a Neuromorphic Analog Neural Platform](https://doi.org/10.3389/fnins.2016.00035)*,  
-Front. Neurosci. (2016), 10:35. [PDF](https://www.neuromorphic-vision.com/public/publications/46/publication.pdf)
-- <a name="Rueckauer16fnins"></a>Rueckauer, B. and Delbruck, T.,  
-*[Evaluation of Event-Based Algorithms for Optical Flow with Ground-Truth from Inertial Measurement Sensor](https://doi.org/10.3389/fnins.2016.00176),*  
-Front. Neurosci. (2016), 10:176.
-    - [Code (jAER)](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/)
-- <a name="Bardow16cvpr"></a>Bardow, P. A., Davison, A. J., Leutenegger, S.,  
-*[Simultaneous Optical Flow and Intensity Estimation from an Event Camera](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2016. [YouTube](https://youtu.be/1zqJpiheaaI), [Dataset: 4 sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
-- <a name="Stoffregen17acra"></a>Stoffregen, T., Kleeman, L.,  
-*[Simultaneous Optical Flow and Segmentation (SOFAS) using Dynamic Vision Sensor](http://www.araa.asn.au/acra/acra2017/papers/pap127s1-file1.pdf)*,  
-Australasian Conf. Robotics and Automation (ACRA), 2017. [PDF](https://arxiv.org/pdf/1805.12326.pdf), [YouTube](https://youtu.be/JVkQOW_iUqs)
-- <a name="Haessig17arxiv"></a>Haessig, G., Cassidy, A. Alvarez, R., Benosman, R., Orchard, G.,  
-*[Spiking Optical Flow for Event-based Sensors Using IBM's TrueNorth Neurosynaptic System](https://doi.org/10.1109/TBCAS.2018.2834558)*,  
-IEEE Trans. Biomed. Circuits Syst., 12(4):860-870, 2018. [PDF](https://arxiv.org/pdf/1710.09820.pdf)
-- <a name="Aung18iscas"></a>Aung, M.T., Teo, R., Orchard, G.,  
-*[Event-based Plane-fitting Optical Flow for Dynamic Vision Sensors in FPGA](https://doi.org/10.1109/ISCAS.2018.8351588)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2018. [Code](https://github.com/gorchard/FPGA_event_based_optical_flow)
-- [Gallego et. al. CVPR 2018](#Gallego18cvpr),  
-*A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation*.
-    - <a name="Stoffregen19cvpr"></a>Stoffregen, T., Kleeman, L.,  
-*[Event Cameras, Contrast Maximization and Reward Functions: An Analysis](http://openaccess.thecvf.com/content_CVPR_2019/html/Stoffregen_Event_Cameras_Contrast_Maximization_and_Reward_Functions_An_Analysis_CVPR_2019_paper.html)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
-    - [Gallego et. al. CVPR 2019](#Gallego19cvpr),  
-*Focus Is All You Need: Loss Functions For Event-based Vision*.
-    - [Stoffregen et. al. ICCV 2019](#Stoffregen19iccv),  
-*Event-Based Motion Segmentation by Motion Compensation*.
-- <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
-*[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
-Robotics: Science and Systems XIV (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE), [Code](https://github.com/daniilidis-group/EV-FlowNet)
-    - [Gehrig et. al. ICCV 2019](#Gehrig19iccv),  
-*End-to-End Learning of Representations for Asynchronous Event-Based Data*.
-- <a name="Liu18bmvc"></a>Liu, M., Delbruck, T.,  
-*[Adaptive Time-Slice Block-Matching Optical Flow Algorithm for Dynamic Vision Sensors](http://bmvc2018.org/contents/papers/0280.pdf)*,  
-British Machine Vision Conf. (BMVC), 2018. [Supplementary material](https://docs.google.com/document/d/10X0z4zznuV9j1OOjWpJGv-YCWujkF7FiYjG6efwUrP0/edit), [Video](https://youtu.be/fGJ8jyqziBI)
-    - <a name="Liu17iscas"></a>Liu, M., Delbruck, T.,  
-*[Block-Matching Optical Flow for Dynamic Vision Sensors: Algorithm and FPGA Implementation](https://arxiv.org/pdf/1706.05415.pdf)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
-- <a name="Ye18arxiv"></a>Ye, C., Mitrokhin, A., Parameshwara, C., Fermüller, C., Yorke, J. A., Aloimonos,Y,  
-*[Unsupervised Learning of Dense Optical Flow and Depth from Sparse Event Data](https://arxiv.org/pdf/1809.08625.pdf)*,  
-arXiv:1809.08625, 2018.
-- <a name="Akolkar18arxiv"></a>Akolkar, H., Ieng, S.-H., Benosman, R.,  
-*[See before you see: Real-time high speed motion prediction using fast aperture-robust event-driven visual flow](https://arxiv.org/pdf/1811.11135)*,  
-arXiv:1811.11135, 2018.
-- <a name="Nagata19iwait"></a>Nagata, J., Sekikawa, Y., Hara, K., Aoki, Y.,  
-[FOE-based regularization for optical flow estimation from an in-vehicle event camera](https://doi.org/10.1117/12.2521520),  
-Proc. SPIE 11049, Int. Workshop on Advanced Image Technology (IWAIT), 2019.
-- <a name="ParedesValles19tpami"></a>Paredes-Valles, F., Scheper, K. Y. W., de Croon, G. C. H. E.,  
-*[Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception](https://ieeexplore.ieee.org/document/8660483)*,  
-IEEE Trans. Pattern Anal. Mach. Intell (TPAMI), 2019. [PDF](https://arxiv.org/abs/1807.10936), [YouTube](https://www.youtube.com/watch?v=FJrba02kZII&list=PL_KSX9GOn2P80tm3IsgbmPAUi2KDE53zI&index=2&t=0s), [Code](https://github.com/tudelft/cuSNN).
-- <a name="Zhu19cvpr"></a>Zhu, A. Z., Yuan, L., Chaney, K., Daniilidis, K.,  
-*[Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1812.08156), [YouTube](https://youtu.be/aDzFSG4yV0M)
-- <a name="Khoei19neco"></a>Khoei, M.A., Benosman, R.,  
-*[Asynchronous Event-Based Motion Processing: From Visual Events to Probabilistic Sensory Representation](https://doi.org/10.1162/neco_a_01191)*,  
-Neural Computation (2019), 31(6):1114-1138. [PDF](https://www.neuromorphic-vision.com/public/publications/56/publication.pdf)
-- <a name="Almatrafi19davis"></a>Almatrafi, M. M.,  Hirakawa, K.,  
-*[DAViS Camera Optical Flow](http://doi.org/10.1109/TCI.2019.2948787)*,  
-IEEE Trans. Comput. Imag. (TCI), 2019.
-
-
-<a name="scene-flow-estimation"></a>
-## Scene Flow Estimation
-- <a name="Ieng17fnins"></a>Ieng, S.-H., Carneiro, J., Benosman, R.,  
-*[Event-Based 3D Motion Flow Estimation Using 4D Spatio Temporal Subspaces Properties](https://doi.org/10.3389/fnins.2016.00596)*,  
-Front. Neurosci. (2017), 10:596.
-    - [Carneiro, Ph.D. Thesis, 2014](#Carneiro14PhD),  
-*Asynchronous Event-Based 3D Vision - Chapter 3*.
-
-
-<a name="image-reconstruction"></a>
-## Intensity-Image Reconstruction from events
-- <a name="Cook11ijcnn"></a>Cook, M., Gugelmann, L., Jug, F., Krautz, C., Steger, A.,  
-*[Interacting maps for fast visual interpretation](https://doi.org/10.1109/IJCNN.2011.6033299)*,  
-Int. Joint Conf. on Neural Networks (IJCNN), San Jose, CA, 2011, pp. 770-776. [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.690.7666&rep=rep1&type=pdf), [YouTube](https://youtu.be/irX3Nd5U0hY)
-    - <a name="Martel15irosw"></a>Martel, J. N. P., Cook, M.,  
-    *[A Framework of Relational Networks to Build Systems with Sensors able to Perform the Joint Approximate Inference of Quantities](https://doi.org/10.5167/uzh-121743)*,  
-    IEEE/RSJ Int. Conf. Intelligent Robots and Systems Workshop (IROSW), 2015. Workshop on Unconventional Computing for Bayesian Inference. [PDF](http://www.zora.uzh.ch/121743/1/RelationalNetSensor.pdf)
-    - <a name="Martel15iscas"></a>Martel, J. N. P., Chau, M., Dudek, P., Cook, M.,  
-    *[Toward joint approximate inference of visual quantities on cellular processor arrays](https://doi.org/10.1109/ISCAS.2015.7169083)*,  
-    IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 2061-2064.
-- [Belbachir et al. CVPRW 2014](#Belbachir14cvprw),  
-*A Novel HDR Depth Camera for Real-time 3D 360-degree Panoramic Vision*.
-- <a name="Kim14bmvc"></a>Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A. J.,  
-*[Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/)*,  
-British Machine Vision Conf. (BMVC), 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU).
-    - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events).
-- <a name="Barua16wacv"></a>Barua, S., Miyatani, Y., Veeraraghavan, A.,  
-*[Direct face detection and video reconstruction from event cameras](http://doi.org/10.1109/WACV.2016.7477561)*,  
-IEEE Winter Conf. Applications of Computer Vision (WACV), 2016, pp. 1-9. [YouTube](https://youtu.be/yGDVlN-L1TU)
-- [Bardow et. al. CVPR 2016](#Bardow16cvpr),  
-*Simultaneous Optical Flow and Intensity Estimation from an Event Camera*.
-- <a name="Moeys17iscas"></a>Moeys, D. P., Li, C., Martel, J. N. P., Bamford, S., Longinotti, L., Motsnyi, V., Bello, D. S. S., Delbruck, T.,  
-*[Color Temporal Contrast Sensitivity in Dynamic Vision Sensors](http://dx.doi.org/10.1109/ISCAS.2017.8050412)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2017. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=65634).
-- <a name="Munda18ijcv"></a>Munda, G., Reinbacher, C., Pock, T.,  
-*[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](https://doi.org/10.1007/s11263-018-1106-2)*,  
-Int. J. of Computer Vision (IJCV), 2018.
-    - <a name="Reinbacher16bmvc"></a>Reinbacher, C., Graber, G., Pock, T.,  
-*[Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation](http://www.bmva.org/bmvc/2016/papers/paper009/)*,  
-British Machine Vision Conf. (BMVC), 2016. [PDF](http://www.bmva.org/bmvc/2016/papers/paper009/paper009.pdf), [YouTube](https://youtu.be/rvB2URrGT94), [Code](https://github.com/VLOGroup/dvs-reconstruction)
-- <a name="Watkins18icons"></a>Watkins, Y., Thresher, A., Mascarenas, D., Kenyon,  G.T.,  
-*[Sparse Coding Enables the Reconstruction of High-Fidelity Images and Video from Retinal Spike Trains](https://doi.org/10.1145/3229884.3229892)*,  
-Int. Conf. Neuromorphic Systems (ICONS), 2018. Article No. 8. [PDF](https://dl.acm.org/ft_gateway.cfm?id=3229892&ftid=1990359&dwn=1&CFID=41965358&CFTOKEN=fe90e12f8b0b321e-23C508A3-0508-BCD6-37A17F6C8E171DAB)
-- <a name="Scheerlinck18accv"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
-*[Continuous-time Intensity Estimation Using Event Cameras](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf)*,  
-Asian Conf. Computer Vision (ACCV), 2018. [PDF](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf), [YouTube](https://youtu.be/bZ0ZKido0Ag), [Website](https://cedric-scheerlinck.github.io/continuous-time-intensity-estimation)
-- <a name="Mostafavi19cvpr"></a>Mostafavi I., S.M., Wang, L., Ho, Y.S., Yoon, K.J.,  
-*[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Event-Based_High_Dynamic_Range_Image_and_Very_High_Frame_Rate_CVPR_2019_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/abs/1811.08230)
-- <a name="Rebecq20tpami"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
-*[High Speed and High Dynamic Range Video with an Event Camera](https://doi.org/10.1109/TPAMI.2019.2963386)*,  
-IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/TPAMI19_Rebecq.pdf),  [YouTube](https://youtu.be/eomALySSGVU), [Code](https://github.com/uzh-rpg/rpg_e2vid), [Project page](http://rpg.ifi.uzh.ch/E2VID/)
-    - <a name="Rebecq19cvpr"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
-*[Events-to-Video: Bringing Modern Computer Vision to Event Cameras](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf),  [YouTube](https://youtu.be/IdYrC4cUO0I), [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Henri_Rebecq.pdf), [Video pitch](https://youtu.be/1LZKtnQ-6lA).
-    - <a name="Scheerlinck20wacv"></a>Scheerlinck, C., Rebecq, H., Gehrig, D., Barnes, N., Mahony, R., Scaramuzza, D.,  
-*[Fast Image Reconstruction with an Event Camera](https://cedric-scheerlinck.github.io/firenet)*,  
-IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf),  [YouTube](https://youtu.be/QaGYFtR2-X8), [Website](https://cedric-scheerlinck.github.io/firenet)
-- [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
-*CED: Color Event Camera Dataset*.
-
-
-<a name="video-synthesis"></a>
-## Video Synthesis
-- <a name="Brandli14iscas"></a>Brandli, C., Muller, L., Delbruck, T.,  
-*[Real-time, high-speed video decompression using a frame- and event-based DAVIS sensor](https://doi.org/10.1109/ISCAS.2014.6865228)*,  
-IEEE Int. Symp. on Circuits and Systems (ISCAS), 2014.
-    - [Brandli, Ph.D. Thesis, 2014](#Brandli15PhD),  
-*Event-Based Machine Vision - Section 4.11*.
-- <a name="Liu17tvc"></a>Liu HC., Zhang FL., Marshall D., Shi L., Hu SM.,  
-*[High-speed Video Generation with an Event Camera](https://link.springer.com/article/10.1007/s00371-017-1372-y)*,  
-The Visual Computer, 2017. [PDF](https://cg.cs.tsinghua.edu.cn/papers/TVC-2017-HS-Video.pdf).
-- <a name="Shedligeri18arxiv"></a>Shedligeri, P.A., Shah, K., Kumar, D., Mitra, K.,  
-*[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://arxiv.org/pdf/1805.06140.pdf)*,  
-arXiv:1805.06140, 2018.
-- <a name="Wang19arxiv"></a>Wang, Z., Jiang, W., Katsaggelos, A., Cossairt, O.,  
-*[Event-driven Video Frame Synthesis](https://arxiv.org/abs/1902.09680)*,  
-arXiv:1902.09680, 2019.
-- <a name="Pan19cvpr"></a>Pan, L., Scheerlinck, C., Yu, X., Hartley, R., Liu, M., Dai, Y.,  
-*[Bringing a Blurry Frame Alive at High Frame-Rate with an Event Camera](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pan_Bringing_a_Blurry_Frame_Alive_at_High_Frame-Rate_With_an_CVPR_2019_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1811.10180). [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Yuchao_Dai.pdf), [Video CVPR](https://drive.google.com/file/d/1NscnUF2QxK0of4ZW7T8kneJTH1X76l2u/view), [Video CVPRW](https://youtu.be/JcgboJ_7JAE), [Code](https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera)
-    - <a name="Pan19arxiv"></a>Pan, L., Hartley, R., Scheerlinck, C., Liu, M., Yu, X., Dai, Y.,  
-*[High Frame Rate Video Reconstruction based on an Event Camera](https://arxiv.org/pdf/1903.06531)*,  
-arXiv, 2019.
-- <a name="Pini19iciap"></a>Pini, S., Borghi, G., Vezzani, R., Cucchiara, R.,  
-*[Video synthesis from Intensity and Event Frames](https://doi.org/10.1007/978-3-030-30642-7_28)*,  
-Int. Conf. Image Analysis and Processing (ICIAP), 2019. LNCS, vol 11751. [PDF](https://iris.unimore.it/retrieve/handle/11380/1178955/224434/ICIAP19_Event_Cameras.pdf)
-- <a name="Pini20visapp"></a>Pini S., Borghi G., Vezzani R.,  
-*[Learn to See by Events: Color Frame Synthesis from Event and RGB Cameras](http://hdl.handle.net/11380/1185831)*,  
-Int. Joint Conf. on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP) 2020. [PDF](https://arxiv.org/pdf/1812.02041)
-
-
-<a name="super-resolution"></a>
-## Super-resolution
-- <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
-*[Super-resolution of spatiotemporal event-stream image](https://doi.org/10.1016/j.neucom.2018.12.048)*,  
-Neurocomputing, vol. 335, pp. 206-214, 2019. [PDF pre-print](https://arxiv.org/abs/1802.02398)
-- <a name="Mostafavi19arxiv"></a>Mostafavi I., S.M.,  Choi, J., Yoon, K.J,  
-*[Learning to Super Resolve Intensity Images from Events](https://arxiv.org/abs/1912.01196)*,  
-arXiv, 2019.
-
-
-<a name="tone-mapping"></a>
-## Tone Mapping
-- <a name="SimonChane16fnins"></a>Simon Chane, C., Ieng, S.-H., Posch, C., Benosman, R.,  
-*[Event-Based Tone Mapping for Asynchronous Time-Based Image Sensor](https://doi.org/10.3389/fnins.2016.00391)*,  
-Front. Neurosci. (2016), 10:391. [PDF](https://www.neuromorphic-vision.com/public/publications/43/publication.pdf)
-
-
-<a name="visual-stabilization"></a>
-## Visual Stabilization
-- <a name="Delbruck14iscas"></a>Delbruck, T., Villanueva, V., Longinotti, L.,  
-*[Integration of dynamic vision sensor with inertial measurement unit for electronically stabilized event-based vision](http://doi.org/10.1109/ISCAS.2014.6865714)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2014. [YouTube](https://youtu.be/Tzy4WF6Qp-Y)
 
 
 <a name="slam"></a>
