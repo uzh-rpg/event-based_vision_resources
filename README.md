@@ -881,7 +881,7 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019. [PDF](http://rpg.ifi.uzh.c
 - See [Depth Estimation (3D Reconstruction)](#depth-estimation)
 
 <a name="visual-odometry"></a>
-### Visual Odometry
+### Visual Odometry / SLAM
 - [Cook et. al. IJCNN 2011](#Cook11ijcnn),  
 *Interacting maps for fast visual interpretation*. (Joint estimation of optical flow, image intensity and angular velocity with a rotating event camera).
 - <a name="Weikersdorfer13icvs"></a>Weikersdorfer, D., Hoffmann, R., Conradt. J.,  
