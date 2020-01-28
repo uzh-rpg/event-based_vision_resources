@@ -24,8 +24,8 @@
     - [Super-resolution](#super-resolution)
     - [Tone mapping](#tone-mapping)
     - [Visual Stabilization](#visual-stabilization)
-    - [SLAM (Simultaneous Localization And Mapping)](#SLAM)
-        - [Localization, Ego-motion estimation](#egomotion)
+    - [SLAM (Simultaneous Localization And Mapping)](#slam)
+        - [Localization, Ego-motion estimation](#slam-localization)
         - [Visual Odometry](#visual-odometry)
         - [Visual-Inertial Odometry](#visual-inertial)
     - [Segmentation](#segmentation)
@@ -34,8 +34,8 @@
     - [Pattern recognition](#pattern-recognition)
         - [Object Recognition](#object-recognition)
         - [Gesture Recognition](#gesture-recognition)
-        - [Representation / Feature extraction](#learning-representation-features)
-        - [Regression tasks](#learning-regression)
+        - [Representation / Feature Extraction](#learning-representation-features)
+        - [Regression Tasks](#learning-regression)
         - [Learning Methods / Frameworks](#learning-methods-frameworks)
     - [Control](#control)
     - [Space Applications](#space)
@@ -763,15 +763,15 @@ Asian Conf. Computer Vision (ACCV), 2018. [PDF](https://cedric-scheerlinck.githu
 - <a name="Mostafavi19cvpr"></a>Mostafavi I., S.M., Wang, L., Ho, Y.S., Yoon, K.J.,  
 *[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Event-Based_High_Dynamic_Range_Image_and_Very_High_Frame_Rate_CVPR_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/abs/1811.08230)
-- <a name="Rebecq19tpami"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
+- <a name="Rebecq20tpami"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
 *[High Speed and High Dynamic Range Video with an Event Camera](https://doi.org/10.1109/TPAMI.2019.2963386)*,  
-IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/TPAMI19_Rebecq.pdf),  [YouTube](https://youtu.be/eomALySSGVU), [Code](https://github.com/uzh-rpg/rpg_e2vid), [Project page](http://rpg.ifi.uzh.ch/E2VID/)
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/TPAMI19_Rebecq.pdf),  [YouTube](https://youtu.be/eomALySSGVU), [Code](https://github.com/uzh-rpg/rpg_e2vid), [Project page](http://rpg.ifi.uzh.ch/E2VID/)
     - <a name="Rebecq19cvpr"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
 *[Events-to-Video: Bringing Modern Computer Vision to Event Cameras](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf),  [YouTube](https://youtu.be/IdYrC4cUO0I), [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Henri_Rebecq.pdf), [Video pitch](https://youtu.be/1LZKtnQ-6lA).
     - <a name="Scheerlinck20wacv"></a>Scheerlinck, C., Rebecq, H., Gehrig, D., Barnes, N., Mahony, R., Scaramuzza, D.,  
 *[Fast Image Reconstruction with an Event Camera](https://cedric-scheerlinck.github.io/firenet)*,  
-IEEE Winter Conf. Applications of Computer Vision (WACV), 2019. [PDF](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf),  [YouTube](https://youtu.be/QaGYFtR2-X8), [Website](https://cedric-scheerlinck.github.io/firenet)
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf),  [YouTube](https://youtu.be/QaGYFtR2-X8), [Website](https://cedric-scheerlinck.github.io/firenet)
 - [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
 *CED: Color Event Camera Dataset*.
 
@@ -830,13 +830,10 @@ Front. Neurosci. (2016), 10:391. [PDF](https://www.neuromorphic-vision.com/publi
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2014. [YouTube](https://youtu.be/Tzy4WF6Qp-Y)
 
 
-<a name="SLAM"></a>
+<a name="slam"></a>
 ## SLAM (Simultaneous Localization And Mapping)
 
-### Mapping
-- See [Depth Estimation](#depth-estimation)
-
-<a name="egomotion"></a>
+<a name="slam-localization"></a>
 ### Localization, Ego-Motion Estimation
 - <a name="Weikersdorfer12robio"></a>Weikersdorfer, D. and Conradt, J.,  
 *[Event-based particle filtering for robot self-localization](http://doi.org/10.1109/ROBIO.2012.6491077)*,  
@@ -879,6 +876,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019. [PDF](http://rpg.ifi.uzh.c
 - [Zhu et. al. CVPR 2019](#Zhu19cvpr),  
 *Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion.*
 
+<a name="slam-mapping"></a>
+### Mapping
+- See [Depth Estimation (3D Reconstruction)](#depth-estimation)
 
 <a name="visual-odometry"></a>
 ### Visual Odometry
@@ -938,7 +938,7 @@ British Machine Vision Conf. (BMVC), 2017. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC
 IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq.pdf), [YouTube](https://youtu.be/jIvJuWdmemE), [Poster](http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq_poster.pdf), [Project page](http://rpg.ifi.uzh.ch/ultimateslam.html), [ICRA18 video pitch](https://youtu.be/0hDGFFJQfmA).
 - [Nelson, K. J., MSc Thesis 2019](#Nelson19MSc),  
 *Event-Based Visual-Inertial Odometry on a Fixed-Wing Unmanned Aerial Vehicle*.
-- [Rebecq et. al. TPAMI 2019](#Rebecq19tpami),  
+- [Rebecq et. al. TPAMI 2020](#Rebecq20tpami),  
 *High Speed and High Dynamic Range Video with an Event Camera*.
     - [Rebecq et. al. CVPR 2019](#Rebecq19cvpr),  
 *Events-to-Video: Bringing Modern Computer Vision to Event Cameras*.
@@ -948,7 +948,7 @@ IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](htt
 ## Segmentation
 
 <a name="object-segmentation"></a>
-## Object Segmentation
+### Object Segmentation
 - <a name="Barranco15iccv"></a>Barranco, F., Teo, C. L., Fermüller, C., Aloimonos, Y.,  
 *[Contour Detection and Characterization for Asynchronous Event Sensors](https://doi.org/10.1109/ICCV.2015.63)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2015, pp. 486-494. [PDF](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Barranco_Contour_Detection_and_ICCV_2015_paper.pdf), [Project page](http://www.umiacs.umd.edu/research/POETICON/DVSContours/)
@@ -1126,7 +1126,7 @@ IEEE Int. Conf. AI Circuits Syst. (AICAS), 2019.
 
 
 <a name="learning-representation-features"></a>
-### Representation / Feature extraction
+### Representation / Feature Extraction
 - Camuñas-Mesa, L., Zamarreño-Ramos, C., Linares-Barranco, A., Acosta-Jiménez, A., Serrano-Gotarredona, T., Linares-Barranco, B.  
 *[An Event-Driven Multi-Kernel Convolution Processor Module for Event-Driven Vision Sensors](https://doi.org/10.1109/JSSC.2011.2167409)*,  
 IEEE J. of Solid-State Circuits, 47(2):504-517, 2012.
@@ -1199,7 +1199,7 @@ arXiv:1912.01584, 2019.
 
 
 <a name="learning-regression"></a>
-### Regression tasks
+### Regression Tasks
 - <a name="Maqueda18cvpr"></a>Maqueda, A.I., Loquercio, A., Gallego, G., Garcia, N., Scaramuzza, D.,  
 *[Event-based Vision meets Deep Learning on Steering Prediction for Self-driving Cars](http://openaccess.thecvf.com/content_cvpr_2018/papers/Maqueda_Event-Based_Vision_Meets_CVPR_2018_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR18_Maqueda.pdf), [Poster](http://rpg.ifi.uzh.ch/docs/CVPR18_Maqueda_poster.pdf),  [YouTube](https://youtu.be/_r_bsjkJTHA).
@@ -1209,7 +1209,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018. [PDF](http://rp
 *Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception.*
 - [Gallego et. al. CVPR 2019](#Gallego19cvpr),  
 *Focus Is All You Need: Loss Functions For Event-based Vision*.
-- [Rebecq et. al. TPAMI 2019](#Rebecq19tpami),  
+- [Rebecq et. al. TPAMI 2020](#Rebecq20tpami),  
 *High Speed and High Dynamic Range Video with an Event Camera*.
     - [Rebecq et. al. CVPR 2019](#Rebecq19cvpr),  
 *Events-to-Video: Bringing Modern Computer Vision to Event Cameras*.
@@ -1245,7 +1245,7 @@ Robotics: Science and Systems XIV (RSS), 2019. [PDF](https://www.research-collec
 arXiv, 2019. [PDF](https://arxiv.org/pdf/1904.04805), [Video](https://neurorobotics-files.net/index.php/s/sBQzWFrBPoH9Dx7)
 
 
-
+<br><br>
 <a name="control"></a>
 ## Control
 - <a name="Delbruck13fnins"></a>Delbruck, T. and Lang, M.,  
@@ -1412,7 +1412,7 @@ Conf. on Robot Learning (CoRL), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CORL18_Re
 - <a name="Scheerlinck19cvprw"></a>Scheerlinck, C., Rebecq, H., Stoffregen, T., Barnes, N., Mahony, R., Scaramuzza, D.,  
 [CED: Color Event Camera Dataset](http://rpg.ifi.uzh.ch/CED.html),  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_CED_pitch.pdf), [Video pitch](https://youtu.be/BfMjtUQwWnQ).
-- [Rebecq et. al. TPAMI 2019](#Rebecq19tpami),  
+- [Rebecq et. al. TPAMI 2020](#Rebecq20tpami),  
 *High Speed and High Dynamic Range Video with an Event Camera*. [Project page](http://rpg.ifi.uzh.ch/E2VID/)
 
 ### Visual Odometry and SLAM
@@ -1535,7 +1535,7 @@ IEEE Access, vol. 7, pp. 138415-138425, 2019.
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events), inspired by the paper [Kim et. al. BMVC 2014](#Kim14bmvc).
     - [DVS reconstruction code](https://github.com/VLOGroup/dvs-reconstruction) associated to the paper [Reinbacher et. al. BMVC 2016](#Reinbacher16bmvc).
     - [High-pass filter code](https://github.com/cedric-scheerlinck/dvs_image_reconstruction) associated to the paper [Scheerlinck et al. ACCV 2018](#Scheerlinck18accv)
-    - [E2VID code](https://github.com/uzh-rpg/rpg_e2vid) associated to the paper [Rebecq et al. TPAMI 2019](#Rebecq19tpami).
+    - [E2VID code](https://github.com/uzh-rpg/rpg_e2vid) associated to the paper [Rebecq et al. TPAMI 2020](#Rebecq20tpami).
 - **Localization and Ego-Motion Estimation**
     - [Panoramic tracking code](https://github.com/VLOGroup/dvs-panotracking) associated to the paper [Reinbacher et. al. ICCP 2017](#Reinbacher17iccp).
 - **Pattern Recognition**
