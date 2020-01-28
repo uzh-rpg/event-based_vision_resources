@@ -1481,7 +1481,7 @@ IEEE Access, vol. 7, pp. 138415-138425, 2019.
 ## Algorithms
 - [Several event-processing filters](https://sourceforge.net/p/jaer/wiki/FilterIndex_1/) in the [jAER (java Address-Event Representation) project](http://jaerproject.org/)
 - [A collection of tracking and detection algorithms](https://github.com/robotology/event-driven) using the YARP framework
-- [Some detection and tracking algorithms](https://github.com/EventVisionLibrary/evl) in evl
+- [Some detection and tracking algorithms](https://github.com/EventVisionLibrary/evl) in EVL
 - **Optical Flow**
     - [LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java), inspired by the paper [Benosman et. al. TNNLS 2014](#Benosman14tnnls).
     - [Several algorithms compared](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/) in the paper by [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
@@ -1489,9 +1489,13 @@ IEEE Access, vol. 7, pp. 138415-138425, 2019.
     - [EV-FlowNet](https://github.com/daniilidis-group/EV-FlowNet), associated to the paper [Zhu et. al. RSS 2018](#Zhu18rss).
 - **Feature Tracking**
     - [Event-based Feature Tracking with Probabilistic Data Association](https://github.com/daniilidis-group/event_feature_tracking), associated to the papers [Zhu et. al. ICRA 2017](#Zhu17icra) and [Zhu et. al. CVPR 2017](#Zhu17cvpr).
+    - [Tracking code](https://github.com/uzh-rpg/rpg_eklt) associated to the paper [Gehrig et al. IJCV 2019]("#Gehrig19ijcv)".
+    - [Evaluation code](https://github.com/uzh-rpg/rpg_feature_tracking_analysis) associated to the paper [Gehrig et al. IJCV 2019]("#Gehrig19ijcv)".
 - **Intensity-Image reconstruction from events**
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events), inspired by the paper [Kim et. al. BMVC 2014](#Kim14bmvc).
     - [DVS reconstruction code](https://github.com/VLOGroup/dvs-reconstruction) associated to the paper [Reinbacher et. al. BMVC 2016](#Reinbacher16bmvc).
+    - [High-pass filter code](https://github.com/cedric-scheerlinck/dvs_image_reconstruction) associated to the paper [Scheerlinck et al. ACCV 2018](#Scheerlinck18accv) 
+    - [E2VID code](https://github.com/uzh-rpg/rpg_e2vid) associated to the paper [Rebecq et al. TPAMI 2019](#Rebecq19tpami).
 - **Localization and Ego-Motion Estimation**
     - [Panoramic tracking code](https://github.com/VLOGroup/dvs-panotracking) associated to the paper [Reinbacher et. al. ICCP 2017](#Reinbacher17iccp).
 - **Pattern Recognition**
@@ -1683,6 +1687,7 @@ MSc. Thesis, Politecnico di Torino, 2019.
 MSc. Thesis, University of Pennsylvania, 2019.
 
 
+<br><br>
 <a name="people"></a>
 # People / Organizations
 - [Institute of NeuroInformatics](https://www.ini.uzh.ch/) (INI) of the University of Zurich (UZH) and ETH Zurich, Switzerland.
