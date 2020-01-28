@@ -833,6 +833,9 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2014. [YouTube](https://youtu.be/T
 <a name="SLAM"></a>
 ## SLAM (Simultaneous Localization And Mapping)
 
+### Mapping
+- See [Depth Estimation](#depth-estimation)
+
 <a name="egomotion"></a>
 ### Localization, Ego-Motion Estimation
 - <a name="Weikersdorfer12robio"></a>Weikersdorfer, D. and Conradt, J.,  
