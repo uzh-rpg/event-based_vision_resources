@@ -1233,9 +1233,9 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 35(11):2706-2719, 2013.
 - <a name="Stromatias17fnins"></a>Stromatias, E., Soto, M., Serrano-Gotarredona, T., Linares-Barranco, B.,  
 *[An Event-Based Classifier for Dynamic Vision Sensor and Synthetic Data](https://doi.org/10.3389/fnins.2017.00350)*,  
 Front. Neurosci. (2017), 11:350.
-- <a name="Haessig18arxiv"></a>Haessig, G. and Benosman, R.,  
-*[A Sparse Coding Multi-Scale Precise-Timing Machine Learning Algorithm for Neuromorphic Event-Based Sensors](https://arxiv.org/pdf/1804.09236.pdf)*,  
-arXiv: 1804.09236, 2018.
+- <a name="Haessig18spie"></a>Haessig, G. and Benosman, R.,  
+*[A Sparse Coding Multi-Scale Precise-Timing Machine Learning Algorithm for Neuromorphic Event-Based Sensors](https://doi.org/10.1117/12.2305933)*,  
+Proc. SPIE 10639, Micro- and Nanotechnology Sensors, Systems, and Applications X, 106391U, 2018. [PDF](https://arxiv.org/pdf/1804.09236.pdf)
 - <a name="Shrestha18nips"></a>Shrestha, S., Orchard, G.,  
 *[SLAYER: Spike Layer Error Reassignment in time](https://arxiv.org/abs/1810.08646)*,  
 Advances in Neural Information Processing Systems (NeurIPS) 2018. [PDF](https://arxiv.org/pdf/1810.08646.pdf), [YouTube](https://youtu.be/JGdatqqci5o).
