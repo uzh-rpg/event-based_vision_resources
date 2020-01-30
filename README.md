@@ -414,7 +414,7 @@ Proc. IEEE (2014), 102(10):1537-1556. [PDF](http://www.cfar.umd.edu/~fer/postscr
 *[Real-time motion estimation based on event-based vision sensor](https://doi.org/10.1109/ICIP.2014.7025040)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2014.
 - <a name="Richter14bc"></a>Richter, C., Röhrbein, F., Conradt, J.,  
-[Bio inspired optic flow detectionusing neuromorphic hardware](doi.org/10.12751/NNCN.BC2014.0032),  
+[Bio inspired optic flow detectionusing neuromorphic hardware](https://doi.org/10.12751/NNCN.BC2014.0032),  
 Bernstein Conf. 2014. [PDF](https://mediatum.ub.tum.de/doc/1281617/789727.pdf)
 - <a name="Barranco15iwann"></a>Barranco, F., Fermûller, C., Aloimonos, Y.,  
 *[Bio-inspired Motion Estimation with Event-Driven Sensors](https://doi.org/10.1007/978-3-319-19258-1_27)*,  
