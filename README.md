@@ -1062,6 +1062,9 @@ Int. Joint Conf. Computer Vision, Imaging and Computer Graphics Theory and Appli
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2019.
 - [Li and Shi, Front. Neurorobot. 2019](#Li19fnbot),  
 *Robust Event-Based Object Tracking Combining Correlation Filter and CNN Representation*.
+- <a name="CamunasMesa19icecs"></a>Camuñas-Mesa, L.A., Linares-Barranco, B., Serrano-Gotarredona, T.,  
+*[Low-power hardware implementation of SNN with decision block for recognition tasks](https://doi.org/10.1109/ICECS46596.2019.8964964)*,  
+IEEE Int. Conf. Electronics, Circuits and Systems (ICECS), 2019.
 
 
 <a name="gesture-recognition"></a>
