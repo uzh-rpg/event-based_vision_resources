@@ -453,7 +453,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2016. [YouTube](https
 - <a name="Stoffregen17acra"></a>Stoffregen, T., Kleeman, L.,  
 *[Simultaneous Optical Flow and Segmentation (SOFAS) using Dynamic Vision Sensor](http://www.araa.asn.au/acra/acra2017/papers/pap127s1-file1.pdf)*,  
 Australasian Conf. Robotics and Automation (ACRA), 2017. [PDF](https://arxiv.org/pdf/1805.12326.pdf), [YouTube](https://youtu.be/JVkQOW_iUqs)
-- <a name="Haessig17arxiv"></a>Haessig, G., Cassidy, A. Alvarez, R., Benosman, R., Orchard, G.,  
+- <a name="Haessig17tbcas"></a>Haessig, G., Cassidy, A. Alvarez, R., Benosman, R., Orchard, G.,  
 *[Spiking Optical Flow for Event-based Sensors Using IBM's TrueNorth Neurosynaptic System](https://doi.org/10.1109/TBCAS.2018.2834558)*,  
 IEEE Trans. Biomed. Circuits Syst., 12(4):860-870, 2018. [PDF](https://arxiv.org/pdf/1710.09820.pdf)
 - [Gallego et. al. CVPR 2018](#Gallego18cvpr),  
@@ -488,6 +488,9 @@ Proc. SPIE 11049, Int. Workshop on Advanced Image Technology (IWAIT), 2019.
 - <a name="ParedesValles19tpami"></a>Paredes-Valles, F., Scheper, K. Y. W., de Croon, G. C. H. E.,  
 *[Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception](https://ieeexplore.ieee.org/document/8660483)*,  
 IEEE Trans. Pattern Anal. Mach. Intell (TPAMI), 2019. [PDF](https://arxiv.org/abs/1807.10936), [YouTube](https://www.youtube.com/watch?v=FJrba02kZII&list=PL_KSX9GOn2P80tm3IsgbmPAUi2KDE53zI&index=2&t=0s), [Code](https://github.com/tudelft/cuSNN).
+- <a name="Haessig19aicas"></a>Haessig, G., Galluppi, F., Lagorce, X., Benosman, R.,  
+*[Neuromorphic networks on the SpiNNaker platform](https://doi.org/10.1109/AICAS.2019.8771512)*,  
+IEEE Int. Conf. Artificial Intelligence Circuits and Systems (AICAS), 2019.
 - <a name="Zhu19cvpr"></a>Zhu, A. Z., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1812.08156), [YouTube](https://youtu.be/aDzFSG4yV0M)
@@ -757,6 +760,8 @@ Conf. Biomimetic and Biohybrid Systems. Living Machines 2017: Biomimetic and Bio
     - <a name="Kaiser18icann"></a>Kaiser, J., Weinland, J., Keller, P., Steffen, L., Vasquez Tieck, J.C., Reichard, D., Roennau, A., Conradt, J., Dillmann, R.,  
 *[Microsaccades for Neuromorphic Stereo Vision](https://doi.org/10.1007/978-3-030-01418-6_24)*,  
 Int. Conf. Artificial Neural Networks (ICANN), 2018.
+    - [Haessig et al., AICAS 2019](#Haessig19aicas),  
+*Neuromorphic networks on the SpiNNaker platform*.
 - <a name="Zou16icip"></a>Zou, D., Guo, P., Wang, Q., Wang, X., Shao, G., Shi, F., Li, J., Park, P.K.J.,  
 *[Context-Aware Event-driven Stereo Matching](https://doi.org/10.1109/ICIP.2016.7532523)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2016.
