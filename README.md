@@ -242,7 +242,7 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
 - <a name="Liu16iscas"></a>Liu, H., Moeys, D. P., Das, G., Neil, D., Liu, S.-C., Delbruck, T.,  
 *[Combined frame- and event-based detection and tracking](https://doi.org/10.1109/ISCAS.2016.7539103)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2016, pp. 2511-2514.
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2016.
 - <a name="Tedaldi16ebccsp"></a>Tedaldi, D., Gallego, G., Mueggler, E., Scaramuzza, D.,  
 *[Feature detection and tracking with the dynamic and active-pixel vision sensor (DAVIS)](https://doi.org/10.1109/EBCCSP.2016.7605086)*,  
 IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2016. [PDF](http://rpg.ifi.uzh.ch/docs/EBCCSP16_Tedaldi.pdf), [YouTube](https://www.youtube.com/watch?v=nglfEkiK308)
@@ -525,7 +525,7 @@ Int. Joint Conf. on Neural Networks (IJCNN), San Jose, CA, 2011, pp. 770-776. [P
     IEEE/RSJ Int. Conf. Intelligent Robots and Systems Workshop (IROSW), 2015. Workshop on Unconventional Computing for Bayesian Inference. [PDF](http://www.zora.uzh.ch/121743/1/RelationalNetSensor.pdf)
     - <a name="Martel15iscas"></a>Martel, J. N. P., Chau, M., Dudek, P., Cook, M.,  
     *[Toward joint approximate inference of visual quantities on cellular processor arrays](https://doi.org/10.1109/ISCAS.2015.7169083)*,  
-    IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 2061-2064.
+    IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
 - [Belbachir et al. CVPRW 2014](#Belbachir14cvprw),  
 *A Novel HDR Depth Camera for Real-time 3D 360-degree Panoramic Vision*.
 - <a name="Kim14bmvc"></a>Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A. J.,  
@@ -668,7 +668,7 @@ arXiv:1811.10771, 2018.
 Int. Conf. Computer Vision Theory and Applications (VISAPP), 2007, pp. 466-471.
     - <a name="Schraml10iscas"></a>Schraml, S., Belbachir, A. N., Milosevic, N., Schon, P.,  
 *[Dynamic stereo vision system for real-time tracking](https://doi.org/10.1109/ISCAS.2010.5537289)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2010, pp. 1409-1412.
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2010.
     - <a name="Schraml10cvprw"></a>Schraml, S., Belbachir, A. N.,  
 *[A spatio-temporal clustering method using real-time motion analysis on event-based 3D vision](https://doi.org/10.1109/CVPRW.2010.5543810)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2010. [PDF](http://www.belbachir.info/PDF/cvpr1_2010.pdf)
@@ -745,7 +745,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2017, pp. 
 Front. Neurosci. (2014) 8:48. [PDF](https://www.neuromorphic-vision.com/public/publications/29/publication.pdf)
     - <a name="Camunas14iscas"></a>Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Linares-Barranco, B., Ieng, S., Benosman, R.,  
 *[Event-Driven Stereo Vision with Orientation Filters](https://doi.org/10.1109/ISCAS.2014.6865114)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2014, pp. 257-260.
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2014.
 - <a name="Kogler14jei"></a>Kogler, J., Eibensteiner, F., Humenberger, M., Sulzbachner, C., Gelautz, M., Scharinger, J.,  
 *[Enhancement of sparse silicon retina-based stereo matching using belief propagation and two-stage postfiltering](https://doi.org/10.1117/1.JEI.23.4.043011)*,  
 J. Electronic Imaging, 23(4), 043011 (2014).
@@ -783,7 +783,7 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2017.
 Front. Neurosci. (2017), 11:535.  [YouTube](https://youtu.be/ngJpY1lcbdw)
 - <a name="Martel18iscas"></a>Martel, J. N.; Mueller, J.; Conradt, J., Sandamirskaya, Y.,  
 *[An Active Approach to Solving the Stereo Matching Problem using Event-Based Sensors](http://dx.doi.org/10.1109/ISCAS.2018.8351411)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2018, pp. 1-5. [Live Demo](https://doi.org/10.1109/ISCAS.2018.8351861)
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2018. [Live Demo](https://doi.org/10.1109/ISCAS.2018.8351861)
 - <a name="Andreopoulos18cvpr"></a>Andreopoulos, A., Kashyap, H.J., Nayak, T.K., Amir, A., Flickner, M.D.,  
 *[A Low Power, High Throughput, Fully Event-Based Stereo System](http://openaccess.thecvf.com/content_cvpr_2018/papers/Andreopoulos_A_Low_Power_CVPR_2018_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018.
@@ -1001,7 +1001,7 @@ IEEE Int. Conf. Computer Vision (ICCV), 2019. [PDF (animations best viewed with 
 
 <a name="object-recognition"></a>
 ### Object Recognition
-- Serrano-Gotarredona, R., Oster, M., Lichtsteiner, P., Linares-Barranco, A., Paz-Vicente, R., Gómez-Rodríguez, F., Camuñas-Mesa, L., Berner, R., Rivas, M., Delbrück, T., Liu, S. C., Douglas, R., Häfliger, P., Jiménez-Moreno, G., Civit, A., Serrano-Gotarredona, T., Acosta-Jiménez, A., Linares-Barranco, B.,  
+- <a name="SerranoGotarredona09tnn"></a>Serrano-Gotarredona, R., Oster, M., Lichtsteiner, P., Linares-Barranco, A., Paz-Vicente, R., Gómez-Rodríguez, F., Camuñas-Mesa, L., Berner, R., Rivas, M., Delbrück, T., Liu, S. C., Douglas, R., Häfliger, P., Jiménez-Moreno, G., Civit, A., Serrano-Gotarredona, T., Acosta-Jiménez, A., Linares-Barranco, B.,  
 *[CAVIAR: A 45k-Neuron, 5M-Synapse, 12G-connects/sec AER Hardware Sensory-Processing-Learning-Actuating System for High Speed Visual Object Recognition and Tracking](https://doi.org/10.1109/TNN.2009.2023653)*,  
 IEEE Trans. on Neural Netw., 20(9):1417-1438, 2009. [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.192.1326&rep=rep1&type=pdf)
 - <a name="Belbachir11tie"></a>Belbachir, A. N., Hofstaetter, M., Litzenberger, M., Schoen, P.,  
@@ -1010,6 +1010,9 @@ IEEE Trans. Ind. Electron., 58(3):770-783, 2011.
 - <a name="Ghosh14biocas"></a>Ghosh, R., Mishra, A., Orchard, G., Thakor, N.,  
 *[Real-time object recognition and orientation estimation using an event-based camera and CNN](https://doi.org/10.1109/BioCAS.2014.6981783)*,  
 IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2014.
+- <a name="SerranoGotarredona15iscas"></a>Serrano-Gotarredona, T., Linares-Barranco, B., Galluppi, F., Plana, L., Furber, S.,  
+*[ConvNets experiments on SpiNNaker](https://doi.org/10.1109/ISCAS.2015.7169169)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
 - <a name="Cohen16fnins"></a>Cohen, G., Orchard, G., Ieng, S.-H., Tapson, J., Benosman, R., van Schaik, A.,  
 *[Skimming Digits: Neuromorphic Classification of Spike-Encoded Images](https://doi.org/10.3389/fnins.2016.00184)*,  
 Front. Neurosci. 10:184. [PDF](https://www.neuromorphic-vision.com/public/publications/45/publication.pdf)
@@ -1079,10 +1082,10 @@ IEEE Int. Conf. Electronics, Circuits and Systems (ICECS), 2019.
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 25(12):2250-2263, 2014.
     - <a name="Lee12iscas"></a>Lee, J., Delbruck, T., Park, P.K.J., Pfeiffer, M., Shin, C. W., Ryu, H., Kang, B. C.,  
 *[Live demonstration: Gesture-Based remote control using stereo pair of dynamic vision sensors](https://doi.org/10.1109/ISCAS.2012.6272144)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS) 2012, pp. 736-740. [PDF](http://www.zora.uzh.ch/75315/1/Lee_et_al_Live_demonstration.pdf), [YouTube](https://youtu.be/IlKimfJN21A)
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2012. [PDF](http://www.zora.uzh.ch/75315/1/Lee_et_al_Live_demonstration.pdf), [YouTube](https://youtu.be/IlKimfJN21A)
 - <a name="Kohn12iscas"></a>Kohn, B., Belbachir, A.N., Hahn, T., Kaufmann, H.,  
 *[Event-driven Body Motion Analysis For Real-time Gesture Recognition](https://doi.org/10.1109/ISCAS.2012.6272132)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS) 2012. [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.839.4932&rep=rep1&type=pdf)
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2012. [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.839.4932&rep=rep1&type=pdf)
     - <a name="Kohn12cvprw"></a>Kohn, B., Belbachir, A.N., Nowakowska, A.,  
 *[Real-time Gesture Recognition using a Bio-inspired 3D Vision Sensor](https://doi.org/10.1109/CVPRW.2012.6239184)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2012.
@@ -1269,7 +1272,7 @@ Front. Neurosci. (2013), 7:223. [PDF](http://www.zora.uzh.ch/107801/1/fnins-07-0
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2007.
 - <a name="Conradt09iscas"></a>Conradt, J., Cook, M., Berner, R., Lichtsteiner, P., Douglas, R. J., Delbruck, T.,  
 *[A Pencil Balancing Robot Using a Pair of AER Dynamic Vision Sensors](https://doi.org/10.1109/ISCAS.2009.5117867)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS) 2009. [PDF](https://www.ini.uzh.ch/~conradt/publications/ISCAS2009-JConradt.pdf), [Poster](https://www.ini.uzh.ch/~conradt/publications/NIPS2008-JConradt.pdf), [Project page](https://www.ini.uzh.ch/~conradt/projects/PencilBalancer/), [YouTube 1](https://youtu.be/XVR5wEYkEGk), [YouTube 2](https://youtu.be/f9UngTdngY4), [YouTube 3](https://youtu.be/yCOnDc5r7p8)
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2009. [PDF](https://www.ini.uzh.ch/~conradt/publications/ISCAS2009-JConradt.pdf), [Poster](https://www.ini.uzh.ch/~conradt/publications/NIPS2008-JConradt.pdf), [Project page](https://www.ini.uzh.ch/~conradt/projects/PencilBalancer/), [YouTube 1](https://youtu.be/XVR5wEYkEGk), [YouTube 2](https://youtu.be/f9UngTdngY4), [YouTube 3](https://youtu.be/yCOnDc5r7p8)
     - <a name="Conradt09iccvw"></a>Conradt, J., Berner, R., Cook, M., Delbruck, T.,  
 *[An embedded AER dynamic vision sensor for low-latency pole balancing](https://doi.org/10.1109/ICCVW.2009.5457625)*,  
 IEEE Int. Conf. Computer Vision Workshops (ICCVW), 2009. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=42580)
