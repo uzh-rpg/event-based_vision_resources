@@ -363,7 +363,7 @@ IEEE Robotics and Automation Letters (RA-L), 4(2):816-822, Apr. 2019.  [PDF](htt
 *[Speed Invariant Time Surface for Learning to Detect Corner Points with Event-Based Cameras](http://openaccess.thecvf.com/content_CVPR_2019/html/Manderscheid_Speed_Invariant_Time_Surface_for_Learning_to_Detect_Corner_Points_CVPR_2019_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.  [PDF](https://arxiv.org/pdf/1903.11332)
 - <a name="Manderscheid19cvpr"></a>Li, R., Shi, D., Zhang, Y., Li, K., Li, R.,  
-*[FA-Harris: A Fast and Asynchronous Corner Detector for Event Cameras](https://arxiv.org/abs/1906.10925)*,  
+*[FA-Harris: A Fast and Asynchronous Corner Detector for Event Cameras](https://doi.org/10.1109/IROS40897.2019.8968491)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019. [PDF](https://arxiv.org/pdf/1906.10925)
 
 <a name="particle-detection"></a>
@@ -639,12 +639,12 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018. [PDF](http://rp
 [A Spiking Neural Network Model of Depth from Defocus for Event-based Neuromorphic Vision](https://doi.org/10.1038/s41598-019-40064-0),  
 Scientific Reports 9, Article number: 3744 (2019). [PDF](https://www.neuromorphic-vision.com/public/publications/55/publication.pdf)
 - <a name="Gallego19cvpr"></a>Gallego, G., Gehrig, M., Scaramuzza, D.,  
-*[Focus Is All You Need: Loss Functions For Event-based Vision](https://arxiv.org/pdf/1904.07235)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Gallego.pdf), [Poster](http://rpg.ifi.uzh.ch/docs/CVPR19_Gallego_poster.pdf), [YouTube](https://youtu.be/SU_Fp4xS_g4?t=1059)
+*[Focus Is All You Need: Loss Functions For Event-based Vision](http://rpg.ifi.uzh.ch/docs/CVPR19_Gallego.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF arXiv](https://arxiv.org/pdf/1904.07235), [Poster](http://rpg.ifi.uzh.ch/docs/CVPR19_Gallego_poster.pdf), [YouTube](https://youtu.be/SU_Fp4xS_g4?t=1059)
 - <a name="Chaney19cvprw"></a>Chaney, K., Zhu, A., Daniilidis, K.,  
-*[Learning Event-based Height from Plane and Parallax](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Chaney_Learning_Event-Based_Height_From_Plane_and_Parallax_CVPRW_2019_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Video pitch](https://youtu.be/S1OLnbnB_qo)  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019
+*[Learning Event-based Height from Plane and Parallax](https://doi.org/10.1109/IROS40897.2019.8968223)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Chaney_Learning_Event-Based_Height_From_Plane_and_Parallax_CVPRW_2019_paper.pdf), [Video pitch](https://youtu.be/S1OLnbnB_qo),  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
 - [Zhu et. al. CVPR 2019](#Zhu19cvpr),  
 *Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion.*
 
@@ -1054,7 +1054,7 @@ IEEE Int. Conf. Computer Vision (ICCV), 2019.
 *[Event-Based Vision Enhanced: A Joint Detection Framework in Autonomous Driving](https://doi.org/10.1109/ICME.2019.00242),*  
 IEEE Int. Conf. Multimedia and Expo (ICME), 2019.
 - <a name="Iacono19iros"></a>Iacono, M., D'Angelo, G., Glover, A., Tikhanoff, V., Niebur, E., Bartolozzi, C.,  
-*Proto-Object Based Saliency for Event-Driven Cameras*,  
+*[Proto-Object Based Saliency for Event-Driven Cameras](https://doi.org/10.1109/IROS40897.2019.8967943)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
 - <a name="Gao19iccvw"></a>Gao, S., Guo, G., Chen, C.L.P.,  
 *[Event-Based Incremental Broad Learning System for Object Classification](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Gao_Event-Based_Incremental_Broad_Learning_System_for_Object_Classification_ICCVW_2019_paper.pdf),*  
@@ -1462,7 +1462,7 @@ IEEE Int. Conf. Robotics and Automation (ICRA) Workshop: Dataset Generation and 
 ### Segmentation
 - [Mitrokhin et. al. IROS 2018](#Mitrokhin18iros), Extreme Event Dataset (EED). [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
 - <a name="Mitrokhin19iros"></a>Mitrokhin, A., Ye, C., Fermüller, C., Aloimonos, Y., Delbrück, T.,  
-*[EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](https://arxiv.org/abs/1903.07520)*,  
+*[EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](https://doi.org/10.1109/IROS40897.2019.8968520)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019. [PDF](https://arxiv.org/pdf/1903.07520.pdf), [Dataset](https://better-flow.github.io/evimo), [Project page](http://prg.cs.umd.edu/EV-IMO.html)
 
 ### Recognition
