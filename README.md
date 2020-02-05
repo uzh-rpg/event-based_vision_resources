@@ -499,7 +499,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://a
 Neural Computation (2019), 31(6):1114-1138. [PDF](https://www.neuromorphic-vision.com/public/publications/56/publication.pdf)
 - <a name="Almatrafi19davis"></a>Almatrafi, M. M.,  Hirakawa, K.,  
 *[DAViS Camera Optical Flow](http://doi.org/10.1109/TCI.2019.2948787)*,  
-IEEE Trans. Comput. Imag. (TCI), 2019.
+IEEE Trans. Comput. Imag. (TCI), 6:396-407, 2019.
 
 
 <a name="scene-flow-estimation"></a>
@@ -885,6 +885,10 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019. [PDF](http://rpg.ifi.uzh.c
 *Focus Is All You Need: Loss Functions For Event-based Vision*.
 - [Zhu et. al. CVPR 2019](#Zhu19cvpr),  
 *Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion.*
+- <a name="Xu20tci"></a>Xu, J., Jiang, M., Yu, L., Yang, W., Wang, W.,  
+*[Robust Motion Compensation for Event Cameras With Smooth Constraint](http://dx.doi.org/10.1109/TCI.2020.2964255)*,  
+IEEE Trans. Comput. Imag. (TCI), 6:604-614, 2020.
+
 
 <a name="slam-mapping"></a>
 ### Mapping
@@ -1132,7 +1136,7 @@ Int. Conf. Machine Vision Applications (MVA), 2019.
 IEEE Int. Conf. Acoust., Speech, Signal Proc. (ICASSP), 2019, [Github Page](https://github.com/PIX2NVS/NVS_ActionRecognition).
 - <a name="Chen19tci"></a>Chen, H., Liu, W., Goel, R., Lua, R., Siddharth, M., Huang, Y., Veeraraghavan, A., Patel, A.,  
 *[Fast Retinomorphic Event-Driven Representations for Video Gameplay and Action Recognition](https://doi.org/10.1109/TCI.2019.2948755)*,  
-IEEE Trans. Comput. Imag. (TCI), 2019.
+IEEE Trans. Comput. Imag. (TCI), 6:276-290, 2019.
 - <a name="Lungu19jetcas"></a>Lungu, I. A., Liu, S.-C., Delbruck, T.,  
 *[Incremental learning of hand symbols using event-based cameras](https://doi.org/10.1109/JETCAS.2019.2951062)*,  
 IEEE J. Emerging Sel. Topics Circuits Syst. (JETCAS), 2019.
