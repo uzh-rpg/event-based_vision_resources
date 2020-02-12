@@ -814,6 +814,9 @@ European Conf. Mobile Robots (ECMR), 2019. [PDF arXiv](https://arxiv.org/pdf/190
 - <a name="Tulyakov19iccv"></a>Tulyakov, S., Fleuret, F., Kiefel, M., Gehler, P., Hirsch., M.,  
 *[Learning an event sequence embedding for dense event-based deep stereo](https://www.idiap.ch/~fleuret/papers/tulyakov-et-al-iccv2019.pdf)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2019.
+- <a name="Steffen19icar"></a>Steffen, L., Ulbrich, S., Roennau, A., Dillmann, R.,  
+*[Multi-View 3D Reconstruction With Self-Organizing Maps on Event-Based Data](https://doi.org/10.1109/ICAR46387.2019.8981569)*,  
+IEEE Int. Conf. Advanced Robotics (ICAR), 2019.
 
 
 <a name="depth-stereo-pano"></a>
