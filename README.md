@@ -1718,6 +1718,9 @@ Ph.D. Thesis, Imperial College London, United Kingdom, 2019.
 - <a name="Ye19PhD"></a>Ye, C.,  
 *[Learning of Dense Optical Flow, Motion and Depth, from Sparse Event Cameras](https://doi.org/10.13016/fhqf-g7xr)*,  
 Ph.D. Thesis, University of Maryland, USA, 2019.
+- <a name="Zhu19PhD"></a>Zhu, A. Z.,  
+*[Event-Based Algorithms for Geometric Computer Vision](https://repository.upenn.edu/edissertations/3566)*,  
+Ph.D. Thesis, University of Pennsylvania, USA, 2019.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
