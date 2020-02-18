@@ -80,6 +80,7 @@ arXiv 2019.
     - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Eric_Ryu_Samsung.pdf) and [Video](https://youtu.be/7fAPckjQSGE) by [Hyunsurk Eric Ryu](https://www.linkedin.com/in/hyunsurk-eric-ryu-82745712), Samsung Electronics  (2019).
     - Son, B., et al., *[A 640×480 dynamic vision sensor with a 9µm pixel and 300Meps address-event representation](https://doi.org/10.1109/ISSCC.2017.7870263)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), San Francisco, CA, 2017, pp. 66-67.
     - [SmartThings Vision](https://www.samsung.com/se/smartthings/smartthings-vision-u999/) commercial product for home monitoring.
+    - [Paper at IEDM 2019](#Park19iedm), about low-latency applications using Samsung's VGA DVS.
 - **DAVIS (Dynamic and Active-Pixel Vision Sensor)** :
 Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333-2341, 2014.
     - [Product page at iniVation](https://inivation.com/dvs/).  [**Buy a DAVIS**](https://inivation.com/buy/)
@@ -935,6 +936,9 @@ IEEE Int. Conf. Computational Photography (ICCP), 2017. [PDF](https://arxiv.org/
 - <a name="ZhuD19arxiv"></a>Zhu, D., Dong, J., Xu, Z., Ye, C., Hu, Y., Su, H., Liu, Z., Chen, G.,  
 *[Neuromorphic Visual Odometry System for Intelligent Vehicle Application with Bio-inspired Vision Sensor](https://arxiv.org/pdf/1909.02490)*,  
 arXiv:1909.02490, 2019.
+- <a name="Park19iedm"></a>Park, P.K.J., Kim, J.-S., Shin, C.-W, Lee, H., Liu, W., Wang, Q., Roh, Y., Kim, J., Ater, Y., Soloveichik, E., Ryu, H. E.,  
+*[Low-Latency Interactive Sensing for Machine Vision](https://doi.org/10.1109/IEDM19573.2019.8993468)*,  
+IEEE Int. Electron Devices Meeting (IEDM), 2019.
 
 
 <a name="visual-inertial"></a>
@@ -1080,6 +1084,8 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2019.
 - <a name="CamunasMesa19icecs"></a>Camuñas-Mesa, L.A., Linares-Barranco, B., Serrano-Gotarredona, T.,  
 *[Low-power hardware implementation of SNN with decision block for recognition tasks](https://doi.org/10.1109/ICECS46596.2019.8964964)*,  
 IEEE Int. Conf. Electronics, Circuits and Systems (ICECS), 2019.
+- [Park et al. IEDM 2019](#Park19iedm),  
+*Low-Latency Interactive Sensing for Machine Vision*.
 
 
 <a name="gesture-recognition"></a>
@@ -1146,7 +1152,8 @@ IEEE J. Emerging Sel. Topics Circuits Syst. (JETCAS), 2019.
     - <a name="Lungu19aicas"></a>Lungu, I. A., Liu, S.-C., Delbruck, T.,  
 *[Fast event-driven incremental learning of hand symbols](https://doi.org/10.1109/AICAS.2019.8771472)*,  
 IEEE Int. Conf. AI Circuits Syst. (AICAS), 2019.
-
+- [Park et al. IEDM 2019](#Park19iedm),  
+*Low-Latency Interactive Sensing for Machine Vision*.
 
 <a name="learning-representation-features"></a>
 ### Representation / Feature Extraction
