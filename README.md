@@ -817,11 +817,11 @@ IEEE Int. Conf. Advanced Robotics (ICAR), 2019.
 
 <a name="depth-stereo-active"></a>
 ### Stereo Depth Estimation using Structured Light
-- <a name="Martel18iscas"></a>Martel, J. N.; Mueller, J.; Conradt, J., Sandamirskaya, Y.,  
+- <a name="Martel18iscas"></a>Martel, J.N.P., Mueller, J., Conradt, J., Sandamirskaya, Y.,  
 *[An Active Approach to Solving the Stereo Matching Problem using Event-Based Sensors](http://dx.doi.org/10.1109/ISCAS.2018.8351411)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2018.
     - <a name="Martel18iscas"></a>Martel, J.N.P., Müller, J., Conradt, J., Sandamirskaya, Y.,  
-*[Live Demonstration: An Active System for Depth Reconstruction using Event-Based Sensors](https://doi.org/10.1109/ISCAS.2018.8351861)*, 
+*[Live Demonstration: An Active System for Depth Reconstruction using Event-Based Sensors](https://doi.org/10.1109/ISCAS.2018.8351861)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2018.
 
 <a name="depth-stereo-pano"></a>
