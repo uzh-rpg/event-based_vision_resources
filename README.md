@@ -81,7 +81,7 @@ arXiv 2019.
     - Son, B., et al., *[A 640×480 dynamic vision sensor with a 9µm pixel and 300Meps address-event representation](https://doi.org/10.1109/ISSCC.2017.7870263)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), San Francisco, CA, 2017, pp. 66-67.
     - [SmartThings Vision](https://www.samsung.com/se/smartthings/smartthings-vision-u999/) commercial product for home monitoring.
     - [Paper at IEDM 2019](#Park19iedm), about low-latency applications using Samsung's VGA DVS.
-- **DAVIS (Dynamic and Active-Pixel Vision Sensor)** :
+- **DAVIS (Dynamic and ç-Pixel Vision Sensor)** :
 Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333-2341, 2014.
     - [Product page at iniVation](https://inivation.com/dvs/).  [**Buy a DAVIS**](https://inivation.com/buy/)
     - [Product specifications](https://inivation.com/support/product-specifications/)
@@ -661,7 +661,6 @@ IEEE Conf. Computational Photography (ICCP), 2015. [PDF](http://compphotolab.nor
 *[Event-Based Structured Light for Depth Reconstruction using Frequency Tagged Light Patterns](https://arxiv.org/pdf/1811.10771)*,  
 arXiv:1811.10771, 2018.
 
-
 <a name="depth-stereo"></a>
 ### Stereo Depth Estimation
 - <a name="Schraml07visapp"></a>Schraml, C., Schon, P., Milosevic, N.,  
@@ -782,9 +781,6 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2017.
 - <a name="Xie17fnins"></a>Xie, Z., Chen, S., Orchard, G.  
 *[Event-Based Stereo Depth Estimation Using Belief Propagation](https://doi.org/10.3389/fnins.2017.00535)*,  
 Front. Neurosci. (2017), 11:535.  [YouTube](https://youtu.be/ngJpY1lcbdw)
-- <a name="Martel18iscas"></a>Martel, J. N.; Mueller, J.; Conradt, J., Sandamirskaya, Y.,  
-*[An Active Approach to Solving the Stereo Matching Problem using Event-Based Sensors](http://dx.doi.org/10.1109/ISCAS.2018.8351411)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2018. [Live Demo](https://doi.org/10.1109/ISCAS.2018.8351861)
 - <a name="Andreopoulos18cvpr"></a>Andreopoulos, A., Kashyap, H.J., Nayak, T.K., Amir, A., Flickner, M.D.,  
 *[A Low Power, High Throughput, Fully Event-Based Stereo System](http://openaccess.thecvf.com/content_cvpr_2018/papers/Andreopoulos_A_Low_Power_CVPR_2018_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018.
@@ -819,6 +815,14 @@ IEEE Int. Conf. Computer Vision (ICCV), 2019.
 *[Multi-View 3D Reconstruction With Self-Organizing Maps on Event-Based Data](https://doi.org/10.1109/ICAR46387.2019.8981569)*,  
 IEEE Int. Conf. Advanced Robotics (ICAR), 2019.
 
+<a name="depth-stereo-active"></a>
+### Stereo Depth Estimation using Structured Light
+- <a name="Martel18iscas"></a>Martel, J. N.; Mueller, J.; Conradt, J., Sandamirskaya, Y.,  
+*[An Active Approach to Solving the Stereo Matching Problem using Event-Based Sensors](http://dx.doi.org/10.1109/ISCAS.2018.8351411)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2018.
+    - <a name="Martel18iscas"></a>Martel, J.N.P., Müller, J., Conradt, J., Sandamirskaya, Y.,  
+*[Live Demonstration: An Active System for Depth Reconstruction using Event-Based Sensors](https://doi.org/10.1109/ISCAS.2018.8351861)*, 
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2018.
 
 <a name="depth-stereo-pano"></a>
 ### Stereoscopic Panoramic Imaging
