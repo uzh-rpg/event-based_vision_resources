@@ -171,6 +171,10 @@ Biologically Inspired Computer Vision, Wiley-Blackwell, pp. 11-28, 2015. [book i
 - <a name="Posch15ieee"></a>Posch, C., Benosman, R., Etienne-Cummings, R.,  
 *[How Neuromorphic Image Sensors Steal Tricks From the Human Eye](https://spectrum.ieee.org/biomedical/devices/how-neuromorphic-image-sensors-steal-tricks-from-the-human-eye)*, also published as *[Giving Machines Humanlike Eyes](https://doi.org/10.1109/MSPEC.2015.7335800)*,  
 IEEE Spectrum, 52(12):44-49, 2015. [PDF](https://www.neuromorphic-vision.com/public/publications/33/publication.pdf)
+- <a name="Cho15sam"></a>Cho, D., Lee, T.-J.,  
+*[A Review of Bioinspired Vision Sensors and Their Applications](https://doi.org/10.18494/SAM.2015.1133)*,  
+Sensors and Materials, 27(6):447-463, 2015. [PDF](https://myukk.org/SM2017/sm_pdf/SM1083.pdf)
+
 
 <a name="reviewpapers-algs"></a>
 ## Algorithms, Applications
