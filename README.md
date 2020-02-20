@@ -653,7 +653,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
 ### Monocular Depth Estimation using Structured Light
 - <a name="Brandli14fnins"></a>Brandli, C., Mantel, T.A., Hutter, M., Hoepflinger, M.A., Berner, R., Siegwart, R., Delbruck, T.,  
 *[Adaptive Pulsed Laser Line Extraction for Terrain Reconstruction using a Dynamic Vision Sensor](https://doi.org/10.3389/fnins.2013.00275)*,  
-Front. Neurosci. (2014) 7:275. [PDF](http://www.zora.uzh.ch/107736/1/fnins-07-00275.pdf), [YouTube](https://youtu.be/20OGD5Wwe9Q)
+Front. Neurosci. (2014), 7:275. [PDF](http://www.zora.uzh.ch/107736/1/fnins-07-00275.pdf), [YouTube](https://youtu.be/20OGD5Wwe9Q)
 - <a name="Matsuda15iccp"></a>Matsuda, N., Cossairt, O., Gupta, M.,  
 *[MC3D: Motion Contrast 3D Scanning](https://doi.org/10.1109/ICCPHOT.2015.7168370)*,  
 IEEE Conf. Computational Photography (ICCP), 2015. [PDF](http://compphotolab.northwestern.edu/wordpress/wp-content/uploads/2015/04/dvs_031.pdf), [YouTube](https://youtu.be/m7qOEsTyVwU), [Project page](http://compphotolab.northwestern.edu/project/mc3d-motion-contrast-3d-laser-scanner/)
@@ -743,7 +743,7 @@ IEEE Int. Conf. Computer Vision Workshops (ICCVW), 2013, pp. 45-50.
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2017, pp. 370-377. [PDF](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Piatkowska_Improved_Cooperative_Stereo_CVPR_2017_paper.pdf).
 - <a name="Camunas14fnins"></a>Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S. H., Benosman, R. B., Linares-Barranco, B.,  
 *[On the use of orientation filters for 3D reconstruction in event–driven stereo vision](https://doi.org/10.3389/fnins.2014.00048)*,  
-Front. Neurosci. (2014) 8:48. [PDF](https://www.neuromorphic-vision.com/public/publications/29/publication.pdf)
+Front. Neurosci. (2014), 8:48. [PDF](https://www.neuromorphic-vision.com/public/publications/29/publication.pdf)
     - <a name="Camunas14iscas"></a>Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Linares-Barranco, B., Ieng, S., Benosman, R.,  
 *[Event-Driven Stereo Vision with Orientation Filters](https://doi.org/10.1109/ISCAS.2014.6865114)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2014.
@@ -1026,7 +1026,7 @@ IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2014.
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
 - <a name="Cohen16fnins"></a>Cohen, G., Orchard, G., Ieng, S.-H., Tapson, J., Benosman, R., van Schaik, A.,  
 *[Skimming Digits: Neuromorphic Classification of Spike-Encoded Images](https://doi.org/10.3389/fnins.2016.00184)*,  
-Front. Neurosci. 10:184. [PDF](https://www.neuromorphic-vision.com/public/publications/45/publication.pdf)
+Front. Neurosci. (2016), 10:184. [PDF](https://www.neuromorphic-vision.com/public/publications/45/publication.pdf)
 - [Barua et. al. WACV 2016](#Barua16wacv). Face recognition.
 - <a name="Moeys16ebccsp"></a>Moeys, D., Corradi F., Kerr, E., Vance, P., Das, G., Neil, D., Kerr, D., Delbruck, T.,  
 *[Steering a Predator Robot using a Mixed Frame/Event-Driven Convolutional Neural Network](https://doi.org/10.1109/EBCCSP.2016.7605233)*,  
@@ -1042,7 +1042,10 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 29(10):5030-5044, Oct. 2018.
 arXiv:1803.10106, 2018. [YouTube](https://www.youtube.com/watch?v=F5UzXQsr5Es)
 - <a name="Ramesh18accvw"></a>Ramesh, B., Ussa, A., Della Vedova, L., Yang, H., Orchard, G.,  
 *[PCA-RECT: An Energy-Efficient Object Detection Approach for Event Cameras](https://doi.org/10.1007/978-3-030-21074-8_35)*,  
-Assian Conf. Computer Vision Workshops (ACCVW), 2018.
+Assian Conf. Computer Vision Workshops (ACCVW), 2018. [Code](https://github.com/nusneuromorphic/PCA-RECT)
+    - <a name="Ramesh20fnins"></a>Ramesh, B., Ussa, A., Della Vedova, L., Yang, H., Orchard, G.,  
+*[Low-Power Dynamic Object Detection and Classification With Freely Moving Event Cameras](https://doi.org/10.3389/fnins.2020.00135)*,  
+Front. Neurosci. (2020), 14:135. [N-SOD Dataset](https://drive.google.com/drive/folders/10_bnZ_TOcq7xCtCiDcaDiIO3_Txgr19S)
 - <a name="Negri18icecs"></a>Negri, P., Soto, M., Linares-Barranco, B., Serrano-Gotarredona, T.,  
 *[Scene Context Classification with Event-Driven Spiking Deep Neural Networks](https://dx.doi.org/10.1109/ICECS.2018.8617982)*,  
 IEEE Int. Conf. Electronics, Circuits and Systems (ICECS), 2018.
@@ -1514,6 +1517,7 @@ Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark)
 - <a name="deTournemire20arxiv"></a>de Tournemire, P., Nitti, D., Perot, E., Migliore, D., Sironi, A.,  
 *[A Large Scale Event-based Detection Dataset for Automotive](https://arxiv.org/abs/2001.08499)*,  
 arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox), [News](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)
+- [N-SOD Dataset](https://drive.google.com/drive/folders/10_bnZ_TOcq7xCtCiDcaDiIO3_Txgr19S) associated to the paper [Ramesh et al. FNINS 2020](#Ramesh20fnins).
 
 
 <br><br>
@@ -1586,7 +1590,7 @@ IEEE Access, vol. 7, pp. 138415-138425, 2019.
 - [Loris](https://github.com/neuromorphic-paris/loris) Python package to read files from neuromorphic cameras.
 - Marcireau A., Ieng S.-H., Benosman R.,  
 *[Sepia, Tarsier, and Chameleon: A Modular C++ Framework for Event-Based Computer Vision](https://doi.org/10.3389/fnins.2019.01338)*,  
-Front. Neurosci. (2020). [Code](https://github.com/neuromorphic-paris/tutorials)
+Front. Neurosci. (2020), 13:1338. [Code](https://github.com/neuromorphic-paris/tutorials)
 
 <br><br>
 <a name="processors-platforms"></a>
