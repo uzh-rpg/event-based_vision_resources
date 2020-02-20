@@ -422,7 +422,7 @@ Bernstein Conf. 2014. [PDF](https://mediatum.ub.tum.de/doc/1281617/789727.pdf)
 Int. Work-Conf. Artificial Neural Networks (IWANN) 2015, Advances in Computational Intell., pp. 309-321.
 - <a name="Conradt15robio"></a>Conradt, J.,  
 *[On-Board Real-Time Optic-Flow for Miniature Event-Based Vision Sensors](https://doi.org/10.1109/ROBIO.2015.7419043)*,  
-IEEE Int. Conf. Robotics and Biomimetics (ROBIO), 2015, pp. 1858-1863.
+IEEE Int. Conf. Robotics and Biomimetics (ROBIO), 2015.
 - <a name="Brosch15fnins"></a>Brosch, T., Tschechne, S., Neumann, H.,  
 *[On event-based optical flow detection](https://doi.org/10.3389/fnins.2015.00137)*,  
 Front. Neurosci. (2015), 9:137.
@@ -855,7 +855,7 @@ IEEE Trans. Ind. Electron., 63(1):418-428, 2016.
 ### Localization, Ego-Motion Estimation
 - <a name="Weikersdorfer12robio"></a>Weikersdorfer, D. and Conradt, J.,  
 *[Event-based particle filtering for robot self-localization](http://doi.org/10.1109/ROBIO.2012.6491077)*,  
-IEEE Int. Conf. on Robotics and Biomimetcs (ROBIO), 2012. [PDF](https://mediatum.ub.tum.de/doc/1215541/835468.pdf)
+IEEE Int. Conf. Robotics and Biomimetics (ROBIO), 2012. [PDF](https://mediatum.ub.tum.de/doc/1215541/835468.pdf)
 - <a name="Censi13iros"></a>Censi, A., Strubel, J., Brandli, C., Delbruck, T., Scaramuzza, D.,  
 *[Low-latency localization by Active LED Markers tracking using a Dynamic Vision Sensor](https://doi.org/10.1109/IROS.2013.6696456)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2013. [PDF](http://rpg.ifi.uzh.ch/docs/IROS13_Censi.pdf), [Slides](http://rpg.ifi.uzh.ch/docs/IROS13_Censi.ppt)
@@ -937,9 +937,9 @@ IEEE Robotics and Automation Letters (RA-L), 2(2):593-600, 2017. [PDF](http://rp
 IEEE Int. Conf. Computational Photography (ICCP), 2017. [PDF](https://arxiv.org/abs/1703.05161), [YouTube](https://youtu.be/Qy0brSlirmk), [Code](https://github.com/VLOGroup/dvs-panotracking)
 - [Mueggler et. al. IJRR 2017](#Mueggler17ijrr).  
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
-- <a name="ZhuD19arxiv"></a>Zhu, D., Dong, J., Xu, Z., Ye, C., Hu, Y., Su, H., Liu, Z., Chen, G.,  
-*[Neuromorphic Visual Odometry System for Intelligent Vehicle Application with Bio-inspired Vision Sensor](https://arxiv.org/pdf/1909.02490)*,  
-arXiv:1909.02490, 2019.
+- <a name="ZhuD19robio"></a>Zhu, D., Dong, J., Xu, Z., Ye, C., Hu, Y., Su, H., Liu, Z., Chen, G.,  
+*[Neuromorphic Visual Odometry System for Intelligent Vehicle Application with Bio-inspired Vision Sensor](https://doi.org/10.1109/ROBIO49542.2019.8961878)*,  
+IEEE Int. Conf. Robotics and Biomimetics (ROBIO), 2019. [PDF](https://arxiv.org/pdf/1909.02490)
 - <a name="Park19iedm"></a>Park, P.K.J., Kim, J.-S., Shin, C.-W, Lee, H., Liu, W., Wang, Q., Roh, Y., Kim, J., Ater, Y., Soloveichik, E., Ryu, H. E.,  
 *[Low-Latency Interactive Sensing for Machine Vision](https://doi.org/10.1109/IEDM19573.2019.8993468)*,  
 IEEE Int. Electron Devices Meeting (IEDM), 2019.
