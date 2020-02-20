@@ -579,9 +579,9 @@ IEEE Int. Symp. on Circuits and Systems (ISCAS), 2014.
 - <a name="Liu17tvc"></a>Liu HC., Zhang FL., Marshall D., Shi L., Hu SM.,  
 *[High-speed Video Generation with an Event Camera](https://link.springer.com/article/10.1007/s00371-017-1372-y)*,  
 The Visual Computer, 2017. [PDF](https://cg.cs.tsinghua.edu.cn/papers/TVC-2017-HS-Video.pdf).
-- <a name="Shedligeri18arxiv"></a>Shedligeri, P.A., Shah, K., Kumar, D., Mitra, K.,  
-*[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://arxiv.org/pdf/1805.06140.pdf)*,  
-arXiv:1805.06140, 2018.
+- <a name="Shedligeri19jei"></a>Shedligeri, P.A., Mitra, K.,  
+*[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://doi.org/10.1117/1.JEI.28.6.063012)*,  
+J. Electronic Imaging, 28(6), 063012 (2019). [PDF](https://arxiv.org/pdf/1805.06140.pdf)
 - <a name="Wang19iccvw"></a>Wang, Z., Jiang, W., Katsaggelos, A., Cossairt, O.,  
 *[Event-driven Video Frame Synthesis](http://openaccess.thecvf.com/content_ICCVW_2019/papers/PBDL/Wang_Event-Driven_Video_Frame_Synthesis_ICCVW_2019_paper.pdf)*,  
 IEEE Int. Conf. Computer Vision Workshops (ICCVW), 2019. [PDF](https://arxiv.org/abs/1902.09680)
