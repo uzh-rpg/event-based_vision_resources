@@ -471,7 +471,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 *Event-Based Motion Segmentation by Motion Compensation*.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
-Robotics: Science and Systems XIV (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE), [Code](https://github.com/daniilidis-group/EV-FlowNet)
+Robotics: Science and Systems (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE), [Code](https://github.com/daniilidis-group/EV-FlowNet)
     - [Gehrig et. al. ICCV 2019](#Gehrig19iccv),  
 *End-to-End Learning of Representations for Asynchronous Event-Based Data*.
 - <a name="Liu18bmvc"></a>Liu, M., Delbruck, T.,  
@@ -867,7 +867,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), Chicago, IL, 2014, pp
 arXiv:1510.01972, 2015.
 - <a name="Mueggler15rss"></a>Mueggler, E., Gallego G., Scaramuzza, D.,   
 *[Continuous-Time Trajectory Estimation for Event-based Vision Sensors](http://dx.doi.org/10.15607/RSS.2015.XI.036)*,  
-Robotics: Science and Systems XI (RSS), 2015. [PDF](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler.pdf), [PPT](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler.pptm),  [Poster](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler_poster.pdf)
+Robotics: Science and Systems (RSS), 2015. [PDF](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler.pdf), [PPT](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler.pptm),  [Poster](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler_poster.pdf)
 - <a name="Reverter16fnins"></a>Reverter Valeiras, D., Orchard, G., Ieng, S.-H., Benosman, R.,  
 *[Neuromorphic Event-Based 3D Pose Estimation](https://doi.org/10.3389/fnins.2015.00522)*.  
 Front. Neurosci. (2016), 9:522. [PDF](https://www.neuromorphic-vision.com/public/publications/24/publication.pdf), [Suppl. Mat.](https://www.neuromorphic-vision.com/public/publications/24/supplementaryMaterial.zip)
@@ -1276,7 +1276,7 @@ Advances in Neural Information Processing Systems (NeurIPS) 2018. [PDF](https://
 arXiv: 1811.07672, 2018.
 - <a name="Zanardi19rss"></a>Zanardi, A., Aumiller, A.J., Zilly, J., Censi, A., Frazzoli, E.,  
 *[Cross-Modal Learning Filters for RGB-Neuromorphic Wormhole Learning](http://www.roboticsproceedings.org/rss15/p45.html)*,  
-Robotics: Science and Systems XIV (RSS), 2019. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/349414/1/rsswebsite.pdf)
+Robotics: Science and Systems (RSS), 2019. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/349414/1/rsswebsite.pdf)
 - <a name="Kaiser19arxiv"></a>Kaiser, J., Friedrich, A., Vasquez Tieck, J.C., Reichard, D., Roennau, A., Neftci, E., Dillmann, R.,  
 *[Embodied Neuromorphic Vision with Event-Driven Random Backpropagation](https://arxiv.org/abs/1904.04805)*,  
 arXiv, 2019. [PDF](https://arxiv.org/pdf/1904.04805), [Video](https://neurorobotics-files.net/index.php/s/sBQzWFrBPoH9Dx7)
@@ -1325,6 +1325,9 @@ American Control Conference (ACC), 2017.
     - <a name="Singh19tac"></a>Singh, P., Yong, S. Z., Frazzoli, E.,  
 *[Regulation of Linear Systems Using Event-Based Detection Sensors](https://doi.org/10.1109/TAC.2018.2876997)*,  
 IEEE Trans. Automatic Control, 2019.
+- <a name="Blum17rss"></a>Blum, H., Dietmüller, A., Milde, M., Conradt, J., Indiveri, G., Sandamirskaya, Y.,  
+*[A neuromorphic controller for a robotic vehicle equipped with a Dynamic Vision Sensor](http://www.roboticsproceedings.org/rss13/p35.pdf)*,  
+Robotics: Science and Systems (RSS), 2017.
 - <a name="Glover18icra"></a>Glover, A., Vasco, V., Bartolozzi, C.,  
 *[A Controlled-Delay Event Camera Framework for On-Line Robotics](https://doi.org/10.1109/ICRA.2018.8460541)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2018.
