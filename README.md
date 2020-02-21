@@ -1042,6 +1042,9 @@ IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2016. [PDF]
 - <a name="Li16bics"></a>Li, H., Li, G., Shi, L.,  
 *[Classification of Spatiotemporal Events Based on Random Forest](https://doi.org/10.1007/978-3-319-49685-6_13)*,  
 Int. Conf. Brain Inspired Cognitive Systems (BICS), 2016.
+- <a name="Ghosh16icann"></a>Ghosh, R., Siyi, T., Rasouli, M., Thakor, N. V., Kukreja, S. L.,    
+*[Pose-Invariant Object Recognition for Event-Based Vision with Slow-ELM](https://doi.org/10.1007/978-3-319-44781-0_54)*,  
+Int. Conf. Artificial Neural Networks (ICANN), 2016.
 - <a name="Cohen18tnnls"></a>Cohen, G., Afshar, S., Orchard, G., Tapson, J., Benosman, R., van Schaik, A.,  
 *[Spatial and Temporal Downsampling in Event-Based Visual Classification](https://doi.org/10.1109/TNNLS.2017.2785272)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 29(10):5030-5044, Oct. 2018.
