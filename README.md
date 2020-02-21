@@ -1139,6 +1139,9 @@ arXiv: 1811.07802, 2018.
 - <a name="Wang19wacv"></a>Wang, Q., Zhang, Y., Yuan, J., Lu, Y.,  
 *[Space-time Event Clouds for Gesture Recognition: from RGB Cameras to Event Cameras](https://cse.buffalo.edu/~jsyuan/papers/2019/WACV_2019_Qinyi.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
+- <a name="Ghosh19arxivb"></a>Ghosh, R., Gupta, A., Nakagawa, A., Soares, A. B., Thakor, N. V.,  
+*[Spatiotemporal Filtering for Event-Based Action Recognition](https://arxiv.org/pdf/1903.07067)*,  
+arXiv:1903.07067, 2019.
 - <a name="Wang19cvpr"></a>Wang, Y., Du, B., Shen, Y., Wu, K., Zhao, G., Sun, J., Wen, H.,  
 *[EV-Gait: Event-Based Robust Gait Recognition Using Dynamic Vision Sensors](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_EV-Gait_Event-Based_Robust_Gait_Recognition_Using_Dynamic_Vision_Sensors_CVPR_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
@@ -1212,7 +1215,10 @@ IEEE Access, vol. 6, pp. 76490-76501, 2018.
 Front. Neurosci. (2019), 13:73.
 - <a name="Tapiador18tbiocas"></a>Tapiador-Morales, R., Linares-Barranco, A., Jimenez-Fernandez, A., Jimenez-Moreno, G.  
 *[Neuromorphic LIF Row-by-Row Multiconvolution Processor for FPGA](https://doi.org/10.1109/TBCAS.2018.2880012)*,  
-IEEE Trans. Biomed. Circuits Syst, 2019, vol. 13, issue 1.  
+IEEE Trans. Biomed. Circuits Syst, 2019, vol. 13, issue 1.
+- <a name="Ghosh19arxiv"></a>Ghosh, R., Gupta, A., Tang, S., Soares, A. B., Thakor, N. V.,  
+*[Spatiotemporal Feature Learning for Event-Based Vision](https://arxiv.org/pdf/1903.06923)*,  
+arXiv:1903.06923, 2019.
 - <a name="Sekikawa19cvpr"></a>Sekikawa, Y., Hara, K., Saito, H.,  
 *[EventNet: Asynchronous Recursive Event Processing](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sekikawa_EventNet_Asynchronous_Recursive_Event_Processing_CVPR_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/abs/1812.07045), [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Yusuke_Sekikawa.pdf), [YouTube](https://youtu.be/jHcxQRC-7iQ)
