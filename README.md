@@ -341,7 +341,7 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 30(4):1218-1230, 2019. [PDF](http
 *[Robust Event-Based Object Tracking Combining Correlation Filter and CNN Representation](https://doi.org/10.3389/fnbot.2019.00082)*,  
 Front. Neurorobot. 13:82, 2019. [Dataset](https://figshare.com/s/70565903453eef7c3965)
 - <a name="Chen2020arxiv"></a>Chen, H., Suter, D., Wu, Q., Wang, H.,  
-*[End-to-end Learning of Object Motion Estimation from Retinal Eventsfor Event-based Object Tracking](https://arxiv.org/pdf/2002.05911)*,  
+*[End-to-end Learning of Object Motion Estimation from Retinal Events for Event-based Object Tracking](https://arxiv.org/pdf/2002.05911)*,  
 arXiv, 2020.
 
 
