@@ -1104,6 +1104,9 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2019.
 IEEE Int. Conf. Electronics, Circuits and Systems (ICECS), 2019.
 - [Park et al. IEDM 2019](#Park19iedm),  
 *Low-Latency Interactive Sensing for Machine Vision*.
+- <a name="Liu20aaai"></a>Liu, Q., Ruan, H., Xing, D., Tang, H., Pan, G.,  
+*[Effective AER Object Classification Using Segmented Probability-Maximization Learning in Spiking Neural Networks](https://arxiv.org/pdf/2002.06199)*,  
+AAAI Conf. Artificial Intelligence, 2020.
 
 
 <a name="gesture-recognition"></a>
@@ -1175,6 +1178,7 @@ IEEE J. Emerging Sel. Topics Circuits Syst. (JETCAS), 2019.
 IEEE Int. Conf. AI Circuits Syst. (AICAS), 2019.
 - [Park et al. IEDM 2019](#Park19iedm),  
 *Low-Latency Interactive Sensing for Machine Vision*.
+
 
 <a name="learning-representation-features"></a>
 ### Representation / Feature Extraction
