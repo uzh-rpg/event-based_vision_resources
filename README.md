@@ -581,6 +581,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rp
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf),  [YouTube](https://youtu.be/QaGYFtR2-X8), [Website](https://cedric-scheerlinck.github.io/firenet)
 - [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
 *CED: Color Event Camera Dataset*.
+- <a name="Nagata20wacv"></a>Nagata, J., Sekikawa, Y., Hara, K., Suzuki, T., Aoki, Y.,  
+*[QR-code Reconstruction from Event Data via Optimization in Code Subspace](http://openaccess.thecvf.com/content_WACV_2020/papers/Nagata_QR-code_Reconstruction_from_Event_Data_via_Optimization_in_Code_Subspace_WACV_2020_paper.pdf)*,  
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2020.
 
 
 <a name="video-synthesis"></a>
