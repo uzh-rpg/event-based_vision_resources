@@ -1330,6 +1330,9 @@ Front. Neurosci. (2013), 7:223. [PDF](http://www.zora.uzh.ch/107801/1/fnins-07-0
     - <a name="Delbruck07iscas"></a>Delbruck, T. and Lichtsteiner, P.,  
 *[Fast sensory motor control based on event-based hybrid neuromorphic-procedural system](https://doi.org/10.1109/ISCAS.2007.378038)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2007.
+    - <a name="Cheng20trxiv"></a>Cheng, R., Nikolic, K.,  
+*[System integration of neuromorphic visual (DVS), processing (SpiNNaker) and servomotor modules into an autonomous robot controlled by a Spiking Neural Network](https://www.techrxiv.org/articles/System_integration_of_neuromorphic_visual_DVS_processing_SpiNNaker_and_servomotor_modules_into_an_autonomous_robot_controlled_by_a_Spiking_Neural_Network/11854254)*,  
+TechRxiv, 2020. [YouTube](https://www.youtube.com/watch?v=135fH21QXtg)
 - <a name="Conradt09iscas"></a>Conradt, J., Cook, M., Berner, R., Lichtsteiner, P., Douglas, R. J., Delbruck, T.,  
 *[A Pencil Balancing Robot Using a Pair of AER Dynamic Vision Sensors](https://doi.org/10.1109/ISCAS.2009.5117867)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2009. [PDF](https://www.ini.uzh.ch/~conradt/publications/ISCAS2009-JConradt.pdf), [Poster](https://www.ini.uzh.ch/~conradt/publications/NIPS2008-JConradt.pdf), [Project page](https://www.ini.uzh.ch/~conradt/projects/PencilBalancer/), [YouTube 1](https://youtu.be/XVR5wEYkEGk), [YouTube 2](https://youtu.be/f9UngTdngY4), [YouTube 3](https://youtu.be/yCOnDc5r7p8)
