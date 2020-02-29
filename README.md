@@ -343,6 +343,12 @@ Front. Neurorobot. 13:82, 2019. [Dataset](https://figshare.com/s/70565903453eef7
 - <a name="Chen2020arxiv"></a>Chen, H., Suter, D., Wu, Q., Wang, H.,  
 *[End-to-end Learning of Object Motion Estimation from Retinal Events for Event-based Object Tracking](https://arxiv.org/pdf/2002.05911)*,  
 arXiv, 2020.
+- <a name="Monforte20aicas"></a>Monforte, M., Arriandiaga, A., Glover, A., Bartolozzi, C.,  
+*[Exploiting Event Cameras for Spatio-Temporal Prediction of Fast-Changing Trajectories](https://arxiv.org/pdf/2001.01248)*,  
+IEEE Int. Conf. Artificial Intelligence Circuits and Systems (AICAS), 2020.
+- <a name="Seok20wacv"></a>Seok, H., Lim, J.,  
+*[Robust Feature Tracking in DVS Event Stream using Bezier Mapping](http://openaccess.thecvf.com/content_WACV_2020/papers/Seok_Robust_Feature_Tracking_in_DVS_Event_Stream_using_Bezier_Mapping_WACV_2020_paper.pdf)*,  
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2020.  [YouTube](https://youtu.be/mskBdueW9Hc)
 
 
 <a name="corner-detection"></a>
@@ -543,7 +549,7 @@ British Machine Vision Conf. (BMVC), 2014. [PDF](http://www.bmva.org/bmvc/2014/f
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events).
 - <a name="Barua16wacv"></a>Barua, S., Miyatani, Y., Veeraraghavan, A.,  
 *[Direct face detection and video reconstruction from event cameras](http://doi.org/10.1109/WACV.2016.7477561)*,  
-IEEE Winter Conf. Applications of Computer Vision (WACV), 2016, pp. 1-9. [YouTube](https://youtu.be/yGDVlN-L1TU)
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2016. [YouTube](https://youtu.be/yGDVlN-L1TU)
 - [Bardow et. al. CVPR 2016](#Bardow16cvpr),  
 *Simultaneous Optical Flow and Intensity Estimation from an Event Camera*.
 - <a name="Moeys17iscas"></a>Moeys, D. P., Li, C., Martel, J. N. P., Bamford, S., Longinotti, L., Motsnyi, V., Bello, D. S. S., Delbruck, T.,  
@@ -951,6 +957,9 @@ IEEE Int. Conf. Robotics and Biomimetics (ROBIO), 2019. [PDF](https://arxiv.org/
 - <a name="Park19iedm"></a>Park, P.K.J., Kim, J.-S., Shin, C.-W, Lee, H., Liu, W., Wang, Q., Roh, Y., Kim, J., Ater, Y., Soloveichik, E., Ryu, H. E.,  
 *[Low-Latency Interactive Sensing for Machine Vision](https://doi.org/10.1109/IEDM19573.2019.8993468)*,  
 IEEE Int. Electron Devices Meeting (IEDM), 2019.
+- <a name="Liu20arxiv"></a>Liu. D., Parra, A., Chin, T.-J.,  
+*[Globally Optimal Contrast Maximisation for Event-based Motion Estimation](https://arxiv.org/pdf/2002.10686)*,  
+arXiv, 2020.
 
 
 <a name="visual-inertial"></a>
@@ -1254,6 +1263,9 @@ arXiv:1910.03579, 2019.
 - <a name="Zhu19arxivGAN"></a>Zhu, A., Wang, Z., Khant, K., Daniilidis, K.,  
 *[EventGAN: Leveraging Large Scale Image Datasets for Event Cameras](https://arxiv.org/pdf/1912.01584)*,  
 arXiv:1912.01584, 2019.
+- <a name="Cannici20arxiv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
+*[Matrix-LSTM: a Differentiable Recurrent Surface for Asynchronous Event-Based Data](https://arxiv.org/pdf/2001.03455)*,  
+arXiv:2001.03455, 2020. [Videos](https://drive.google.com/drive/folders/1KzhKKwJGXvMnhbg1l6gEArgYote7WW8V)
 
 
 <a name="learning-regression"></a>
@@ -1380,9 +1392,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF
 - <a name="Zolnowski19neosst"></a>Zolnowski, M., Reszelewski, R., Moeys, D.P., Delbruck, T., Kaminski, K.,  
 *[Observational Evaluation of Event Cameras Performance in Optical Space Surveillance](https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/475/NEOSST1-paper475.pdf)*,  
 Proc. NEO and Debris Detection Conference, Darmstadt, Germany, Jan. 2019.
-- <a name="Chin20wacv"></a>Chin, T.-J., Bagchi, S.,  
-*[Event-based Star Tracking via Multiresolution Progressive Hough Transforms](https://arxiv.org/pdf/1906.07866.pdf)*,  
-IEEE Winter Conf. Applications of Computer Vision (WACV), 2020.
+- <a name="Bagchi20wacv"></a>Bagchi, S., Chin, T.-J.,  
+*[Event-based Star Tracking via Multiresolution Progressive Hough Transforms](http://openaccess.thecvf.com/content_WACV_2020/papers/Bagchi_Event-based_Star_Tracking_via_Multiresolution_Progressive_Hough_Transforms_WACV_2020_paper.pdf)*,  
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://arxiv.org/pdf/1906.07866.pdf)
 - <a name="Afshar19arxiv"></a>Afshar, S., Nicholson, A. P., van Schaik, A., Cohen, G.,  
 *[Event-based Object Detection and Tracking for Space Situational Awareness](https://arxiv.org/pdf/1911.08730)*,  
 arXiv:1911.08730, 2019.
