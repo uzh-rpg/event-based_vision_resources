@@ -580,7 +580,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020. [PDF](http://rpg.ifi.uz
 *[Events-to-Video: Bringing Modern Computer Vision to Event Cameras](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf),  [YouTube](https://youtu.be/IdYrC4cUO0I), [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Henri_Rebecq.pdf), [Video pitch](https://youtu.be/1LZKtnQ-6lA).
     - <a name="Scheerlinck20wacv"></a>Scheerlinck, C., Rebecq, H., Gehrig, D., Barnes, N., Mahony, R., Scaramuzza, D.,  
-*[Fast Image Reconstruction with an Event Camera](https://cedric-scheerlinck.github.io/firenet)*,  
+*[Fast Image Reconstruction with an Event Camera](http://openaccess.thecvf.com/content_WACV_2020/papers/Scheerlinck_Fast_Image_Reconstruction_with_an_Event_Camera_WACV_2020_paper.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf),  [YouTube](https://youtu.be/QaGYFtR2-X8), [Website](https://cedric-scheerlinck.github.io/firenet)
 - [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
 *CED: Color Event Camera Dataset*.
@@ -1122,6 +1122,9 @@ IEEE Int. Conf. Electronics, Circuits and Systems (ICECS), 2019.
 - <a name="Liu20aaai"></a>Liu, Q., Ruan, H., Xing, D., Tang, H., Pan, G.,  
 *[Effective AER Object Classification Using Segmented Probability-Maximization Learning in Spiking Neural Networks](https://arxiv.org/pdf/2002.06199)*,  
 AAAI Conf. Artificial Intelligence, 2020.
+- <a name="Ramesh20wacvw"></a>Ramesh, B., Yang, H.,  
+*[Boosted Kernelized Correlation Filters for Event-based Face Detection](http://openaccess.thecvf.com/content_WACVW_2020/papers/w5/Ramesh_Boosted_Kernelized_Correlation_Filters_for_Event-based_Face_Detection_WACVW_2020_paper.pdf)*,  
+IEEE Winter Conf. Applications of Computer Vision Workshops (WACVW), 2020.
 
 
 <a name="gesture-recognition"></a>
