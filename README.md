@@ -617,6 +617,10 @@ Int. Conf. Image Analysis and Processing (ICIAP), 2019. LNCS, vol 11751. [PDF](h
 - <a name="Pini20visapp"></a>Pini S., Borghi G., Vezzani R.,  
 *[Learn to See by Events: Color Frame Synthesis from Event and RGB Cameras](http://hdl.handle.net/11380/1185831)*,  
 Int. Joint Conf. on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP) 2020. [PDF](https://arxiv.org/pdf/1812.02041)
+- <a name="Haoyu20arxiv"></a>Haoyu, C., Minggui, T., Boxin, S., Yizhou, W., Tiejun, H.,  
+*[Learning to Deblur and Generate High Frame Rate Video with an Event Camera](https://arxiv.org/pdf/2003.00847)*,  
+arXiv:2003.00847, 2020.
+
 
 <a name="super-resolution"></a>
 ### Super-resolution
@@ -1275,6 +1279,9 @@ arXiv:1912.01584, 2019.
 - <a name="Cannici20arxiv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
 *[Matrix-LSTM: a Differentiable Recurrent Surface for Asynchronous Event-Based Data](https://arxiv.org/pdf/2001.03455)*,  
 arXiv:2001.03455, 2020. [Videos](https://drive.google.com/drive/folders/1KzhKKwJGXvMnhbg1l6gEArgYote7WW8V)
+- <a name="Xu20arxiv"></a>Xu, F., Lin, S., Yang, W., Yu, L., Dai, D., Xia, G.,  
+*[Matching Neuromorphic Events and Color Images via Adversarial Learning](https://arxiv.org/pdf/2003.00636)*,  
+arXiv:2003.00636, 2020.
 
 
 <a name="learning-regression"></a>
