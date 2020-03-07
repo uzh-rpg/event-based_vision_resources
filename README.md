@@ -81,12 +81,13 @@ arXiv 2019.
     - Son, B., et al., *[A 640×480 dynamic vision sensor with a 9µm pixel and 300Meps address-event representation](https://doi.org/10.1109/ISSCC.2017.7870263)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), San Francisco, CA, 2017, pp. 66-67.
     - [SmartThings Vision](https://www.samsung.com/se/smartthings/smartthings-vision-u999/) commercial product for home monitoring.
     - [Paper at IEDM 2019](#Park19iedm), about low-latency applications using Samsung's VGA DVS.
-- **DAVIS (Dynamic and ç-Pixel Vision Sensor)** :
+- **DAVIS (Dynamic and Active Pixel Vision Sensor)** :
 Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333-2341, 2014.
     - [Product page at iniVation](https://inivation.com/dvs/).  [**Buy a DAVIS**](https://inivation.com/buy/)
     - [Product specifications](https://inivation.com/support/product-specifications/)
     - [User guide](https://inivation.github.io/inivation-docs/Hardware%20user%20guides/User_guide_-_DAVIS240.html)
     - **Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734)*, IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 718-721.
+    - **SDAVIS192** Moeys, D. P., Corradi, F., Li, C., Bamford, S. A., Longinotti, L., Voigt, F. F., Berry, S., Taverni, G., Helmchen, F., Delbruck, T., *[A Sensitive Dynamic and Active Pixel Vision Sensor for Color or Neural Imaging Applications](https://doi.org/10.1109/TBCAS.2017.2759783)*, IEEE Trans. Biomed. Circuits Syst. 12(1):123-136 2018.
 - [**Insightness's Silicon Eye**](https://youtu.be/Y0mIb_MehK8) QVGA event sensor.
     - [The Silicon Eye Technology](http://www.insightness.com/?p=361)
     - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Insightness.pdf) and [Video](https://youtu.be/9IJwF9xYEoU) by [Stefan Isler](http://www.insightness.com/#team) (2019).
