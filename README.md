@@ -290,6 +290,9 @@ Int. J. Computer Vision (IJCV), 2019. [YouTube](https://youtu.be/ZyD1YPW1h4U), [
     - <a name="Gehrig18eccv"></a>Gehrig, D., Rebecq, H., Gallego, G., Scaramuzza, D.,  
 *[Asynchronous, Photometric Feature Tracking using Events and Frames](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig.pdf)*,  
 European Conf. Computer Vision (ECCV), 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Gehrig_poster.pdf), [YouTube](https://youtu.be/A7UfeUnG6c4), [Oral presentation](https://youtu.be/7EvY8SxdLl8), [Tracking code](https://github.com/uzh-rpg/rpg_eklt), [Evaluation code](https://github.com/uzh-rpg/rpg_feature_tracking_analysis)
+- <a name="Everding18fnbot"></a>Everding, L., Conradt, J.,  
+*[Low-Latency Line Tracking Using Event-Based Dynamic Vision Sensors](https://doi.org/10.3389/fnbot.2018.00004)*,  
+Front. Neurorobot. 12:4, 2018.  [Videos](http://www.frontiersin.org/articles/10.3389/fnbot.2018.00004/full#supplementary-material)
 - <a name="LinaresBarrancoA18entropy"></a>Linares-Barranco, A., Liu, H., Rios-Navarro, A., Gomez-Rodriguez, F., Moeys, D., Delbruck, T.  
 *[Approaching Retinal Ganglion Cell Modeling and FPGA Implementation for Robotics](https://doi.org/10.3390/e20060475)*,  
 Entropy 2018, 20(6), 475.  
