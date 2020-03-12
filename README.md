@@ -974,6 +974,9 @@ IEEE Int. Electron Devices Meeting (IEDM), 2019.
 - <a name="Liu20arxiv"></a>Liu. D., Parra, A., Chin, T.-J.,  
 *[Globally Optimal Contrast Maximisation for Event-based Motion Estimation](https://arxiv.org/pdf/2002.10686)*,  
 arXiv, 2020.
+- <a name="Gehrig20icra"></a>Gehrig, M., Shrestha, S. B., Mouritzen, D., Scaramuzza, D.,  
+*[Event-Based Angular Velocity Regression with Spiking Networks](https://arxiv.org/pdf/2003.02790)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA20_Gehrig.pdf), [Code](https://github.com/uzh-rpg/snn_angular_velocity)
 
 
 <a name="visual-inertial"></a>
