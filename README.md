@@ -1114,6 +1114,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
 - <a name="Gao19iccvw"></a>Gao, S., Guo, G., Chen, C.L.P.,  
 *[Event-Based Incremental Broad Learning System for Object Classification](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Gao_Event-Based_Incremental_Broad_Learning_System_for_Object_Classification_ICCVW_2019_paper.pdf),*  
 IEEE Int. Conf. Computer Vision Workshop (ICCVW), 2019.
+    - <a name="Gao19iccvw"></a>Gao, S., Guo, G., Huang, H., Cheng, X., Chen, C.L.P.,  
+*[An End-to-End Broad Learning System for Event-Based Object Classification](https://doi.org/10.1109/ACCESS.2020.2978109)*,  
+IEEE Access, vol. 8, pp. 45974-45984, 2020.
 - <a name="Nan19ssci"></a>Nan, Y., Xiao, R., Gao, S., Yan, R.,  
 *[An Event-based Hierarchy Model for Object Recognition](https://www.researchgate.net/publication/336318915_An_Event-based_Hierarchy_Model_for_Object_Recognition)*,  
 IEEE Symp. Series in Computational Intell. (SSCI), 2019.
@@ -1399,6 +1402,9 @@ arXiv:1906.02919, 2019. [PDF](https://prg.cs.umd.edu/research/EVDodge_files/EVDo
 - <a name="Sugimoto20icra"></a>Sugimoto, R., Gehrig, M., Brescianini, D., Scaramuzza, D.,  
 *[Towards Low-Latency High-Bandwidth Control of Quadrotors using Event Cameras](https://arxiv.org/pdf/1911.04553)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA20_Sugimoto.pdf), [YouTube](https://youtu.be/3nIznSMCMtc)
+- <a name="Falanga20scirob"></a>Falanga, D., Kleber, K., Scaramuzza, D.,  
+*[Dynamic obstacle avoidance for quadrotors with event cameras](https://robotics.sciencemag.org/content/5/40/eaaz9712.full.pdf)*,  
+Science Robotics, 5(40):eaaz9712, 2020. [YouTube](https://youtu.be/BzykucxFddI)
 
 
 <a name="space"></a>
