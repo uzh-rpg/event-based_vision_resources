@@ -1472,7 +1472,7 @@ IEEE Trans. Emerging Topics in Computing, 2018.
 *[Edge Detection for Event Cameras using Intra-pixel-area Events](https://bmvc2019.org/wp-content/uploads/papers/1140-paper.pdf)*,  
 British Machine Vision Conf. (BMVC), 2019. [PDF](https://arxiv.org/pdf/1907.07469)
 - <a name="Baldwin20cvpr"></a>Baldwin R.W., Almatrafi M., Asari V., Hirakawa K.,
-*[Event Probability Mask (EPM) and Event Denoising Convolutional NeuralNetwork (EDnCNN) for Neuromorphic Cameras](https://arxiv.org/abs/2003.08282)*,  
+*[Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](https://arxiv.org/abs/2003.08282)*,  
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](https://arxiv.org/abs/2003.08282)
 
 <br><br>
