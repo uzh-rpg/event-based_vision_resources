@@ -1473,7 +1473,7 @@ IEEE Trans. Emerging Topics in Computing, 2018.
 British Machine Vision Conf. (BMVC), 2019. [PDF](https://arxiv.org/pdf/1907.07469)
 - <a name="Baldwin20cvpr"></a>Baldwin R.W., Almatrafi M., Asari V., Hirakawa K.,  
 *[Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](https://arxiv.org/abs/2003.08282)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](https://arxiv.org/abs/2003.08282)
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](https://arxiv.org/abs/2003.08282), [Dataset](https://sites.google.com/a/udayton.edu/issl/software/dataset)
 
 <br><br>
 <a name="datasets"></a>
@@ -1595,6 +1595,9 @@ Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark)
 *[A Large Scale Event-based Detection Dataset for Automotive](https://arxiv.org/abs/2001.08499)*,  
 arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox), [News](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)
 - [N-SOD Dataset](https://drive.google.com/drive/folders/10_bnZ_TOcq7xCtCiDcaDiIO3_Txgr19S) associated to the paper [Ramesh et al. FNINS 2020](#Ramesh20fnins).
+
+### Event Denoising
+- [DVSNOISE20](https://sites.google.com/a/udayton.edu/issl/software/dataset) associated to the paper [Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](#Baldwin20cvpr).
 
 
 <br><br>
