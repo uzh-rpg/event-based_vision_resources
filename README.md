@@ -522,6 +522,15 @@ Neural Computation (2019), 31(6):1114-1138. [PDF](https://www.neuromorphic-visio
 - <a name="Almatrafi19davis"></a>Almatrafi, M. M.,  Hirakawa, K.,  
 *[DAViS Camera Optical Flow](http://doi.org/10.1109/TCI.2019.2948787)*,  
 IEEE Trans. Comput. Imag. (TCI), 6:396-407, 2019.
+- <a name="Almatrafi20arxiv"></a>Almatrafi, M., Baldwin, R., Aizawa, K., Hirakawa, K.,  
+*[Distance Surface for Event-Based Optical Flow]()*,  
+arXiv:2003.12680, 2020.
+- <a name="Lee20arxiv"></a>Lee, C., Kosta, A., Zhu, A.Z., Chaney, K., Daniilidis, K., Roy, K.,  
+*[Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks](https://arxiv.org/pdf/2003.06696)*,  
+arXiv:2003.06696, 2020.
+- <a name="Lee20arxiv"></a>Pan, L., Liu, M., Hartley, R.,  
+*[Single Image Optical Flow Estimation with an Event Camera](https://arxiv.org/pdf/2004.00347)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
 
 
 <a name="scene-flow-estimation"></a>
@@ -585,7 +594,10 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020. [PDF](http://rpg.ifi.uz
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf),  [YouTube](https://youtu.be/IdYrC4cUO0I), [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Henri_Rebecq.pdf), [Video pitch](https://youtu.be/1LZKtnQ-6lA).
     - <a name="Scheerlinck20wacv"></a>Scheerlinck, C., Rebecq, H., Gehrig, D., Barnes, N., Mahony, R., Scaramuzza, D.,  
 *[Fast Image Reconstruction with an Event Camera](http://openaccess.thecvf.com/content_WACV_2020/papers/Scheerlinck_Fast_Image_Reconstruction_with_an_Event_Camera_WACV_2020_paper.pdf)*,  
-IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf),  [YouTube](https://youtu.be/QaGYFtR2-X8), [Website](https://cedric-scheerlinck.github.io/firenet)
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf),  [YouTube](https://youtu.be/QaGYFtR2-X8), [Website](https://cedric-scheerlinck.github.io/firenet)  
+    - <a name="Stoffregen20arxiv"></a>Stoffregen, T., Scheerlinck, C., Scaramuzza, D., Drummond, T., Barnes, N., Kleeman, L., Mahony, R.,  
+*[How to Train Your Event Camera Neural Network](https://arxiv.org/pdf/2003.09078)*,  
+arXiv, 2020. [YouTube](https://youtu.be/m0brrMtrKoc), [Project page](https://timostoff.github.io/20ecnn)
 - [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
 *CED: Color Event Camera Dataset*.
 - <a name="Nagata20wacv"></a>Nagata, J., Sekikawa, Y., Hara, K., Suzuki, T., Aoki, Y.,  
@@ -634,6 +646,10 @@ Neurocomputing, vol. 335, pp. 206-214, 2019. [PDF pre-print](https://arxiv.org/a
 - <a name="Mostafavi19arxiv"></a>Mostafavi I., S.M.,  Choi, J., Yoon, K.J,  
 *[Learning to Super Resolve Intensity Images from Events](https://arxiv.org/abs/1912.01196)*,  
 arXiv, 2019.
+- <a name="Wang20cvpr"></a>Wang, L., Kim, T.-K., Yoon, K.-J.,  
+*[EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning](https://arxiv.org/pdf/2003.07640)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https://youtu.be/OShS_MwHecs), [Dataset](https://github.com/wl082013/ESIM_dataset)
+
 
 <a name="tone-mapping"></a>
 ### Tone Mapping
@@ -1114,7 +1130,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
 - <a name="Gao19iccvw"></a>Gao, S., Guo, G., Chen, C.L.P.,  
 *[Event-Based Incremental Broad Learning System for Object Classification](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CEFRL/Gao_Event-Based_Incremental_Broad_Learning_System_for_Object_Classification_ICCVW_2019_paper.pdf),*  
 IEEE Int. Conf. Computer Vision Workshop (ICCVW), 2019.
-    - <a name="Gao19iccvw"></a>Gao, S., Guo, G., Huang, H., Cheng, X., Chen, C.L.P.,  
+    - <a name="Gao20access"></a>Gao, S., Guo, G., Huang, H., Cheng, X., Chen, C.L.P.,  
 *[An End-to-End Broad Learning System for Event-Based Object Classification](https://doi.org/10.1109/ACCESS.2020.2978109)*,  
 IEEE Access, vol. 8, pp. 45974-45984, 2020.
 - <a name="Nan19ssci"></a>Nan, Y., Xiao, R., Gao, S., Yan, R.,  
@@ -1292,6 +1308,15 @@ arXiv:2001.03455, 2020. [Videos](https://drive.google.com/drive/folders/1KzhKKwJ
 - <a name="Xu20arxiv"></a>Xu, F., Lin, S., Yang, W., Yu, L., Dai, D., Xia, G.,  
 *[Matching Neuromorphic Events and Color Images via Adversarial Learning](https://arxiv.org/pdf/2003.00636)*,  
 arXiv:2003.00636, 2020.
+- <a name="Messikommer20arxiv"></a>Messikommer, N., Gehrig, D., Loquercio, A., Scaramuzza, D.,  
+*[Event-based Asynchronous Sparse Convolutional Networks](https://arxiv.org/pdf/2003.09148)*,  
+arXiv:2003.09148, 2020.
+- <a name="Hu20arxiv"></a>Hu, Y., Delbruck, T., Liu, S.-C.,  
+*[Exploiting Event Cameras by Using a Network Grafting Algorithm](https://arxiv.org/pdf/2003.10959)*,  
+arXiv:2003.10959, 2020.
+- <a name="Samadzadeh20arxiv"></a>Samadzadeh, A., Far, F.S.T., Javadi, A., Nickabadi, A., Chehreghani, M. H.,  
+*[Convolutional Spiking Neural Networks for Spatio-Temporal Feature Extraction](https://arxiv.org/pdf/2003.12346)*,  
+arXiv:2003.12346, 2020. [Code](https://github.com/aa-samad/conv_snn)
 
 
 <a name="learning-regression"></a>
@@ -1339,6 +1364,9 @@ Robotics: Science and Systems (RSS), 2019. [PDF](https://www.research-collection
 - <a name="Kaiser19arxiv"></a>Kaiser, J., Friedrich, A., Vasquez Tieck, J.C., Reichard, D., Roennau, A., Neftci, E., Dillmann, R.,  
 *[Embodied Neuromorphic Vision with Event-Driven Random Backpropagation](https://arxiv.org/abs/1904.04805)*,  
 arXiv, 2019. [PDF](https://arxiv.org/pdf/1904.04805), [Video](https://neurorobotics-files.net/index.php/s/sBQzWFrBPoH9Dx7)
+- <a name="Gehrig20cvpr"></a>Gehrig, D., Gehrig, M., Hidalgo-Carrió, J., Scaramuzza, D.,  
+*[Video to Events: Recycling Video Datasets for Event Cameras](http://rpg.ifi.uzh.ch/docs/CVPR20_Gehrig.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https://youtu.be/uX6XknBGg0w),  [Project page](https://github.com/uzh-rpg/rpg_vid2e)
 
 
 <br><br>
@@ -1474,6 +1502,10 @@ British Machine Vision Conf. (BMVC), 2019. [PDF](https://arxiv.org/pdf/1907.0746
 - <a name="Baldwin20cvpr"></a>Baldwin R.W., Almatrafi M., Asari V., Hirakawa K.,  
 *[Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](https://arxiv.org/abs/2003.08282)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](https://arxiv.org/abs/2003.08282), [Dataset](https://sites.google.com/a/udayton.edu/issl/software/dataset)
+- <a name="Feng20app"></a>Feng, Y., Lv, H., Liu, H., Zhang, Y., Xiao, Y., Han, C.,  
+*[Event Density Based Denoising Method for Dynamic Vision Sensor](https://doi.org/10.3390/app10062024)*,  
+Appl. Sci. 10(6), 2024, 2020.
+
 
 <br><br>
 <a name="datasets"></a>
@@ -1527,6 +1559,8 @@ Conf. on Robot Learning (CoRL), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CORL18_Re
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_CED_pitch.pdf), [Video pitch](https://youtu.be/BfMjtUQwWnQ).
 - [Rebecq et al., TPAMI 2020](#Rebecq20tpami),  
 *High Speed and High Dynamic Range Video with an Event Camera*. [Project page](http://rpg.ifi.uzh.ch/E2VID/)
+- [High Quality Frames (HQF) dataset](https://drive.google.com/drive/folders/18Xdr6pxJX0ZXTrXW9tK0hC3ZpmKDIt6_) associated to the paper [Stoffregen et al., arXiv 2020](#Stoffregen20arxiv).
+
 
 ### Visual Odometry and SLAM
 - [Combined Dynamic Vision / RGB-D Dataset](http://ebvds.neurocomputing.systems/EBSLAM3D/index.html) associated to the paper [Weikersdorfer et al., ICRA 2014](#Weikersdorfer14icra).
