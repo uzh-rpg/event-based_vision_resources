@@ -734,7 +734,7 @@ Advances in Theory and Applications of Stereo Vision (2011), pp. 165-188.
     - [Kogler, J., Ph.D. Thesis 2016](#Kogler16PhD),  
 *Design and evaluation of stereo matching techniques for silicon retina cameras*.
 - <a name="Kogler10scce"></a>Kogler, J., Sulzbachner, C., Eibensteiner, F., Humenberger, M.,  
-*[Address-Event Matching for a Silicon Retina based Stereoo Vision System](https://pdfs.semanticscholar.org/2a76/ebed789fdca9dc9e40dc412f6bba3cfa3ef2.pdf)*,  
+*[Address-Event Matching for a Silicon Retina based Stereo Vision System](https://pdfs.semanticscholar.org/2a76/ebed789fdca9dc9e40dc412f6bba3cfa3ef2.pdf)*,  
 Int. Conf. from Scientific Computing to Computational Engineering (IC-SCCE), 2010.
     - <a name="Sulzbachner10elmar"></a>Sulzbachner, C., Kogler, J., Eibensteiner, F.,  
 *[A novel verification approach for silicon retina stereo matching](https://ieeexplore.ieee.org/abstract/document/5606120)*,  
