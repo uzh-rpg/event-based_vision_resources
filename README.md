@@ -397,6 +397,11 @@ J. Microscopy (2011), 245(3):236-244. [PDF](https://www.neuromorphic-vision.com/
 *[Large-scale Particle Tracking with Dynamic Vision Sensors]()*,  
 ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http://www.ifd.mavt.ethz.ch/research/group-roesgen/dynamic-vision-sensors.html), [PDF](http://www.ifd.mavt.ethz.ch/content/dam/ethz/special-interest/mavt/fluid-dynamics/ifd-dam/research/documents/posters/experimental-methods/daniel_borer_dynamic_vision_sensor.pdf)
 
+### Eye tracking
+- <a name="Angelopoulos20arxiv"></a>Angelopoulos, A.N., Martel, J.N.P., Kohli, A.P.S., Conradt, J., Wetzstein, G.,  
+*[Event Based, Near Eye Gaze Tracking Beyond 10,000Hz](https://arxiv.org/pdf/2004.03577)*,  
+arXiv, 2020.
+
 
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
@@ -1155,6 +1160,9 @@ AAAI Conf. Artificial Intelligence, 2020.
 - <a name="Ramesh20wacvw"></a>Ramesh, B., Yang, H.,  
 *[Boosted Kernelized Correlation Filters for Event-based Face Detection](http://openaccess.thecvf.com/content_WACVW_2020/papers/w5/Ramesh_Boosted_Kernelized_Correlation_Filters_for_Event-based_Face_Detection_WACVW_2020_paper.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision Workshops (WACVW), 2020.
+- <a name="Giannone20arxiv"></a>Giannone, G., Anoosheh, A., Quaglino, A., D'Oro, P., Gallieri, M., Masci, J.,  
+*[Real-time Classification from Short Event-Camera Streams using Input-filtering Neural ODEs]()*,  
+arXiv, 2020.
 
 
 <a name="gesture-recognition"></a>
