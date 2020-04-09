@@ -1199,9 +1199,9 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2017. [YouTube](https://youtu.be/q
 *[A Low Power, Fully Event-Based Gesture Recognition System](https://doi.org/10.1109/CVPR.2017.781)*,  
  IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2017. [PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Amir_A_Low_Power_CVPR_2017_paper.pdf), [Dataset](#dvsgesture_dataset)
     - [YouTube: IBM Research demonstrates event-based gesture recognition using a brain-inspired chip](https://youtu.be/g08IW-qRomM)
-- <a name="Maro18arxiv"></a>Maro, J.-M., Benosman, R.,  
-*[Event-based Gesture Recognition with Dynamic Background Suppression using Smartphone Computational Capabilities](https://arxiv.org/pdf/1811.07802)*,  
-arXiv: 1811.07802, 2018.
+- <a name="Maro20fnins"></a>Maro, J.-M., Ieng, S.-H., Benosman, R.,  
+*[Event-based Gesture Recognition with Dynamic Background Suppression using Smartphone Computational Capabilities](https://doi.org/10.3389/fnins.2020.00275)*,  
+Front. Neurosci. (2020), 14:275. [PDF arXiv](https://arxiv.org/pdf/1811.07802)
 - <a name="Wang19wacv"></a>Wang, Q., Zhang, Y., Yuan, J., Lu, Y.,  
 *[Space-time Event Clouds for Gesture Recognition: from RGB Cameras to Event Cameras](https://cse.buffalo.edu/~jsyuan/papers/2019/WACV_2019_Qinyi.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2019.
