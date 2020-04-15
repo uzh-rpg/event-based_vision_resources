@@ -1513,6 +1513,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](https://a
 - <a name="Feng20app"></a>Feng, Y., Lv, H., Liu, H., Zhang, Y., Xiao, Y., Han, C.,  
 *[Event Density Based Denoising Method for Dynamic Vision Sensor](https://doi.org/10.3390/app10062024)*,  
 Appl. Sci. 10(6), 2024, 2020.
+- <a name="Guo20arxiv"></a>Guo, S., Kang, Z., Wang, L., Zhang, L., Chen, X., Li, S., Xu, W.,  
+*[A Noise Filter for Dynamic Vision Sensors based on Global Space and Time Information](https://arxiv.org/pdf/2004.04079)*,  
+arXiv, 2020.
 
 
 <br><br>
