@@ -1850,6 +1850,9 @@ Ph.D. Thesis, University of Maryland, USA, 2019.
 - <a name="Zhu19PhD"></a>Zhu, A. Z.,  
 *[Event-Based Algorithms for Geometric Computer Vision](https://repository.upenn.edu/edissertations/3566)*,  
 Ph.D. Thesis, University of Pennsylvania, USA, 2019.
+- <a name="Rebecq19PhD"></a>Rebecq, H.,  
+*[Event Cameras: from SLAM to High Speed Video](http://rpg.ifi.uzh.ch/docs/PhD19_Rebecq.pdf)*,  
+Ph.D. Thesis, University of Zurich, Zurich, Switzerland, 2019.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
