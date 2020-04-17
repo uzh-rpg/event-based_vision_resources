@@ -95,6 +95,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - **ATIS (Asynchronous Time-based Image Sensor)**: Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011. [PDF](https://www.neuromorphic-vision.com/public/publications/2/publication.pdf)
     - [Prophesee](http://www.prophesee.ai) (Formerly [Chronocam](http://www.chronocam.com/))  [**Buy a Prophesee EVK**](https://www.prophesee.ai/event-based-evk/)
     - [Prophesee Cameras Specifications](https://www.prophesee.ai/event-based-evk/)
+    - Prophesee Gen4 is described in the paper: Finateu, T., Niwa, A., Matolin, D., Tsuchimoto, K., Mascheroni, A., Reynaud, E., Mostafalu, P., Brady, F., Chotard, L., LeGoff, F., Takahashi, H., Wakabayashi, H., Oike, Y., Posch, C., *[A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86μm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline](https://doi.org/10.1109/ISSCC19947.2020.9063149)*, Int. Solid-State Circuits Conf. (ISSCC), 2020.
     - [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/)
 - **[CelePixel](http://www.celepixel.com/)**, Shanghai. CeleX-V: the first 1 Mega-pixel event-camera sensor.
 - **Sensitive DVS (sDVS)**
@@ -641,6 +642,9 @@ Int. Joint Conf. on Computer Vision, Imaging and Computer Graphics Theory and Ap
 - <a name="Haoyu20arxiv"></a>Haoyu, C., Minggui, T., Boxin, S., Yizhou, W., Tiejun, H.,  
 *[Learning to Deblur and Generate High Frame Rate Video with an Event Camera](https://arxiv.org/pdf/2003.00847)*,  
 arXiv:2003.00847, 2020.
+- <a name="Jiang20cvpr"></a>Jiang, Z., Zhang, Y., Zou, D., Ren, J., Lv, J., Liu, Y.,  
+*[Learning Event-Based Motion Deblurring](https://arxiv.org/pdf/2004.05794)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
 
 
 <a name="super-resolution"></a>
