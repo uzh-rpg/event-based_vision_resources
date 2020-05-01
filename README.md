@@ -1445,8 +1445,8 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2018.
 *[How Fast is Too Fast? The Role of Perception Latency in High-Speed Sense and Avoid](http://rpg.ifi.uzh.ch/docs/RAL19_Falanga.pdf)*,  
 IEEE Robotics and Automation Letters (RA-L), 2019. [YouTube](https://youtu.be/sbJAi6SXOQw)
 - <a name="Sanket19arxiv"></a>Sanket, N.J., Parameshwara, C.M., Singh, C.D., Kuruttukulam, A.V., Fermüller, C., Scaramuzza, D., Aloimonos, Y.,  
-*[EVDodge: Embodied AI For High-Speed Dodging On A Quadrotor Using Event Cameras](https://arxiv.org/pdf/1906.02919)*,  
-arXiv:1906.02919, 2019. [PDF](https://prg.cs.umd.edu/research/EVDodge_files/EVDodge.pdf), [YouTube](https://youtu.be/k1uzsiDI4hM), [Project page](http://prg.cs.umd.edu/EVDodgeNet), [Code](https://github.com/prgumd/EVDodge).
+*[EVDodge: Deep Dynamic Obstacle Dodging with Event Cameras](https://arxiv.org/pdf/1906.02919)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](https://prg.cs.umd.edu/research/EVDodge_files/EVDodge.pdf), [YouTube](https://youtu.be/k1uzsiDI4hM), [Project page](http://prg.cs.umd.edu/EVDodgeNet), [Code](https://github.com/prgumd/EVDodge).
 - <a name="Sugimoto20icra"></a>Sugimoto, R., Gehrig, M., Brescianini, D., Scaramuzza, D.,  
 *[Towards Low-Latency High-Bandwidth Control of Quadrotors using Event Cameras](https://arxiv.org/pdf/1911.04553)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA20_Sugimoto.pdf), [YouTube](https://youtu.be/3nIznSMCMtc)
