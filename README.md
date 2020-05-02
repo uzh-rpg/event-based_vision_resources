@@ -1866,7 +1866,7 @@ Ph.D. Thesis, Imperial College London, United Kingdom, 2019.
 Ph.D. Thesis, University of Maryland, USA, 2019.
 - <a name="Liu19PhD"></a>Liu, H.,  
 *[Neuromorphic Vision for Robotic Tracking and Navigation](https://doi.org/10.3929/ethz-b-000385246)*,  
-Ph.D. Thesis, University of Maryland, USA, 2019.
+Ph.D. Thesis, ETH-Zurich, Zurich, Switzerland, 2019.
 - <a name="Zhu19PhD"></a>Zhu, A. Z.,  
 *[Event-Based Algorithms for Geometric Computer Vision](https://repository.upenn.edu/edissertations/3566)*,  
 Ph.D. Thesis, University of Pennsylvania, USA, 2019.
