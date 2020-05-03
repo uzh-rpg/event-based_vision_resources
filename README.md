@@ -655,15 +655,6 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
 Neurocomputing, vol. 335, pp. 206-214, 2019. [PDF pre-print](https://arxiv.org/abs/1802.02398)
 - <a name="Mostafavi19arxiv"></a>Mostafavi I., S.M.,  Choi, J., Yoon, K.J,  
 *[Learning to Super Resolve Intensity Images from Events](https://arxiv.org/abs/1912.01196)*,  
-<<<<<<< HEAD
-arXiv:1912.01196, 2019.
-    
-<a name="egomotion"></a>
-## Localization and Ego-Motion Estimation
-- [Cook et. al. IJCNN 2011](#Cook11ijcnn),  
-*Interacting maps for fast visual interpretation*.  
-Joint estimation of optical flow, image intensity and angular velocity with a rotating event camera.
-=======
 arXiv, 2019.
 - <a name="Wang20cvpr"></a>Wang, L., Kim, T.-K., Yoon, K.-J.,  
 *[EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning](https://arxiv.org/pdf/2003.07640)*,  
@@ -916,7 +907,6 @@ IEEE Trans. Ind. Electron., 63(1):418-428, 2016.
 
 <a name="slam-localization"></a>
 ### Localization, Ego-Motion Estimation
->>>>>>> b2ec9a8c227e253d7d091c710398008626905e5f
 - <a name="Weikersdorfer12robio"></a>Weikersdorfer, D. and Conradt, J.,  
 *[Event-based particle filtering for robot self-localization](http://doi.org/10.1109/ROBIO.2012.6491077)*,  
 IEEE Int. Conf. Robotics and Biomimetics (ROBIO), 2012. [PDF](https://mediatum.ub.tum.de/doc/1215541/835468.pdf)
