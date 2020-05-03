@@ -653,9 +653,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
 *[Super-resolution of spatiotemporal event-stream image](https://doi.org/10.1016/j.neucom.2018.12.048)*,  
 Neurocomputing, vol. 335, pp. 206-214, 2019. [PDF pre-print](https://arxiv.org/abs/1802.02398)
-- <a name="Mostafavi19arxiv"></a>Mostafavi I., S.M.,  Choi, J., Yoon, K.J,  
+- <a name="Mostafavi20cvpr"></a>Mostafavi I., S.M.,  Choi, J., Yoon, K.-J.,  
 *[Learning to Super Resolve Intensity Images from Events](https://arxiv.org/abs/1912.01196)*,  
-arXiv, 2019.
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
 - <a name="Wang20cvpr"></a>Wang, L., Kim, T.-K., Yoon, K.-J.,  
 *[EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning](https://arxiv.org/pdf/2003.07640)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https://youtu.be/OShS_MwHecs), [Dataset](https://github.com/wl082013/ESIM_dataset)
