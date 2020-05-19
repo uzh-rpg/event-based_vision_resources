@@ -1619,7 +1619,7 @@ IEEE Int. Conf. Robotics and Automation (ICRA) Workshop: Dataset Generation and 
 *EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras*
 - <a name="Hu20itsc"></a>Hu, Y., Binas, J., Neil, D., Liu, S.-C., Delbruck, T.,  
 *[DDD20 End-to-End Event Camera Driving Dataset: Fusing Frames and Events with Deep Learning for Improved Steering Prediction](https://arxiv.org/abs/2005.08605)*,  
-IEEE Intelligent Transportation Systems Conf. (ITSC), 2020. [Dataset](http://sensors.ini.uzh.ch/databases.html)
+IEEE Intelligent Transportation Systems Conf. (ITSC), 2020. [Dataset](https://sites.google.com/view/davis-driving-dataset-2020/home), [More datasets](http://sensors.ini.uzh.ch/databases.html)
 
 
 ### Segmentation
