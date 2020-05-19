@@ -19,6 +19,7 @@
         - [Intensity-Image Reconstruction](#image-reconstruction)
         - [Video Synthesis](#video-synthesis)
         - [Super-resolution](#super-resolution)
+        - [Joint/guided filtering](#joint-filtering)
         - [Tone mapping](#tone-mapping)
         - [Visual Stabilization](#visual-stabilization)
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
@@ -625,7 +626,7 @@ The Visual Computer, 2017. [PDF](https://cg.cs.tsinghua.edu.cn/papers/TVC-2017-H
 - <a name="Shedligeri19jei"></a>Shedligeri, P.A., Mitra, K.,  
 *[Photorealistic Image Reconstruction from Hybrid Intensity and Event based Sensor](https://doi.org/10.1117/1.JEI.28.6.063012)*,  
 J. Electronic Imaging, 28(6), 063012 (2019). [PDF](https://arxiv.org/pdf/1805.06140.pdf)
-- <a name="Wang19iccvw"></a>Wang, Z., Jiang, W., Katsaggelos, A., Cossairt, O.,  
+- <a name="Wang19iccvw"></a>Wang, Z. W., Jiang, W., He, K., Shi, B., Katsaggelos, A., Cossairt, O.,  
 *[Event-driven Video Frame Synthesis](http://openaccess.thecvf.com/content_ICCVW_2019/papers/PBDL/Wang_Event-Driven_Video_Frame_Synthesis_ICCVW_2019_paper.pdf)*,  
 IEEE Int. Conf. Computer Vision Workshops (ICCVW), 2019. [PDF](https://arxiv.org/abs/1902.09680)
 - <a name="Pan19cvpr"></a>Pan, L., Scheerlinck, C., Yu, X., Hartley, R., Liu, M., Dai, Y.,  
@@ -659,6 +660,13 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
 - <a name="Wang20cvpr"></a>Wang, L., Kim, T.-K., Yoon, K.-J.,  
 *[EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning](https://arxiv.org/pdf/2003.07640)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https://youtu.be/OShS_MwHecs), [Dataset](https://github.com/wl082013/ESIM_dataset)
+
+
+<a name="joint-filtering"></a>
+### Joint/guided filtering
+- <a name="Wang20cvpr-gef"></a>Wang, Z. W., Duan, P., Cossairt, O., Katsaggelos, A., Huang, T., Shi, B.,  
+*[Joint Filtering of Intensity Images and Neuromorphic Events for High-Resolution Noise-Robust Imaging](https://compphotolab.northwestern.edu/wordpress/wp-content/uploads/2020/04/cvpr2020-gef-compressed.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https://youtu.be/JpJFBZ97KX0), [Dataset](https://sites.google.com/view/guided-event-filtering)
 
 
 <a name="tone-mapping"></a>
@@ -1532,6 +1540,9 @@ Appl. Sci. 10(6), 2024, 2020.
 - <a name="Guo20arxiv"></a>Guo, S., Kang, Z., Wang, L., Zhang, L., Chen, X., Li, S., Xu, W.,  
 *[A Noise Filter for Dynamic Vision Sensors based on Global Space and Time Information](https://arxiv.org/pdf/2004.04079)*,  
 arXiv, 2020.
+- <a name="Banerjee20arxiv"></a>Banerjee, S., Wang, Z. W., Chopp, H. H., Cossairt, O., Katsaggelos, A.,  
+*[Quadtree Driven Lossy Event Compression](https://arxiv.org/pdf/2005.00974.pdf)*,  
+arXiv 2020. [PDF](https://arxiv.org/pdf/2005.00974.pdf)
 
 
 <br><br>
@@ -1588,6 +1599,8 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Sli
 - [Rebecq et al., TPAMI 2020](#Rebecq20tpami),  
 *High Speed and High Dynamic Range Video with an Event Camera*. [Project page](http://rpg.ifi.uzh.ch/E2VID/)
 - [High Quality Frames (HQF) dataset](https://drive.google.com/drive/folders/18Xdr6pxJX0ZXTrXW9tK0hC3ZpmKDIt6_) associated to the paper [Stoffregen et al., arXiv 2020](#Stoffregen20arxiv).
+- [Wang et al., CVPR 2020](#Wang20cvpr-gef),  
+*Joint Filtering of Intensity Images and Neuromorphic Events for High-Resolution Noise-Robust Imaging*. [Project page](https://sites.google.com/view/guided-event-filtering)
 
 
 ### Visual Odometry and SLAM
