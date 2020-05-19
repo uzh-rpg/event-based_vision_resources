@@ -1572,6 +1572,7 @@ Conf. on Robot Learning (CoRL), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CORL18_Re
     - DDD17 - 	DAVIS Driving Dataset 2017
     - ROSHAMBO17 - 	RoShamBo Rock Scissors Paper game DVS dataset
     - DHP19 - 	DAVIS Human Pose Estimation and Action Recognition
+    - DDD20 - End-to-End Event Camera Driving Dataset
 
 ### Optical Flow
 - [DVS/DAVIS Optical Flow Dataset](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) associated to the paper [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
@@ -1616,6 +1617,10 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019. [PDF](http://rpg.ifi.uzh.c
 IEEE Int. Conf. Robotics and Automation (ICRA) Workshop: Dataset Generation and Benchmarking of SLAM Algorithms for Robotics and VR/AR, 2019.
 - [Mitrokhin et al., IROS 2019](#Mitrokhin19iros).  
 *EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras*
+- <a name="Hu20itsc"></a>Hu, Y., Binas, J., Neil, D., Liu, S.-C., Delbruck, T.,  
+*[DDD20 End-to-End Event Camera Driving Dataset: Fusing Frames and Events with Deep Learning for Improved Steering Prediction](https://arxiv.org/abs/2005.08605),*  
+The 23rd IEEE International Conference on Intelligent Transportation Systems, 2020. [Dataset](http://sensors.ini.uzh.ch/databases.html)
+
 
 ### Segmentation
 - [Mitrokhin et al., IROS 2018](#Mitrokhin18iros), Extreme Event Dataset (EED). [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
