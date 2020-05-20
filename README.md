@@ -331,9 +331,6 @@ IEEE Access, vol. 7, pp. 134926-134942, 2019. [Code](https://github.com/RTC-rese
 - <a name="Li19access"></a>Li, K., Shi, D., Zhang, Y., Li, R., Qin, W., Li, R.,  
 *[Feature Tracking Based on Line Segments With the Dynamic and Active-Pixel Vision Sensor (DAVIS)](https://doi.org/10.1109/ACCESS.2019.2933594)*,  
 IEEE Access, vol. 7, pp. 110874-110883, 2019.
-- <a name="Xu19arxiv"></a>Xu, L., Xu, W., Golyanik, V., Habermann, M., Fang, L., Theobalt, C.,  
-*[EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera](https://arxiv.org/pdf/1908.11505)*,  
-arXiv:1908.11505, 2019. [ZDNet news](https://www.zdnet.com/article/high-speed-motion-capture-using-a-single-event-camera/)
 - <a name="Bolten19iccs"></a>Bolten T., Pohle-Fröhlich R., Tönnies K.D.,  
 *[Application of Hierarchical Clustering for Object Tracking with a Dynamic Vision Sensor](https://doi.org/10.1007/978-3-030-22750-0_13)*,  
 Int. Conf. Computational Science (ICCS) 2019. [PDF](https://www.hs-niederrhein.de/fileadmin/dateien/Institute_und_Kompetenzzentren/iPattern/selfarchived/bolten-iccs-2019.pdf)
@@ -355,6 +352,9 @@ IEEE Int. Conf. Artificial Intelligence Circuits and Systems (AICAS), 2020.
 - <a name="Seok20wacv"></a>Seok, H., Lim, J.,  
 *[Robust Feature Tracking in DVS Event Stream using Bezier Mapping](http://openaccess.thecvf.com/content_WACV_2020/papers/Seok_Robust_Feature_Tracking_in_DVS_Event_Stream_using_Bezier_Mapping_WACV_2020_paper.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2020.  [YouTube](https://youtu.be/mskBdueW9Hc)
+- <a name="Xu20cvpr"></a>Xu, L., Xu, W., Golyanik, V., Habermann, M., Fang, L., Theobalt, C.,  
+*[EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera](https://arxiv.org/pdf/1908.11505)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [ZDNet news](https://www.zdnet.com/article/high-speed-motion-capture-using-a-single-event-camera/)
 
 
 <a name="corner-detection"></a>
@@ -442,7 +442,7 @@ IEEE Int. Conf. Image Processing (ICIP), 2014.
 - <a name="Richter14bc"></a>Richter, C., Röhrbein, F., Conradt, J.,  
 [Bio inspired optic flow detection using neuromorphic hardware](https://doi.org/10.12751/NNCN.BC2014.0032),  
 Bernstein Conf. 2014. [PDF](https://mediatum.ub.tum.de/doc/1281617/789727.pdf)
-- <a name="Barranco15iwann"></a>Barranco, F., Fermûller, C., Aloimonos, Y.,  
+- <a name="Barranco15iwann"></a>Barranco, F., Fermüller, C., Aloimonos, Y.,  
 *[Bio-inspired Motion Estimation with Event-Driven Sensors](https://doi.org/10.1007/978-3-319-19258-1_27)*,  
 Int. Work-Conf. Artificial Neural Networks (IWANN) 2015, Advances in Computational Intell., pp. 309-321. [PDF](https://www.ugr.es/~fbarranco/docs/IWANN_Barranco_et_al_2015.pdf)
 - <a name="Conradt15robio"></a>Conradt, J.,  
@@ -1084,6 +1084,9 @@ Int. Conf. Advanced Robotics (ICAR), 2017, pp. 530-536. [PDF](https://arxiv.org/
 IEEE Int. Conf. Computer Vision (ICCV), 2019. [PDF (animations best viewed with Acrobat Reader)](http://rpg.ifi.uzh.ch/docs/ICCV19_Stoffregen.pdf), [YouTube](https://youtu.be/0q6ap_OSBAk)
 - [Mitrokhin et al., IROS 2019](#Mitrokhin19iros),  
 *EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras*.  
+- <a name="Mitrokhin20cvpr"></a>Mitrokhin, A., Hua, Z., Fermüller, C., Aloimonos, Y.,  
+*Learning Visual Motion Segmentation Using Event Surfaces*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
 
 
 <a name="pattern-recognition"></a>
