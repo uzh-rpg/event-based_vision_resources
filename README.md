@@ -355,6 +355,8 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2020.  [YouTube](https
 - <a name="Xu20cvpr"></a>Xu, L., Xu, W., Golyanik, V., Habermann, M., Fang, L., Theobalt, C.,  
 *[EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera](https://arxiv.org/pdf/1908.11505)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [ZDNet news](https://www.zdnet.com/article/high-speed-motion-capture-using-a-single-event-camera/)
+- [Boettiger, J. P., MSc 2020](#Boettiger20MSc),  
+*A Comparative Evaluation of the Detection and Tracking Capability Between Novel Event-Based and Conventional Frame-Based Sensors*.
 
 
 <a name="corner-detection"></a>
@@ -1924,14 +1926,17 @@ Bacherlor Thesis, TU Munich, 2016.
 *[DVS event stream registration](https://mediatum.ub.tum.de/doc/1367575/1367575.pdf)*,  
 Bacherlor Thesis, TU Munich, 2016.
 - <a name="Nelson19MSc"></a>Nelson, K. J.,  
-*[Event-Based Visual-Inertial Odometry on a Fixed-Wing Unmanned Aerial Vehicle](https://apps.dtic.mil/docs/citations/AD1076268)*,  
-MSc. Thesis, Air Force Institute of Technology, USA, 2019. [PDF](https://apps.dtic.mil/dtic/tr/fulltext/u2/1076268.pdf)
+*[Event-Based Visual-Inertial Odometry on a Fixed-Wing Unmanned Aerial Vehicle](https://scholar.afit.edu/etd/2276/)*,  
+MSc. Thesis, Air Force Institute of Technology, USA, 2019. [PDF](https://apps.dtic.mil/docs/citations/AD1076268), [PDF](https://apps.dtic.mil/dtic/tr/fulltext/u2/1076268.pdf)
 - <a name="Attanasio19MSc"></a>Attanasio, G.,  
 *[Event-based camera communications: a measurement-based analysis](https://webthesis.biblio.polito.it/11693/1/tesi.pdf)*,  
 MSc. Thesis, Politecnico di Torino, 2019.
 - <a name="Wang19MSc"></a>Wang, Z.,  
 *[Motion Equivariance of Event-based Camera Data with the Temporal Normalization Transform](https://arxiv.org/pdf/1911.12801)*,  
 MSc. Thesis, University of Pennsylvania, 2019.
+- <a name="Boettiger20MSc"></a>Boettiger, J. P.,  
+*[A Comparative Evaluation of the Detection and Tracking Capability Between Novel Event-Based and Conventional Frame-Based Sensors](https://scholar.afit.edu/etd/3154 )*,  
+MSc. Thesis, Air Force Institute of Technology, USA, 2020. [PDF](https://scholar.afit.edu/cgi/viewcontent.cgi?article=4155&context=etd)
 
 
 <br><br>
