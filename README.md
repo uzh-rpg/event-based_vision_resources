@@ -1012,9 +1012,9 @@ IEEE Int. Conf. Robotics and Biomimetics (ROBIO), 2019. [PDF](https://arxiv.org/
 - <a name="Park19iedm"></a>Park, P.K.J., Kim, J.-S., Shin, C.-W, Lee, H., Liu, W., Wang, Q., Roh, Y., Kim, J., Ater, Y., Soloveichik, E., Ryu, H. E.,  
 *[Low-Latency Interactive Sensing for Machine Vision](https://doi.org/10.1109/IEDM19573.2019.8993468)*,  
 IEEE Int. Electron Devices Meeting (IEDM), 2019.
-- <a name="Liu20arxiv"></a>Liu. D., Parra, A., Chin, T.-J.,  
+- <a name="Liu20cvpr"></a>Liu. D., Parra, A., Chin, T.-J.,  
 *[Globally Optimal Contrast Maximisation for Event-based Motion Estimation](https://arxiv.org/pdf/2002.10686)*,  
-arXiv, 2020.
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [Project page](https://github.com/liudaqikk/CMBNB-demo)
 - <a name="Gehrig20icra"></a>Gehrig, M., Shrestha, S. B., Mouritzen, D., Scaramuzza, D.,  
 *[Event-Based Angular Velocity Regression with Spiking Networks](https://arxiv.org/pdf/2003.02790)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA20_Gehrig.pdf), [Code](https://github.com/uzh-rpg/snn_angular_velocity)
