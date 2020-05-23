@@ -537,6 +537,9 @@ arXiv:2003.12680, 2020.
 - <a name="Lee20arxiv"></a>Lee, C., Kosta, A., Zhu, A.Z., Chaney, K., Daniilidis, K., Roy, K.,  
 *[Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks](https://arxiv.org/pdf/2003.06696)*,  
 arXiv:2003.06696, 2020.
+- <a name="DAngelo20fnins"></a>D'Angelo, G., Janotte, E., Schoepe, T., O'Keeffe, J., Milde, M. B., Chicca, E., Bartolozzi, C.,  
+*[Event-Based Eccentric Motion Detection Exploiting Time Difference Encoding](https://doi.org/10.3389/fnins.2020.00451)*,  
+Front. Neurosci. (2020), 14:451. [Project page](https://github.com/event-driven-robotics/sEMD-iCub)
 - <a name="Lee20arxiv"></a>Pan, L., Liu, M., Hartley, R.,  
 *[Single Image Optical Flow Estimation with an Event Camera](https://arxiv.org/pdf/2004.00347)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
