@@ -97,6 +97,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
     - [Prophesee](http://www.prophesee.ai) (Formerly [Chronocam](http://www.chronocam.com/))  [**Buy a Prophesee EVK**](https://www.prophesee.ai/event-based-evk/)
     - [Prophesee Cameras Specifications](https://www.prophesee.ai/event-based-evk/)
     - Prophesee Gen4 is described in: Finateu et al., *[A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86μm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline](https://doi.org/10.1109/ISSCC19947.2020.9063149)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), 2020, pp. 112-114.
+    - [Sample Applications.  Nature = Future! The eye camera. (In French)](https://youtu.be/pfpqAZ5jPa0?t=215)
     - [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/)
 - **[CelePixel](http://www.celepixel.com/)**, Shanghai. CeleX-V: the first 1 Mega-pixel event-camera sensor.
 - **Sensitive DVS (sDVS)**
