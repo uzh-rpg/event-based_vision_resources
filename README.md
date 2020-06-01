@@ -510,7 +510,7 @@ British Machine Vision Conf. (BMVC), 2018. [Supplementary material](https://docs
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
 - <a name="Ye18arxiv"></a>Ye, C., Mitrokhin, A., Parameshwara, C., Fermüller, C., Yorke, J. A., Aloimonos,Y,  
 *[Unsupervised Learning of Dense Optical Flow and Depth from Sparse Event Data](https://arxiv.org/pdf/1809.08625.pdf)*,  
-arXiv:1809.08625, 2018.
+arXiv:1809.08625, 2018. [YouTube](https://youtu.be/hmDDAQVD0B0)
 - <a name="Akolkar18arxiv"></a>Akolkar, H., Ieng, S.-H., Benosman, R.,  
 *[See before you see: Real-time high speed motion prediction using fast aperture-robust event-driven visual flow](https://arxiv.org/pdf/1811.11135)*,  
 arXiv:1811.11135, 2018.
