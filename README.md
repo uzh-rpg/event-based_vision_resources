@@ -1356,6 +1356,9 @@ arXiv:2003.10959, 2020.
 - <a name="Samadzadeh20arxiv"></a>Samadzadeh, A., Far, F.S.T., Javadi, A., Nickabadi, A., Chehreghani, M. H.,  
 *[Convolutional Spiking Neural Networks for Spatio-Temporal Feature Extraction](https://arxiv.org/pdf/2003.12346)*,  
 arXiv:2003.12346, 2020. [Code](https://github.com/aa-samad/conv_snn)
+- <a name="Lin20ral"></a>Lin, S., Xu, F., Wang., X., Yang, W., Yu, L.,  
+*[Efficient Spatial-Temporal Normalization of SAE Representation for Event Camera](https://doi.org/10.1109/LRA.2020.2995332)*,  
+IEEE Robotics and Automation Letters (RA-L), 5(3):4265-4272, 2020.
 
 
 <a name="learning-regression"></a>
