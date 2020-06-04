@@ -39,11 +39,12 @@
         - [Representation / Feature Extraction](#learning-representation-features)
         - [Regression Tasks](#learning-regression)
         - [Learning Methods / Frameworks](#learning-methods-frameworks)
+    - [Signal Processing](#signal_processing)
+        - [Event Denoising](#denoising)
+        - [Compression](#compression)
     - [Control](#control)
     - [Space Applications](#space)
     - [Tactile Sensing Applications](#tactile_sensing)
-
-- [Signal Processing](#signal_processing)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -642,7 +643,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://a
 *[High Frame Rate Video Reconstruction based on an Event Camera](https://arxiv.org/pdf/1903.06531)*,  
 arXiv, 2019.
 - <a name="Pini19iciap"></a>Pini, S., Borghi, G., Vezzani, R., Cucchiara, R.,  
-*[Video synthesis from Intensity and Event Frames](https://doi.org/10.1007/978-3-030-30642-7_28)*,  
+*[Video Synthesis from Intensity and Event Frames](https://doi.org/10.1007/978-3-030-30642-7_28)*,  
 Int. Conf. Image Analysis and Processing (ICIAP), 2019. LNCS, vol 11751. [PDF](https://iris.unimore.it/retrieve/handle/11380/1178955/224434/ICIAP19_Event_Cameras.pdf)
 - <a name="Pini20visapp"></a>Pini S., Borghi G., Vezzani R.,  
 *[Learn to See by Events: Color Frame Synthesis from Event and RGB Cameras](http://hdl.handle.net/11380/1185831)*,  
@@ -831,10 +832,6 @@ Int. Conf. Artificial Neural Networks (ICANN), 2018.
 - <a name="Zou16icip"></a>Zou, D., Guo, P., Wang, Q., Wang, X., Shao, G., Shi, F., Li, J., Park, P.K.J.,  
 *[Context-Aware Event-driven Stereo Matching](https://doi.org/10.1109/ICIP.2016.7532523)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2016.
-- [Kaelber, F., Bachelor Thesis 2016](#Kaelber16BS),  
-*A probabilistic method for event stream registration*.
-- [Galanis, M., Bachelor Thesis 2016](#Galanis16BS),  
-*DVS event stream registration*.
 - <a name="Osswald17srep"></a>Osswald, M., Ieng, S.-H., Benosman, R., Indiveri, G.,  
 *[A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems](http://doi.org/10.1038/srep40703)*,  
 Scientific Reports 7, Article number: 40703 (2017). [PDF](https://www.neuromorphic-vision.com/public/publications/44/publication.pdf)
@@ -849,6 +846,12 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2017.
 - <a name="Xie17fnins"></a>Xie, Z., Chen, S., Orchard, G.  
 *[Event-Based Stereo Depth Estimation Using Belief Propagation](https://doi.org/10.3389/fnins.2017.00535)*,  
 Front. Neurosci. (2017), 11:535.  [YouTube](https://youtu.be/ngJpY1lcbdw)
+- [Everding, L., Ph.D. Thesis 2018](#Everding18PhD),  
+*Event-Based Depth Reconstruction Using Stereo Dynamic Vision Sensors*.  
+    - [Kaelber, F., Bachelor Thesis 2016](#Kaelber16BS),  
+*A probabilistic method for event stream registration*.
+    - [Galanis, M., Bachelor Thesis 2016](#Galanis16BS),  
+*DVS event stream registration*.
 - <a name="Andreopoulos18cvpr"></a>Andreopoulos, A., Kashyap, H.J., Nayak, T.K., Amir, A., Flickner, M.D.,  
 *[A Low Power, High Throughput, Fully Event-Based Stereo System](http://openaccess.thecvf.com/content_cvpr_2018/papers/Andreopoulos_A_Low_Power_CVPR_2018_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018.
@@ -1411,6 +1414,60 @@ arXiv, 2019. [PDF](https://arxiv.org/pdf/1904.04805), [Video](https://neurorobot
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https://youtu.be/uX6XknBGg0w),  [Project page](https://github.com/uzh-rpg/rpg_vid2e)
 
 
+<a name="signal_processing"></a>
+## Signal Processing
+- <a name="Ieng14ieee"></a>Ieng, S.-H., Posch, C., Benosman, R.,  
+*[Asynchronous Neuromorphic Event-Driven Image Filtering](https://doi.org/10.1109/JPROC.2014.2347355)*,  
+Proc. IEEE, 102(10):1485-1499, 2014. [PDF](http://neuromorphic-vision.com/public/publications/20/publication.pdf)
+- <a name="Fillatre15eusipco"></a>Fillatre, L., Antonini, M.,   
+*[Uniformly minimum variance unbiased estimation for asynchronous event-based cameras](https://doi.org/10.1109/ICIP.2014.7025834)*,  
+IEEE Int. Conf. Image Processing (ICIP), 2014.
+- [Mueggler et al., ICRA 2015](#Mueggler15icra),  
+*Lifetime Estimation of Events from Dynamic Vision Sensors*.
+- <a name="Liu15iscas"></a>Klein, P., Conradt, J., Liu, S.-C.,  
+*[Scene stitching with event-driven sensors on a robot head platform](https://doi.org/10.1109/ISCAS.2015.7169173)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
+- <a name="Fillatre15eusipco"></a>Fillatre, L.,  
+*[Bayes classification for asynchronous event-based cameras](https://doi.org/10.1109/EUSIPCO.2015.7362498)*,  
+European Signal Process. Conf. (EUSIPCO), 2015.
+- <a name="Sabatier17tip"></a>Sabatier, Q., Ieng, S.-H., Benosman, R.,  
+*[Asynchronous Event-Based Fourier Analysis](https://doi.org/10.1109/TIP.2017.2661702)*,  
+IEEE Trans. Image Process., 2017, pp. 2192-2202. [PDF](https://www.neuromorphic-vision.com/public/publications/7/publication.pdf), [Suppl. Mat.](https://www.neuromorphic-vision.com/public/publications/7/supplementaryMaterial.zip)
+- [Scheerlinck et al., RAL 2019](#Scheerlinck19ral),  
+*Asynchronous Spatial Image Convolutions for Event Cameras*.
+- <a name="Lee19arxiv"></a>Lee, S., Kim, H., Kim, H.J.,  
+*[Edge Detection for Event Cameras using Intra-pixel-area Events](https://bmvc2019.org/wp-content/uploads/papers/1140-paper.pdf)*,  
+British Machine Vision Conf. (BMVC), 2019. [PDF](https://arxiv.org/pdf/1907.07469)
+
+<a name="denoising"></a>
+### Event Denoising
+- <a name="Khodamoradi19tetc"></a>Khodamoradi, A., Kastner, R.,  
+*[O(N)-Space Spatiotemporal Filter for Reducing Noise in Neuromorphic Vision Sensors](https://doi.org/10.1109/TETC.2017.2788865)*,  
+IEEE Trans. Emerging Topics in Computing, 2018.
+- <a name="Baldwin20cvpr"></a>Baldwin R.W., Almatrafi M., Asari V., Hirakawa K.,  
+*[Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](https://arxiv.org/abs/2003.08282)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](https://arxiv.org/abs/2003.08282), [Dataset](https://sites.google.com/a/udayton.edu/issl/software/dataset)
+- <a name="Feng20app"></a>Feng, Y., Lv, H., Liu, H., Zhang, Y., Xiao, Y., Han, C.,  
+*[Event Density Based Denoising Method for Dynamic Vision Sensor](https://doi.org/10.3390/app10062024)*,  
+Appl. Sci. 10(6), 2024, 2020.
+- <a name="Wut20mm"></a>Wu, J., Ma, C., Li, L., Dong, W., Shi, G.,  
+*[Probabilistic Undirected Graph Based Denoising Method for Dynamic Vision Sensor](https://doi.org/10.1109/TMM.2020.2993957)*,  
+ IEEE Trans. Multimedia, 2020.
+ - <a name="Guo20arxiv"></a>Guo, S., Kang, Z., Wang, L., Zhang, L., Chen, X., Li, S., Xu, W.,  
+*[A Noise Filter for Dynamic Vision Sensors based on Global Space and Time Information](https://arxiv.org/pdf/2004.04079)*,  
+arXiv, 2020.
+
+
+<a name="compression"></a>
+### Compression
+- <a name="Khan20access"></a>Khan, N., Iqbal, K., Martini, M. G.,  
+*[Lossless compression of data from static and mobile Dynamic Vision Sensors - Performance and trade-offs](https://doi.org/10.1109/ACCESS.2020.2996661)*,  
+IEEE Access, 2020.
+- <a name="Banerjee20arxiv"></a>Banerjee, S., Wang, Z. W., Chopp, H. H., Cossairt, O., Katsaggelos, A.,  
+*[Quadtree Driven Lossy Event Compression](https://arxiv.org/pdf/2005.00974.pdf)*,  
+arXiv 2020. [PDF](https://arxiv.org/pdf/2005.00974.pdf)
+
+
 <br><br>
 <a name="control"></a>
 ## Control
@@ -1505,7 +1562,7 @@ Proc. NEO and Debris Detection Conference, Darmstadt, Germany, Jan. 2019.
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://arxiv.org/pdf/1906.07866.pdf)
 - <a name="Afshar19arxiv"></a>Afshar, S., Nicholson, A. P., van Schaik, A., Cohen, G.,  
 *[Event-based Object Detection and Tracking for Space Situational Awareness](https://arxiv.org/pdf/1911.08730)*,  
-arXiv:1911.08730, 2019.
+arXiv:1911.08730, 2019. [Dataset](https://www.westernsydney.edu.au/icns/reproducible_research/publication_support_materials/space_imaging)
 
 
 <a name="tactile_sensing"></a>
@@ -1522,47 +1579,6 @@ arXiv, 2020.
 - <a name="Haessig20fnins"></a>Haessig, G., Milde, M.B., Aceituno, P.V., Oubari, O., Knight, J.C., van Schaik, A., Benosman,  R. B., Indiveri, G.,  
 *[Event-Based Computation for Touch Localization Based on Precise Spike Timing](https://doi.org/10.3389/fnins.2020.00420)*,  
 Front. Neurosci. (2020), 14:420.
-
-
-<a name="signal_processing"></a>
-# Signal Processing
-- <a name="Ieng14ieee"></a>Ieng, S.-H., Posch, C., Benosman, R.,  
-*[Asynchronous Neuromorphic Event-Driven Image Filtering](https://doi.org/10.1109/JPROC.2014.2347355)*,  
-Proc. IEEE, 102(10):1485-1499, 2014. [PDF](http://neuromorphic-vision.com/public/publications/20/publication.pdf)
-- <a name="Fillatre15eusipco"></a>Fillatre, L., Antonini, M.,   
-*[Uniformly minimum variance unbiased estimation for asynchronous event-based cameras](https://doi.org/10.1109/ICIP.2014.7025834)*,  
-IEEE Int. Conf. Image Processing (ICIP), 2014.
-- [Mueggler et al., ICRA 2015](#Mueggler15icra),  
-*Lifetime Estimation of Events from Dynamic Vision Sensors*.
-- <a name="Liu15iscas"></a>Klein, P., Conradt, J., Liu, S.-C.,  
-*[Scene stitching with event-driven sensors on a robot head platform](https://doi.org/10.1109/ISCAS.2015.7169173)*,  
-IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
-- <a name="Fillatre15eusipco"></a>Fillatre, L.,  
-*[Bayes classification for asynchronous event-based cameras](https://doi.org/10.1109/EUSIPCO.2015.7362498)*,  
-European Signal Process. Conf. (EUSIPCO), 2015.
-- <a name="Sabatier17tip"></a>Sabatier, Q., Ieng, S.-H., Benosman, R.,  
-*[Asynchronous Event-Based Fourier Analysis](https://doi.org/10.1109/TIP.2017.2661702)*,  
-IEEE Trans. Image Process., 2017, pp. 2192-2202. [PDF](https://www.neuromorphic-vision.com/public/publications/7/publication.pdf), [Suppl. Mat.](https://www.neuromorphic-vision.com/public/publications/7/supplementaryMaterial.zip)
-- <a name="Khodamoradi19tetc"></a>Khodamoradi, A., Kastner, R.,  
-*[O(N)-Space Spatiotemporal Filter for Reducing Noise in Neuromorphic Vision Sensors](https://doi.org/10.1109/TETC.2017.2788865)*,  
-IEEE Trans. Emerging Topics in Computing, 2018.
-- [Scheerlinck et al., RAL 2019](#Scheerlinck19ral),  
-*Asynchronous Spatial Image Convolutions for Event Cameras*.
-- <a name="Lee19arxiv"></a>Lee, S., Kim, H., Kim, H.J.,  
-*[Edge Detection for Event Cameras using Intra-pixel-area Events](https://bmvc2019.org/wp-content/uploads/papers/1140-paper.pdf)*,  
-British Machine Vision Conf. (BMVC), 2019. [PDF](https://arxiv.org/pdf/1907.07469)
-- <a name="Baldwin20cvpr"></a>Baldwin R.W., Almatrafi M., Asari V., Hirakawa K.,  
-*[Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](https://arxiv.org/abs/2003.08282)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](https://arxiv.org/abs/2003.08282), [Dataset](https://sites.google.com/a/udayton.edu/issl/software/dataset)
-- <a name="Feng20app"></a>Feng, Y., Lv, H., Liu, H., Zhang, Y., Xiao, Y., Han, C.,  
-*[Event Density Based Denoising Method for Dynamic Vision Sensor](https://doi.org/10.3390/app10062024)*,  
-Appl. Sci. 10(6), 2024, 2020.
-- <a name="Guo20arxiv"></a>Guo, S., Kang, Z., Wang, L., Zhang, L., Chen, X., Li, S., Xu, W.,  
-*[A Noise Filter for Dynamic Vision Sensors based on Global Space and Time Information](https://arxiv.org/pdf/2004.04079)*,  
-arXiv, 2020.
-- <a name="Banerjee20arxiv"></a>Banerjee, S., Wang, Z. W., Chopp, H. H., Cossairt, O., Katsaggelos, A.,  
-*[Quadtree Driven Lossy Event Compression](https://arxiv.org/pdf/2005.00974.pdf)*,  
-arXiv 2020. [PDF](https://arxiv.org/pdf/2005.00974.pdf)
 
 
 <br><br>
@@ -1697,6 +1713,9 @@ arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset
 
 ### Event Denoising
 - [DVSNOISE20](https://sites.google.com/a/udayton.edu/issl/software/dataset) associated to the paper [Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](#Baldwin20cvpr).
+
+### Space Situational Awareness
+- [The Event-Based Space Situational Awareness (EBSSA) Dataset](https://www.westernsydney.edu.au/icns/reproducible_research/publication_support_materials/space_imaging) associated to the paper [Event-based Object Detection and Tracking for Space Situational Awareness](#Afshar19arxiv).
 
 
 <br><br>
@@ -1893,6 +1912,9 @@ Ph.D. Thesis, Nanyang Technological University, Singapore, 2018.
 - <a name="Gibson18PhD"></a>Gibson, T. T.,  
 *[Inspired by nature: timescale-free and grid-free event-based computing with spiking neural networks](https://doi.org/10.14264/uql.2018.664)*,  
 Ph.D. Thesis, The University of Queensland, Brisbane, Australia, 2018.
+- <a name="Everding18PhD"></a>Everding, L.,  
+*[Event-Based Depth Reconstruction Using Stereo Dynamic Vision Sensors](https://mediatum.ub.tum.de/doc/1445947/1445947.pdf)*,  
+Ph.D. Thesis, Technical University of Munich, Munich, Germany, 2018.
 - <a name="Martel19PhD"></a>Martel, J.,  
 *[Unconventional Processing with Unconventional Visual Sensing. Parallel, Distributed and Event Based Vision Algorithms & Systems](https://doi.org/10.3929/ethz-b-000362900)*,  
 Ph.D. Thesis, ETH Zurich, Zurich, Switzerland, 2019.
@@ -1934,10 +1956,10 @@ MSc. Thesis, University of Zurich, 2014.
 - <a name="Horstschaefer16MSc"></a>Horstschaefer, T.,  
 *[Parallel Tracking, Depth Estimation, and Image Reconstruction with an Event Camera](http://www.kutter-fonds.ethz.ch/App_Themes/default/datalinks/2016_MT_Horstschaefer1.pdf)*,  
 MSc. Thesis, University of Zurich, 2016.
-- <a name="Kaelber16BS"></a>Kaelber, F., (Everding, L, Conradt, J.,)    
+- <a name="Kaelber16BS"></a>Kaelber, F., (Everding, L., Conradt, J.,)    
 *[A probabilistic method for event stream registration](https://mediatum.ub.tum.de/doc/1327653/1327653.pdf)*,  
 Bacherlor Thesis, TU Munich, 2016.
-- <a name="Galanis16BS"></a>Galanis, M., (Everding, L, Conradt, J.,)    
+- <a name="Galanis16BS"></a>Galanis, M., (Everding, L., Conradt, J.,)    
 *[DVS event stream registration](https://mediatum.ub.tum.de/doc/1367575/1367575.pdf)*,  
 Bacherlor Thesis, TU Munich, 2016.
 - <a name="Nelson19MSc"></a>Nelson, K. J.,  
