@@ -1048,6 +1048,8 @@ IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](htt
 *High Speed and High Dynamic Range Video with an Event Camera*.
     - [Rebecq et al., CVPR 2019](#Rebecq19cvpr),  
 *Events-to-Video: Bringing Modern Computer Vision to Event Cameras*.
+- [Friedel, Z. P., MSc Thesis 2020](#Friedel20MSc),  
+*Event-Based Visual-Inertial Odometry Using Smart Features*.
 
 
 <a name="segmentation"></a>
@@ -1462,7 +1464,7 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2018.
 *[How Fast is Too Fast? The Role of Perception Latency in High-Speed Sense and Avoid](http://rpg.ifi.uzh.ch/docs/RAL19_Falanga.pdf)*,  
 IEEE Robotics and Automation Letters (RA-L), 2019. [YouTube](https://youtu.be/sbJAi6SXOQw)
 - <a name="Sanket19arxiv"></a>Sanket, N.J., Parameshwara, C.M., Singh, C.D., Kuruttukulam, A.V., Fermüller, C., Scaramuzza, D., Aloimonos, Y.,  
-*[EVDodge: Deep Dynamic Obstacle Dodging with Event Cameras](https://arxiv.org/pdf/1906.02919)*,  
+*[EVDodgeNet: Deep Dynamic Obstacle Dodging with Event Cameras](https://arxiv.org/pdf/1906.02919)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](https://prg.cs.umd.edu/research/EVDodge_files/EVDodge.pdf), [YouTube](https://youtu.be/k1uzsiDI4hM), [Project page](http://prg.cs.umd.edu/EVDodgeNet), [Code](https://github.com/prgumd/EVDodge).
 - <a name="Sugimoto20icra"></a>Sugimoto, R., Gehrig, M., Brescianini, D., Scaramuzza, D.,  
 *[Towards Low-Latency High-Bandwidth Control of Quadrotors using Event Cameras](https://arxiv.org/pdf/1911.04553)*,  
@@ -1470,6 +1472,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](http://rpg.ifi.uzh.c
 - <a name="Falanga20scirob"></a>Falanga, D., Kleber, K., Scaramuzza, D.,  
 *[Dynamic obstacle avoidance for quadrotors with event cameras](https://robotics.sciencemag.org/content/5/40/eaaz9712.full.pdf)*,  
 Science Robotics, 5(40):eaaz9712, 2020. [YouTube](https://youtu.be/BzykucxFddI)
+- <a name="Hagenaars20arxiv"></a>Hagenaars, J. J., Paredes-Vallés, F., Bohté, S. M., de Croon, G. C. H. E.,  
+*[Evolved Neuromorphic Control for High Speed Divergence-based Landings of MAVs](https://arxiv.org/pdf/2003.03118)*,  
+arXiv 2020.
 
 
 <a name="space"></a>
@@ -1511,6 +1516,9 @@ IEEE Trans. Instrum. Meas., 2019.
 - <a name="Muthusamy20arxivB"></a>Muthusamy, R., Huang, X., Zweiri, Y., Seneviratne, L., Gan, D.,  
 *[Neuromorphic Event-Based Slip Detection and suppression in Robotic Grasping and Manipulation](https://arxiv.org/pdf/2004.07386)*,  
 arXiv, 2020.
+- <a name="Haessig20fnins"></a>Haessig, G., Milde, M.B., Aceituno, P.V., Oubari, O., Knight, J.C., van Schaik, A., Benosman,  R. B., Indiveri, G.,  
+*[Event-Based Computation for Touch Localization Based on Precise Spike Timing](https://doi.org/10.3389/fnins.2020.00420)*,  
+Front. Neurosci. (2020), 14:420.
 
 
 <a name="signal_processing"></a>
@@ -1941,6 +1949,9 @@ MSc. Thesis, University of Pennsylvania, 2019.
 - <a name="Boettiger20MSc"></a>Boettiger, J. P.,  
 *[A Comparative Evaluation of the Detection and Tracking Capability Between Novel Event-Based and Conventional Frame-Based Sensors](https://scholar.afit.edu/etd/3154 )*,  
 MSc. Thesis, Air Force Institute of Technology, USA, 2020. [PDF](https://scholar.afit.edu/cgi/viewcontent.cgi?article=4155&context=etd)
+- <a name="Friedel20MSc"></a>Friedel, Z. P.,  
+*[Event-Based Visual-Inertial Odometry Using Smart Features](https://scholar.afit.edu/etd/3172/)*,  
+MSc. Thesis, Air Force Institute of Technology, USA, 2020.
 
 
 <br><br>
