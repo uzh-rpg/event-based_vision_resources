@@ -967,7 +967,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019. [PDF](http://rpg.ifi.uzh.c
 - <a name="Xu20tci"></a>Xu, J., Jiang, M., Yu, L., Yang, W., Wang, W.,  
 *[Robust Motion Compensation for Event Cameras With Smooth Constraint](http://dx.doi.org/10.1109/TCI.2020.2964255)*,  
 IEEE Trans. Comput. Imag. (TCI), 6:604-614, 2020.
-
+- <a name="Fischer20arxiv"></a>Fischer, T., Milford, M.,  
+*[Event-based visual place recognition with ensembles of spatio-temporal windows](https://arxiv.org/abs/2006.02826)*,  
+arXiv:2006.02826, 2020.
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
