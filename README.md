@@ -542,9 +542,12 @@ arXiv:2003.06696, 2020.
 - <a name="DAngelo20fnins"></a>D'Angelo, G., Janotte, E., Schoepe, T., O'Keeffe, J., Milde, M. B., Chicca, E., Bartolozzi, C.,  
 *[Event-Based Eccentric Motion Detection Exploiting Time Difference Encoding](https://doi.org/10.3389/fnins.2020.00451)*,  
 Front. Neurosci. (2020), 14:451. [Project page](https://github.com/event-driven-robotics/sEMD-iCub)
-- <a name="Lee20arxiv"></a>Pan, L., Liu, M., Hartley, R.,  
-*[Single Image Optical Flow Estimation with an Event Camera](https://arxiv.org/pdf/2004.00347)*,  
+- <a name="Pan20cvpr"></a>Pan, L., Liu, M., Hartley, R.,  
+*[Single Image Optical Flow Estimation with an Event Camera](http://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Single_Image_Optical_Flow_Estimation_With_an_Event_Camera_CVPR_2020_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
+- <a name="Low20cvprw"></a>Low, W. F., Gao, Z., Xiang, C., Ramesh, B.,  
+[SOFEA: A Non-Iterative and Robust Optical Flow Estimation Algorithm for Dynamic Vision Sensors](http://openaccess.thecvf.com/content_CVPRW_2020/html/w6/Low_SOFEA_A_Non-Iterative_and_Robust_Optical_Flow_Estimation_Algorithm_for_CVPRW_2020_paper.html),  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2020. [PDF](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Low_SOFEA_A_Non-Iterative_and_Robust_Optical_Flow_Estimation_Algorithm_for_CVPRW_2020_paper.pdf), [Suppl. Mat](http://openaccess.thecvf.com/content_CVPRW_2020/supplemental/Low_SOFEA_A_Non-Iterative_CVPRW_2020_supplemental.pdf)
 
 
 <a name="scene-flow-estimation"></a>
@@ -652,7 +655,7 @@ Int. Joint Conf. on Computer Vision, Imaging and Computer Graphics Theory and Ap
 *[Learning to Deblur and Generate High Frame Rate Video with an Event Camera](https://arxiv.org/pdf/2003.00847)*,  
 arXiv:2003.00847, 2020.
 - <a name="Jiang20cvpr"></a>Jiang, Z., Zhang, Y., Zou, D., Ren, J., Lv, J., Liu, Y.,  
-*[Learning Event-Based Motion Deblurring](https://arxiv.org/pdf/2004.05794)*,  
+*[Learning Event-Based Motion Deblurring](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Learning_Event-Based_Motion_Deblurring_CVPR_2020_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
 
 
@@ -665,8 +668,8 @@ Neurocomputing, vol. 335, pp. 206-214, 2019. [PDF pre-print](https://arxiv.org/a
 *[Learning to Super Resolve Intensity Images from Events](http://openaccess.thecvf.com/content_CVPR_2020/papers/I._Learning_to_Super_Resolve_Intensity_Images_From_Events_CVPR_2020_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](https://arxiv.org/abs/1912.01196), [Code](https://github.com/gistvision/e2sri)
 - <a name="Wang20cvpr"></a>Wang, L., Kim, T.-K., Yoon, K.-J.,  
-*[EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning](https://arxiv.org/pdf/2003.07640)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https://youtu.be/OShS_MwHecs), [Dataset](https://github.com/wl082013/ESIM_dataset)
+*[EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_EventSR_From_Asynchronous_Events_to_Image_Reconstruction_Restoration_and_Super-Resolution_CVPR_2020_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](https://arxiv.org/pdf/2003.07640), [YouTube](https://youtu.be/OShS_MwHecs), [Dataset](https://github.com/wl082013/ESIM_dataset)
 
 
 <a name="joint-filtering"></a>
@@ -681,6 +684,10 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https
 - <a name="SimonChane16fnins"></a>Simon Chane, C., Ieng, S.-H., Posch, C., Benosman, R.,  
 *[Event-Based Tone Mapping for Asynchronous Time-Based Image Sensor](https://doi.org/10.3389/fnins.2016.00391)*,  
 Front. Neurosci. (2016), 10:391. [PDF](https://www.neuromorphic-vision.com/public/publications/43/publication.pdf)
+- <a name="Han20cvpr"></a>Han, J., Zhou, C., Duan, P., Tang, Y., Xu, C., Xu, C., Huang, T., Shi, B.,  
+*[Neuromorphic Camera Guided High Dynamic Range Imaging](http://openaccess.thecvf.com/content_CVPR_2020/html/Han_Neuromorphic_Camera_Guided_High_Dynamic_Range_Imaging_CVPR_2020_paper.html)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Han_Neuromorphic_Camera_Guided_High_Dynamic_Range_Imaging_CVPR_2020_paper.pdf), [Suppl. Mat.](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Han_Neuromorphic_Camera_Guided_CVPR_2020_supplemental.pdf)
+ 
 
 <a name="visual-stabilization"></a>
 ### Visual Stabilization
@@ -1023,7 +1030,7 @@ IEEE Int. Conf. Robotics and Biomimetics (ROBIO), 2019. [PDF](https://arxiv.org/
 - <a name="Park19iedm"></a>Park, P.K.J., Kim, J.-S., Shin, C.-W, Lee, H., Liu, W., Wang, Q., Roh, Y., Kim, J., Ater, Y., Soloveichik, E., Ryu, H. E.,  
 *[Low-Latency Interactive Sensing for Machine Vision](https://doi.org/10.1109/IEDM19573.2019.8993468)*,  
 IEEE Int. Electron Devices Meeting (IEDM), 2019.
-- <a name="Liu20cvpr"></a>Liu. D., Parra, A., Chin, T.-J.,  
+- <a name="Liu20cvpr"></a>Liu, D., Parra, A., Chin, T.-J.,  
 *[Globally Optimal Contrast Maximisation for Event-based Motion Estimation](https://arxiv.org/pdf/2002.10686)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [Project page](https://github.com/liudaqikk/CMBNB-demo)
 - <a name="Gehrig20icra"></a>Gehrig, M., Shrestha, S. B., Mouritzen, D., Scaramuzza, D.,  
@@ -1098,8 +1105,11 @@ IEEE Int. Conf. Computer Vision (ICCV), 2019. [PDF (animations best viewed with 
 - [Mitrokhin et al., IROS 2019](#Mitrokhin19iros),  
 *EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras*.  
 - <a name="Mitrokhin20cvpr"></a>Mitrokhin, A., Hua, Z., Fermüller, C., Aloimonos, Y.,  
-*Learning Visual Motion Segmentation Using Event Surfaces*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
+*[Learning Visual Motion Segmentation Using Event Surfaces](http://openaccess.thecvf.com/content_CVPR_2020/html/Mitrokhin_Learning_Visual_Motion_Segmentation_Using_Event_Surfaces_CVPR_2020_paper.html)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mitrokhin_Learning_Visual_Motion_Segmentation_Using_Event_Surfaces_CVPR_2020_paper.pdf), [Suppl. Mat](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Mitrokhin_Learning_Visual_Motion_CVPR_2020_supplemental.pdf)
+- <a name="Parameshwara20arxiv"></a>Parameshwara, C. M., Sanket, N. J., Gupta, A., Fermüller, C., Aloimonos, Y.,  
+*[MOMS with Events: Multi-Object Motion Segmentation With Monocular Event Cameras](https://arxiv.org/abs/2006.06158)*,  
+arXiv, 2020.
 
 
 <a name="pattern-recognition"></a>
@@ -1447,7 +1457,7 @@ British Machine Vision Conf. (BMVC), 2019. [PDF](https://arxiv.org/pdf/1907.0746
 *[O(N)-Space Spatiotemporal Filter for Reducing Noise in Neuromorphic Vision Sensors](https://doi.org/10.1109/TETC.2017.2788865)*,  
 IEEE Trans. Emerging Topics in Computing, 2018.
 - <a name="Baldwin20cvpr"></a>Baldwin R.W., Almatrafi M., Asari V., Hirakawa K.,  
-*[Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](https://arxiv.org/abs/2003.08282)*,  
+*[Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](http://openaccess.thecvf.com/content_CVPR_2020/html/Baldwin_Event_Probability_Mask_EPM_and_Event_Denoising_Convolutional_Neural_Network_CVPR_2020_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](https://arxiv.org/abs/2003.08282), [Dataset](https://sites.google.com/a/udayton.edu/issl/software/dataset)
 - <a name="Feng20app"></a>Feng, Y., Lv, H., Liu, H., Zhang, Y., Xiao, Y., Han, C.,  
 *[Event Density Based Denoising Method for Dynamic Vision Sensor](https://doi.org/10.3390/app10062024)*,  
@@ -1752,6 +1762,9 @@ WRC Symposium on Advanced Robotics and Automation (WRC SARA), 2018.
 - <a name="DominguezMorales19access"></a>Dominguez-Morales, M. J., Jimenez-Fernandez, A., Jimenez-Moreno, G., Conde, C., Cabello, E., Linares-Barranco, A.,  
 *[Bio-Inspired Stereo Vision Calibration for Dynamic Vision Sensors](https://doi.org/10.1109/ACCESS.2019.2943160)*,  
 IEEE Access, vol. 7, pp. 138415-138425, 2019.
+- <a name="Dubeau20arxiv"></a>Dubeau, E., Garon, M., Debaque, B., de Charette, R., Lalonde, J.-F.,  
+*[RGB-DE: Event Camera Calibration for Fast 6-DOF Object Tracking](https://arxiv.org/pdf/2006.05011.pdf)*,  
+arXiv, 2020.
 
 
 <a name="software-algorithms"></a>
