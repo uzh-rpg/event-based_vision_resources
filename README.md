@@ -1280,6 +1280,9 @@ IEEE J. Emerging Sel. Topics Circuits Syst. (JETCAS), 2019.
 IEEE Int. Conf. AI Circuits Syst. (AICAS), 2019.
 - [Park et al., IEDM 2019](#Park19iedm),  
 *Low-Latency Interactive Sensing for Machine Vision*.
+- <a name="Vasudevan20fg"></a>Vasudevan, A., Negri, P., Linares-Barranco, B., Serrano-Gotarredona, T.,  
+*[Introduction and Analysis of an Event-Based Sign Language Dataset](https://doi.ieeecomputersociety.org/10.1109/FG47880.2020.00069)*,  
+IEEE Int. Conf. Automatic Face and Gesture Recognition (FG), 2020. [Dataset](http://www2.imse-cnm.csic.es/neuromorphs/index.php/SL-ANIMALS-DVS-Database)
 
 
 <a name="learning-representation-features"></a>
@@ -1722,6 +1725,8 @@ Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark)
 *[A Large Scale Event-based Detection Dataset for Automotive](https://arxiv.org/abs/2001.08499)*,  
 arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox), [News](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)
 - [N-SOD Dataset](https://drive.google.com/drive/folders/10_bnZ_TOcq7xCtCiDcaDiIO3_Txgr19S) associated to the paper [Ramesh et al., FNINS 2020](#Ramesh20fnins).
+- [SL-ANIMALS-DVS Database](http://www2.imse-cnm.csic.es/neuromorphs/index.php/SL-ANIMALS-DVS-Database) associated to the paper [Vasudevan et al., FG 2020](#Vasudevan20fg). Recordings made using the sensitive DVS developed at [IMSE](http://imse-cnm.csic.es).
+
 
 ### Event Denoising
 - [DVSNOISE20](https://sites.google.com/a/udayton.edu/issl/software/dataset) associated to the paper [Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](#Baldwin20cvpr).
@@ -2012,7 +2017,9 @@ MSc. Thesis, Air Force Institute of Technology, USA, 2020.
 - [Perception and Robotics Group](http://prg.cs.umd.edu/) at University of Maryland (UMD). [Fermüller's Lab on Event-based vision](http://users.umiacs.umd.edu/~fer/dvs.html)
 - [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), [Mike Davies](https://newsroom.intel.com/news/bobbleheads-tool-test-neuromorphic-mind/#gs.nndw9d) (Intel’s neuromorphic computing program leader).
   - [Video CVPRW 2019](https://youtu.be/jhQgElvtb1s),  [Video Intel NICE 2018 Loihi](https://vimeo.com/264342847),  [Video Intel NICE 2018 Day 3](https://vimeo.com/258246382).
-- [Robotics and Technology of Computers Lab - Sevilla (RTC)](http://www.rtc.us.es/) of the University of Seville (USE), Seville, SPAIN  
+- [Robotics and Technology of Computers Lab - Sevilla (RTC)](http://www.rtc.us.es/) of the University of Seville (USE), Seville, Spain.
+- [IMSE-CNM – Seville Institute of Microelectronics](http://imse-cnm.csic.es), Seville, Spain. [News](https://elpais.com/tecnologia/2020-04-13/chips-que-detectan-olores-o-como-la-tecnologia-intenta-imitar-el-funcionamiento-del-cerebro.html)
+
 
 <br><br>
 <a name="contributing"></a>
