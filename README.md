@@ -1622,7 +1622,11 @@ British Machine Vis. Conf. (BMVC), 2018. [YouTube](https://youtu.be/z8uJh_xUq7A)
 - <a name="Rebecq18corl"></a>H. Rebecq, D. Gehrig, D. Scaramuzza,  
 *[ESIM: an Open Event Camera Simulator](http://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf),*  
 Conf. on Robot Learning (CoRL), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf), [YouTube](https://youtu.be/ytKOIX_2clo), [Project Page](http://rpg.ifi.uzh.ch/esim/index.html).
-
+- [Gehrig et al. CVPR 2020](#Gehrig20cvpr),  
+*Video to Events: Recycling Video Datasets for Event Cameras*.
+- <a name="Delbruck20arxiv"></a>Delbruck, T., Hu, Y., He, Z.,  
+*[V2E: From video frames to realistic DVS event camera streams](https://arxiv.org/pdf/2006.07722)*,  
+arXiv, 2020.
 
 
 ## Datasets (sorted by topic)
