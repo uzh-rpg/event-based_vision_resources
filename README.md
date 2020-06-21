@@ -1626,7 +1626,7 @@ Conf. on Robot Learning (CoRL), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CORL18_Re
 *Video to Events: Recycling Video Datasets for Event Cameras*.
 - <a name="Delbruck20arxiv"></a>Delbruck, T., Hu, Y., He, Z.,  
 *[V2E: From video frames to realistic DVS event camera streams](https://arxiv.org/pdf/2006.07722)*,  
-arXiv, 2020.
+arXiv, 2020. [Project page](https://sites.google.com/view/video2events/home), [Code](https://github.com/SensorsINI/v2e)
 
 
 ## Datasets (sorted by topic)
