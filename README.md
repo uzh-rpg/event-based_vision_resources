@@ -538,7 +538,7 @@ IEEE Trans. Comput. Imag. (TCI), 6:396-407, 2019.
 arXiv:2003.12680, 2020.
 - <a name="Lee20arxiv"></a>Lee, C., Kosta, A., Zhu, A.Z., Chaney, K., Daniilidis, K., Roy, K.,  
 *[Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks](https://arxiv.org/pdf/2003.06696)*,  
-arXiv:2003.06696, 2020.
+European Conf. Computer Vision (ECCV), 2020.
 - <a name="DAngelo20fnins"></a>D'Angelo, G., Janotte, E., Schoepe, T., O'Keeffe, J., Milde, M. B., Chicca, E., Bartolozzi, C.,  
 *[Event-Based Eccentric Motion Detection Exploiting Time Difference Encoding](https://doi.org/10.3389/fnins.2020.00451)*,  
 Front. Neurosci. (2020), 14:451. [Project page](https://github.com/event-driven-robotics/sEMD-iCub)
@@ -615,7 +615,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rp
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf),  [YouTube](https://youtu.be/QaGYFtR2-X8), [Website](https://cedric-scheerlinck.github.io/firenet)  
     - <a name="Stoffregen20arxiv"></a>Stoffregen, T., Scheerlinck, C., Scaramuzza, D., Drummond, T., Barnes, N., Kleeman, L., Mahony, R.,  
 *[How to Train Your Event Camera Neural Network](https://arxiv.org/pdf/2003.09078)*,  
-arXiv, 2020. [YouTube](https://youtu.be/m0brrMtrKoc), [Project page](https://timostoff.github.io/20ecnn)
+European Conf. Computer Vision (ECCV), 2020. [YouTube](https://youtu.be/m0brrMtrKoc), [Project page](https://timostoff.github.io/20ecnn)
 - [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
 *CED: Color Event Camera Dataset*.
 - <a name="Nagata20wacv"></a>Nagata, J., Sekikawa, Y., Hara, K., Suzuki, T., Aoki, Y.,  
@@ -1360,14 +1360,14 @@ arXiv:1910.03579, 2019.
 *[EventGAN: Leveraging Large Scale Image Datasets for Event Cameras](https://arxiv.org/pdf/1912.01584)*,  
 arXiv:1912.01584, 2019.
 - <a name="Cannici20arxiv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
-*[Matrix-LSTM: a Differentiable Recurrent Surface for Asynchronous Event-Based Data](https://arxiv.org/pdf/2001.03455)*,  
-arXiv:2001.03455, 2020. [Videos](https://drive.google.com/drive/folders/1KzhKKwJGXvMnhbg1l6gEArgYote7WW8V)
+*[A Differentiable Recurrent Surface for Asynchronous Event-Based Data](https://arxiv.org/pdf/2001.03455)*,  
+European Conf. Computer Vision (ECCV), 2020. [Videos](https://drive.google.com/drive/folders/1KzhKKwJGXvMnhbg1l6gEArgYote7WW8V)
 - <a name="Xu20arxiv"></a>Xu, F., Lin, S., Yang, W., Yu, L., Dai, D., Xia, G.,  
 *[Matching Neuromorphic Events and Color Images via Adversarial Learning](https://arxiv.org/pdf/2003.00636)*,  
 arXiv:2003.00636, 2020.
 - <a name="Messikommer20arxiv"></a>Messikommer, N., Gehrig, D., Loquercio, A., Scaramuzza, D.,  
 *[Event-based Asynchronous Sparse Convolutional Networks](https://arxiv.org/pdf/2003.09148)*,  
-arXiv:2003.09148, 2020.
+European Conf. Computer Vision (ECCV), 2020.
 - <a name="Hu20arxiv"></a>Hu, Y., Delbruck, T., Liu, S.-C.,  
 *[Exploiting Event Cameras by Using a Network Grafting Algorithm](https://arxiv.org/pdf/2003.10959)*,  
 arXiv:2003.10959, 2020.
