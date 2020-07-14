@@ -67,7 +67,7 @@ ___
 <a name="survey_paper"></a>
 # Survey paper
 - <a name="Gallego20tpami"></a>Gallego, G., Delbruck, T., Orchard, G., Bartolozzi, C., Taba, B., Censi, A., Leutenegger, S., Davison, A., Conradt, J., Daniilidis, K., Scaramuzza, D.,  
-*[**Event-based Vision: A Survey**](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)*,  
+**_[Event-based Vision: A Survey](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)_**,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020.
 
 <a name="devices"></a>
