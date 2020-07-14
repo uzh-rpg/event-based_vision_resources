@@ -464,6 +464,9 @@ IAPR Workshop on Artificial Neural Networks in Pattern Recognition (ANNPR) 2014,
     - <a name="Brosch15bict"></a>Brosch, T., Neumann, H.,  
 *[Event-based optical flow on neuromorphic hardware](https://doi.org/10.4108/eai.3-12-2015.2262447)*,  
 Int. Conf. Bio-inspired Information and Comm. Technol. (BICT), 2015. [PDF](https://dl.acm.org/citation.cfm?id=2954727)
+    - <a name="Brosch15braincomp"></a>Brosch, T., Tschechne, S., Neumann, H.,  
+*[Visual Processing in Cortical Architecture from Neuroscience to Neuromorphic Computing](https://doi.org/10.1007/978-3-319-50862-7_7)*,  
+Int. Workshop on Brain-Inspired Computing (BrainComp), 2015. LNCS, vol 10087.
     - <a name="Kosiorek15techrep"></a>Kosiorek, A., Adrian, D., Rausch, J., Conradt, J.,  
 *[An Efficient Event-Based Optical Flow Implementation in C/C++ and CUDA](http://tum.neurocomputing.systems/fileadmin/w00bqs/www/publications/pp/2015SS-PP-RealTimeDVSOpticFlow.pdf),*  
 Tech. Rep. TU Munich, 2015.
