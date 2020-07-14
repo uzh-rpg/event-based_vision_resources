@@ -66,9 +66,9 @@ ___
 
 <a name="survey_paper"></a>
 # Survey paper
-- <a name="Gallego19arxiv"></a>Gallego, G., Delbruck, T., Orchard, G., Bartolozzi, C., Taba, B., Censi, A., Leutenegger, S., Davison, A., Conradt, J., Daniilidis, K., Scaramuzza, D.,  
+- <a name="Gallego20tpami"></a>Gallego, G., Delbruck, T., Orchard, G., Bartolozzi, C., Taba, B., Censi, A., Leutenegger, S., Davison, A., Conradt, J., Daniilidis, K., Scaramuzza, D.,  
 *[**Event-based Vision: A Survey**](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)*,  
-arXiv 2019.
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020.
 
 <a name="devices"></a>
 # Devices & Companies Manufacturing them
@@ -194,7 +194,7 @@ Computer Vision - ECCV 2012. Workshops and Demonstrations. Springer Berlin/Heide
 Wiley Interdiscip. Rev. Data Min. Knowl. Discov. 9(4), 2019.
 - [Steffen, L. et al., Front. Neurorobot. 2019](#Steffen19fnbot),  
 *Neuromorphic Stereo Vision: A Survey of Bio-Inspired Sensors and Algorithms*.
-- [Gallego et al., arXiv 2019](#Gallego19arxiv),  
+- [Gallego et al., TPAMI 2020](#Gallego20tpami),  
 *[Event-based Vision: A Survey](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)*.
 
 
