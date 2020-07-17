@@ -154,7 +154,7 @@ Proc. IEEE, 102(9):1367-1388, 2014.
 Front. Neurosci. (2016), 10:115.
 - <a name="Liu19msp"></a>Liu, S.-C., Rueckauer, B., Ceolini, E., Huber, A., Delbruck, T.,  
 *[Event-Driven Sensing for Efficient Perception: Vision and audition algorithms](https://doi.org/10.1109/MSP.2019.2928127)*,  
-IEEE Signal Processing Magazine, vol. 36, no. 6, pp. 29-37, 2019.
+IEEE Signal Processing Magazine, 36(6):29-37, 2019.
 
 <a name="reviewpapers"></a>
 # Review / Overview papers
@@ -196,6 +196,9 @@ Wiley Interdiscip. Rev. Data Min. Knowl. Discov. 9(4), 2019.
 *Neuromorphic Stereo Vision: A Survey of Bio-Inspired Sensors and Algorithms*.
 - [Gallego et al., TPAMI 2020](#Gallego20tpami),  
 *[Event-based Vision: A Survey](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)*.
+- <a name="Chen20msp"></a>Chen, G., Cao, H., Conradt, J., Tang, H., Rohrbein, F., Knoll, A.,  
+[Event-Based Neuromorphic Vision for Autonomous Driving: A Paradigm Shift for Bio-Inspired Visual Sensing and Perception](https://doi.org/10.1109/MSP.2020.2985815),  
+IEEE Signal Processing Magazine, 37(4):34-49, 2020.
 
 
 <a name="algorithms"></a>
@@ -346,8 +349,8 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 30(4):1218-1230, 2019. [PDF](http
 *[Robust Event-Based Object Tracking Combining Correlation Filter and CNN Representation](https://doi.org/10.3389/fnbot.2019.00082)*,  
 Front. Neurorobot. 13:82, 2019. [Dataset](https://figshare.com/s/70565903453eef7c3965)
 - <a name="Chen2020arxiv"></a>Chen, H., Suter, D., Wu, Q., Wang, H.,  
-*[End-to-end Learning of Object Motion Estimation from Retinal Events for Event-based Object Tracking](https://arxiv.org/pdf/2002.05911)*,  
-arXiv, 2020.
+*[End-to-end Learning of Object Motion Estimation from Retinal Events for Event-based Object Tracking](https://doi.org/10.1609/aaai.v34i07.6625)*,  
+AAAI Conf. Artificial Intelligence, 2020. [PDF](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ChenH.2586.pdf), [PDF](https://arxiv.org/pdf/2002.05911).
 - <a name="Monforte20aicas"></a>Monforte, M., Arriandiaga, A., Glover, A., Bartolozzi, C.,  
 *[Exploiting Event Cameras for Spatio-Temporal Prediction of Fast-Changing Trajectories](https://arxiv.org/pdf/2001.01248)*,  
 IEEE Int. Conf. Artificial Intelligence Circuits and Systems (AICAS), 2020.
@@ -983,6 +986,10 @@ IEEE Trans. Comput. Imag. (TCI), 6:604-614, 2020.
 - <a name="Fischer20arxiv"></a>Fischer, T., Milford, M.,  
 *[Event-based visual place recognition with ensembles of spatio-temporal windows](https://arxiv.org/abs/2006.02826)*,  
 arXiv:2006.02826, 2020.
+- <a name="Kreiser20fnins"></a>Kreiser, R., Renner, A., Leite, V.R.C., Serhan, B., Bartolozzi, C., Glover, A., Sandamirskaya, Y.,  
+[An On-chip Spiking Neural Network for Estimation of the Head Pose of the iCub Robot](https://doi.org/10.3389/fnins.2020.00551),  
+Front. Neurosci. 14:551.
+
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
@@ -1302,6 +1309,9 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(9):1963-1978, 2015.
 - <a name="Lagorce17tpami"></a>Lagorce, X., Orchard, G., Gallupi, F., Shi, B., Benosman, R.,  
 *[HOTS: A Hierarchy Of event-based Time-Surfaces for pattern recognition](https://doi.org/10.1109/TPAMI.2016.2574707)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 39(7):1346-1359, 2017. [PDF](https://www.neuromorphic-vision.com/public/publications/1/publication.pdf)
+    - <a name="Tapiador20sensors"></a>Tapiador-Morales, R., Maro, J.-M., Jimenez-Fernandez, A., Jimenez-Moreno, G., Benosman, R., Linares-Barranco, A.,  
+    [Event-Based Gesture Recognition through a Hierarchy of Time-Surfaces for FPGA](https://doi.org/10.3390/s20123404),  
+    Sensors 2020, 20(12), 3404.
 - [Clady et al., FNINS](#Clady17fnins),  
 *A Motion-Based Feature for Event-Based Pattern Recognition*.
 - <a name="Yousefzadeh17iscas"></a>Yousefzadeh, A., Masquelier, T., Serrano-Gotarredona, T., Linares-Barranco, B.,  
@@ -1405,6 +1415,10 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018. [PDF](http://rp
 - <a name="Hu19aicas"></a>Hu, Y., Chen, H. M., Delbruck, T.,  
 *[Slasher: Stadium racer car for event camera end-to-end learning autonomous driving experiments](https://doi.org/10.1109/AICAS.2019.8771520)*,  
 IEEE Int. Conf. AI Circuits Syst. (AICAS), 2019.
+- <a name="Hersche20islped"></a>Hersche, M., Mello Rella, E., Di Mauro, A., Benini, L., Rahimi, A.,  
+*[Integrating Event-based Dynamic Vision Sensors with Sparse Hyperdimensional Computing](https://www.research-collection.ethz.ch/handle/20.500.11850/425534)*,  
+Int. Symp. Low Power Electronics and Design (ISLPED), 2020. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/425534/HD_DVS_camera_ready.pdf?sequence=1&isAllowed=y)
+
 
 
 <a name="learning-methods-frameworks"></a>
