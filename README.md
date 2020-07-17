@@ -953,8 +953,11 @@ Robotics: Science and Systems (RSS), 2015. [PDF](http://rpg.ifi.uzh.ch/docs/RSS1
 *[Neuromorphic Event-Based 3D Pose Estimation](https://doi.org/10.3389/fnins.2015.00522)*.  
 Front. Neurosci. (2016), 9:522. [PDF](https://www.neuromorphic-vision.com/public/publications/24/publication.pdf), [Suppl. Mat.](https://www.neuromorphic-vision.com/public/publications/24/supplementaryMaterial.zip), [YouTube](https://youtu.be/feBozLYZhB8)
 - <a name="Reverter16fninsb"></a>Reverter Valeiras, D., Kime, S., Ieng, S.-H., Benosman, R.,  
-*[An Event-Based Solution to the Perspective-n-Point Problem](https://doi.org/10.3389/fnins.2016.00208)*.  
+*[An Event-Based Solution to the Perspective-n-Point Problem](https://doi.org/10.3389/fnins.2016.00208)*,  
 Front. Neurosci. (2016), 10:208. [PDF](https://www.neuromorphic-vision.com/public/publications/25/publication.pdf), [Suppl. Mat.](https://www.neuromorphic-vision.com/public/publications/25/supplementaryMaterial.zip)
+- <a name="Yuan16icra"></a>Yuan, W., Ramalingam, S.,  
+*[Fast Localization and Tracking using Event Sensors](https://doi.org/10.1109/ICRA.2016.7487657)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2016. [PDF](http://people.csail.mit.edu/yuan_wz/OtherProj/Event_ICRA16.pdf), [Video](http://people.csail.mit.edu/yuan_wz/OtherProj/EventLoc_demo.mp4)
 - [Mueggler et al., IJRR 2017](#Mueggler17ijrr).  
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
 - <a name="Gallego18tpami"></a>Gallego, G., Lund, J.E.A., Mueggler, E., Rebecq, H., Delbruck, T., Scaramuzza, D.,  
