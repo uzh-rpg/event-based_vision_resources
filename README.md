@@ -1389,7 +1389,7 @@ arXiv:2003.00636, 2020.
 European Conf. Computer Vision (ECCV), 2020.
 - <a name="Hu20arxiv"></a>Hu, Y., Delbruck, T., Liu, S.-C.,  
 *[Learning to Exploit Multiple Vision Modalities by Using Grafted Networks](https://arxiv.org/pdf/2003.10959)*,  
-European Conference on Computer Vision (ECCV), Online, 2020.
+European Conf. Computer Vision (ECCV), 2020.
 - <a name="Samadzadeh20arxiv"></a>Samadzadeh, A., Far, F.S.T., Javadi, A., Nickabadi, A., Chehreghani, M. H.,  
 *[Convolutional Spiking Neural Networks for Spatio-Temporal Feature Extraction](https://arxiv.org/pdf/2003.12346)*,  
 arXiv:2003.12346, 2020. [Code](https://github.com/aa-samad/conv_snn)
