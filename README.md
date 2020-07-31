@@ -521,9 +521,8 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
 - <a name="Ye18arxiv"></a>Ye, C., Mitrokhin, A., Parameshwara, C., Fermüller, C., Yorke, J. A., Aloimonos,Y,  
 *[Unsupervised Learning of Dense Optical Flow and Depth from Sparse Event Data](https://arxiv.org/pdf/1809.08625.pdf)*,  
 arXiv:1809.08625, 2018. [YouTube](https://youtu.be/hmDDAQVD0B0)
-- <a name="Akolkar18arxiv"></a>Akolkar, H., Ieng, S.-H., Benosman, R.,  
-*[See before you see: Real-time high speed motion prediction using fast aperture-robust event-driven visual flow](https://arxiv.org/pdf/1811.11135)*,  
-arXiv:1811.11135, 2018.
+- [Seifozzakerini, Ph.D. Thesis, 2018](#Seifozzakerini18PhD),  
+*Analysis of object and its motion in event-based videos*.
 - <a name="Nagata19iwait"></a>Nagata, J., Sekikawa, Y., Hara, K., Aoki, Y.,  
 [FOE-based regularization for optical flow estimation from an in-vehicle event camera](https://doi.org/10.1117/12.2521520),  
 Proc. SPIE 11049, Int. Workshop on Advanced Image Technology (IWAIT), 2019.
@@ -557,6 +556,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
 - <a name="Low20cvprw"></a>Low, W. F., Gao, Z., Xiang, C., Ramesh, B.,  
 [SOFEA: A Non-Iterative and Robust Optical Flow Estimation Algorithm for Dynamic Vision Sensors](http://openaccess.thecvf.com/content_CVPRW_2020/html/w6/Low_SOFEA_A_Non-Iterative_and_Robust_Optical_Flow_Estimation_Algorithm_for_CVPRW_2020_paper.html),  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2020. [PDF](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Low_SOFEA_A_Non-Iterative_and_Robust_Optical_Flow_Estimation_Algorithm_for_CVPRW_2020_paper.pdf), [Suppl. Mat](http://openaccess.thecvf.com/content_CVPRW_2020/supplemental/Low_SOFEA_A_Non-Iterative_CVPRW_2020_supplemental.pdf)
+- <a name="Akolkar20tpami"></a>Akolkar, H., Ieng, S.-H., Benosman, R.,  
+*[Real-time high speed motion prediction using fast aperture-robust event-driven visual flow](https://doi.ieeecomputersociety.org/10.1109/TPAMI.2020.3010468)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020. [PDF](https://arxiv.org/pdf/1811.11135)
 
 
 <a name="scene-flow-estimation"></a>
@@ -1971,6 +1973,9 @@ Ph.D. Thesis, The University of Queensland, Brisbane, Australia, 2018.
 - <a name="Everding18PhD"></a>Everding, L.,  
 *[Event-Based Depth Reconstruction Using Stereo Dynamic Vision Sensors](https://mediatum.ub.tum.de/doc/1445947/1445947.pdf)*,  
 Ph.D. Thesis, Technical University of Munich, Munich, Germany, 2018.
+- <a name="Seifozzakerini18PhD"></a>Seifozzakerini, S.,  
+*[Analysis of object and its motion in event-based videos](https://dr.ntu.edu.sg//handle/10220/46126)*,  
+Ph.D. Thesis, Nanyang Technological University, Singapore, 2018.
 - <a name="Martel19PhD"></a>Martel, J.,  
 *[Unconventional Processing with Unconventional Visual Sensing. Parallel, Distributed and Event Based Vision Algorithms & Systems](https://doi.org/10.3929/ethz-b-000362900)*,  
 Ph.D. Thesis, ETH Zurich, Zurich, Switzerland, 2019.
