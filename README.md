@@ -1848,6 +1848,7 @@ arXiv, 2020.
 - Marcireau A., Ieng S.-H., Benosman R.,  
 *[Sepia, Tarsier, and Chameleon: A Modular C++ Framework for Event-Based Computer Vision](https://doi.org/10.3389/fnins.2019.01338)*,  
 Front. Neurosci. (2020), 13:1338. [Code](https://github.com/neuromorphic-paris/tutorials)
+- [BIMVEE](https://github.com/event-driven-robotics/bimvee) Python tools for Batch Import, Manipulation, Visualisation and Export of Events and other timestamped data. Imports from various file formats into a common workspace format, including native Python import of rosbags.
 
 <br><br>
 <a name="processors-platforms"></a>
