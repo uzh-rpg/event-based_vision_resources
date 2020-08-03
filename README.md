@@ -1849,7 +1849,6 @@ arXiv, 2020.
 *[Sepia, Tarsier, and Chameleon: A Modular C++ Framework for Event-Based Computer Vision](https://doi.org/10.3389/fnins.2019.01338)*,  
 Front. Neurosci. (2020), 13:1338. [Code](https://github.com/neuromorphic-paris/tutorials)
 - [BIMVEE](https://github.com/event-driven-robotics/bimvee) Python tools for Batch Import, Manipulation, Visualisation and Export of Events and other timestamped data. Imports from various file formats into a common workspace format, including native Python import of rosbags.
-- [MUSTARD](https://github.com/event-driven-robotics/mustard) Python app for multistream synchronised playback of asynchronous data, including events, frames, pose, labels, optic flow etc.
 
 <br><br>
 <a name="processors-platforms"></a>
