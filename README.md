@@ -1235,6 +1235,9 @@ IEEE Winter Conf. Applications of Computer Vision Workshops (WACVW), 2020.
 - <a name="Giannone20arxiv"></a>Giannone, G., Anoosheh, A., Quaglino, A., D'Oro, P., Gallieri, M., Masci, J.,  
 *[Real-time Classification from Short Event-Camera Streams using Input-filtering Neural ODEs](https://arxiv.org/pdf/2004.03156)*,  
 arXiv, 2020.
+- <a name="Bisulco20isvlsi"></a>A. Bisulco, F. Cladera Ojeda, V. Isler and D. D. Lee,,  
+*[Near-chip Dynamic Vision Filtering for Low-Bandwidth Pedestrian Detection](https://ieeexplore.ieee.org/document/9155035)*,  
+IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2020.
 
 
 <a name="gesture-recognition"></a>
