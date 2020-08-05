@@ -560,7 +560,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2020. [PDF
 *[Real-time high speed motion prediction using fast aperture-robust event-driven visual flow](https://doi.ieeecomputersociety.org/10.1109/TPAMI.2020.3010468)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020. [PDF](https://arxiv.org/pdf/1811.11135)
 - <a name="pivezhandi2020parahist"></a>Pivezhandi, M., Jones, P. H., Zambreno, J.,  
-*[ParaHist: FPGA Implementation of Parallel Event-Based Histogram for Optical Flow Calculation](https://doi.org/10.1109/ASAP49362.2020.00038),  
+*[ParaHist: FPGA Implementation of Parallel Event-Based Histogram for Optical Flow Calculation](https://doi.org/10.1109/ASAP49362.2020.00038)*,  
 IEEE Conf. Application-specific Systems, Architectures and Processors (ASAP), 2020. [PDF](http://rcl.ece.iastate.edu/sites/default/files/papers/PivJon20A.pdf)
 
 <a name="scene-flow-estimation"></a>
