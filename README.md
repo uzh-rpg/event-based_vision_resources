@@ -1632,7 +1632,9 @@ arXiv, 2020.
 - <a name="Haessig20fnins"></a>Haessig, G., Milde, M.B., Aceituno, P.V., Oubari, O., Knight, J.C., van Schaik, A., Benosman,  R. B., Indiveri, G.,  
 *[Event-Based Computation for Touch Localization Based on Precise Spike Timing](https://doi.org/10.3389/fnins.2020.00420)*,  
 Front. Neurosci. (2020), 14:420.
-
+- <a name="Naeini20sensors"></a>Naeini, F.B., Makris, D., Dongming, G., Zweiri, Y.,  
+*[Dynamic-Vision-Based Force Measurements Using Convolutional Recurrent Neural Networks](https://doi.org/10.3390/s20164469)*,  
+Sensors 2020, 20, 16.
 
 <br><br>
 <a name="datasets"></a>
