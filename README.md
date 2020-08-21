@@ -627,8 +627,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rp
 *[Fast Image Reconstruction with an Event Camera](http://openaccess.thecvf.com/content_WACV_2020/papers/Scheerlinck_Fast_Image_Reconstruction_with_an_Event_Camera_WACV_2020_paper.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf),  [YouTube](https://youtu.be/QaGYFtR2-X8), [Website](https://cedric-scheerlinck.github.io/firenet)  
     - <a name="Stoffregen20arxiv"></a>Stoffregen, T., Scheerlinck, C., Scaramuzza, D., Drummond, T., Barnes, N., Kleeman, L., Mahony, R.,  
-*[How to Train Your Event Camera Neural Network](https://arxiv.org/pdf/2003.09078)*,  
-European Conf. Computer Vision (ECCV), 2020. [YouTube](https://youtu.be/m0brrMtrKoc), [Project page](https://timostoff.github.io/20ecnn)
+*[Reducing the Sim-to-Real Gap for Event Cameras](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720528.pdf)*,  
+European Conf. Computer Vision (ECCV), 2020. [PDF](https://arxiv.org/pdf/2003.09078), [YouTube](https://youtu.be/m0brrMtrKoc), [Project page](https://timostoff.github.io/20ecnn)
 - [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
 *CED: Color Event Camera Dataset*.
 - <a name="Nagata20wacv"></a>Nagata, J., Sekikawa, Y., Hara, K., Suzuki, T., Aoki, Y.,  
@@ -998,6 +998,9 @@ arXiv:2006.02826, 2020.
 - <a name="Kreiser20fnins"></a>Kreiser, R., Renner, A., Leite, V.R.C., Serhan, B., Bartolozzi, C., Glover, A., Sandamirskaya, Y.,  
 [An On-chip Spiking Neural Network for Estimation of the Head Pose of the iCub Robot](https://doi.org/10.3389/fnins.2020.00551),  
 Front. Neurosci. 14:551.
+- <a name="Nunes20eccv"></a>Nunes, U.M., Demiris, Y.,  
+*[Entropy Minimisation Framework for Event-based Vision Model Estimation](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154.pdf)*,  
+European Conference on Computer Vision (ECCV), 2020. [Suppl. Mat.](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154-supp.pdf)
 
 
 <a name="visual-servoing"></a>
@@ -1066,7 +1069,8 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](http://rpg.ifi.uzh.c
 arXiv:2007.15548, 2020. [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git)
 
 
-<a name="visual-inertial"></a>
+<a name="visual-
+"></a>
 ### Visual-Inertial Odometry
 - <a name="Mueggler18tro"></a>Mueggler, E., Gallego, G., Rebecq, H., Scaramuzza, D.,  
 *[Continuous-Time Visual-Inertial Odometry for Event Cameras](http://rpg.ifi.uzh.ch/docs/TRO18_Mueggler.pdf)*,  
@@ -1090,6 +1094,9 @@ IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](htt
 *Events-to-Video: Bringing Modern Computer Vision to Event Cameras*.
 - [Friedel, Z. P., MSc Thesis 2020](#Friedel20MSc),  
 *Event-Based Visual-Inertial Odometry Using Smart Features*.
+- <a name="LeGentil20arxiv"></a>Le Gentil, C., Tschopp, F., Alzugaray, I., Vidal-Calleja, T., Siegwart, R., Nieto, J.,  
+*[IDOL: A Framework for IMU-DVS Odometry using Lines](https://arxiv.org/pdf/2008.05749)*,  
+arxiv 2020.
 
 
 <a name="segmentation"></a>
