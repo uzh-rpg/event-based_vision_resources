@@ -544,9 +544,9 @@ IEEE Trans. Comput. Imag. (TCI), 6:396-407, 2019.
 - <a name="Almatrafi20arxiv"></a>Almatrafi, M., Baldwin, R., Aizawa, K., Hirakawa, K.,  
 *[Distance Surface for Event-Based Optical Flow](https://arxiv.org/pdf/2003.12680)*,  
 arXiv:2003.12680, 2020.
-- <a name="Lee20arxiv"></a>Lee, C., Kosta, A., Zhu, A.Z., Chaney, K., Daniilidis, K., Roy, K.,  
-*[Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks](https://arxiv.org/pdf/2003.06696)*,  
-European Conf. Computer Vision (ECCV), 2020.
+- <a name="Lee20eccv"></a>Lee, C., Kosta, A., Zhu, A.Z., Chaney, K., Daniilidis, K., Roy, K.,  
+*[Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358.pdf)*,  
+European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358-supp.pdf), [PDF](https://arxiv.org/pdf/2003.06696)
 - <a name="DAngelo20fnins"></a>D'Angelo, G., Janotte, E., Schoepe, T., O'Keeffe, J., Milde, M. B., Chicca, E., Bartolozzi, C.,  
 *[Event-Based Eccentric Motion Detection Exploiting Time Difference Encoding](https://doi.org/10.3389/fnins.2020.00451)*,  
 Front. Neurosci. (2020), 14:451. [Project page](https://github.com/event-driven-robotics/sEMD-iCub)
@@ -555,7 +555,7 @@ Front. Neurosci. (2020), 14:451. [Project page](https://github.com/event-driven-
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
 - <a name="Low20cvprw"></a>Low, W. F., Gao, Z., Xiang, C., Ramesh, B.,  
 [SOFEA: A Non-Iterative and Robust Optical Flow Estimation Algorithm for Dynamic Vision Sensors](http://openaccess.thecvf.com/content_CVPRW_2020/html/w6/Low_SOFEA_A_Non-Iterative_and_Robust_Optical_Flow_Estimation_Algorithm_for_CVPRW_2020_paper.html),  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2020. [PDF](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Low_SOFEA_A_Non-Iterative_and_Robust_Optical_Flow_Estimation_Algorithm_for_CVPRW_2020_paper.pdf), [Suppl. Mat](http://openaccess.thecvf.com/content_CVPRW_2020/supplemental/Low_SOFEA_A_Non-Iterative_CVPRW_2020_supplemental.pdf)
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2020. [PDF](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Low_SOFEA_A_Non-Iterative_and_Robust_Optical_Flow_Estimation_Algorithm_for_CVPRW_2020_paper.pdf), [Suppl. Mat.](http://openaccess.thecvf.com/content_CVPRW_2020/supplemental/Low_SOFEA_A_Non-Iterative_CVPRW_2020_supplemental.pdf)
 - <a name="Akolkar20tpami"></a>Akolkar, H., Ieng, S.-H., Benosman, R.,  
 *[Real-time high speed motion prediction using fast aperture-robust event-driven visual flow](https://doi.ieeecomputersociety.org/10.1109/TPAMI.2020.3010468)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020. [PDF](https://arxiv.org/pdf/1811.11135)
@@ -626,9 +626,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](http://rp
     - <a name="Scheerlinck20wacv"></a>Scheerlinck, C., Rebecq, H., Gehrig, D., Barnes, N., Mahony, R., Scaramuzza, D.,  
 *[Fast Image Reconstruction with an Event Camera](http://openaccess.thecvf.com/content_WACV_2020/papers/Scheerlinck_Fast_Image_Reconstruction_with_an_Event_Camera_WACV_2020_paper.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf),  [YouTube](https://youtu.be/QaGYFtR2-X8), [Website](https://cedric-scheerlinck.github.io/firenet)  
-    - <a name="Stoffregen20arxiv"></a>Stoffregen, T., Scheerlinck, C., Scaramuzza, D., Drummond, T., Barnes, N., Kleeman, L., Mahony, R.,  
+    - <a name="Stoffregen20eccv"></a>Stoffregen, T., Scheerlinck, C., Scaramuzza, D., Drummond, T., Barnes, N., Kleeman, L., Mahony, R.,  
 *[Reducing the Sim-to-Real Gap for Event Cameras](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720528.pdf)*,  
-European Conf. Computer Vision (ECCV), 2020. [PDF](https://arxiv.org/pdf/2003.09078), [YouTube](https://youtu.be/m0brrMtrKoc), [Project page](https://timostoff.github.io/20ecnn)
+European Conf. Computer Vision (ECCV), 2020. [PDF](https://arxiv.org/pdf/2003.09078), [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720528-supp.zip), [YouTube](https://youtu.be/m0brrMtrKoc), [Project page](https://timostoff.github.io/20ecnn)
 - [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
 *CED: Color Event Camera Dataset*.
 - <a name="Nagata20wacv"></a>Nagata, J., Sekikawa, Y., Hara, K., Suzuki, T., Aoki, Y.,  
@@ -1000,7 +1000,7 @@ arXiv:2006.02826, 2020.
 Front. Neurosci. 14:551.
 - <a name="Nunes20eccv"></a>Nunes, U.M., Demiris, Y.,  
 *[Entropy Minimisation Framework for Event-based Vision Model Estimation](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154.pdf)*,  
-European Conference on Computer Vision (ECCV), 2020. [Suppl. Mat.](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154-supp.pdf)
+European Conference on Computer Vision (ECCV), 2020. [Suppl. Mat.](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154-supp.pdf), [YouTube](https://youtu.be/3pyD9oCESa0), [Code](https://github.com/ImperialCollegeLondon/EventEMin)
 
 
 <a name="visual-servoing"></a>
@@ -1069,8 +1069,7 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](http://rpg.ifi.uzh.c
 arXiv:2007.15548, 2020. [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git)
 
 
-<a name="visual-
-"></a>
+<a name="visual-inertial"></a>
 ### Visual-Inertial Odometry
 - <a name="Mueggler18tro"></a>Mueggler, E., Gallego, G., Rebecq, H., Scaramuzza, D.,  
 *[Continuous-Time Visual-Inertial Odometry for Event Cameras](http://rpg.ifi.uzh.ch/docs/TRO18_Mueggler.pdf)*,  
@@ -1400,18 +1399,18 @@ arXiv:1910.03579, 2019.
 - <a name="Zhu19arxivGAN"></a>Zhu, A., Wang, Z., Khant, K., Daniilidis, K.,  
 *[EventGAN: Leveraging Large Scale Image Datasets for Event Cameras](https://arxiv.org/pdf/1912.01584)*,  
 arXiv:1912.01584, 2019.
-- <a name="Cannici20arxiv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
-*[A Differentiable Recurrent Surface for Asynchronous Event-Based Data](https://arxiv.org/pdf/2001.03455)*,  
-European Conf. Computer Vision (ECCV), 2020. [Videos](https://drive.google.com/drive/folders/1KzhKKwJGXvMnhbg1l6gEArgYote7WW8V)
+- <a name="Cannici20eccv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
+*[A Differentiable Recurrent Surface for Asynchronous Event-Based Data](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650137.pdf)*,  
+European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650137-supp.pdf), [PDF](https://arxiv.org/pdf/2001.03455), [Videos](https://drive.google.com/drive/folders/1KzhKKwJGXvMnhbg1l6gEArgYote7WW8V)
 - <a name="Xu20arxiv"></a>Xu, F., Lin, S., Yang, W., Yu, L., Dai, D., Xia, G.,  
 *[Matching Neuromorphic Events and Color Images via Adversarial Learning](https://arxiv.org/pdf/2003.00636)*,  
 arXiv:2003.00636, 2020.
-- <a name="Messikommer20arxiv"></a>Messikommer, N., Gehrig, D., Loquercio, A., Scaramuzza, D.,  
-*[Event-based Asynchronous Sparse Convolutional Networks](https://arxiv.org/pdf/2003.09148)*,  
-European Conf. Computer Vision (ECCV), 2020.
-- <a name="Hu20arxiv"></a>Hu, Y., Delbruck, T., Liu, S.-C.,  
-*[Learning to Exploit Multiple Vision Modalities by Using Grafted Networks](https://arxiv.org/pdf/2003.10959)*,  
-European Conf. Computer Vision (ECCV), 2020.
+- <a name="Messikommer2eccv"></a>Messikommer, N., Gehrig, D., Loquercio, A., Scaramuzza, D.,  
+*[Event-based Asynchronous Sparse Convolutional Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530409.pdf)*,  
+European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530409-supp.zip), [PDF](https://arxiv.org/pdf/2003.09148), [YouTube](https://youtu.be/VD7Beh_-7eU), [Code](https://github.com/uzh-rpg/rpg_asynet)
+- <a name="Hu20eccv"></a>Hu, Y., Delbruck, T., Liu, S.-C.,  
+*[Learning to Exploit Multiple Vision Modalities by Using Grafted Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610086.pdf)*,  
+European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610086-supp.zip), [PDF](https://arxiv.org/pdf/2003.10959)
 - <a name="Samadzadeh20arxiv"></a>Samadzadeh, A., Far, F.S.T., Javadi, A., Nickabadi, A., Chehreghani, M. H.,  
 *[Convolutional Spiking Neural Networks for Spatio-Temporal Feature Extraction](https://arxiv.org/pdf/2003.12346)*,  
 arXiv:2003.12346, 2020. [Code](https://github.com/aa-samad/conv_snn)
@@ -1595,7 +1594,10 @@ Science Robotics, 5(40):eaaz9712, 2020. [YouTube](https://youtu.be/BzykucxFddI)
 - <a name="Hagenaars20arxiv"></a>Hagenaars, J. J., Paredes-Vallés, F., Bohté, S. M., de Croon, G. C. H. E.,  
 *[Evolved Neuromorphic Control for High Speed Divergence-based Landings of MAVs](https://arxiv.org/pdf/2003.03118)*,  
 arXiv 2020.
-
+- <a name="Stagsted20rss">Stagsted, R. K., Vitale, A., Binz, J., Renner, A., Larsen, L. B., Sandamirskaya, Y.,  
+*[Towards neuromorphic control: A spiking neural network based PID controller for UAV](http://www.roboticsproceedings.org/rss16/p074.pdf)*,  
+Robotics: Science and Systems (RSS), 2020. [PDF](http://www.roboticsproceedings.org/rss16/p074.pdf), [YouTube](https://youtu.be/sdnEosW5NGQ), [Suppl. Video](https://youtu.be/lnGQqz7MM8w)
+    
 
 <a name="space"></a>
 ## Space Applications
@@ -1642,6 +1644,10 @@ Front. Neurosci. (2020), 14:420.
 - <a name="Naeini20sensors"></a>Naeini, F.B., Makris, D., Dongming, G., Zweiri, Y.,  
 *[Dynamic-Vision-Based Force Measurements Using Convolutional Recurrent Neural Networks](https://doi.org/10.3390/s20164469)*,  
 Sensors 2020, 20, 16.
+- <a name="Taunyazov20rss"></a>Taunyazov, T., Sng, W., Lim, B., Hian, H., Kuan, J., Fatir, A., Tee, B., Soh, H.,  
+*[Event-Driven Visual-Tactile Sensing and Learning for Robots](https://roboticsconference.org/program/papers/20/)*,  
+Robotics: Science and Systems (RSS), 2020. [PDF](http://www.roboticsproceedings.org/rss16/p020.pdf), [YouTube](https://youtu.be/zPlrqtjEcUY), [Project Page](https://clear-nus.github.io/visuotactile/)
+
 
 <br><br>
 <a name="datasets"></a>
