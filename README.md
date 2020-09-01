@@ -691,6 +691,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
 - <a name="Lin20eccv"></a>Lin, S., Zhang, J., Pan, J., Jiang, Z., Zou, D., Wang, Y., Chen, J., Ren, J.,  
 *[Learning Event-Driven Video Deblurring and Interpolation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681-supp.pdf)
+- <a name="Zhang20access"></a>Zhang, L., Zhang, H., Chen, J., Wang, L.,  
+*[Hybrid Deblur Net: Deep Non-Uniform Deblurring With Event Camera](https://doi.org/10.1109/ACCESS.2020.3015759)*,  
+IEEE Access, vol. 8, pp. 148075-148083, 2020.
 
 
 <a name="super-resolution"></a>
@@ -1275,6 +1278,9 @@ arXiv, 2020.
 - <a name="Bisulco20isvlsi"></a>A. Bisulco, F. Cladera Ojeda, V. Isler and D. D. Lee,,  
 *[Near-chip Dynamic Vision Filtering for Low-Bandwidth Pedestrian Detection](https://ieeexplore.ieee.org/document/9155035)*,  
 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2020.
+- <a name="Lu20access"></a>Lu, J., Dong, J., Yan, R., Tang, H.,  
+*[An Event-based Categorization Model Using Spatio-temporal Features in a Spiking Neural Network](https://doi.org/10.1109/ICACI49185.2020.9177628)*,  
+IEEE Int. Conf. Advanced Computational Intelligence (ICACI), 2020.
 
 
 <a name="gesture-recognition"></a>
