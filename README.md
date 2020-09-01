@@ -396,6 +396,10 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.  [PDF](https://
 - <a name="Manderscheid19cvpr"></a>Li, R., Shi, D., Zhang, Y., Li, K., Li, R.,  
 *[FA-Harris: A Fast and Asynchronous Corner Detector for Event Cameras](https://doi.org/10.1109/IROS40897.2019.8968491)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019. [PDF](https://arxiv.org/pdf/1906.10925)
+- <a name="Alzugaray20bmvc"></a>Alzugaray, I., Chli, M.,  
+*HASTE: multi-Hypothesis Asynchronous Speeded-up Tracking of Events*,  
+British Machine Vision Conf. (BMVC), 2020.
+
 
 <a name="particle-detection"></a>
 ### Particle Detection and Tracking
@@ -535,7 +539,7 @@ Proc. SPIE 11049, Int. Workshop on Advanced Image Technology (IWAIT), 2019.
 IEEE Trans. Pattern Anal. Mach. Intell (TPAMI), 2019. [PDF](https://arxiv.org/abs/1807.10936), [YouTube](https://www.youtube.com/watch?v=FJrba02kZII&list=PL_KSX9GOn2P80tm3IsgbmPAUi2KDE53zI&index=2&t=0s), [Code](https://github.com/tudelft/cuSNN).
 - <a name="Zhu19cvpr"></a>Zhu, A. Z., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1812.08156), [YouTube](https://youtu.be/aDzFSG4yV0M)
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1812.08156), [YouTube](https://youtu.be/aDzFSG4yV0M), [Patent](http://www.freepatentsonline.com/y2020/0265590.html)
     - <a name="Zhu18eccvw"></a>Zhu, A. Z., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[Unsupervised Event-Based Optical Flow Using Motion Compensation](https://doi.org/10.1007/978-3-030-11024-6_54)*,  
 European Conf. Computer Vision Workshops (ECCVW), 2018. [PDF](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Zhu_Unsupervised_Event-based_Optical_Flow_using_Motion_Compensation_ECCVW_2018_paper.pdf)
@@ -1021,6 +1025,9 @@ European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](http://www.ecva.net/p
 - <a name="Peng20eccv"></a>Peng, X., Wang, Y., Gao, L., Kneip, L.,  
 *[Globally-Optimal Event Camera Motion Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052-supp.pdf)
+- <a name="Chamorro20bmvc"></a>Chamorro, W., Andrade-Cetto, J., Solà, J.,  
+*High-speed event-based camera tracking*,  
+British Machine Vision Conf. (BMVC), 2020.
 
 
 <a name="visual-servoing"></a>
