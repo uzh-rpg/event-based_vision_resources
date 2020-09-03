@@ -773,6 +773,9 @@ IEEE Conf. Computational Photography (ICCP), 2015. [PDF](http://compphotolab.nor
 - <a name="Leroux18arxiv"></a>Leroux, T., Ieng, S.-H., Benosman, R.,  
 *[Event-Based Structured Light for Depth Reconstruction using Frequency Tagged Light Patterns](https://arxiv.org/pdf/1811.10771)*,  
 arXiv:1811.10771, 2018.
+- [Wang et al. JSEN](#Wang20jsen),  
+*Temporal Matrices Mapping Based Calibration Method for Event-Driven Structured Light Systems.*
+
 
 <a name="depth-stereo"></a>
 ### Stereo Depth Estimation
@@ -1863,6 +1866,9 @@ IEEE Access, vol. 7, pp. 138415-138425, 2019.
 - <a name="Dubeau20arxiv"></a>Dubeau, E., Garon, M., Debaque, B., de Charette, R., Lalonde, J.-F.,  
 *[RGB-DE: Event Camera Calibration for Fast 6-DOF Object Tracking](https://arxiv.org/pdf/2006.05011.pdf)*,  
 arXiv, 2020.
+- <a name="Wang20jsen"></a>Wang, G., Feng, C., Hu, X., Yang, H.,  
+*[Temporal Matrices Mapping Based Calibration Method for Event-Driven Structured Light Systems](https://doi.org/10.1109/JSEN.2020.3016833)*,  
+IEEE Sensors Journal, 2020.
 
 
 <a name="software-algorithms"></a>
