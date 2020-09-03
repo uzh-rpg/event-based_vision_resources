@@ -1027,7 +1027,7 @@ Front. Neurosci. 14:551.
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154-supp.pdf), [YouTube](https://youtu.be/3pyD9oCESa0), [Code](https://github.com/ImperialCollegeLondon/EventEMin)
 - <a name="Peng20eccv"></a>Peng, X., Wang, Y., Gao, L., Kneip, L.,  
 *[Globally-Optimal Event Camera Motion Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052.pdf)*,  
-European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052-supp.pdf)
+European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052-supp.pdf), [YouTube](https://youtu.be/Px1puptSX9Q)
 - <a name="Chamorro20bmvc"></a>Chamorro, W., Andrade-Cetto, J., Solà, J.,  
 *High-speed event-based camera tracking*,  
 British Machine Vision Conf. (BMVC), 2020.
