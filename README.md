@@ -782,6 +782,9 @@ arXiv:1811.10771, 2018.
 
 <a name="depth-stereo"></a>
 ### Stereo Depth Estimation
+- [Misha Mahowald’s Stereo Chip - Tobi Delbruck- 2020 Telluride Neuromorphic workshop](https://youtu.be/9mYTbZM9odc),  
+A tour through Misha Mahowald's 1992 stereo fusion work at Caltech in Carver Mead's Physics of Computation lab.  
+[Mahowald's PhD thesis, 1992](#Mahowald92PhD), *VLSI Analogs of Neuronal Visual Processing: A Synthesis of Form and Function*.
 - <a name="Schraml07visapp"></a>Schraml, C., Schon, P., Milosevic, N.,  
 *[Smartcam for real-time stereo vision - address-event based embedded system](http://doi.org/10.5220/0002057604660471)*,  
 Int. Conf. Computer Vision Theory and Applications (VISAPP), 2007, pp. 466-471.
@@ -1657,6 +1660,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF
 - Western Sydney University ICNS
     - [Astrosite](https://www.westernsydney.edu.au/icns/astrosite): [University News](https://www.westernsydney.edu.au/newscentre/news_centre/more_news_stories/world-first_technology_to_revolutionise_space_imaging), [ABC News](https://www.abc.net.au/news/2019-02-24/space-camera-astrosite-created-in-sydney-a-game-change-raaf-says/10842220).
     - [Simultaneous Sky Mapping and Satellite Tracking](https://www.westernsydney.edu.au/icns/research/research_streams/perception/sky_mapping_satellite_tracking)
+    - [G. Cohen - The Astrosite mobile observatory - 2020 Telluride Neuromorphic](https://youtu.be/Xnl6x_xvucs)
 - <a name="Zolnowski19neosst"></a>Zolnowski, M., Reszelewski, R., Moeys, D.P., Delbruck, T., Kaminski, K.,  
 *[Observational Evaluation of Event Cameras Performance in Optical Space Surveillance](https://conference.sdo.esoc.esa.int/proceedings/neosst1/paper/475/NEOSST1-paper475.pdf)*,  
 Proc. NEO and Debris Detection Conference, Darmstadt, Germany, Jan. 2019.
@@ -1959,6 +1963,7 @@ Int. Conf. Computer Supported Education (CSEDU), SCITEPRESS Digital Library, (20
     - [Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If97iGiuBHmnW8IFIxwvSeCHx)
 - [The Telluride Neuromorphic Cognition Engineering Workshops](https://sites.google.com/view/telluride2020).
     - [Videos](https://sites.google.com/view/telluride2020/about-workshop/videos)
+    - Telluride 2020 (Online): [YouTube playlist](https://www.youtube.com/playlist?list=PLG-iqBTOyCO5NAbqbsHPPnL9h35z0ooSE), [Slides](https://drive.google.com/drive/folders/1lmUSjZoDb7yc_HO9xw0M5J4fIGRIfu_u)
 - [Capo Caccia Workshops toward Cognitive Neuromorphic Engineering](http://capocaccia.iniforum.ch/).
 - [IEEE Embedded Vision Workshop Series](https://embeddedvisionworkshop.wordpress.com), with focus on Biologically-inspired vision and embedded systems.
 - [Neuro-Inspired Computational Elements (NICE) Workshop Series](https://niceworkshop.org/nice-2019/)
@@ -1975,6 +1980,7 @@ Int. Conf. Computer Supported Education (CSEDU), SCITEPRESS Digital Library, (20
 *[VLSI Analogs of Neuronal Visual Processing: A Synthesis of Form and Function](http://resolver.caltech.edu/CaltechTHESIS:09122011-094355148)*,  
 Ph.D. thesis, California Inst. Of Technology, Pasadena, CA, 1992. [PDF](http://www.ini.uzh.ch/~tobi/papers/mishathesis.pdf)  
 She won the Caltech's Clauser prize for the best PhD thesis for this work, which included the silicon retina, AER communication, and a beautiful stereopsis chip.
+    - Kluwer book from Misha’s thesis: Mahowald, M., *[An Analog VLSI System for Stereoscopic Vision](https://play.google.com/store/books/details?id=nYbc2XTlweMC)*. Boston: Springer Science & Business Media, 1994.
 - <a name="Delbruck93PhD"></a>Delbrück, T.,  
 *[Investigations of Analog VLSI Visual Transduction and Motion Processing](http://resolver.caltech.edu/CaltechETD:etd-07022004-144710)*,  
 Ph.D. Thesis. California Inst. Of Technology, Pasadena, CA, 1993. [PDF](https://www.ini.uzh.ch/~tobi/anaprose/thesis/tobithesis.pdf)
@@ -2124,7 +2130,9 @@ MSc. Thesis, Air Force Institute of Technology, USA, 2020.
 - [Western Sydney University’s International Centre for Neuromorphic Systems (ICNS)](https://www.westernsydney.edu.au/icns), Australia.
 - [Perception and Robotics Group](http://prg.cs.umd.edu/) at University of Maryland (UMD). [Fermüller's Lab on Event-based vision](http://users.umiacs.umd.edu/~fer/dvs.html)
 - [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), [Mike Davies](https://newsroom.intel.com/news/bobbleheads-tool-test-neuromorphic-mind/#gs.nndw9d) (Intel’s neuromorphic computing program leader).
-  - [Video CVPRW 2019](https://youtu.be/jhQgElvtb1s),  [Video Intel NICE 2018 Loihi](https://vimeo.com/264342847),  [Video Intel NICE 2018 Day 3](https://vimeo.com/258246382).
+  - [Video CVPRW 2019](https://youtu.be/jhQgElvtb1s)
+  - [Video Intel NICE 2018 Loihi](https://vimeo.com/264342847),  [Video Intel NICE 2018 Day 3](https://vimeo.com/258246382)
+  - [Advancing neuromorphic computing from lab to mainstream applications -Telluride 2020](https://youtu.be/bmCMsWF_ORg)
 - [Robotics and Technology of Computers Lab - Sevilla (RTC)](http://www.rtc.us.es/) of the University of Seville (USE), Seville, Spain.
 - [IMSE-CNM – Seville Institute of Microelectronics](http://imse-cnm.csic.es), Seville, Spain. [News](https://elpais.com/tecnologia/2020-04-13/chips-que-detectan-olores-o-como-la-tecnologia-intenta-imitar-el-funcionamiento-del-cerebro.html)
 
