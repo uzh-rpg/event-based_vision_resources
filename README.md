@@ -59,6 +59,7 @@
     - [Dissertations](#theses-phd)
     - [Master's Theses](#theses-master)
 - [People / Organizations](#people)
+- [EETimes articles](#press-eetimes)
 - [Contributing](#contributing)
 
 ___
@@ -2126,6 +2127,16 @@ MSc. Thesis, Air Force Institute of Technology, USA, 2020.
   - [Video CVPRW 2019](https://youtu.be/jhQgElvtb1s),  [Video Intel NICE 2018 Loihi](https://vimeo.com/264342847),  [Video Intel NICE 2018 Day 3](https://vimeo.com/258246382).
 - [Robotics and Technology of Computers Lab - Sevilla (RTC)](http://www.rtc.us.es/) of the University of Seville (USE), Seville, Spain.
 - [IMSE-CNM – Seville Institute of Microelectronics](http://imse-cnm.csic.es), Seville, Spain. [News](https://elpais.com/tecnologia/2020-04-13/chips-que-detectan-olores-o-como-la-tecnologia-intenta-imitar-el-funcionamiento-del-cerebro.html)
+
+
+<br><br>
+<a name="press-eetimes"></a>
+# Press EETimes
+- [Neuromorphic Revolution to Start in 2024](https://www.eetimes.eu/neuromorphic-revolution-to-start-in-2024/), 10.2019.
+- [Neuromorphic Vision Sensors Eye the Future of Autonomy](https://www.eetimes.com/neuromorphic-vision-sensors-eye-the-future-of-autonomy/), 04.2020.
+- [The Slow But Steady Rise of the Event Camera](https://www.eetimes.eu/the-slow-but-steady-rise-of-the-event-camera/), 06.2020
+- [Europe Still the Focal Point for Neuromorphic Vision](https://www.eetimes.eu/europe-still-the-focal-point-for-neuromorphic-vision/), 07.2020.
+- [Telluride Neuromorphic Engineering Workshop Goes Large](https://www.eetimes.com/telluride-neuromorphic-engineering-workshop-goes-large/), 07.2020.
 
 
 <br><br>
