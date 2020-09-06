@@ -54,7 +54,7 @@
     - [Utilities](#software-utilities)
 
 - [Neuromorphic Processors and Platforms](#processors-platforms)
-- [Workshops and Tutorials](#workshops)
+- [Workshops](#workshops)
 - [Theses and Dissertations](#theses)
     - [Dissertations](#theses-phd)
     - [Master's Theses](#theses-master)
@@ -79,7 +79,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020.
     - [User guide](https://inivation.github.io/inivation-docs/Hardware user guides/User_guide_-_DVS128.html)
     - [Introductory videos about the DVS technology](https://inivation.com/dvs/videos/)
     - [iniVation AG](https://inivation.com/) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*. [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Jakobsen.pdf) by [S. E. Jakobsen](https://inivation.com/company/), board member of iniVation.
-    - [Event Cameras - Tutorial - Tobi Delbruck, version 3](https://youtu.be/FP01jPau5dM)
+    - [Event Cameras - Tutorial - Tobi Delbruck, version 4](https://youtu.be/Th4TM4SsFGY)
 - **Samsung's DVS**
     - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Eric_Ryu_Samsung.pdf) and [Video](https://youtu.be/7fAPckjQSGE) by [Hyunsurk Eric Ryu](https://www.linkedin.com/in/hyunsurk-eric-ryu-82745712), Samsung Electronics  (2019).
     - Son, B., et al., *[A 640×480 dynamic vision sensor with a 9µm pixel and 300Meps address-event representation](https://doi.org/10.1109/ISSCC.2017.7870263)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), 2017, pp. 66-67.
@@ -157,7 +157,7 @@ Front. Neurosci. (2016), 10:115.
 - <a name="Liu19msp"></a>Liu, S.-C., Rueckauer, B., Ceolini, E., Huber, A., Delbruck, T.,  
 *[Event-Driven Sensing for Efficient Perception: Vision and audition algorithms](https://doi.org/10.1109/MSP.2019.2928127)*,  
 IEEE Signal Processing Magazine, 36(6):29-37, 2019.
-- [Event Cameras - Tutorial - Tobi Delbruck, version 3](https://youtu.be/FP01jPau5dM)
+- [Event Cameras - Tutorial - Tobi Delbruck, version 4](https://youtu.be/Th4TM4SsFGY)
 
 <a name="reviewpapers"></a>
 # Review / Overview papers
@@ -1953,7 +1953,7 @@ Int. Conf. Computer Supported Education (CSEDU), SCITEPRESS Digital Library, (20
 
 <br><br>
 <a name="workshops"></a>
-# Workshops and Tutorials
+# Workshops
 - [ICRA 2015 Workshop on Innovative Sensing for Robotics](http://innovative-sensing.mit.edu/), with a focus on Neuromorphic Sensors.
 - [IROS 2015 Event-Based Vision for High-Speed Robotics (slides)](http://www.rit.edu/kgcoe/iros15workshop/papers/IROS2015-WASRoP-Invited-04-slides.pdf), Workshop on Alternative Sensing for Robot Perception.
 - [ICRA 2017 First International Workshop on Event-based Vision](http://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html) - Slides and Videos available on the website.
