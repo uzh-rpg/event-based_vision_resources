@@ -400,8 +400,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.  [PDF](https://
 *[FA-Harris: A Fast and Asynchronous Corner Detector for Event Cameras](https://doi.org/10.1109/IROS40897.2019.8968491)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019. [PDF](https://arxiv.org/pdf/1906.10925)
 - <a name="Alzugaray20bmvc"></a>Alzugaray, I., Chli, M.,  
-*HASTE: multi-Hypothesis Asynchronous Speeded-up Tracking of Events*,  
-British Machine Vision Conf. (BMVC), 2020.
+*[HASTE: multi-Hypothesis Asynchronous Speeded-up Tracking of Events](https://www.bmvc2020-conference.com/conference/papers/paper_0744.html)*,  
+British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference.com/assets/papers/0744.pdf), [Suppl. Mat.](https://www.bmvc2020-conference.com/assets/supp/0744_supp.zip)
 
 
 <a name="particle-detection"></a>
@@ -1038,8 +1038,8 @@ European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](http://www.ecva.net/p
 *[Globally-Optimal Event Camera Motion Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052-supp.pdf), [YouTube](https://youtu.be/Px1puptSX9Q)
 - <a name="Chamorro20bmvc"></a>Chamorro, W., Andrade-Cetto, J., Solà, J.,  
-*High-speed event-based camera tracking*,  
-British Machine Vision Conf. (BMVC), 2020.
+*[High-speed event-based camera tracking](https://www.bmvc2020-conference.com/conference/papers/paper_0366.html)*,  
+British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference.com/assets/papers/0366.pdf), [Suppl. Mat.](https://www.bmvc2020-conference.com/assets/supp/0366_supp.zip)
 
 
 <a name="visual-servoing"></a>
