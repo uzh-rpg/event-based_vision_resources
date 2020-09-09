@@ -776,8 +776,11 @@ IEEE Conf. Computational Photography (ICCP), 2015. [PDF](http://compphotolab.nor
 - <a name="Leroux18arxiv"></a>Leroux, T., Ieng, S.-H., Benosman, R.,  
 *[Event-Based Structured Light for Depth Reconstruction using Frequency Tagged Light Patterns](https://arxiv.org/pdf/1811.10771)*,  
 arXiv:1811.10771, 2018.
+- <a name="mangalore2020neuromorphic"></a>Mangalore, A. R., Seelamantula, C. S., & Thakur, C. S., *[Neuromorphic Fringe Projection Profilometry](https://doi.org/10.1109/LSP.2020.3016251)*,  
+IEEE Signal Processing Letters (SPL), 2020. [Project page](https://github.com/ashishrao7/NFPP)
 - [Wang et al. JSEN](#Wang20jsen),  
 *Temporal Matrices Mapping Based Calibration Method for Event-Driven Structured Light Systems.*
+
 
 
 <a name="depth-stereo"></a>
