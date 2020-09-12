@@ -942,6 +942,10 @@ IEEE Int. Conf. Computer Vision (ICCV), 2019.
 - <a name="Steffen19icar"></a>Steffen, L., Ulbrich, S., Roennau, A., Dillmann, R.,  
 *[Multi-View 3D Reconstruction With Self-Organizing Maps on Event-Based Data](https://doi.org/10.1109/ICAR46387.2019.8981569)*,  
 IEEE Int. Conf. Advanced Robotics (ICAR), 2019.
+- <a name="Hadviger20advrob"></a>Hadviger, A., Marković, I., Petrović, I.,  
+*[Stereo Dense Depth Tracking Based on Optical Flow using Frames and Events](https://lamor.fer.hr/images/50036607/hadviger-disparity-advrob.pdf)*,  
+Advanced Robotics, 2020.
+
 
 <a name="depth-stereo-active"></a>
 ### Stereo Depth Estimation using Structured Light
@@ -1049,6 +1053,9 @@ British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference
 - <a name="Muthusamy20arxiv"></a>Muthusamy, R., Ayyad, A., Halwani, M., Zweiri, Y., Gan, D., Seneviratne, L.,  
 *[Neuromorphic Eye-in-Hand Visual Servoing](https://arxiv.org/pdf/2004.07398)*,  
 arXiv, 2020.
+- <a name="Muthusamy20arxiv"></a>Gomez Eguiluz, A., Rodriguez-Gomez, J.P., Martinez-de Dios, J.R., Ollero, A.,  
+*[Asynchronous Event-based Line Tracking for Time-to-Contact Maneuvers in UAS](https://griffin-erc-advanced-grant.eu/wp-content/uploads/2020/08/Asynchronous-Event-based-Line-Tracking-for-Time-to-Contact-Maneuvers-in-UAS.pdf)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
 
 
 <a name="slam-mapping"></a>
