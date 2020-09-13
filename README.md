@@ -315,6 +315,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018.
 - <a name="Ramesh18bmvc"></a>Ramesh, B., Zhang, S., Lee, Z.-W., Gao, Z., Orchard, G., Xiang, C.,  
 *[Long-term object tracking with a moving event camera](http://bmvc2018.org/contents/papers/0814.pdf)*,  
 British Machine Vision Conf. (BMVC), 2018.  [Video](http://bmvc2018.org/contents/supplementary/video/0814_video.mp4)
+    - <a name="Ramesh20arxiv"></a>Ramesh, B., Zhang, S., Yang, H., Ussa, A., Ong, M., Orchard, G., Xiang, C.,  
+*[e-TLD: Event-based Framework for Dynamic Object Tracking](https://arxiv.org/pdf/2009.00855.pdf)*,  
+arXiv, 2020.
 - <a name="Dardelet18arxiv"></a>Dardelet, L., Ieng, S.-H., Benosman, R.,  
 *[Event-Based Features Selection and Tracking from Intertwined Estimation of Velocity and Generative Contours](https://arxiv.org/pdf/1811.07839)*,  
 arXiv:1811.07839, 2018.
