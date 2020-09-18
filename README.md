@@ -582,6 +582,7 @@ European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/
 - [Paredes-Valles et al., arXiv 2020](#ParedesValles20arxiv),  
 *Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy.*
 
+
 <a name="scene-flow-estimation"></a>
 ### Scene Flow Estimation
 - <a name="Ieng17fnins"></a>Ieng, S.-H., Carneiro, J., Benosman, R.,  
