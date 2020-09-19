@@ -2086,6 +2086,9 @@ Ph.D. Thesis, University of Zurich, Zurich, Switzerland, 2019.
 - <a name="Kaiser20PhD"></a>Kaiser, J.,  
 *[Synaptic Learning for Neuromorphic Vision](https://publikationen.bibliothek.kit.edu/1000122690)*,  
 Ph.D. Thesis, Karlsruher Instituts für Technologie (KIT), Karlsruhe, Germany, 2020.
+- <a name="Wang20PhD"></a>Wang, Z. (Winston),  
+*[Synergy of physics and learning-based models in computational imaging and display](https://dx.doi.org/10.13140/RG.2.2.19514.62404)*,  
+Ph.D. Thesis, Northwestern University, 2020. [YouTube](https://youtu.be/VEJxdNok-K0).
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
