@@ -1479,7 +1479,7 @@ arXiv:2003.12346, 2020. [Code](https://github.com/aa-samad/conv_snn)
 *[Efficient Spatial-Temporal Normalization of SAE Representation for Event Camera](https://doi.org/10.1109/LRA.2020.2995332)*,  
 IEEE Robotics and Automation Letters (RA-L), 5(3):4265-4272, 2020.
 - <a name="Kostadinov21icpr"></a>Kostadinov, D., Scaramuzza, D.,  
-*[Unsupervised Feature Learning for Event Data: Direct vs Inverse Problem Formulation](https://arxiv.org/abs/2009.11044)*,  
+*[Unsupervised Feature Learning for Event Data: Direct vs Inverse Problem Formulation](https://arxiv.org/pdf/2009.11044)*,  
 IAPR IEEE Int. Conf. Pattern Recognition (ICPR), Milan, 2021.
 
 
@@ -2093,6 +2093,9 @@ Ph.D. Thesis, Karlsruher Instituts für Technologie (KIT), Karlsruhe, Germany, 2
 - <a name="Wang20PhD"></a>Wang, Z. (Winston),  
 *[Synergy of physics and learning-based models in computational imaging and display](https://dx.doi.org/10.13140/RG.2.2.19514.62404)*,  
 Ph.D. Thesis, Northwestern University, 2020. [YouTube](https://youtu.be/VEJxdNok-K0).
+- <a name="Mitrokhin20PhD"></a>Mitrokhin, A.,  
+*[Motion Segmentation and Egomotion Estimation with Event-Based Cameras](https://doi.org/10.13016/e5vs-hwzw)*,  
+Ph.D. Thesis, University of Maryland, USA, 2020.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
