@@ -1478,6 +1478,10 @@ arXiv:2003.12346, 2020. [Code](https://github.com/aa-samad/conv_snn)
 - <a name="Lin20ral"></a>Lin, S., Xu, F., Wang., X., Yang, W., Yu, L.,  
 *[Efficient Spatial-Temporal Normalization of SAE Representation for Event Camera](https://doi.org/10.1109/LRA.2020.2995332)*,  
 IEEE Robotics and Automation Letters (RA-L), 5(3):4265-4272, 2020.
+- <a name="Kostadinov21icpr"></a>Kostadinov, D., Scaramuzza, D.,  
+*[Unsupervised Feature Learning for Event Data: Direct vs Inverse Problem Formulation](https://arxiv.org/abs/2009.11044)*,  
+IAPR IEEE Int. Conf. Pattern Recognition (ICPR), Milan, 2021.
+
 
 
 <a name="learning-regression"></a>
