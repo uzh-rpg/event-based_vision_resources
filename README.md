@@ -2140,6 +2140,9 @@ MSc. Thesis, Air Force Institute of Technology, USA, 2020. [PDF](https://scholar
 - <a name="Friedel20MSc"></a>Friedel, Z. P.,  
 *[Event-Based Visual-Inertial Odometry Using Smart Features](https://scholar.afit.edu/etd/3172/)*,  
 MSc. Thesis, Air Force Institute of Technology, USA, 2020.
+- <a name="Verecken20MSc"></a>Verecken, J.,  
+*[Embedded real-time inference in spiking neural networks for neuromorphic IoT vision sensors](http://hdl.handle.net/2078.1/thesis:26663)*,  
+MSc. Thesis, Ecole polytechnique de Louvain, Université catholique de Louvain, 2020.
 
 
 <br><br>
