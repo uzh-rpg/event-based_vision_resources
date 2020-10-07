@@ -1321,6 +1321,9 @@ IEEE Int. Conf. Advanced Computational Intelligence (ICACI), 2020.
 - <a name="Perot20arxiv"></a>Perot, E., de Tournemire, P., Nitti, D., Masci, J., Sironi, A.,  
 [Learning to Detect Objects with a 1 Megapixel Event Camera](https://arxiv.org/abs/2009.13436),  
 arXiv, 2020.
+- <a name="Ojeda20icip"></a>Ojeda, F. C., Bisulco, A., Kepple, D., Isler, V., Lee, D. D.,  
+*[On-Device Event Filtering with Binary Neural Networks for Pedestrian Detection Using Neuromorphic Vision Sensors](https://doi.org/10.1109/ICIP40778.2020.9191148)*,  
+IEEE Int. Conf. Image Processing (ICIP), 2020.
 
 
 <a name="gesture-recognition"></a>
