@@ -82,6 +82,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020.
     - [Event Cameras - Tutorial - Tobi Delbruck, version 4](https://youtu.be/Th4TM4SsFGY)
 - **Samsung's DVS**
     - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Eric_Ryu_Samsung.pdf) and [Video](https://youtu.be/7fAPckjQSGE) by [Hyunsurk Eric Ryu](https://www.linkedin.com/in/hyunsurk-eric-ryu-82745712), Samsung Electronics  (2019).
+    - Suh et al., *[A 1280×960 Dynamic Vision Sensor with a 4.95-μm Pixel Pitch and Motion Artifact Minimization](https://doi.org/10.1109/ISCAS45731.2020.9180436), IEEE Int. Symp. Circuits and Systems (ISCAS), 2020.    
     - Son, B., et al., *[A 640×480 dynamic vision sensor with a 9µm pixel and 300Meps address-event representation](https://doi.org/10.1109/ISSCC.2017.7870263)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), 2017, pp. 66-67.
     - [SmartThings Vision](https://www.samsung.com/se/smartthings/smartthings-vision-u999/) commercial product for home monitoring. [in Australia](https://www.samsung.com/au/smart-home/smartthings-vision-u999/)
     - [Paper at IEDM 2019](#Park19iedm), about low-latency applications using Samsung's VGA DVS.
@@ -158,6 +159,10 @@ Front. Neurosci. (2016), 10:115.
 *[Event-Driven Sensing for Efficient Perception: Vision and audition algorithms](https://doi.org/10.1109/MSP.2019.2928127)*,  
 IEEE Signal Processing Magazine, 36(6):29-37, 2019.
 - [Event Cameras - Tutorial - Tobi Delbruck, version 4](https://youtu.be/Th4TM4SsFGY)
+- <a name="Kirkland20spie"></a>Kirkland, P., Di Caterina, G., Soraghan, J., Matich, G.,  
+[Neuromorphic technologies for defence and security](https://doi.org/10.1117/12.2575978),  
+SPIE vol 11540, Emerging Imaging and Sensing Technologies for Security and Defence V; and Advanced Manufacturing Technologies for Micro- and Nanosystems in Security and Defence III; 2020.
+
 
 <a name="reviewpapers"></a>
 # Review / Overview papers
@@ -660,6 +665,9 @@ European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/
 - <a name="WangB20eccv"></a>Wang, B., He, J., Yu, L., Xia, G.-S., Yang, W.,  
 *[Event Enhanced High-Quality Image Recovery](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154-supp.pdf), [Video](https://www.bilibili.com/video/av838383543/)
+- <a name="Su20icip"></a>B. Su, L. Yu and W. Yang,  
+*[Event-Based High Frame-Rate Video Reconstruction With A Novel Cycle-Event Network](https://doi.org/10.1109/ICIP40778.2020.9191114)*,  
+IEEE Int. Conf. Image Processing (ICIP), 2020.
 - <a name="ParedesValles20arxiv"></a>Paredes-Valles, F., de Croon, G. C. H. E.,  
 *[Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy](https://arxiv.org/abs/2009.08283)*,  
 arXiv:2009.08283, 2020. [Suppl. Mat.](http://mavlab.tudelft.nl/ssl_e2v/)
@@ -705,6 +713,9 @@ European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/
 - <a name="Zhang20access"></a>Zhang, L., Zhang, H., Chen, J., Wang, L.,  
 *[Hybrid Deblur Net: Deep Non-Uniform Deblurring With Event Camera](https://doi.org/10.1109/ACCESS.2020.3015759)*,  
 IEEE Access, vol. 8, pp. 148075-148083, 2020.
+- <a name="Jiang20icip"></a>Jiang, M., Liu, Z., Wang, B., Yu, L., Yang, W.,  
+*[Robust Intensity Image Reconstruciton Based On Event Cameras](https://doi.org/10.1109/ICIP40778.2020.9190830)*,  
+IEEE Int. Conf. Image Processing (ICIP), 2020.
 
 
 <a name="super-resolution"></a>
@@ -1039,9 +1050,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2019. [PDF](http://rpg.ifi.uzh.c
 - <a name="Xu20tci"></a>Xu, J., Jiang, M., Yu, L., Yang, W., Wang, W.,  
 *[Robust Motion Compensation for Event Cameras With Smooth Constraint](http://dx.doi.org/10.1109/TCI.2020.2964255)*,  
 IEEE Trans. Comput. Imag. (TCI), 6:604-614, 2020.
-- <a name="Fischer20arxiv"></a>Fischer, T., Milford, M.,  
-*[Event-based visual place recognition with ensembles of spatio-temporal windows](https://arxiv.org/abs/2006.02826)*,  
-arXiv:2006.02826, 2020.
+- <a name="Fischer20ral"></a>Fischer, T., Milford, M.,  
+*[Event-based visual place recognition with ensembles of spatio-temporal windows](https://doi.org/10.1109/LRA.2020.3025505)*,  
+IEEE Robotics and Automation Letters (RA-L), 5(4):6924-6931, 2020. [PDF](https://arxiv.org/abs/2006.02826)
 - <a name="Kreiser20fnins"></a>Kreiser, R., Renner, A., Leite, V.R.C., Serhan, B., Bartolozzi, C., Glover, A., Sandamirskaya, Y.,  
 [An On-chip Spiking Neural Network for Estimation of the Head Pose of the iCub Robot](https://doi.org/10.3389/fnins.2020.00551),  
 Front. Neurosci. 14:551.
@@ -1307,6 +1318,9 @@ IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2020.
 - <a name="Lu20access"></a>Lu, J., Dong, J., Yan, R., Tang, H.,  
 *[An Event-based Categorization Model Using Spatio-temporal Features in a Spiking Neural Network](https://doi.org/10.1109/ICACI49185.2020.9177628)*,  
 IEEE Int. Conf. Advanced Computational Intelligence (ICACI), 2020.
+- <a name="Perot20arxiv"></a>Perot, E., de Tournemire, P., Nitti, D., Masci, J., Sironi, A.,  
+[Learning to Detect Objects with a 1 Megapixel Event Camera](https://arxiv.org/abs/2009.13436),  
+arXiv, 2020.
 
 
 <a name="gesture-recognition"></a>
