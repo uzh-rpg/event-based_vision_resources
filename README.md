@@ -1398,6 +1398,9 @@ IEEE Int. Conf. AI Circuits Syst. (AICAS), 2019.
 - <a name="Vasudevan20fg"></a>Vasudevan, A., Negri, P., Linares-Barranco, B., Serrano-Gotarredona, T.,  
 *[Introduction and Analysis of an Event-Based Sign Language Dataset](https://doi.ieeecomputersociety.org/10.1109/FG47880.2020.00069)*,  
 IEEE Int. Conf. Automatic Face and Gesture Recognition (FG), 2020. [Dataset](http://www2.imse-cnm.csic.es/neuromorphs/index.php/SL-ANIMALS-DVS-Database)
+- <a name="Chen20iscas"></a>Chen, J., Meng, J., Wang, X., Yuan, J.,  
+*[Dynamic Graph CNN for Event-Camera Based Gesture Recognition](https://doi.org/10.1109/ISCAS45731.2020.9181247)*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2020.
 
 
 <a name="learning-representation-features"></a>
