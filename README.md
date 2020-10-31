@@ -547,7 +547,7 @@ arXiv:1809.08625, 2018. [YouTube](https://youtu.be/hmDDAQVD0B0)
 Proc. SPIE 11049, Int. Workshop on Advanced Image Technology (IWAIT), 2019.
 - <a name="ParedesValles19tpami"></a>Paredes-Valles, F., Scheper, K. Y. W., de Croon, G. C. H. E.,  
 *[Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception](https://ieeexplore.ieee.org/document/8660483)*,  
-IEEE Trans. Pattern Anal. Mach. Intell (TPAMI), 2019. [PDF](https://arxiv.org/abs/1807.10936), [YouTube](https://www.youtube.com/watch?v=FJrba02kZII&list=PL_KSX9GOn2P80tm3IsgbmPAUi2KDE53zI&index=2&t=0s), [Code](https://github.com/tudelft/cuSNN).
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2019. [PDF](https://arxiv.org/abs/1807.10936), [YouTube](https://www.youtube.com/watch?v=FJrba02kZII&list=PL_KSX9GOn2P80tm3IsgbmPAUi2KDE53zI&index=2&t=0s), [Code](https://github.com/tudelft/cuSNN).
 - <a name="Zhu19cvpr"></a>Zhu, A. Z., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/pdf/1812.08156), [YouTube](https://youtu.be/aDzFSG4yV0M), [Patent](http://www.freepatentsonline.com/y2020/0265590.html)
@@ -561,8 +561,8 @@ Neural Computation (2019), 31(6):1114-1138. [PDF](https://www.neuromorphic-visio
 *[DAViS Camera Optical Flow](http://doi.org/10.1109/TCI.2019.2948787)*,  
 IEEE Trans. Comput. Imag. (TCI), 6:396-407, 2019.
 - <a name="Almatrafi20arxiv"></a>Almatrafi, M., Baldwin, R., Aizawa, K., Hirakawa, K.,  
-*[Distance Surface for Event-Based Optical Flow](https://arxiv.org/pdf/2003.12680)*,  
-arXiv:2003.12680, 2020.
+*[Distance Surface for Event-Based Optical Flow](https://doi.org/10.1109/TPAMI.2020.2986748)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020. [PDF](https://arxiv.org/pdf/2003.12680)
 - <a name="Lee20eccv"></a>Lee, C., Kosta, A., Zhu, A.Z., Chaney, K., Daniilidis, K., Roy, K.,  
 *[Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740358-supp.pdf), [PDF](https://arxiv.org/pdf/2003.06696)
@@ -576,7 +576,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
 [SOFEA: A Non-Iterative and Robust Optical Flow Estimation Algorithm for Dynamic Vision Sensors](http://openaccess.thecvf.com/content_CVPRW_2020/html/w6/Low_SOFEA_A_Non-Iterative_and_Robust_Optical_Flow_Estimation_Algorithm_for_CVPRW_2020_paper.html),  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2020. [PDF](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Low_SOFEA_A_Non-Iterative_and_Robust_Optical_Flow_Estimation_Algorithm_for_CVPRW_2020_paper.pdf), [Suppl. Mat.](http://openaccess.thecvf.com/content_CVPRW_2020/supplemental/Low_SOFEA_A_Non-Iterative_CVPRW_2020_supplemental.pdf)
 - <a name="Akolkar20tpami"></a>Akolkar, H., Ieng, S.-H., Benosman, R.,  
-*[Real-time high speed motion prediction using fast aperture-robust event-driven visual flow](https://doi.ieeecomputersociety.org/10.1109/TPAMI.2020.3010468)*,  
+*[Real-time high speed motion prediction using fast aperture-robust event-driven visual flow](https://doi.org/10.1109/TPAMI.2020.3010468)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020. [PDF](https://arxiv.org/pdf/1811.11135)
 - <a name="pivezhandi2020parahist"></a>Pivezhandi, M., Jones, P. H., Zambreno, J.,  
 *[ParaHist: FPGA Implementation of Parallel Event-Based Histogram for Optical Flow Calculation](https://doi.org/10.1109/ASAP49362.2020.00038)*,  
