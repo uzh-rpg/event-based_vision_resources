@@ -537,9 +537,9 @@ British Machine Vision Conf. (BMVC), 2018. [Supplementary material](https://docs
     - <a name="Liu17iscas"></a>Liu, M., Delbruck, T.,  
 *[Block-Matching Optical Flow for Dynamic Vision Sensors: Algorithm and FPGA Implementation](https://arxiv.org/pdf/1706.05415.pdf)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2017.
-- <a name="Ye18arxiv"></a>Ye, C., Mitrokhin, A., Parameshwara, C., Fermüller, C., Yorke, J. A., Aloimonos,Y,  
-*[Unsupervised Learning of Dense Optical Flow and Depth from Sparse Event Data](https://arxiv.org/pdf/1809.08625.pdf)*,  
-arXiv:1809.08625, 2018. [YouTube](https://youtu.be/hmDDAQVD0B0)
+- <a name="Ye20iros"></a>Ye, C., Mitrokhin, A., Parameshwara, C., Fermüller, C., Yorke, J. A., Aloimonos,Y,  
+*[Unsupervised Learning of Dense Optical Flow, Depth and Egomotion with Event-Based Sensors](https://arxiv.org/pdf/1809.08625.pdf)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020. [PDF](https://arxiv.org/pdf/1809.08625.pdf), [YouTube](https://youtu.be/hmDDAQVD0B0), [Project page](http://prg.cs.umd.edu/ECN.html)
 - [Seifozzakerini, Ph.D. Thesis, 2018](#Seifozzakerini18PhD),  
 *Analysis of object and its motion in event-based videos*.
 - <a name="Nagata19iwait"></a>Nagata, J., Sekikawa, Y., Hara, K., Aoki, Y.,  
