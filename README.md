@@ -76,7 +76,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020.
 - **DVS (Dynamic Vision Sensor)**: Lichtsteiner, P., Posch, C., and Delbruck, T., *[A 128x128 120dB 15μs latency asynchronous temporal contrast vision sensor](http://doi.org/10.1109/JSSC.2007.914337)*, IEEE J. Solid-State Circuits, 43(2):566-576, 2008. [PDF](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=lichtsteiner_dvs_jssc08.pdf)
     - [Product page at iniVation](https://inivation.com/dvs/). [**Buy a DVS**](https://inivation.com/buy/)
     - [Product specifications](https://inivation.com/support/product-specifications/)    
-    - [User guide](https://inivation.github.io/inivation-docs/Hardware user guides/User_guide_-_DVS128.html)
+    - [User guide](https://inivation.github.io/inivation-docs/Hardware%20user%20guides/User_guide_-_DVS128.html)
     - [Introductory videos about the DVS technology](https://inivation.com/dvs/videos/)
     - [iniVation AG](https://inivation.com/) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*. [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Jakobsen.pdf) by [S. E. Jakobsen](https://inivation.com/company/), board member of iniVation.
     - [Event Cameras - Tutorial - Tobi Delbruck, version 4](https://youtu.be/Th4TM4SsFGY)
