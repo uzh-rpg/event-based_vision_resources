@@ -1721,9 +1721,9 @@ Sensors 2018, 18, 333.
 - <a name="Naeini19tim"></a>Naeini, F. B., Alali, A., Al-Husari, R., Rigi, A., AlSharman, M. K., Makris, D., Zweiri, Y.,  
 *[A Novel Dynamic-Vision-Based Approach for Tactile Sensing Applications](https://doi.org/10.1109/TIM.2019.2919354)*,  
 IEEE Trans. Instrum. Meas., 2019.
-- <a name="Muthusamy20arxivB"></a>Muthusamy, R., Huang, X., Zweiri, Y., Seneviratne, L., Gan, D.,  
-*[Neuromorphic Event-Based Slip Detection and suppression in Robotic Grasping and Manipulation](https://arxiv.org/pdf/2004.07386)*,  
-arXiv, 2020.
+- <a name="Muthusamy20access"></a>Muthusamy, R., Huang, X., Zweiri, Y., Seneviratne, L., Gan, D.,  
+*[Neuromorphic Event-Based Slip Detection and suppression in Robotic Grasping and Manipulation](https://doi.org/10.1109/ACCESS.2020.3017738)*,  
+IEEE Access, 2020. [PDF](https://arxiv.org/pdf/2004.07386)
 - <a name="Haessig20fnins"></a>Haessig, G., Milde, M.B., Aceituno, P.V., Oubari, O., Knight, J.C., van Schaik, A., Benosman,  R. B., Indiveri, G.,  
 *[Event-Based Computation for Touch Localization Based on Precise Spike Timing](https://doi.org/10.3389/fnins.2020.00420)*,  
 Front. Neurosci. (2020), 14:420.
