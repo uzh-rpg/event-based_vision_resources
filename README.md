@@ -1870,7 +1870,7 @@ Front. Neurorobot. (2019). [Dataset](https://github.com/MSZTY/PAFBenchmark)
 arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox), [News](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/)
 - [N-SOD Dataset](https://drive.google.com/drive/folders/10_bnZ_TOcq7xCtCiDcaDiIO3_Txgr19S) associated to the paper [Ramesh et al., FNINS 2020](#Ramesh20fnins).
 - [SL-ANIMALS-DVS Database](http://www2.imse-cnm.csic.es/neuromorphs/index.php/SL-ANIMALS-DVS-Database) associated to the paper [Vasudevan et al., FG 2020](#Vasudevan20fg). Recordings made using the sensitive DVS developed at [IMSE](http://imse-cnm.csic.es).
-- <a name="1mpx_detection_dataset"></a> Perot, E., de Tournemire, P., Nitti, D., Masci, J., Sironi, A.,  [1Mpx Detection Dataset](https://www.prophesee.ai/2020/11/24/automotive-megapixel-event-based-dataset/): [Learning to Detect Objects with a 1 Megapixel Event Camera. Perot et al., NeurIPS 2020](#Perot20nips).
+- <a name="1mpx_detection_dataset"></a> Perot, E., de Tournemire, P., Nitti, D., Masci, J., Sironi, A.,  [1Mpx Detection Dataset](https://www.prophesee.ai/2020/11/24/automotive-megapixel-event-based-dataset/): [Learning to Detect Objects with a 1 Megapixel Event Camera. NeurIPS 2020](#Perot20nips).
 
 ### Event Denoising
 - [DVSNOISE20](https://sites.google.com/a/udayton.edu/issl/software/dataset) associated to the paper [Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](#Baldwin20cvpr).
