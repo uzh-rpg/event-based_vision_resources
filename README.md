@@ -783,6 +783,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
 - [Zhu et al., CVPR 2019](#Zhu19cvpr),  
 *Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion.*
+- <a name="Hidalgo20threedv"></a>Hidalgo-Carrió J., Gehrig D., Scaramuzza, D.,
+*[Learning Monocular Dense Depth from Events](https://arxiv.org/pdf/2010.08350.pdf)*,
+IEEE Int. Conf. on 3D Vision (3DV), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/3DV20_Hidalgo.pdf), [YouTube](https://youtu.be/Ne1KyyXd3_A), [Code](https://github.com/uzh-rpg/rpg_e2depth), [Project Page](http://rpg.ifi.uzh.ch/e2depth).
 
 <a name="depth-mono-active"></a>
 ### Monocular Depth Estimation using Structured Light
@@ -1527,7 +1530,8 @@ IEEE Int. Conf. AI Circuits Syst. (AICAS), 2019.
 - <a name="Hersche20islped"></a>Hersche, M., Mello Rella, E., Di Mauro, A., Benini, L., Rahimi, A.,  
 *[Integrating Event-based Dynamic Vision Sensors with Sparse Hyperdimensional Computing](https://www.research-collection.ethz.ch/handle/20.500.11850/425534)*,  
 Int. Symp. Low Power Electronics and Design (ISLPED), 2020. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/425534/HD_DVS_camera_ready.pdf?sequence=1&isAllowed=y)
-
+- [Hidalgo-Carrió et al., 3DV 2020](#Hidalgo20threedv),
+*Learning Monocular Dense Depth from Events.*
 
 
 <a name="learning-methods-frameworks"></a>
