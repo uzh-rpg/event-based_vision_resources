@@ -54,6 +54,7 @@
     - [Utilities](#software-utilities)
 
 - [Neuromorphic Processors and Platforms](#processors-platforms)
+- [Courses](#teaching)
 - [Workshops](#workshops)
 - [Theses and Dissertations](#theses)
     - [Dissertations](#theses-phd)
@@ -1996,6 +1997,14 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2014. [PDF](http://compneuro.uwa
 - <a name="Graf14CSEDU"></a>Graf, R., King, R., Belbachir, A.,  
 *[Braille Vision Using Braille Display and Bio-inspired Camera](http://dx.doi.org/10.5220/0004949302140219)*,  
 Int. Conf. Computer Supported Education (CSEDU), SCITEPRESS Digital Library, (2014), pp. 214 - 219.
+
+
+<br><br>
+<a name="teaching"></a>
+# Courses (Educational content)
+- [Event-based Robot Vision at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision).
+    - [YouTube videos and Slides with links](https://www.youtube.com/channel/UCuuIEatPpBZQkQ_kSoeZtCQ/videos)
+- [Projects course: Bio-inspired Computer (Event-based) Vision at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/bio-inspired-computer-vision)
 
 
 <br><br>
