@@ -1590,6 +1590,7 @@ British Machine Vision Conf. (BMVC), 2019. [PDF](https://arxiv.org/pdf/1907.0746
 
 <a name="denoising"></a>
 ### Event Denoising
+- <a name="Delbruck2008ff"></a>T. Delbruck, *[Frame-free dynamic digital vision](https://drive.google.com/file/d/0BzvXOhBHjRheTS1rSVlZN0l2MDg/view),” Proceedings of Intl. Symp. on Secure-Life Electronics, Advanced Electronics for Quality Life and Society, 2008, vol. 1, pp. 21–26.
 - <a name="Khodamoradi19tetc"></a>Khodamoradi, A., Kastner, R.,  
 *[O(N)-Space Spatiotemporal Filter for Reducing Noise in Neuromorphic Vision Sensors](https://doi.org/10.1109/TETC.2017.2788865)*,  
 IEEE Trans. Emerging Topics in Computing, 2018.
