@@ -1329,7 +1329,7 @@ Advances in Neural Information Processing Systems 33 (NeurIPS), 2020. [1Mpx Dete
 *[On-Device Event Filtering with Binary Neural Networks for Pedestrian Detection Using Neuromorphic Vision Sensors](https://doi.org/10.1109/ICIP40778.2020.9191148)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2020.
 - <a name="deng2020amae"></a>Y. Deng, Y. Li and H. Chen.,  
-[AMAE: Adaptive Motion-Agnostic Encoder for Event-Based Object Classification](https://doi: 10.1109/LRA.2020.3002480),  
+*[AMAE: Adaptive Motion-Agnostic Encoder for Event-Based Object Classification](http://ras.papercept.net/images/temp/IROS/files/2483.pdf)*,  
 IEEE Robotics and Automation Letters (RA-L), vol. 5, no. 3, pp. 4596-4603, July 2020.
 
 
