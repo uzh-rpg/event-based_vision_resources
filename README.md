@@ -138,9 +138,6 @@ IEEE Trans. Circuits Syst. I, Fundam. Theory Appl., 46(9):1064-1071, 1999.
 - <a name="SerranoGotarredona06anips"></a> Serrano-Gotarredona, R., Oster, M., Lichtsteiner, P., Linares-Barranco, A., Paz-Vicente, R., Gomez-Rodriguez, F., Riis, H.K., Delbruck, T., Liu, S.-H., Zahnd, S., Whatley, A.M., Douglas, R., Hafliger, P., Jimenez-Moreno, G., Civit, A.,  Serrano-Gotarredona, T., Acosta-Jimenez, A., Linares-Barranco, B.,  
 *[AER building blocks for multi-layer multi-chip neuromorphic vision systems](http://papers.nips.cc/paper/2889-aer-building-blocks-for-multi-layer-multi-chip-neuromorphic-vision-systems.pdf)*,  
 Advances in neural information processing systems, 1217-1224, 2006.
-- <a name="Delbruck08issle"></a>Delbruck, T.,  
-*[Frame-free dynamic digital vision](http://www.zora.uzh.ch/17620/)*,  
-Int. Symp. Secure-Life Electronics, Advanced Electronics for Quality Life and Society, University of Tokyo, Tokyo, Japan, Mar. 6-7, 2008, pp. 21-26. Introduces the software architecture of jAER and shows examples of several event-based processing algorithms.
 - <a name="Liu10conb"></a>Liu, S.-C. and Delbruck, T.,  
 *[Neuromorphic sensory systems](https://doi.org/10.1016/j.conb.2010.03.007)*,  
 Current Opinion in Neurobiology, 20:3(288-295), 2010.
@@ -1569,8 +1566,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https
 <a name="signal_processing"></a>
 ## Signal Processing
 - <a name="Ieng14ieee"></a>Ieng, S.-H., Posch, C., Benosman, R.,  
-*[Asynchronous Neuromorphic Event-Driven Image Filtering](https://doi.org/10.1109/JPROC.2014.2347355)*,  
-Proc. IEEE, 102(10):1485-1499, 2014. [PDF](http://neuromorphic-vision.com/public/publications/20/publication.pdf)
+  *[Asynchronous Neuromorphic Event-Driven Image Filtering](https://doi.org/10.1109/JPROC.2014.2347355)*, 
+  Proc. IEEE, 102(10):1485-1499, 2014. [PDF](http://neuromorphic-vision.com/public/publications/20/publication.pdf)
 - <a name="Fillatre15eusipco"></a>Fillatre, L., Antonini, M.,   
 *[Uniformly minimum variance unbiased estimation for asynchronous event-based cameras](https://doi.org/10.1109/ICIP.2014.7025834)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2014.
@@ -1590,9 +1587,15 @@ IEEE Trans. Image Process., 2017, pp. 2192-2202. [PDF](https://www.neuromorphic-
 - <a name="Lee19arxiv"></a>Lee, S., Kim, H., Kim, H.J.,  
 *[Edge Detection for Event Cameras using Intra-pixel-area Events](https://bmvc2019.org/wp-content/uploads/papers/1140-paper.pdf)*,  
 British Machine Vision Conf. (BMVC), 2019. [PDF](https://arxiv.org/pdf/1907.07469)
+- <a name="liu19ieeesigproc"></a> S. Liu, B. Rueckauer, E. Ceolini, A. Huber, and T. Delbruck,  
+*[Event-Driven Sensing for Efficient Perception: Vision and audition algorithms](http://dx.doi.org/10.1109/MSP.2019.2928127)*,  
+IEEE Signal Process. Mag., vol. 36, no. 6, pp. 29–37, Nov. 2019.
 
 <a name="denoising"></a>
 ### Event Denoising
+- <a name="Delbruck2008ff"></a>T. Delbruck,  
+  *Frame-free dynamic digital vision*,  
+  Proceedings of Intl. Symp. on Secure-Life Electronics, Advanced Electronics for Quality Life and Society, 2008, vol. 1, pp. 21–26. [PDF](https://drive.google.com/file/d/0BzvXOhBHjRheTS1rSVlZN0l2MDg/view)
 - <a name="Khodamoradi19tetc"></a>Khodamoradi, A., Kastner, R.,  
 *[O(N)-Space Spatiotemporal Filter for Reducing Noise in Neuromorphic Vision Sensors](https://doi.org/10.1109/TETC.2017.2788865)*,  
 IEEE Trans. Emerging Topics in Computing, 2018.
@@ -1629,7 +1632,7 @@ Front. Neurosci. (2013), 7:223. [PDF](http://www.zora.uzh.ch/107801/1/fnins-07-0
     - <a name="Delbruck07iscas"></a>Delbruck, T. and Lichtsteiner, P.,  
 *[Fast sensory motor control based on event-based hybrid neuromorphic-procedural system](https://doi.org/10.1109/ISCAS.2007.378038)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2007.
-    - <a name="Cheng20trxiv"></a>Cheng, R., Nikolic, K.,  
+- <a name="Cheng20trxiv"></a>Cheng, R., Nikolic, K.,  
 *[System integration of neuromorphic visual (DVS), processing (SpiNNaker) and servomotor modules into an autonomous robot controlled by a Spiking Neural Network](https://www.techrxiv.org/articles/System_integration_of_neuromorphic_visual_DVS_processing_SpiNNaker_and_servomotor_modules_into_an_autonomous_robot_controlled_by_a_Spiking_Neural_Network/11854254)*,  
 TechRxiv, 2020. [YouTube](https://www.youtube.com/watch?v=135fH21QXtg)
 - <a name="Conradt09iscas"></a>Conradt, J., Cook, M., Berner, R., Lichtsteiner, P., Douglas, R. J., Delbruck, T.,  
