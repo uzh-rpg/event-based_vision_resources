@@ -956,8 +956,8 @@ IEEE Int. Conf. Automation Science and Engineering (CASE), 2019.
 *[Stereo Event Lifetime and Disparity Estimation for Dynamic Vision Sensors](https://arxiv.org/pdf/1907.07518)*,  
 European Conf. Mobile Robots (ECMR), 2019. [PDF arXiv](https://arxiv.org/pdf/1907.07518).
 - <a name="Tulyakov19iccv"></a>Tulyakov, S., Fleuret, F., Kiefel, M., Gehler, P., Hirsch., M.,  
-*[Learning an event sequence embedding for dense event-based deep stereo](https://www.idiap.ch/~fleuret/papers/tulyakov-et-al-iccv2019.pdf)*,  
-IEEE Int. Conf. Computer Vision (ICCV), 2019.
+*[Learning an event sequence embedding for dense event-based deep stereo](https://openaccess.thecvf.com/content_ICCV_2019/html/Tulyakov_Learning_an_Event_Sequence_Embedding_for_Dense_Event-Based_Deep_Stereo_ICCV_2019_paper.html)*,  
+IEEE Int. Conf. Computer Vision (ICCV), 2019. [PDF](https://fleuret.org/papers/tulyakov-et-al-iccv2019.pdf), [Video](https://youtu.be/my3jocjpD0U?t=1447)
 - <a name="Steffen19icar"></a>Steffen, L., Ulbrich, S., Roennau, A., Dillmann, R.,  
 *[Multi-View 3D Reconstruction With Self-Organizing Maps on Event-Based Data](https://doi.org/10.1109/ICAR46387.2019.8981569)*,  
 IEEE Int. Conf. Advanced Robotics (ICAR), 2019.
