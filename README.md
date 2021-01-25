@@ -1,7 +1,7 @@
 # Event-based Vision Resources
 
-<strong><span style="color:red"><a href="https://tub-rip.github.io/eventvision2021/">CVPR 2021 Workshop on Event-based Vision. 
-    Submission deadline: March 27</a></span></strong>
+## <span style="color:red"><a href="https://tub-rip.github.io/eventvision2021/">CVPR 2021 Workshop on Event-based Vision. 
+    Submission deadline: March 27</a></span>
 
 ## Table of Contents:
 - [Survey paper](#survey_paper)
