@@ -1,5 +1,8 @@
 # Event-based Vision Resources
 
+<strong><span style="color:red"><a href="https://tub-rip.github.io/eventvision2021/">CVPR 2021 Workshop on Event-based Vision. 
+    Submission deadline: March 27</a></span></strong>
+
 ## Table of Contents:
 - [Survey paper](#survey_paper)
 - [Devices and Manufacturers](#devices)
@@ -2034,6 +2037,7 @@ Int. Conf. Computer Supported Education (CSEDU), SCITEPRESS Digital Library, (20
 - [IEEE Embedded Vision Workshop Series](https://embeddedvisionworkshop.wordpress.com), with focus on Biologically-inspired vision and embedded systems.
 - [Neuro-Inspired Computational Elements (NICE) Workshop Series](https://niceworkshop.org/nice-2019/)
     - [Videos](https://www.youtube.com/channel/UCKTLpjY9e8cMK12d2-Z-usA)
+- [CVPR 2021 Third International Workshop on Event-based Vision](http://rpg.ifi.uzh.ch/CVPR21_event_vision_workshop.html) - Virtual.
 
 
 <br><br>
