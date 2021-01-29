@@ -375,6 +375,15 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [ZDNet news](ht
 IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](https://zenodo.org/record/3816654#.XxHQ9hFS9hE).
 - [Boettiger, J. P., MSc 2020](#Boettiger20MSc),  
 *A Comparative Evaluation of the Detection and Tracking Capability Between Novel Event-Based and Conventional Frame-Based Sensors*.
+- <a name="Sarmadi20arxiv"></a>Sarmadi, H., Muñoz-Salinas, R., Olivares-Mendez, M. A., Medina-Carnicer, R.,  
+*[Detection of Binary Square Fiducial Markers Using an Event Camera](https://arxiv.org/pdf/2012.06516)*,  
+arXiv, 2020.
+- <a name="Yasin20sensors"></a>Yasin, J. N., Mohamed, S. A. S., Haghbayan, M.-H., Heikkonen, J., Tenhunen, H., Yasin, M. M., Plosila, J.,  
+*[Night vision obstacle detection and avoidance based on Bio-Inspired Vision Sensors](https://doi.org/10.1109/SENSORS47125.2020.9278914)*,  
+IEEE Sensors 2020. [PDF](https://arxiv.org/pdf/2010.15509).
+- <a name="Liu21arxiv"></a>Liu, Z., Fu, Y.,  
+*[e-ACJ: Accurate Junction Extraction For Event Cameras](https://arxiv.org/pdf/2101.11251)*,  
+arXiv, 2021.
 
 
 <a name="corner-detection"></a>
@@ -409,6 +418,12 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019. [PDF](https://a
 - <a name="Alzugaray20bmvc"></a>Alzugaray, I., Chli, M.,  
 *[HASTE: multi-Hypothesis Asynchronous Speeded-up Tracking of Events](https://www.bmvc2020-conference.com/conference/papers/paper_0744.html)*,  
 British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference.com/assets/papers/0744.pdf), [Suppl. Mat.](https://www.bmvc2020-conference.com/assets/supp/0744_supp.zip)
+- <a name="Mohamed20icpr"></a>Mohamed, S. A. S., Yasin, J. N., Haghbayan, M.-H., Miele, A., Heikkonen, J., Tenhunen, H., Plosila, J.,  
+*[Dynamic Resource-aware Corner Detection for Bio-inspired Vision Sensors](https://arxiv.org/pdf/2010.15507)*,  
+Int. Conf. Pattern Recognition (ICPR), 2020.
+- <a name="Mohamed20isvc"></a>Mohamed, S. A. S., Yasin, J. N., Haghbayan, M.-H., Miele, A., Heikkonen, J., Tenhunen, H., Plosila, J.,  
+*[Asynchronous Corner Tracking Algorithm based on Lifetime of Events for DAVIS Cameras](https://arxiv.org/pdf/2010.15510)*,  
+Int. Symposium on Visual Computing (ISVC), 2020.
 
 
 <a name="particle-detection"></a>
@@ -431,6 +446,9 @@ European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/
 - <a name="Angelopoulos20arxiv"></a>Angelopoulos, A.N., Martel, J.N.P., Kohli, A.P.S., Conradt, J., Wetzstein, G.,  
 *[Event Based, Near Eye Gaze Tracking Beyond 10,000Hz](https://arxiv.org/pdf/2004.03577)*,  
 arXiv, 2020. [YouTube](https://youtu.be/-7EneYIfinM), [Dataset](https://github.com/aangelopoulos/event_based_gaze_tracking)
+- <a name="Ryan20arxiv"></a>Ryan, C., Sullivan, B. O., Elrasad, A., Lemley, J., Kielty., P., Posch, C., Perot, E.,  
+*[Real-Time Face & Eye Tracking and Blink Detection using Event Cameras](https://arxiv.org/pdf/2010.08278)*,  
+arXiv, 2020.
 
 
 <a name="optical-flow-estimation"></a>
@@ -673,6 +691,12 @@ arXiv:2009.08283, 2020. [Suppl. Mat.](http://mavlab.tudelft.nl/ssl_e2v/)
 - <a name="Mostafavi21ijcv"></a>Mostafavi, M., Wang, L., Yoon, K.J.,  
 *[Learning to Reconstruct HDR Images from Events, with Applications to Depth and Flow Prediction](https://doi.org/10.1007/s11263-020-01410-2)*,  
 Int. J. Computer Vision (IJCV), 2021.
+- <a name="Wang20arxiv"></a>Wang, Z., Ng, Y., Scheerlinck, C., Mahony., R.,  
+*[An Asynchronous Kalman Filter for Hybrid Event Cameras](https://arxiv.org/abs/2012.05590)*,  
+arXiv, 2020.
+- <a name="Wang20arxivb"></a>Wang, Z., Ng, Y., van Goor, P., Mahony., R.,  
+*[Event Camera Calibration of Per-pixel Biased Contrast Threshold](https://arxiv.org/pdf/2012.09378)*,  
+arXiv, 2020.
 
 
 <a name="video-synthesis"></a>
@@ -788,6 +812,10 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
 - <a name="Hidalgo20threedv"></a>Hidalgo-Carrió J., Gehrig D., Scaramuzza, D.,
 *[Learning Monocular Dense Depth from Events](https://arxiv.org/pdf/2010.08350.pdf)*,
 IEEE Int. Conf. on 3D Vision (3DV), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/3DV20_Hidalgo.pdf), [YouTube](https://youtu.be/Ne1KyyXd3_A), [Code](https://github.com/uzh-rpg/rpg_e2depth), [Project Page](http://rpg.ifi.uzh.ch/e2depth).
+- <a name="Baudron20arxiv"></a>Baudron, A., Wang, Z. W., Cossairt, O., Katsaggelos, A. K.,  
+*[E3D: Event-Based 3D Shape Reconstruction](https://arxiv.org/pdf/2012.05214)*,  
+arXiv, 2020. [Code](https://github.com/alexisbdr/e3d).
+
 
 <a name="depth-mono-active"></a>
 ### Monocular Depth Estimation using Structured Light
@@ -1067,9 +1095,15 @@ European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](http://www.ecva.net/p
 - <a name="Peng20eccv"></a>Peng, X., Wang, Y., Gao, L., Kneip, L.,  
 *[Globally-Optimal Event Camera Motion Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052-supp.pdf), [YouTube](https://youtu.be/Px1puptSX9Q)
+    - <a name="Peng21tpami"></a>Peng, X., Gao, L., Wang, Y., Kneip, L.,  
+*[Globally-Optimal Contrast Maximisation for Event Cameras](https://doi.org/10.1109/TPAMI.2021.3053243)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2021.
 - <a name="Chamorro20bmvc"></a>Chamorro, W., Andrade-Cetto, J., Solà, J.,  
-*[High-speed event-based camera tracking](https://www.bmvc2020-conference.com/conference/papers/paper_0366.html)*,  
-British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference.com/assets/papers/0366.pdf), [Suppl. Mat.](https://www.bmvc2020-conference.com/assets/supp/0366_supp.zip)
+*[High-Speed Event Camera Tracking](https://www.bmvc2020-conference.com/conference/papers/paper_0366.html)*,  
+British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference.com/assets/papers/0366.pdf), [Suppl. Mat.](https://www.bmvc2020-conference.com/assets/supp/0366_supp.zip), [PDF](https://arxiv.org/pdf/2010.02771)
+- <a name="Kong20arxiv"></a>Kong, D., Fang, Z., Li, H., Hou, K., Coleman, S., Kerr, D.,  
+*[Event-VPR: End-to-End Weakly Supervised Network Architecture for Event-based Visual Place Recognition](https://arxiv.org/pdf/2011.03290)*,  
+arXiv, 2020.
 
 
 <a name="visual-servoing"></a>
@@ -1218,6 +1252,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](http://op
 arXiv, 2020.
 - [Kepple et al., ECCV 2020](#Kepple20eccv),  
 *Jointly learning visual motion and confidence from local patches in event cameras*.
+- <a name="Zhou20arxivb"></a>Zhou, Y., Gallego, G., Lu, X., Liu, S., Shen, S.,  
+*[Event-based Motion Segmentation with Spatio-Temporal Graph Cuts](https://arxiv.org/pdf/2012.08730)*,  
+arXiv, 2020.
 
 
 <a name="pattern-recognition"></a>
@@ -1409,6 +1446,12 @@ IEEE Int. Conf. Automatic Face and Gesture Recognition (FG), 2020. [Dataset](htt
 - <a name="Chen20iscas"></a>Chen, J., Meng, J., Wang, X., Yuan, J.,  
 *[Dynamic Graph CNN for Event-Camera Based Gesture Recognition](https://doi.org/10.1109/ISCAS45731.2020.9181247)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2020.
+- <a name="Huang20arXiv"></a>Huang, C.,  
+*[Event-based Action Recognition Using Timestamp Image Encoding Network](https://arxiv.org/pdf/2009.13049)*,  
+arXiv, 2020.
+- <a name="Innocenti20icpr"></a>Innocenti, S. U., Becattini, F., Pernici, F., Del Bimbo, A.,  
+*[Temporal Binary Representation for Event-Based Action Recognition](https://arxiv.org/pdf/2010.08946)*,  
+Int. Conf. Pattern Recognition (ICPR), 2020.
 
 
 <a name="learning-representation-features"></a>
@@ -1752,6 +1795,12 @@ Sensors 2020, 20, 16.
 Robotics: Science and Systems (RSS), 2020. [PDF](http://www.roboticsproceedings.org/rss16/p020.pdf), [YouTube](https://youtu.be/zPlrqtjEcUY), [Project Page](https://clear-nus.github.io/visuotactile/)
 
 
+## 3D hand pose estimation
+- <a name="Naeini20sensors"></a>Rudnev, V., Golyanik, V., Wang, J., Seidel, H.-P., Mueller, F., Elgharib, M., Theobalt, C.,  
+*[EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream](https://arxiv.org/pdf/2012.06475)*,  
+arXiv, 2020. [Project page](https://gvv.mpi-inf.mpg.de/projects/EventHands/)
+
+
 <br><br>
 <a name="datasets"></a>
 # Datasets and Simulators (sorted by topic)
@@ -1845,6 +1894,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA) Workshop: Dataset Generation and 
 - <a name="Hu20itsc"></a>Hu, Y., Binas, J., Neil, D., Liu, S.-C., Delbruck, T.,  
 *[DDD20 End-to-End Event Camera Driving Dataset: Fusing Frames and Events with Deep Learning for Improved Steering Prediction](https://arxiv.org/abs/2005.08605)*,  
 IEEE Intelligent Transportation Systems Conf. (ITSC), 2020. [Dataset](https://sites.google.com/view/davis-driving-dataset-2020/home), [More datasets](http://sensors.ini.uzh.ch/databases.html)
+- <a name="RodriguezGomez21ral"></a>Rodríguez-Gómez, J. P., Tapia, R., Paneque, J. L., Grau, P., Gómez Eguíluz, A., Martínez-de Dios, J. R., Ollero A.,  
+*[The GRIFFIN Perception Dataset: Bridging the Gap Between Flapping-Wing Flight and Robotic Perception](https://arxiv.org/pdf/2101.10371)*,  
+IEEE Robotics and Automation Letters (RA-L), 2021.
 
 
 ### Segmentation
