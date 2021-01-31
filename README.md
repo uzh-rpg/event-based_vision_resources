@@ -742,6 +742,9 @@ IEEE Access, vol. 8, pp. 148075-148083, 2020.
 - <a name="Jiang20icip"></a>Jiang, M., Liu, Z., Wang, B., Yu, L., Yang, W.,  
 *[Robust Intensity Image Reconstruciton Based On Event Cameras](https://doi.org/10.1109/ICIP40778.2020.9190830)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2020.
+- <a name="Zhang21mmm"></a>Zhang, L., Zhang, H., Zhu, C., Guo, S., Chen, J., Wang, L.,  
+*[Fine-Grained Video Deblurring with Event Camera](https://doi.org/10.1007/978-3-030-67832-6_29)*,  
+MultiMedia Modeling (MMM) 2021. LNCS, vol 12572.
 
 
 <a name="super-resolution"></a>
