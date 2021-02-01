@@ -206,6 +206,9 @@ Wiley Interdiscip. Rev. Data Min. Knowl. Discov. 9(4), 2019.
 - <a name="Chen20msp"></a>Chen, G., Cao, H., Conradt, J., Tang, H., Rohrbein, F., Knoll, A.,  
 [Event-Based Neuromorphic Vision for Autonomous Driving: A Paradigm Shift for Bio-Inspired Visual Sensing and Perception](https://doi.org/10.1109/MSP.2020.2985815),  
 IEEE Signal Processing Magazine, 37(4):34-49, 2020.
+- <a name="Chen20tits"></a>Chen, G., Wang, F., Li, W., Hong, L., Conradt, J., Chen, J., Zhang, Z., Lu, Y., Knoll, A.,  
+*[NeuroIV: Neuromorphic Vision Meets Intelligent Vehicle Towards Safe Driving With a New Database and Baseline Evaluations](https://doi.org/10.1109/TITS.2020.3022921)*,  
+IEEE Trans. Intelligent Transportation Systems (TITS), 2020.
 
 
 <a name="algorithms"></a>
@@ -812,8 +815,8 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
 - [Zhu et al., CVPR 2019](#Zhu19cvpr),  
 *Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion.*
-- <a name="Hidalgo20threedv"></a>Hidalgo-Carrió J., Gehrig D., Scaramuzza, D.,
-*[Learning Monocular Dense Depth from Events](https://arxiv.org/pdf/2010.08350.pdf)*,
+- <a name="Hidalgo20threedv"></a>Hidalgo-Carrió J., Gehrig D., Scaramuzza, D.,  
+*[Learning Monocular Dense Depth from Events](https://arxiv.org/pdf/2010.08350.pdf)*,  
 IEEE Int. Conf. on 3D Vision (3DV), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/3DV20_Hidalgo.pdf), [YouTube](https://youtu.be/Ne1KyyXd3_A), [Code](https://github.com/uzh-rpg/rpg_e2depth), [Project Page](http://rpg.ifi.uzh.ch/e2depth).
 - <a name="Baudron20arxiv"></a>Baudron, A., Wang, Z. W., Cossairt, O., Katsaggelos, A. K.,  
 *[E3D: Event-Based 3D Shape Reconstruction](https://arxiv.org/pdf/2012.05214)*,  
@@ -1011,6 +1014,7 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2018.
 *[Live Demonstration: An Active System for Depth Reconstruction using Event-Based Sensors](https://doi.org/10.1109/ISCAS.2018.8351861)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2018.
 
+
 <a name="depth-stereo-pano"></a>
 ### Stereoscopic Panoramic Imaging
 - <a name="TUCO14ait"></a>[smart eye TUCO-3D camera](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_Panoramic-Imaging-Sensor_en.pdf),  
@@ -1091,7 +1095,7 @@ IEEE Trans. Comput. Imag. (TCI), 6:604-614, 2020.
 IEEE Robotics and Automation Letters (RA-L), 5(4):6924-6931, 2020. [PDF including Suppl. Mat.](https://arxiv.org/abs/2006.02826), [Code](https://github.com/Tobias-Fischer/ensemble-event-vpr)
 - <a name="Kreiser20fnins"></a>Kreiser, R., Renner, A., Leite, V.R.C., Serhan, B., Bartolozzi, C., Glover, A., Sandamirskaya, Y.,  
 [An On-chip Spiking Neural Network for Estimation of the Head Pose of the iCub Robot](https://doi.org/10.3389/fnins.2020.00551),  
-Front. Neurosci. 14:551.
+Front. Neurosci. (2020), 14:551.
 - <a name="Nunes20eccv"></a>Nunes, U.M., Demiris, Y.,  
 *[Entropy Minimisation Framework for Event-based Vision Model Estimation](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154-supp.pdf), [YouTube](https://youtu.be/3pyD9oCESa0), [Code](https://github.com/ImperialCollegeLondon/EventEMin)
@@ -1104,6 +1108,9 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2021.
 - <a name="Chamorro20bmvc"></a>Chamorro, W., Andrade-Cetto, J., Solà, J.,  
 *[High-Speed Event Camera Tracking](https://www.bmvc2020-conference.com/conference/papers/paper_0366.html)*,  
 British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference.com/assets/papers/0366.pdf), [Suppl. Mat.](https://www.bmvc2020-conference.com/assets/supp/0366_supp.zip), [PDF](https://arxiv.org/pdf/2010.02771)
+- <a name="Chen20jsen"></a>Chen, G., Chen, W., Yang, Q., Xu, Z., Yang, L., Conradt, J., Knoll, A.,  
+*[A Novel Visible Light Positioning System With Event-Based Neuromorphic Vision Sensor](https://doi.org/10.1109/JSEN.2020.2990752)*,  
+IEEE Sensors Journal, 20(17):10211-10219, 2020.
 - <a name="Kong20arxiv"></a>Kong, D., Fang, Z., Li, H., Hou, K., Coleman, S., Kerr, D.,  
 *[Event-VPR: End-to-End Weakly Supervised Network Architecture for Event-based Visual Place Recognition](https://arxiv.org/pdf/2011.03290)*,  
 arXiv, 2020.
@@ -1203,8 +1210,8 @@ IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](htt
 - [Friedel, Z. P., MSc Thesis 2020](#Friedel20MSc),  
 *Event-Based Visual-Inertial Odometry Using Smart Features*.
 - <a name="LeGentil20arxiv"></a>Le Gentil, C., Tschopp, F., Alzugaray, I., Vidal-Calleja, T., Siegwart, R., Nieto, J.,  
-*[IDOL: A Framework for IMU-DVS Odometry using Lines](https://arxiv.org/pdf/2008.05749)*,  
-arxiv 2020.
+*[IDOL: A Framework for IMU-DVS Odometry using Lines](https://ras.papercept.net/proceedings/IROS20/1135.pdf)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020. [PDF](https://arxiv.org/pdf/2008.05749)
 
 
 <a name="segmentation"></a>
@@ -1341,6 +1348,9 @@ Int. Joint Conf. Computer Vision, Imaging and Computer Graphics Theory and Appli
 - <a name="Xiao19tnnls"></a>Xiao, R., Tang, H., Ma, Y., Yan, R., Orchard, G.,  
 *[An Event-Driven Categorization Model for AER Image Sensors Using Multispike Encoding and Learning](https://doi.org/10.1109/TNNLS.2019.2945630)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2019.
+- <a name="Cheng19fnbot"></a>Chen, G., Cao, H., Ye, C., Zhang, Z., Liu, X., Mo, X., Qu, Z., Conradt, J., Röhrbein, F., Knoll, A.,  
+*[Multi-Cue Event Information Fusion for Pedestrian Detection With Neuromorphic Vision Sensors](https://doi.org/10.3389/fnbot.2019.00010)*,  
+Front. Neurorobot. 13:10, 2019.
 - [Li and Shi, Front. Neurorobot. 2019](#Li19fnbot),  
 *Robust Event-Based Object Tracking Combining Correlation Filter and CNN Representation*.
 - <a name="CamunasMesa19icecs"></a>Camuñas-Mesa, L.A., Linares-Barranco, B., Serrano-Gotarredona, T.,  
@@ -1369,9 +1379,9 @@ Advances in Neural Information Processing Systems 33 (NeurIPS), 2020. [1Mpx Dete
 - <a name="Ojeda20icip"></a>Ojeda, F. C., Bisulco, A., Kepple, D., Isler, V., Lee, D. D.,  
 *[On-Device Event Filtering with Binary Neural Networks for Pedestrian Detection Using Neuromorphic Vision Sensors](https://doi.org/10.1109/ICIP40778.2020.9191148)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2020.
-- <a name="deng2020amae"></a>Y. Deng, Y. Li and H. Chen.,  
+- <a name="Deng20amae"></a>Y. Deng, Y. Li and H. Chen.,  
 *[AMAE: Adaptive Motion-Agnostic Encoder for Event-Based Object Classification](http://ras.papercept.net/images/temp/IROS/files/2483.pdf)*,  
-IEEE Robotics and Automation Letters (RA-L), vol. 5, no. 3, pp. 4596-4603, July 2020.
+IEEE Robotics and Automation Letters (RA-L), 5(3):4596-4603, July 2020.
 
 
 <a name="gesture-recognition"></a>
@@ -1455,6 +1465,15 @@ arXiv, 2020.
 - <a name="Innocenti20icpr"></a>Innocenti, S. U., Becattini, F., Pernici, F., Del Bimbo, A.,  
 *[Temporal Binary Representation for Event-Based Action Recognition](https://arxiv.org/pdf/2010.08946)*,  
 Int. Conf. Pattern Recognition (ICPR), 2020.
+- <a name="Harrigan20icassp"></a>Harrigan, S., Coleman, S., Kerr, D., Yogarajah, P., Fang, Z., Wu, C.,  
+*[Neural Coding Strategies for Event-Based Vision Data](https://doi.org/10.1109/ICASSP40776.2020.9054584)*,  
+IEEE Int. Conf. Acoust., Speech, Signal Proc. (ICASSP), 2020.
+- <a name="Chen20jsen"></a>Chen, G., Hong, L., Dong, J., Liu, P., Conradt, J., Knoll, A.,  
+*[EDDD: Event-based drowsiness driving detection through facial motion analysis with neuromorphic vision sensor](https://doi.org/10.1109/JSEN.2020.2973049)*,  
+IEEE Sensors Journal, 20(11):6170-6181, 2020.
+- <a name="Chen21tfis"></a>Chen, G., Liu, P., Liu, Z., Tang, H., Hong, L., Dong, J., Conradt, J., Knoll, A.,  
+*[NeuroAED: Towards Efficient Abnormal Event Detection in Visual Surveillance With Neuromorphic Vision Sensor](https://doi.org/10.1109/TIFS.2020.3023791)*,  
+IEEE Trans. Information Forensics and Security (TIFS), 16:923-936, 2021.
 
 
 <a name="learning-representation-features"></a>
@@ -1660,7 +1679,10 @@ Appl. Sci. 10(6), 2024, 2020.
 - <a name="Wut20mm"></a>Wu, J., Ma, C., Li, L., Dong, W., Shi, G.,  
 *[Probabilistic Undirected Graph Based Denoising Method for Dynamic Vision Sensor](https://doi.org/10.1109/TMM.2020.2993957)*,  
  IEEE Trans. Multimedia, 2020.
- - <a name="Guo20arxiv"></a>Guo, S., Kang, Z., Wang, L., Zhang, L., Chen, X., Li, S., Xu, W.,  
+- <a name="Wu20icassp"></a>Wu, J., Ma, C., Yu, X., Shi, G.,  
+*[Denoising of Event-Based Sensors with Spatial-Temporal Correlation](https://doi.org/10.1109/ICASSP40776.2020.9053002)*,  
+IEEE Int. Conf. Acoust., Speech, Signal Proc. (ICASSP), 2020.
+- <a name="Guo20arxiv"></a>Guo, S., Kang, Z., Wang, L., Zhang, L., Chen, X., Li, S., Xu, W.,  
 *[A Noise Filter for Dynamic Vision Sensors based on Global Space and Time Information](https://arxiv.org/pdf/2004.04079)*,  
 arXiv, 2020.
 
@@ -1739,12 +1761,18 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](http://rpg.ifi.uzh.c
 - <a name="Falanga20scirob"></a>Falanga, D., Kleber, K., Scaramuzza, D.,  
 *[Dynamic obstacle avoidance for quadrotors with event cameras](https://robotics.sciencemag.org/content/5/40/eaaz9712.full.pdf)*,  
 Science Robotics, 5(40):eaaz9712, 2020. [YouTube](https://youtu.be/BzykucxFddI)
-- <a name="Hagenaars20arxiv"></a>Hagenaars, J. J., Paredes-Vallés, F., Bohté, S. M., de Croon, G. C. H. E.,  
-*[Evolved Neuromorphic Control for High Speed Divergence-based Landings of MAVs](https://arxiv.org/pdf/2003.03118)*,  
-arXiv 2020.
-- <a name="Stagsted20rss">Stagsted, R. K., Vitale, A., Binz, J., Renner, A., Larsen, L. B., Sandamirskaya, Y.,  
+- <a name="Youssef20ral"></a>Youssef, I., Mutlu, M., Bayat, B., Crespi, A., Hauser, S., Conradt, J., Bernardino, A., Ijspeert, A. J., 
+*[A Neuro-Inspired Computational Model for a Visually Guided Robotic Lamprey Using Frame and Event Based Cameras](https://doi.org/10.1109/LRA.2020.2972839)*,  
+IEEE Robotics and Automation Letters (RA-L), 5(2):2395-2402, April 2020. [PDF](https://infoscience.epfl.ch/record/275495/files/youssef2020.pdf), [YouTube](https://youtu.be/-b6q9FNLWrg).
+- <a name="Stagsted20rss"></a>Stagsted, R. K., Vitale, A., Binz, J., Renner, A., Larsen, L. B., Sandamirskaya, Y.,  
 *[Towards neuromorphic control: A spiking neural network based PID controller for UAV](http://www.roboticsproceedings.org/rss16/p074.pdf)*,  
 Robotics: Science and Systems (RSS), 2020. [PDF](http://www.roboticsproceedings.org/rss16/p074.pdf), [YouTube](https://youtu.be/sdnEosW5NGQ), [Suppl. Video](https://youtu.be/lnGQqz7MM8w)
+- <a name="Hagenaars20ral"></a>Hagenaars, J. J., Paredes-Vallés, F., Bohté, S. M., de Croon, G. C. H. E.,  
+*[Evolved Neuromorphic Control for High Speed Divergence-based Landings of MAVs](https://doi.org/10.1109/LRA.2020.3012129)*,  
+IEEE Robotics and Automation Letters (RA-L), 5(4):6239-6246, Oct. 2020. [PDF](https://arxiv.org/pdf/2003.03118), [PDF](https://ras.papercept.net/proceedings/IROS20/2654.pdf).
+- <a name="Stagsted20iros"></a>Stagsted, R. K., Vitale, A., Renner A., Larsen, L. B., Christensen, A. L., Sandamirskaya, Y.,  
+*[Event-Based PID Controller Fully Realized in Neuromorphic Hardware: A One DoF Study](https://ras.papercept.net/proceedings/IROS20/1350.pdf)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
 
 
 <a name="space"></a>
@@ -1796,6 +1824,9 @@ Sensors 2020, 20, 16.
 - <a name="Taunyazov20rss"></a>Taunyazov, T., Sng, W., Lim, B., Hian, H., Kuan, J., Fatir, A., Tee, B., Soh, H.,  
 *[Event-Driven Visual-Tactile Sensing and Learning for Robots](https://roboticsconference.org/program/papers/20/)*,  
 Robotics: Science and Systems (RSS), 2020. [PDF](http://www.roboticsproceedings.org/rss16/p020.pdf), [YouTube](https://youtu.be/zPlrqtjEcUY), [Project Page](https://clear-nus.github.io/visuotactile/)
+- <a name="WardCherrier20iros"></a>Ward-Cherrier, B., Conradt, J., Catalano, M. G., Bianchi, M., Lepora, N.F.,  
+*[A Miniaturised Neuromorphic Tactile Sensor Integrated with an Anthropomorphic Robot Hand](https://ras.papercept.net/proceedings/IROS20/1490.pdf)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
 
 
 ## 3D hand pose estimation
