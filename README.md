@@ -2230,8 +2230,8 @@ Ph.D. Thesis, Northwestern University, 2020. [YouTube](https://youtu.be/VEJxdNok
 *[Motion Segmentation and Egomotion Estimation with Event-Based Cameras](https://doi.org/10.13016/e5vs-hwzw)*,  
 Ph.D. Thesis, University of Maryland, USA, 2020.
 - <a name="Scheerlinck21PhD"></a>Scheerlinck, C.,  
-*[How to See with an Event Camera](http://hdl.handle.net/1885/216784)*,  
-Ph.D. Thesis, Australian National University, Canberra, Australia, 2021.
+*[How to See with an Event Camera](https://doi.org/10.25911/5JJS-N433)*,  
+Ph.D. Thesis, Australian National University, Canberra, Australia, 2021. [PDF](https://openresearch-repository.anu.edu.au/bitstream/1885/216784/1/Scheerlinck_Thesis_2021.pdf)
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
