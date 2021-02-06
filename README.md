@@ -427,6 +427,9 @@ Int. Conf. Pattern Recognition (ICPR), 2020.
 - <a name="Mohamed20isvc"></a>Mohamed, S. A. S., Yasin, J. N., Haghbayan, M.-H., Miele, A., Heikkonen, J., Tenhunen, H., Plosila, J.,  
 *[Asynchronous Corner Tracking Algorithm based on Lifetime of Events for DAVIS Cameras](https://arxiv.org/pdf/2010.15510)*,  
 Int. Symposium on Visual Computing (ISVC), 2020.
+- <a name="Yilmaz21ji"></a>Yılmaz, Ö., Simon-Chane, C., Histace A.,     
+*[Evaluation of Event-Based Corner Detectors ](https://doi.org/10.3390/jimaging7020025)*,  
+J. Imaging, 2021.
 
 
 <a name="particle-detection"></a>
