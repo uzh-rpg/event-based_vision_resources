@@ -703,6 +703,9 @@ arXiv, 2020.
 - <a name="Wang20arxivb"></a>Wang, Z., Ng, Y., van Goor, P., Mahony., R.,  
 *[Event Camera Calibration of Per-pixel Biased Contrast Threshold](https://arxiv.org/pdf/2012.09378)*,  
 arXiv, 2020.
+- <a name="GantierCadena21tip"></a>Gantier Cadena, P. R., Qian, Y., Wang, C., Yang, M.,  
+*[SPADE-E2VID: Spatially-Adaptive Denormalization for Event-Based Video Reconstruction](https://doi.org/10.1109/TIP.2021.3052070)*,  
+IEEE Trans. Image Processing, 30:2488-2500, 2021. [Project page](https://github.com/RodrigoGantier/SPADE_E2VID)
 
 
 <a name="video-synthesis"></a>
@@ -1577,7 +1580,9 @@ IEEE Robotics and Automation Letters (RA-L), 5(3):4265-4272, 2020.
 - <a name="Kostadinov21icpr"></a>Kostadinov, D., Scaramuzza, D.,  
 *[Unsupervised Feature Learning for Event Data: Direct vs Inverse Problem Formulation](https://arxiv.org/pdf/2009.11044)*,  
 IAPR IEEE Int. Conf. Pattern Recognition (ICPR), Milan, 2021.
-
+- <a name="Wang21tpami"></a>Wang. Y., Zhang, X., Shen, Y., Du, B., Zhao, G., Lizhen, L. C. C., Wen, H.,  
+*[Event-Stream Representation for Human Gaits Identification Using Deep Neural Networks](https://doi.org/10.1109/TPAMI.2021.3054886)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2021.
 
 
 <a name="learning-regression"></a>
@@ -1805,6 +1810,9 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://ar
 - <a name="Afshar19arxiv"></a>Afshar, S., Nicholson, A. P., van Schaik, A., Cohen, G.,  
 *[Event-based Object Detection and Tracking for Space Situational Awareness](https://arxiv.org/pdf/1911.08730)*,  
 arXiv:1911.08730, 2019. [Dataset](https://www.westernsydney.edu.au/icns/reproducible_research/publication_support_materials/space_imaging)
+- <a name="Roffe21arxiv"></a>Roffe, S., Akolkar, H., George, A. D., Linares-barranco, B., Benosman, R.,  
+*[Neutron-Induced, Single-Event Effects on Neuromorphic Event-based Vision Sensor: A First Step Towards Space Applications](https://arxiv.org/abs/2102.00112)*,  
+arXiv, 2021.
 
 
 <a name="tactile_sensing"></a>
