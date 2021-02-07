@@ -1690,6 +1690,9 @@ Appl. Sci. 10(6), 2024, 2020.
 - <a name="Wu20icassp"></a>Wu, J., Ma, C., Yu, X., Shi, G.,  
 *[Denoising of Event-Based Sensors with Spatial-Temporal Correlation](https://doi.org/10.1109/ICASSP40776.2020.9053002)*,  
 IEEE Int. Conf. Acoust., Speech, Signal Proc. (ICASSP), 2020.
+    - <a name="Wu20tmm"></a>Wu, J., Ma, C., Li, L., Dong, W., Shi, G.,  
+*[Probabilistic Undirected Graph Based Denoising Method for Dynamic Vision Sensor](https://doi.org/10.1109/TMM.2020.2993957)*,  
+IEEE Trans. Multimedia (TMM), 2020.
 - <a name="Guo20arxiv"></a>Guo, S., Kang, Z., Wang, L., Zhang, L., Chen, X., Li, S., Xu, W.,  
 *[A Noise Filter for Dynamic Vision Sensors based on Global Space and Time Information](https://arxiv.org/pdf/2004.04079)*,  
 arXiv, 2020.
