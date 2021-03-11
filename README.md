@@ -706,6 +706,8 @@ arXiv, 2020.
 - <a name="GantierCadena21tip"></a>Gantier Cadena, P. R., Qian, Y., Wang, C., Yang, M.,  
 *[SPADE-E2VID: Spatially-Adaptive Denormalization for Event-Based Video Reconstruction](https://doi.org/10.1109/TIP.2021.3052070)*,  
 IEEE Trans. Image Processing, 30:2488-2500, 2021. [Project page](https://github.com/RodrigoGantier/SPADE_E2VID)
+- [Baldwin R.W., Ruixu L., Almatrafi M., Asari V., Hirakawa K.](#Baldwin21arxiv),  
+*Time-Ordered Recent Event (TORE) Volumes for Event Cameras.*
 
 
 <a name="video-synthesis"></a>
@@ -1388,6 +1390,8 @@ IEEE Int. Conf. Image Processing (ICIP), 2020.
 - <a name="Deng20amae"></a>Y. Deng, Y. Li and H. Chen.,  
 *[AMAE: Adaptive Motion-Agnostic Encoder for Event-Based Object Classification](http://ras.papercept.net/images/temp/IROS/files/2483.pdf)*,  
 IEEE Robotics and Automation Letters (RA-L), 5(3):4596-4603, July 2020.
+- [Baldwin R.W., Ruixu L., Almatrafi M., Asari V., Hirakawa K.](#Baldwin21arxiv),  
+*Time-Ordered Recent Event (TORE) Volumes for Event Cameras.*
 
 
 <a name="gesture-recognition"></a>
@@ -1583,6 +1587,8 @@ IAPR IEEE Int. Conf. Pattern Recognition (ICPR), Milan, 2021.
 - <a name="Wang21tpami"></a>Wang. Y., Zhang, X., Shen, Y., Du, B., Zhao, G., Lizhen, L. C. C., Wen, H.,  
 *[Event-Stream Representation for Human Gaits Identification Using Deep Neural Networks](https://doi.org/10.1109/TPAMI.2021.3054886)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2021.
+- [Baldwin R.W., Ruixu L., Almatrafi M., Asari V., Hirakawa K.](#Baldwin21arxiv),  
+*Time-Ordered Recent Event (TORE) Volumes for Event Cameras.*
 
 
 <a name="learning-regression"></a>
@@ -1699,8 +1705,6 @@ arXiv, 2020.
 - <a name="Baldwin21arxiv"></a>Baldwin R.W., Ruixu L., Almatrafi M., Asari V., Hirakawa K.,  
 *[Time-Ordered Recent Event (TORE) Volumes for Event Cameras](https://arxiv.org/abs/2103.06108)*,  
 arXiv, 2021. [PDF](https://arxiv.org/abs/2103.06108), [Code](https://github.com/bald6354/tore_volumes).
-- [Baldwin R.W., Ruixu L., Almatrafi M., Asari V., Hirakawa K.](#Baldwin21arxiv),  
-*Time-Ordered Recent Event (TORE) Volumes for Event Cameras.*
 
 
 <a name="compression"></a>
