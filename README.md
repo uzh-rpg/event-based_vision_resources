@@ -709,7 +709,8 @@ arXiv, 2020.
 - <a name="GantierCadena21tip"></a>Gantier Cadena, P. R., Qian, Y., Wang, C., Yang, M.,  
 *[SPADE-E2VID: Spatially-Adaptive Denormalization for Event-Based Video Reconstruction](https://doi.org/10.1109/TIP.2021.3052070)*,  
 IEEE Trans. Image Processing, 30:2488-2500, 2021. [Project page](https://github.com/RodrigoGantier/SPADE_E2VID)
-- [Baldwin et al., arXiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
+- [Baldwin et al., arXiv 2021](#Baldwin21arxiv).  
+*Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.
 
 
 <a name="video-synthesis"></a>
@@ -1297,7 +1298,8 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
 - <a name="Cohen16fnins"></a>Cohen, G., Orchard, G., Ieng, S.-H., Tapson, J., Benosman, R., van Schaik, A.,  
 *[Skimming Digits: Neuromorphic Classification of Spike-Encoded Images](https://doi.org/10.3389/fnins.2016.00184)*,  
 Front. Neurosci. (2016), 10:184. [PDF](https://www.neuromorphic-vision.com/public/publications/45/publication.pdf)
-- [Barua et al., WACV 2016](#Barua16wacv). Face recognition.
+- [Barua et al., WACV 2016](#Barua16wacv),  
+*Direct face detection and video reconstruction from event cameras*.
 - <a name="Moeys16ebccsp"></a>Moeys, D., Corradi F., Kerr, E., Vance, P., Das, G., Neil, D., Kerr, D., Delbruck, T.,  
 *[Steering a Predator Robot using a Mixed Frame/Event-Driven Convolutional Neural Network](https://doi.org/10.1109/EBCCSP.2016.7605233)*,  
 IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2016. [PDF](https://arxiv.org/pdf/1606.09433.pdf), [YouTube 1](https://youtu.be/fL3YCIPxuhM), [YouTube 2](https://youtu.be/lPF3Youpmqk), [YouTube 3](https://youtu.be/zmiosSxT_DU)
@@ -1392,7 +1394,8 @@ IEEE Int. Conf. Image Processing (ICIP), 2020.
 - <a name="Deng20amae"></a>Y. Deng, Y. Li and H. Chen.,  
 *[AMAE: Adaptive Motion-Agnostic Encoder for Event-Based Object Classification](http://ras.papercept.net/images/temp/IROS/files/2483.pdf)*,  
 IEEE Robotics and Automation Letters (RA-L), 5(3):4596-4603, July 2020.
-- [Baldwin et al., arXiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
+- [Baldwin et al., arXiv 2021](#Baldwin21arxiv).  
+*Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.
 
 
 <a name="gesture-recognition"></a>
@@ -1704,7 +1707,8 @@ IEEE Trans. Multimedia (TMM), 2020.
 - <a name="Guo20arxiv"></a>Guo, S., Kang, Z., Wang, L., Zhang, L., Chen, X., Li, S., Xu, W.,  
 *[A Noise Filter for Dynamic Vision Sensors based on Global Space and Time Information](https://arxiv.org/pdf/2004.04079)*,  
 arXiv, 2020.
-- [Baldwin et al., arXiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
+- [Baldwin et al., arXiv 2021](#Baldwin21arxiv).  
+*Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.
 
 <a name="compression"></a>
 ### Compression
@@ -1856,9 +1860,14 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
 
 <a name="human_pose_estimation"></a>
 ### Human Pose Estimation
-- [Calabrese et al., CVPRW 2019](#Calabrese19cvprw). DHP19: Dynamic Vision Sensor 3D Human Pose Dataset.
-- [Xu et al., CVPR 2020](#Xu20cvpr). EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera.
-- [Baldwin et al., arXiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
+- [Calabrese et al., CVPRW 2019](#Calabrese19cvprw),  
+*DHP19: Dynamic Vision Sensor 3D Human Pose Dataset*.
+- [Zhu et al., arXiv 2019](#Zhu19arxivGAN),  
+*EventGAN: Leveraging Large Scale Image Datasets for Event Cameras*.
+- [Xu et al., CVPR 2020](#Xu20cvpr),  
+*EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera*.
+- [Baldwin et al., arXiv 2021](#Baldwin21arxiv),  
+*Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.
 
 
 <a name="hand_pose_estimation"></a>
