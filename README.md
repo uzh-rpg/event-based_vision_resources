@@ -47,9 +47,9 @@
     - [Control](#control)
     - [Space Applications](#space)
     - [Tactile Sensing Applications](#tactile_sensing)
-    - [Pose Estimation](#pose_estimation)
-        - [3D Human Pose Estimation](#3d_human_pose_estimation)
-        - [3D Hand Pose Estimation](#3d_hand_pose_estimation)
+    - [Object Pose Estimation](#object_pose_estimation)
+        - [Human Pose Estimation](#human_pose_estimation)
+        - [Hand Pose Estimation](#hand_pose_estimation)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -1851,18 +1851,18 @@ Robotics: Science and Systems (RSS), 2020. [PDF](http://www.roboticsproceedings.
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
 
 
-<a name="pose_estimation"></a>
-## Pose Estimation
+<a name="object_pose_estimation"></a>
+## Object Pose Estimation
 
-<a name="3d_human_pose_estimation"></a>
-### 3D Humna Pose Estimation
+<a name="human_pose_estimation"></a>
+### Human Pose Estimation
 - [Calabrese et al., CVPRW 2019](#Calabrese19cvprw). DHP19: Dynamic Vision Sensor 3D Human Pose Dataset.
 - [Xu et al., CVPR 2020](#Xu20cvpr). EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera.
 - [Baldwin et al., arXiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
 
 
-<a name="3d_hand_pose_estimation"></a>
-### 3D Hand Pose Estimation
+<a name="hand_pose_estimation"></a>
+### Hand Pose Estimation
 - <a name="Naeini20sensors"></a>Rudnev, V., Golyanik, V., Wang, J., Seidel, H.-P., Mueller, F., Elgharib, M., Theobalt, C.,  
 *[EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream](https://arxiv.org/pdf/2012.06475)*,  
 arXiv, 2020. [Project page](https://gvv.mpi-inf.mpg.de/projects/EventHands/)
