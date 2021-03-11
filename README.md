@@ -706,7 +706,7 @@ arXiv, 2020.
 - <a name="GantierCadena21tip"></a>Gantier Cadena, P. R., Qian, Y., Wang, C., Yang, M.,  
 *[SPADE-E2VID: Spatially-Adaptive Denormalization for Event-Based Video Reconstruction](https://doi.org/10.1109/TIP.2021.3052070)*,  
 IEEE Trans. Image Processing, 30:2488-2500, 2021. [Project page](https://github.com/RodrigoGantier/SPADE_E2VID)
-- [Baldwin et al., Arxiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
+- [Baldwin et al., arXiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
 
 
 <a name="video-synthesis"></a>
@@ -1389,7 +1389,7 @@ IEEE Int. Conf. Image Processing (ICIP), 2020.
 - <a name="Deng20amae"></a>Y. Deng, Y. Li and H. Chen.,  
 *[AMAE: Adaptive Motion-Agnostic Encoder for Event-Based Object Classification](http://ras.papercept.net/images/temp/IROS/files/2483.pdf)*,  
 IEEE Robotics and Automation Letters (RA-L), 5(3):4596-4603, July 2020.
-- [Baldwin et al., Arxiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
+- [Baldwin et al., arXiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
 
 
 <a name="gesture-recognition"></a>
@@ -1701,7 +1701,7 @@ IEEE Trans. Multimedia (TMM), 2020.
 - <a name="Guo20arxiv"></a>Guo, S., Kang, Z., Wang, L., Zhang, L., Chen, X., Li, S., Xu, W.,  
 *[A Noise Filter for Dynamic Vision Sensors based on Global Space and Time Information](https://arxiv.org/pdf/2004.04079)*,  
 arXiv, 2020.
-- [Baldwin et al., Arxiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
+- [Baldwin et al., arXiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
 
 <a name="compression"></a>
 ### Compression
@@ -1847,8 +1847,24 @@ Robotics: Science and Systems (RSS), 2020. [PDF](http://www.roboticsproceedings.
 *[A Miniaturised Neuromorphic Tactile Sensor Integrated with an Anthropomorphic Robot Hand](https://ras.papercept.net/proceedings/IROS20/1490.pdf)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
 
+<a name="pose_estimation"></a>
+## Pose Estimation
 
-## 3D hand pose estimation
+<a name="3d_hand_pose_estimation"></a>
+### 3D Humna Pose Estimation
+- [Calabrese et al., CVPRW 2019](#Calabrese19cvprw). DHP19: Dynamic Vision Sensor 3D Human Pose Dataset.
+- [Baldwin et al., arXiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
+- [Baldwin et al., arXiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
+
+
+
+
+
+
+
+
+<a name="3d_hand_pose_estimation"></a>
+### 3D Hand Pose Estimation
 - <a name="Naeini20sensors"></a>Rudnev, V., Golyanik, V., Wang, J., Seidel, H.-P., Mueller, F., Elgharib, M., Theobalt, C.,  
 *[EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream](https://arxiv.org/pdf/2012.06475)*,  
 arXiv, 2020. [Project page](https://gvv.mpi-inf.mpg.de/projects/EventHands/)
