@@ -1696,6 +1696,11 @@ IEEE Trans. Multimedia (TMM), 2020.
 - <a name="Guo20arxiv"></a>Guo, S., Kang, Z., Wang, L., Zhang, L., Chen, X., Li, S., Xu, W.,  
 *[A Noise Filter for Dynamic Vision Sensors based on Global Space and Time Information](https://arxiv.org/pdf/2004.04079)*,  
 arXiv, 2020.
+- <a name="Baldwin21arxiv"></a>Baldwin R.W., Ruixu L., Almatrafi M., Asari V., Hirakawa K.,  
+*[Time-Ordered Recent Event (TORE) Volumes for Event Cameras](https://arxiv.org/abs/2103.06108)*,  
+arXiv, 2021. [PDF](https://arxiv.org/abs/2103.06108), [Code](https://github.com/bald6354/tore_volumes).
+- [Baldwin R.W., Ruixu L., Almatrafi M., Asari V., Hirakawa K.](#Baldwin21arxiv),  
+*Time-Ordered Recent Event (TORE) Volumes for Event Cameras.*
 
 
 <a name="compression"></a>
