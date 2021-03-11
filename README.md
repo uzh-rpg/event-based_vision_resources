@@ -47,6 +47,9 @@
     - [Control](#control)
     - [Space Applications](#space)
     - [Tactile Sensing Applications](#tactile_sensing)
+    - [Pose Estimation](#pose_estimation)
+        - [3D Human Pose Estimation](#3d_human_pose_estimation)
+        - [3D Hand Pose Estimation](#3d_hand_pose_estimation)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -1847,20 +1850,15 @@ Robotics: Science and Systems (RSS), 2020. [PDF](http://www.roboticsproceedings.
 *[A Miniaturised Neuromorphic Tactile Sensor Integrated with an Anthropomorphic Robot Hand](https://ras.papercept.net/proceedings/IROS20/1490.pdf)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
 
+
 <a name="pose_estimation"></a>
 ## Pose Estimation
 
-<a name="3d_hand_pose_estimation"></a>
+<a name="3d_human_pose_estimation"></a>
 ### 3D Humna Pose Estimation
 - [Calabrese et al., CVPRW 2019](#Calabrese19cvprw). DHP19: Dynamic Vision Sensor 3D Human Pose Dataset.
+- [Xu et al., CVPR 2020](#Xu20cvpr). EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera.
 - [Baldwin et al., arXiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
-- [Baldwin et al., arXiv 2021](#Baldwin21arxiv). Time-Ordered Recent Event (TORE) Volumes for Event Cameras.
-
-
-
-
-
-
 
 
 <a name="3d_hand_pose_estimation"></a>
