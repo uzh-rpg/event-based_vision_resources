@@ -2303,6 +2303,9 @@ Bacherlor Thesis, TU Munich, 2016.
 - <a name="Galanis16BS"></a>Galanis, M., (Everding, L., Conradt, J.,)    
 *[DVS event stream registration](https://mediatum.ub.tum.de/doc/1367575/1367575.pdf)*,  
 Bacherlor Thesis, TU Munich, 2016.
+- <a name="ParedesValles18MSc"></a>Paredes-Valles, F.,  
+*[Neuromorphic Computing of Event-Based Data for High-Speed Vision-Based Navigation](http://resolver.tudelft.nl/uuid:aa13959b-79b9-4dfc-b5e0-7c501d9d3e2f)*,  
+MSc. Thesis, TU Delft, The Netherlands, 2018.
 - <a name="Nelson19MSc"></a>Nelson, K. J.,  
 *[Event-Based Visual-Inertial Odometry on a Fixed-Wing Unmanned Aerial Vehicle](https://scholar.afit.edu/etd/2276/)*,  
 MSc. Thesis, Air Force Institute of Technology, USA, 2019. [PDF](https://apps.dtic.mil/docs/citations/AD1076268), [PDF](https://apps.dtic.mil/dtic/tr/fulltext/u2/1076268.pdf)
