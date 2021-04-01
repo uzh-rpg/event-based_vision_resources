@@ -1,6 +1,6 @@
 # Event-based Vision Resources
 
-## <a href="https://tub-rip.github.io/eventvision2021/">CVPR 2021 Workshop on Event-based Vision. Submit by March 27</a>
+## <a href="https://tub-rip.github.io/eventvision2021/">CVPR 2021 Workshop on Event-based Vision: June 19, 2021. Virtual.</a>
 
 ## Table of Contents:
 - [Survey paper](#survey_paper)
