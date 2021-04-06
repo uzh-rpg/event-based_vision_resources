@@ -453,8 +453,8 @@ European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/
 
 ### Eye Tracking
 - <a name="Angelopoulos20arxiv"></a>Angelopoulos, A.N., Martel, J.N.P., Kohli, A.P.S., Conradt, J., Wetzstein, G.,  
-*[Event Based, Near Eye Gaze Tracking Beyond 10,000Hz](https://arxiv.org/pdf/2004.03577)*,  
-arXiv, 2020. [YouTube](https://youtu.be/-7EneYIfinM), [Dataset](https://github.com/aangelopoulos/event_based_gaze_tracking)
+*[Event Based, Near-Eye Gaze Tracking Beyond 10,000Hz](https://arxiv.org/pdf/2004.03577)*,  
+IEEE Trans. Vis. Comput. Graphics (Proc. VR), 2021. [YouTube](https://youtu.be/-7EneYIfinM), [Dataset](https://github.com/aangelopoulos/event_based_gaze_tracking), [Project page](http://www.computationalimaging.org/publications/event-based-eye-tracking/)
 - <a name="Ryan20arxiv"></a>Ryan, C., Sullivan, B. O., Elrasad, A., Lemley, J., Kielty., P., Posch, C., Perot, E.,  
 *[Real-Time Face & Eye Tracking and Blink Detection using Event Cameras](https://arxiv.org/pdf/2010.08278)*,  
 arXiv, 2020.
