@@ -832,6 +832,9 @@ IEEE Int. Conf. on 3D Vision (3DV), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/3DV20
 - <a name="Baudron20arxiv"></a>Baudron, A., Wang, Z. W., Cossairt, O., Katsaggelos, A. K.,  
 *[E3D: Event-Based 3D Shape Reconstruction](https://arxiv.org/pdf/2012.05214)*,  
 arXiv, 2020. [Code](https://github.com/alexisbdr/e3d).
+- <a name="Gehrig21RAL"></a>Gehrig, D., Rüegg, M., Gehrig, M., Hidalgo-Carrió J., Scaramuzza, D.,   
+*[Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction](https://ieeexplore.ieee.org/document/9359329)*,  
+IEEE Robotics and Automation Letters (RA-L), 2021. [PDF](http://rpg.ifi.uzh.ch/docs/RAL21_Gehrig.pdf), [Code](http://rpg.ifi.uzh.ch/rpg_ramnet), [Project Page](http://rpg.ifi.uzh.ch/RAMNet.html).
 
 
 <a name="depth-mono-active"></a>
@@ -1621,6 +1624,8 @@ IEEE Int. Conf. AI Circuits Syst. (AICAS), 2019.
 Int. Symp. Low Power Electronics and Design (ISLPED), 2020. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/425534/HD_DVS_camera_ready.pdf?sequence=1&isAllowed=y)
 - [Hidalgo-Carrió et al., 3DV 2020](#Hidalgo20threedv),
 *Learning Monocular Dense Depth from Events.*
+- [Gehrig et al., RA-L, 2021](#Gehrig21RAL)   
+*Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction*
 
 
 <a name="learning-methods-frameworks"></a>
