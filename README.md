@@ -711,9 +711,6 @@ arXiv, 2020.
 IEEE Trans. Image Processing, 30:2488-2500, 2021. [Project page](https://github.com/RodrigoGantier/SPADE_E2VID)
 - [Baldwin et al., arXiv 2021](#Baldwin21arxiv).  
 *Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.
-- [Muglikar et al., CVPRW 2021](#Muglikar21cvprw).  
-*How to Calibrate Your Event Camera*.
-
 
 <a name="video-synthesis"></a>
 ### Video Synthesis
