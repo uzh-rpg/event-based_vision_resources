@@ -711,6 +711,8 @@ arXiv, 2020.
 IEEE Trans. Image Processing, 30:2488-2500, 2021. [Project page](https://github.com/RodrigoGantier/SPADE_E2VID)
 - [Baldwin et al., arXiv 2021](#Baldwin21arxiv).  
 *Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.
+- [Muglikar et al., CVPRW 2021](#Muglikar21cvprw).  
+*How to Calibrate Your Event Camera*.
 
 
 <a name="video-synthesis"></a>
@@ -2077,6 +2079,9 @@ arXiv, 2020.
 - <a name="Wang20jsen"></a>Wang, G., Feng, C., Hu, X., Yang, H.,  
 *[Temporal Matrices Mapping Based Calibration Method for Event-Driven Structured Light Systems](https://doi.org/10.1109/JSEN.2020.3016833)*,  
 IEEE Sensors Journal, 2020.
+- <a name="Muglikar21cvprw"></a>Muglikar, M., Gehrig, M., Gehrig, D., Scaramuzza, D.,  
+*[How to Calibrate Your Event Camera](http://rpg.ifi.uzh.ch/docs/CVPRW21_Muglikar.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021.
 
 
 <a name="software-algorithms"></a>
