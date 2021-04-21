@@ -993,7 +993,7 @@ European Conf. Computer Vision (ECCV), 2018. [YouTube](https://youtu.be/4oa7e4hs
 - <a name="Zhou18eccv"></a>Zhou, Y., Gallego, G., Rebecq, H., Kneip, L., Li, H., Scaramuzza, D.,  
 *[Semi-Dense 3D Reconstruction with a Stereo Event Camera](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou.pdf)*,  
 European Conf. Computer Vision (ECCV), 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou_poster.pdf),  [YouTube](https://youtu.be/Qrnpj2FD1e4).
-    - [Zhou et al., arXiv 2020](#Zhou20arxiv),  
+    - [Zhou et al., TRO 2021](#Zhou21tro),  
 *Event-based Stereo Visual Odometry*.
 - <a name="DominguezMorales19electr"></a>Dominguez-Morales, M., Dominguez-Morales, J. P., Jimenez-Fernandez, A., Linares-Barranco, A., Jimenez-Moreno, G.,  
 *[Stereo Matching in Address-Event-Representation (AER) Bio-Inspired Binocular Systems in a Field-Programmable Gate Array (FPGA)](https://doi.org/10.3390/electronics8040410)*,  
@@ -1193,9 +1193,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [Project page](
 IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA20_Gehrig.pdf), [Code](https://github.com/uzh-rpg/snn_angular_velocity)
 
 #### Stereo
-- <a name="Zhou20arxiv"></a>Zhou, Y., Gallego, G., Shen, S.,  
-*[Event-based Stereo Visual Odometry](https://arxiv.org/pdf/2007.15548)*,  
-arXiv:2007.15548, 2020. [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git)
+- <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
+*[Event-based Stereo Visual Odometry](https://doi.org/10.1109/TRO.2021.3062252)*,  
+IEEE Trans. Robot., 2021. [PDF](https://arxiv.org/pdf/2007.15548), [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git)
 
 
 <a name="visual-inertial"></a>
@@ -1926,10 +1926,10 @@ arXiv, 2020. [Project page](https://sites.google.com/view/video2events/home), [C
     - DDD20 - End-to-End Event Camera Driving Dataset
 
 ### Stereo Depth Estimation
+- [Andreopoulos et al., CVPR 2018](#Andreopoulos18cvpr), *A Low Power, High Throughput, Fully Event-Based Stereo System*.
 - [Zhu et al., RAL 2018](#Zhu18mvsec): *MVSEC The Multi Vehicle Stereo Event Camera Dataset*.
 - [Zhou et al., ECCV 2018](#Zhou18eccv): *Semi-Dense 3D Reconstruction with a Stereo Event Camera*.
-- [Andreopoulos et al., CVPR 2018](#Andreopoulos18cvpr), *A Low Power, High Throughput, Fully Event-Based Stereo System*.
-- [Zhou et al., arXiv 2020](#Zhou20arxiv), *Event-based Stereo Visual Odometry*.
+- [Zhou et al., TRO 2021](#Zhou21tro), *Event-based Stereo Visual Odometry*.
 - <a name="MGehrig21ral"></a>Gehrig, M., Aarents, W., Gehrig, D., Scaramuzza, D.,  
 *[DSEC: A Stereo Event Camera Dataset for Driving Scenarios](https://doi.org/10.1109/LRA.2021.3068942)*,  
 IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.ch/dsec.html), [PDF](http://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf), [Code](https://github.com/uzh-rpg/DSEC), [Video](https://youtu.be/W4yW78y4F7A).
