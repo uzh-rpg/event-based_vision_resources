@@ -103,12 +103,14 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
     - [The Silicon Eye Technology](http://www.insightness.com/?p=361)
     - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Insightness.pdf) and [Video](https://youtu.be/9IJwF9xYEoU) by [Stefan Isler](http://www.insightness.com/#team) (2019).
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Insightness.pdf) and [Video](https://youtu.be/6YyOW6DDGKw) by [Christian Brandli](http://www.insightness.com/#team), CEO and co-founder of Insightness (2017).
-- **ATIS (Asynchronous Time-based Image Sensor)**: Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011. [PDF](https://www.neuromorphic-vision.com/public/publications/2/publication.pdf), [YouTube](https://youtu.be/YQ8rT9Harb4), [YouTube](https://youtu.be/3Wiw8LA8hLs)
-    - [Prophesee](http://www.prophesee.ai) (Formerly [Chronocam](http://www.chronocam.com/))  [**Buy a Prophesee EVK**](https://www.prophesee.ai/event-based-evk/)
+- [**PROPHESEE’s Metavision Sensor**](https://www.prophesee.ai/event-based-sensor-packaged/) and [**Software**](https://www.prophesee.ai/metavision-intelligence/)
+    - ATIS (Asynchronous Time-based Image Sensor): Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011. [PDF](https://www.neuromorphic-vision.com/public/publications/2/publication.pdf), [YouTube](https://youtu.be/YQ8rT9Harb4), [YouTube](https://youtu.be/3Wiw8LA8hLs)
+    - Prophesee Gen4 is described in: Finateu et al., *[A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86μm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline](https://doi.org/10.1109/ISSCC19947.2020.9063149)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), 2020, pp. 112-114. 
+    - [**Buy a Prophesee packaged sensor VGA**](https://www.prophesee.ai/event-based-sensor-packaged) 
     - [Prophesee Cameras Specifications](https://www.prophesee.ai/event-based-evk/)
-    - Prophesee Gen4 is described in: Finateu et al., *[A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86μm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline](https://doi.org/10.1109/ISSCC19947.2020.9063149)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), 2020, pp. 112-114.
-    - [Sample Applications.  Nature = Future! The eye camera. (In French)](https://youtu.be/pfpqAZ5jPa0?t=215)
-    - [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/)
+    - What is event-based vision and sample applications, [YouTube](https://www.youtube.com/watch?v=MjX3z-6n3iA)
+    - [Download free or buy our software ](https://www.prophesee.ai/metavision-intelligence/)
+    - [Documentation and tutorials](https://docs.prophesee.ai/)
 - **[CelePixel](http://www.celepixel.com/)**, Shanghai. CeleX-V: the first 1 Mega-pixel event-camera sensor.
 - **Sensitive DVS (sDVS)**
     - Leñero-Bardallo, J. A., Serrano-Gotarredona, T., Linares-Barranco, B., *[A 3.6us Asynchronous Frame-Free Event-Driven Dynamic-Vision-Sensor](https://doi.org/10.1109/JSSC.2011.2118490)*,  IEEE J. of Solid-State Circuits, 46(6):1443-1455, 2011.
@@ -126,7 +128,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
 - [iniLabs AG](https://inilabs.com/) invents neuromorphic technologies for *research*.
 - [Samsung](http://www.samsung.com) develops Gen2 and Gen3 dynamic vision sensors and event-based vision solutions.
     - [IBM Research](http://www.research.ibm.com/articles/brain-chip.shtml) ([Synapse project](http://www.research.ibm.com/cognitive-computing/brainpower/)) and Samsung partenered to combine the [TrueNorth chip (brain) with a DVS (eye)](https://www.cnet.com/news/samsung-turns-ibms-brain-like-chip-into-a-digital-eye/).
-- [Prophesee](http://www.prophesee.ai) (Formerly [Chronocam](http://www.chronocam.com/)) develops bio-inspired and self-adapting approach to the need for visual sensing and processing in autonomous vehicles, connected devices, security and surveillance systems.
+- [Prophesee](http://www.prophesee.ai) (Formerly [Chronocam](http://www.chronocam.com/)) is the inventor and supplier of 4 Event-Based sensors generations, incuding commercial-grade versions as well as industry’s largest software suite. The company focuses on Industrial, Mobile-IoT and Automotive applications.
 - [Insightness AG](http://www.insightness.com/) builds visual systems to give mobile devices spatial awareness. [The Silicon Eye](http://www.insightness.com/?p=361) Technology.
 - [SLAMcore](https://www.slamcore.com/) develops Localisation and mapping solutions for AR/VR, robotics & autonomous vehicles.
 - [CelePixel](https://www.celepixel.com) (formerly [Hillhouse Technology](http://www.hillhouse-tech.com/)) offer integrated sensory platforms that incorporate various components and technologies, including a processing chipset and an image sensor (a dynamic vision sensor called CeleX).
@@ -2050,6 +2052,7 @@ arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset
 - [ROS (Robotic Operating System)](https://github.com/uzh-rpg/rpg_dvs_ros)
 - [YARP (Yet Another Robot Platform)](https://github.com/robotology/event-driven)
 - [Prophesee ROS Wrapper](https://github.com/prophesee-ai/prophesee_ros_wrapper) ROS driver and messages for Prophesee event-based sensors
+- [Prophesee camera plugins](https://docs.prophesee.ai/stable/installation/windows.html#camera-plugins)
 - [CeleX5 ROS Wrapper](https://github.com/kehanXue/CeleX5-ROS) A ROS driver and some other tools for [CeleX5_MP](http://www.celepixel.com/#/Samples) event-based sensor (which has a high resolution at 1280×800)
 
 <a name="calibration"></a>
@@ -2064,6 +2067,8 @@ arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset
     - [Calibration using blinking LEDs or computer screens](https://github.com/uzh-rpg/rpg_dvs_ros/tree/master/dvs_calibration) by RPG - UZH.
     - [DVS camera calibration](https://github.com/gorchard/DVScalibration) by G. Orchard.
     - [DVS camera calibration](https://github.com/VLOGroup/dvs-calibration) by VLOGroup at TU Graz.
+- For Prophesee Camera (events-only):
+    - [Focus adjustment and calibration using blinking LEDs or computer screens](https://docs.prophesee.ai/stable/metavision_sdk/modules/calibration/index.html?)
 - <a name="Song18wrcsara"></a>Song, R., Jiang, Z., Li, Y., Shan, Y., Huang, K.,  
 *[Calibration of Event-based Camera and 3D LiDAR](https://doi.org/10.1109/WRC-SARA.2018.8584215)*,  
 WRC Symposium on Advanced Robotics and Automation (WRC SARA), 2018.
@@ -2086,6 +2091,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021.
 - [Several event-processing filters](https://sourceforge.net/p/jaer/wiki/FilterIndex_1/) in the [jAER (java Address-Event Representation) project](http://jaerproject.org/)
 - [A collection of tracking and detection algorithms](https://github.com/robotology/event-driven) using the YARP framework
 - [Some detection and tracking algorithms](https://github.com/EventVisionLibrary/evl) in EVL
+- Prophesee Open Source library - [OpenEB](https://github.com/prophesee-ai/openeb)
 - **Optical Flow**
     - [LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java), inspired by the paper [Benosman et al., TNNLS 2014](#Benosman14tnnls).
     - [Several algorithms compared](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/) in the paper by [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
@@ -2121,6 +2127,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021.
 Front. Neurosci. (2020), 13:1338. [Code](https://github.com/neuromorphic-paris/tutorials)
 - [BIMVEE](https://github.com/event-driven-robotics/bimvee) Python tools for Batch Import, Manipulation, Visualisation and Export of Events and other timestamped data. Imports from various file formats into a common workspace format, including native Python import of rosbags.
 - [Tonic](https://github.com/neuromorphs/tonic) provides publicly available event datasets and data transformations based on PyTorch.
+- Prophesee automotive dataset toolbox, [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox)
 
 <br><br>
 <a name="processors-platforms"></a>
@@ -2363,6 +2370,7 @@ MSc. Thesis, Ecole polytechnique de Louvain, Université catholique de Louvain, 
   - [Advancing neuromorphic computing from lab to mainstream applications -Telluride 2020](https://youtu.be/bmCMsWF_ORg)
 - [Robotics and Technology of Computers Lab - Sevilla (RTC)](http://www.rtc.us.es/) of the University of Seville (USE), Seville, Spain.
 - [IMSE-CNM – Seville Institute of Microelectronics](http://imse-cnm.csic.es), Seville, Spain. [News](https://elpais.com/tecnologia/2020-04-13/chips-que-detectan-olores-o-como-la-tecnologia-intenta-imitar-el-funcionamiento-del-cerebro.html)
+- [Prophesee SA](https://prophesee.ai/): Sensor and Software development and production
 
 
 <br><br>
@@ -2373,6 +2381,7 @@ MSc. Thesis, Ecole polytechnique de Louvain, Université catholique de Louvain, 
 - [The Slow But Steady Rise of the Event Camera](https://www.eetimes.eu/the-slow-but-steady-rise-of-the-event-camera/), 06.2020
 - [Europe Still the Focal Point for Neuromorphic Vision](https://www.eetimes.eu/europe-still-the-focal-point-for-neuromorphic-vision/), 07.2020.
 - [Telluride Neuromorphic Engineering Workshop Goes Large](https://www.eetimes.com/telluride-neuromorphic-engineering-workshop-goes-large/), 07.2020.
+- [Prophesee Touts Toolkit for Event-based Vision](https://www.eetimes.eu/prophesee-touts-toolkit-for-event-based-vision/), 09.2020.
 
 
 <br><br>
