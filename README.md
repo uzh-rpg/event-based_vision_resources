@@ -1400,6 +1400,9 @@ IEEE Int. Conf. Image Processing (ICIP), 2020.
 IEEE Robotics and Automation Letters (RA-L), 5(3):4596-4603, July 2020.
 - [Baldwin et al., arXiv 2021](#Baldwin21arxiv).  
 *Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.
+- <a name="Patel21abec"></a>Patel, H., Iaboni, C., Lobo, D., Choi, J., Abichandani, P.,  
+*[Event Camera Based Real-Time Detection and Tracking of Indoor Ground Robots](https://arxiv.org/pdf/2102.11916v1)*,  
+arXiv, 2021.
 
 
 <a name="gesture-recognition"></a>
@@ -1695,6 +1698,9 @@ Proc. Int. Symp. on Secure-Life Electronics, Advanced Electronics for Quality Li
 - <a name="Khodamoradi19tetc"></a>Khodamoradi, A., Kastner, R.,  
 *[O(N)-Space Spatiotemporal Filter for Reducing Noise in Neuromorphic Vision Sensors](https://doi.org/10.1109/TETC.2017.2788865)*,  
 IEEE Trans. Emerging Topics in Computing, 2018.
+- <a name="Berthelon18tbcs"></a>Berthelon, X., Chenegros, G., Finateu, T., Ieng, S.H., Benosman, R.,  
+*[Effects of Cooling on the SNR and Contrast Detection of a Low-Light Event-Based Camera](https://doi.org/10.1109/TBCAS.2018.2875202)*,  
+IEEE Trans. Biomed. Circuits Syst., 2018, vol. 12, pp. 1467-1474.
 - <a name="Baldwin20cvpr"></a>Baldwin R.W., Almatrafi M., Asari V., Hirakawa K.,  
 *[Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](http://openaccess.thecvf.com/content_CVPR_2020/html/Baldwin_Event_Probability_Mask_EPM_and_Event_Denoising_Convolutional_Neural_Network_CVPR_2020_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](https://arxiv.org/abs/2003.08282), [Dataset](https://sites.google.com/a/udayton.edu/issl/software/dataset)
