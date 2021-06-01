@@ -1018,6 +1018,10 @@ IEEE Int. Conf. Advanced Robotics (ICAR), 2019.
 - <a name="Hadviger20advrob"></a>Hadviger, A., Marković, I., Petrović, I.,  
 *[Stereo Dense Depth Tracking Based on Optical Flow using Frames and Events](https://lamor.fer.hr/images/50036607/hadviger-disparity-advrob.pdf)*,  
 Advanced Robotics, 2020.
+- <a name="soikat21aaai"></a>Ahmed, S. H., Jang, H. W., Uddin, S. M. N., & Jung, Y. J.,  
+*[Deep Event Stereo Leveraged by Event-to-Image Translation](https://ojs.aaai.org/index.php/AAAI/article/view/16171)*,  
+AAAI Conf. Artificial Intelligence, 2021.
+[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16171/15978), [Video](https://youtu.be/ow2TsNMo_T4), [Project page](https://sites.google.com/site/gachoncvip/projects/deep-event-based-stereo-matching)
 
 
 <a name="depth-stereo-active"></a>
