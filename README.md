@@ -2307,6 +2307,9 @@ Ph.D. Thesis, University of Maryland, USA, 2020.
 - <a name="Scheerlinck21PhD"></a>Scheerlinck, C.,  
 *[How to See with an Event Camera](https://doi.org/10.25911/5JJS-N433)*,  
 Ph.D. Thesis, Australian National University, Canberra, Australia, 2021. [PDF](https://openresearch-repository.anu.edu.au/bitstream/1885/216784/1/Scheerlinck_Thesis_2021.pdf)
+- <a name="Stoffregen21PhD"></a>Stoffregen, T.,  
+*[Motion Estimation by Focus Optimisation: Optic Flow and Motion Segmentation with Event Cameras](https://doi.org/10.26180/14531871.v1)*,  
+Ph.D. Thesis, Monash University, Melbourne, Australia, 2021.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
