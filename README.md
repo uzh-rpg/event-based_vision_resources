@@ -839,7 +839,9 @@ IEEE Int. Conf. Computer Vision (ICCV), 2019.
 - <a name="Steffen19icar"></a>Steffen, L., Ulbrich, S., Roennau, A., Dillmann, R.,  
 *[Multi-View 3D Reconstruction With Self-Organizing Maps on Event-Based Data](https://doi.org/10.1109/ICAR46387.2019.8981569)*,  
 IEEE Int. Conf. Advanced Robotics (ICAR), 2019.  
-- <a name="soikataaai21"></a>Ahmed, S. H., Jang, H. W., Uddin, S. M. N., & Jung, Y. J. , *[Deep Event Stereo Leveraged by Event-to-Image Translation](https://ojs.aaai.org/index.php/AAAI/article/view/16171)*,  AAAI Conference on Artificial Intelligence, 2021.  [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16171/15978), [video](https://youtu.be/ow2TsNMo_T4),[project page](https://sites.google.com/site/gachoncvip/projects/deep-event-based-stereo-matching)
+- <a name="soikataaai21"></a>Ahmed, S. H., Jang, H. W., Uddin, S. M. N., & Jung, Y. J. , *[Deep Event Stereo Leveraged by Event-to-Image Translation](https://ojs.aaai.org/index.php/AAAI/article/view/16171)*,  
+- AAAI Conference on Artificial Intelligence, 2021.  
+- [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16171/15978), [video](https://youtu.be/ow2TsNMo_T4), [project page](https://sites.google.com/site/gachoncvip/projects/deep-event-based-stereo-matching)
 
 <a name="depth-stereo-active"></a>
 ### Stereo Depth Estimation using Structured Light
