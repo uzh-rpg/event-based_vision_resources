@@ -214,6 +214,9 @@ IEEE Signal Processing Magazine, 37(4):34-49, 2020.
 - <a name="Chen20tits"></a>Chen, G., Wang, F., Li, W., Hong, L., Conradt, J., Chen, J., Zhang, Z., Lu, Y., Knoll, A.,  
 *[NeuroIV: Neuromorphic Vision Meets Intelligent Vehicle Towards Safe Driving With a New Database and Baseline Evaluations](https://doi.org/10.1109/TITS.2020.3022921)*,  
 IEEE Trans. Intelligent Transportation Systems (TITS), 2020.
+- <a name="Tayarani21fncir"></a>Tayarani-Najaran, M.-H., Schmuker, M.,  
+*[Event-Based Sensing and Signal Processing in the Visual, Auditory, and Olfactory Domain: A Review](https://doi.org/10.3389/fncir.2021.610446)*,  
+Front. Neural Circuits 15:610446, 2021.
 
 
 <a name="algorithms"></a>
