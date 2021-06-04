@@ -617,6 +617,9 @@ IEEE Conf. Application-specific Systems, Architectures and Processors (ASAP), 20
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510494-supp.pdf)
 - [Paredes-Valles et al., arXiv 2020](#ParedesValles20arxiv),  
 *Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy.*
+- <a name="ParedesValles21arxiv"></a>Paredes-Valles, F., Hagenaars, J. J., de Croon, G. C. H. E.,  
+*[Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks](https://arxiv.org/abs/2106.01862)*,  
+arXiv:2106.01862, 2021.
 
 
 <a name="scene-flow-estimation"></a>
@@ -1637,6 +1640,8 @@ Int. Symp. Low Power Electronics and Design (ISLPED), 2020. [PDF](https://www.re
 *Learning Monocular Dense Depth from Events.*
 - [Gehrig et al., RA-L, 2021](#Gehrig21ral)   
 *Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction*
+- [Paredes-Valles et al., arXiv 2021](#ParedesValles21arxiv),  
+*Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks.*
 
 
 <a name="learning-methods-frameworks"></a>
