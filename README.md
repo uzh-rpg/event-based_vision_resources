@@ -2363,6 +2363,9 @@ MSc. Thesis, Air Force Institute of Technology, USA, 2020.
 - <a name="Verecken20MSc"></a>Verecken, J.,  
 *[Embedded real-time inference in spiking neural networks for neuromorphic IoT vision sensors](http://hdl.handle.net/2078.1/thesis:26663)*,  
 MSc. Thesis, Ecole polytechnique de Louvain, Université catholique de Louvain, 2020.
+- <a name="Gava20MSc"></a>Gava, L.,  
+*[Event-driven Motion-In-Depth for Low Latency Control of the Humanoid Robot iCub](https://unire.unige.it/handle/123456789/3258)*,  
+MSc. Thesis, Department of Computer Science, Bioengineering, Robotics and System Engineering, University of Genoa, 2020.
 
 
 <br><br>
