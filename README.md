@@ -2365,7 +2365,7 @@ MSc. Thesis, Air Force Institute of Technology, USA, 2020.
 MSc. Thesis, Ecole polytechnique de Louvain, Université catholique de Louvain, 2020.
 - <a name="Gava20MSc"></a>Gava, L.,  
 *[Event-driven Motion-In-Depth for Low Latency Control of the Humanoid Robot iCub](https://unire.unige.it/handle/123456789/3258)*,  
-MSc. Thesis, Department of Computer Science, Bioengineering, Robotics and System Engineering, University of Genoa, 2020.
+MSc. Thesis, University of Genoa, 2020.
 
 
 <br><br>
