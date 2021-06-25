@@ -696,9 +696,6 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2020.
 - <a name="Zhang20eccv"></a>Zhang, S., Zhang, Y., Jiang, Z., Zou, D., Ren, J., Zhou, B.,  
 *[Learning to See in the Dark with Events](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630647.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630647-supp.pdf)
-- <a name="WangB20eccv"></a>Wang, B., He, J., Yu, L., Xia, G.-S., Yang, W.,  
-*[Event Enhanced High-Quality Image Recovery](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154.pdf)*,  
-European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154-supp.pdf), [Video](https://www.bilibili.com/video/av838383543/)
 - <a name="Su20icip"></a>B. Su, L. Yu and W. Yang,  
 *[Event-Based High Frame-Rate Video Reconstruction With A Novel Cycle-Event Network](https://doi.org/10.1109/ICIP40778.2020.9191114)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2020.
@@ -754,6 +751,9 @@ arXiv:2003.00847, 2020.
 - <a name="Jiang20cvpr"></a>Jiang, Z., Zhang, Y., Zou, D., Ren, J., Lv, J., Liu, Y.,  
 *[Learning Event-Based Motion Deblurring](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Learning_Event-Based_Motion_Deblurring_CVPR_2020_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020.
+- <a name="WangB20eccv"></a>Wang, B., He, J., Yu, L., Xia, G.-S., Yang, W.,  
+*[Event Enhanced High-Quality Image Recovery](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154.pdf)*,  
+European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154-supp.pdf), [Video](https://www.bilibili.com/video/av838383543/)
 - <a name="Lin20eccv"></a>Lin, S., Zhang, J., Pan, J., Jiang, Z., Zou, D., Wang, Y., Chen, J., Ren, J.,  
 *[Learning Event-Driven Video Deblurring and Interpolation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681-supp.pdf)
