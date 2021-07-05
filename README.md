@@ -2134,6 +2134,8 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021.
 - [Process AEDAT](https://github.com/SensorsINI/processAEDAT): useful scripts to work with data from jAER and cAER.
 - [Matlab functions in jAER project](https://sourceforge.net/p/jaer/code/HEAD/tree/scripts/matlab/)
 - [AEDAT Tools](https://github.com/simbamford/AedatTools/): scripts for Matlab and Python to work with aedat files.
+- [aedat4to2](https://github.com/SensorsINI/aedat4to2): Python/DV script to convert AEDAT4 from DV to AEDAT2 for jAER.
+- [aedat4tomat](https://github.com/bald6354/aedat4tomat): Python/DV script to convert AEDAT4 from DV to matlab file.
 - [Matlab AER functions](https://github.com/gorchard/Matlab_AER_vision_functions) by G. Orchard. Some basic functions for filtering and displaying AER vision data, as well as making videos.
 - [Python code for AER vision data](https://github.com/gorchard/event-Python) by G. Orchard.
 - [edvstools](https://github.com/Danvil/edvstools), by D. Weikersdorfer: A collection of tools for the embedded Dynamic Vision Sensor eDVS.
