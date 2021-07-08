@@ -217,6 +217,9 @@ IEEE Trans. Intelligent Transportation Systems (TITS), 2020.
 - <a name="Tayarani21fncir"></a>Tayarani-Najaran, M.-H., Schmuker, M.,  
 *[Event-Based Sensing and Signal Processing in the Visual, Auditory, and Olfactory Domain: A Review](https://doi.org/10.3389/fncir.2021.610446)*,  
 Front. Neural Circuits 15:610446, 2021.
+- <a name="Sun21hindawi"></a>Sun, R. Shi, D., Zhang, Y., Li, R., Li, R.,  
+*[Data-Driven Technology in Event-Based Vision](https://doi.org/10.1155/2021/6689337)*,  
+Complexity, Vol. 2021, Article ID 6689337.
 
 
 <a name="algorithms"></a>
@@ -2443,6 +2446,8 @@ MSc. Thesis, University of Genoa, 2020.
 - [Europe Still the Focal Point for Neuromorphic Vision](https://www.eetimes.eu/europe-still-the-focal-point-for-neuromorphic-vision/), 07.2020.
 - [Telluride Neuromorphic Engineering Workshop Goes Large](https://www.eetimes.com/telluride-neuromorphic-engineering-workshop-goes-large/), 07.2020.
 - [Prophesee Touts Toolkit for Event-based Vision](https://www.eetimes.eu/prophesee-touts-toolkit-for-event-based-vision/), 09.2020.
+# Press 
+- [Event-Based Vision: Taking a Cue From Biology](https://www.qualitymag.com/articles/96413-event-based-vision-taking-a-cue-from-biology), 03.2021.
 
 
 <br><br>
