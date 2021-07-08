@@ -1913,6 +1913,9 @@ arXiv:1911.08730, 2019. [Dataset](https://www.westernsydney.edu.au/icns/reproduc
 - <a name="Roffe21arxiv"></a>Roffe, S., Akolkar, H., George, A. D., Linares-barranco, B., Benosman, R.,  
 *[Neutron-Induced, Single-Event Effects on Neuromorphic Event-based Vision Sensor: A First Step Towards Space Applications](https://arxiv.org/abs/2102.00112)*,  
 arXiv, 2021.
+- <a name="McMahon21osa"></a>McMahon-Crabtree, P., Monet, D.,  
+*[Evaluation of Commercial-off-the-Shelf EventBased Cameras for Space Surveillance Applications](https://www.osapublishing.org/ao/upcoming_pdf.cfm?id=425623)*,  
+Applied Optics, 2021.
 
 
 <a name="tactile_sensing"></a>
