@@ -615,7 +615,7 @@ IEEE Conf. Application-specific Systems, Architectures and Processors (ASAP), 20
 - <a name="Kepple20eccv"></a>Kepple, D.R., Lee, D., Prepsius, C., Isler, V., Park, I. M., Lee, D. D.,  
 *[Jointly learning visual motion and confidence from local patches in event cameras](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510494.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510494-supp.pdf)
-- [Paredes-Valles et al., arXiv 2020](#ParedesValles20arxiv),  
+- [Paredes-Valles et al., CVPR 2021](#ParedesValles21cvpr),  
 *Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy.*
 - <a name="ParedesValles21arxiv"></a>Paredes-Valles, F., Hagenaars, J. J., de Croon, G. C. H. E.,  
 *[Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks](https://arxiv.org/abs/2106.01862)*,  
@@ -713,7 +713,7 @@ arXiv, 2020.
 IEEE Trans. Image Processing, 30:2488-2500, 2021. [Project page](https://github.com/RodrigoGantier/SPADE_E2VID)
 - [Baldwin et al., arXiv 2021](#Baldwin21arxiv).  
 *Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.
-- <a name="ParedesValles20arxiv"></a>Paredes-Valles, F., de Croon, G. C. H. E.,  
+- <a name="ParedesValles21cvpr"></a>Paredes-Valles, F., de Croon, G. C. H. E.,  
 *[Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy](https://openaccess.thecvf.com/content/CVPR2021/papers/Paredes-Valles_Back_to_Event_Basics_Self-Supervised_Learning_of_Image_Reconstruction_for_CVPR_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](http://mavlab.tudelft.nl/ssl_e2v/), [PDF](https://arxiv.org/abs/2009.08283), [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Paredes-Valles_Back_to_Event_CVPR_2021_supplemental.pdf).
 - <a name="Zou21cvpr"></a>Zou, Y., Zheng, Y., Takatani, T., Fu, Y.,  
