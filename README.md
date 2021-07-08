@@ -441,6 +441,10 @@ Int. Symposium on Visual Computing (ISVC), 2020.
 - <a name="Yilmaz21ji"></a>Yılmaz, Ö., Simon-Chane, C., Histace A.,     
 *[Evaluation of Event-Based Corner Detectors ](https://doi.org/10.3390/jimaging7020025)*,  
 J. Imaging, 2021.
+- <a name="Chiberre21cvprw"></a>Chiberre, P., Perot, E., Sironi, A., Lepetit, V.,  
+*[Detecting Stable Keypoints From Events Through Image Gradient Prediction](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Chiberre_Detecting_Stable_Keypoints_From_Events_Through_Image_Gradient_Prediction_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [YouTube](https://youtu.be/Rrkwxp8J18c).
+
 
 
 <a name="particle-detection"></a>
@@ -623,6 +627,15 @@ European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/
 - <a name="ParedesValles21arxiv"></a>Paredes-Valles, F., Hagenaars, J. J., de Croon, G. C. H. E.,  
 *[Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks](https://arxiv.org/abs/2106.01862)*,  
 arXiv:2106.01862, 2021.
+- <a name="Sikorski21cvprw"></a>Sikorski, O., Izzo, D., Meoni, G.,  
+*[Event-Based Spacecraft Landing Using Time-To-Contact](https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/papers/Sikorski_Event-Based_Spacecraft_Landing_Using_Time-To-Contact_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021.
+- <a name="Peveri21cvprw"></a>Peveri, F., Testa, S., Sabatini, S. P.,  
+*[A Cortically-Inspired Architecture for Event-Based Visual Motion Processing: From Design Principles to Real-World Applications](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Peveri_A_Cortically-Inspired_Architecture_for_Event-Based_Visual_Motion_Processing_From_Design_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [YouTube](https://youtu.be/KyS_h8i9HpM).
+- <a name="Barbier21cvprw"></a>Barbier, T., Teuliere, C., Triesch, J.,  
+*[Spike Timing-Based Unsupervised Learning of Orientation, Disparity, and Motion Representations in a Spiking Neural Network](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Barbier_Spike_Timing-Based_Unsupervised_Learning_of_Orientation_Disparity_and_Motion_Representations_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Suppl.](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/supplemental/Barbier_Spike_Timing-Based_Unsupervised_CVPRW_2021_supplemental.pdf), [YouTube](https://youtu.be/TL567P70L68).
 
 
 <a name="scene-flow-estimation"></a>
@@ -725,6 +738,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021.
 - <a name="Zhang21cvpr"></a>Zhang, X., Liao, W., Yu, L., Yang, W., Xia, G.-S.,  
 *[Event-Based Synthetic Aperture Imaging With a Hybrid Network ](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Event-Based_Synthetic_Aperture_Imaging_With_a_Hybrid_Network_CVPR_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Suppl.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Zhang_Event-Based_Synthetic_Aperture_CVPR_2021_supplemental.pdf), [PDF](http://arxiv.org/abs/2103.02376), [YouTube](https://youtu.be/vom7qcZ7t9Y).
+- <a name="CohenDuwek21cvprw"></a>Cohen Duwek, H., Shalumov, A., Ezra Tsur, E.,  
+*[Image Reconstruction From Neuromorphic Event Cameras Using Laplacian-Prediction and Poisson Integration With Spiking and Artificial Neural Networks](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Duwek_Image_Reconstruction_From_Neuromorphic_Event_Cameras_Using_Laplacian-Prediction_and_Poisson_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [YouTube](https://youtu.be/CoocgoUhxvU).
 
 
 <a name="video-synthesis"></a>
@@ -779,6 +795,10 @@ MultiMedia Modeling (MMM) 2021. LNCS, vol 12572.
 - <a name="Tulyakov21cvpr"></a>Tulyakov, S., Gehrig, D., Georgoulis, S., Erbach, J., Gehrig, M., Li, Y., Scaramuzza, D.,  
 *[Time Lens: Event-Based Video Frame Interpolation](https://openaccess.thecvf.com/content/CVPR2021/papers/Tulyakov_Time_Lens_Event-Based_Video_Frame_Interpolation_CVPR_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](http://rpg.ifi.uzh.ch/TimeLens.html), [Suppl.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Tulyakov_Time_Lens_Event-Based_CVPR_2021_supplemental.zip), [PDF](http://rpg.ifi.uzh.ch/docs/CVPR21_Gehrig.pdf), [YouTube](https://youtu.be/dVLyia-ezvo), [Slides](http://rpg.ifi.uzh.ch/timelens/slides.pdf), [Code](https://github.com/uzh-rpg/rpg_timelens)
+- <a name="Paikin21cvprw"></a>Paikin, G., Ater, Y., Shaul, R., Soloveichik, E.,  
+*[EFI-Net: Video Frame Interpolation from Fusion of Events and Frames](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Paikin_EFI-Net_Video_Frame_Interpolation_From_Fusion_of_Events_and_Frames_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [YouTube](https://youtu.be/hrfsDOL18pw), [Suppl.](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/supplemental/Paikin_EFI-Net_Video_Frame_CVPRW_2021_supplemental.zip), [Dataset](https://drive.google.com/file/d/1UIGVBqNER_5KguYPAu5y7TVg-JlNhz3-/view?usp=sharing).
+
 
 <a name="super-resolution"></a>
 ### Super-resolution
@@ -1146,6 +1166,9 @@ Front. Neurosci. (2020), 14:551.
 - <a name="Nunes20eccv"></a>Nunes, U.M., Demiris, Y.,  
 *[Entropy Minimisation Framework for Event-based Vision Model Estimation](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154-supp.pdf), [YouTube](https://youtu.be/3pyD9oCESa0), [Code](https://github.com/ImperialCollegeLondon/EventEMin)
+    - <a name="Nunes21cvprw"></a>Nunes, U.M., Demiris, Y.,  
+*[Live Demonstration: Incremental Motion Estimation for Event-Based Cameras by Dispersion Minimisation](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Nunes_Live_Demonstration_Incremental_Motion_Estimation_for_Event-Based_Cameras_by_Dispersion_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. 
 - <a name="Peng20eccv"></a>Peng, X., Wang, Y., Gao, L., Kneip, L.,  
 *[Globally-Optimal Event Camera Motion Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052-supp.pdf), [YouTube](https://youtu.be/Px1puptSX9Q)
@@ -1161,6 +1184,9 @@ IEEE Sensors Journal, 20(17):10211-10219, 2020.
 - <a name="Kong20arxiv"></a>Kong, D., Fang, Z., Li, H., Hou, K., Coleman, S., Kerr, D.,  
 *[Event-VPR: End-to-End Weakly Supervised Network Architecture for Event-based Visual Place Recognition](https://arxiv.org/pdf/2011.03290)*,  
 arXiv, 2020.
+- <a name="Jiao21cvprw"></a>Jiao, J., Huang, H., Li, L., He, Z., Zhu, Y., Liu, M.,  
+*[Comparing Representations in Tracking for Event Camera-Based SLAM](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Jiao_Comparing_Representations_in_Tracking_for_Event_Camera-Based_SLAM_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [YouTube](https://youtu.be/O1ow7c_OlDQ), [Code](https://github.com/gogojjh/ESVO_extension).
 
 
 <a name="visual-servoing"></a>
@@ -1852,6 +1878,9 @@ IEEE Robotics and Automation Letters (RA-L), 5(4):6239-6246, Oct. 2020. [PDF](ht
 - <a name="Stagsted20iros"></a>Stagsted, R. K., Vitale, A., Renner A., Larsen, L. B., Christensen, A. L., Sandamirskaya, Y.,  
 *[Event-Based PID Controller Fully Realized in Neuromorphic Hardware: A One DoF Study](https://ras.papercept.net/proceedings/IROS20/1350.pdf)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
+- <a name="Delbruck21cvprw"></a>Delbruck, T., Graca, R., Paluch, M.,  
+*[Feedback control of event cameras](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Hu_v2e_From_Video_Frames_to_Realistic_DVS_Events_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021.
 
 
 <a name="space"></a>
@@ -1924,6 +1953,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
 *EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera*.
 - [Baldwin et al., arXiv 2021](#Baldwin21arxiv),  
 *Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.
+- <a name="Scarpellini21cvprw"></a>Scarpellini, G., Morerio, P., Del Bue, A.,  
+*[Lifting Monocular Events to 3D Human Poses](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Scarpellini_Lifting_Monocular_Events_to_3D_Human_Poses_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](https://iit-pavis.github.io/lifting_events_to_3d_hpe/), [YouTube](https://youtu.be/nwWh3MKdOEM), [Code](https://github.com/IIT-PAVIS/lifting_events_to_3d_hpe).
 
 
 <a name="hand_pose_estimation"></a>
@@ -1968,9 +2000,13 @@ British Machine Vis. Conf. (BMVC), 2018. [YouTube](https://youtu.be/z8uJh_xUq7A)
 Conf. on Robot Learning (CoRL), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf), [YouTube](https://youtu.be/ytKOIX_2clo), [Project Page](http://rpg.ifi.uzh.ch/esim/index.html).
 - [Gehrig et al. CVPR 2020](#Gehrig20cvpr),  
 *Video to Events: Recycling Video Datasets for Event Cameras*.
-- <a name="Delbruck20arxiv"></a>Delbruck, T., Hu, Y., He, Z.,  
-*[V2E: From video frames to realistic DVS event camera streams](https://arxiv.org/pdf/2006.07722)*,  
-arXiv, 2020. [Project page](https://sites.google.com/view/video2events/home), [Code](https://github.com/SensorsINI/v2e)
+- <a name="Hu21cvprw"></a>Hu, Y., S.-C., Liu, Delbruck, T.,  
+*[v2e: From Video Frames to Realistic DVS Events](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Hu_v2e_From_Video_Frames_to_Realistic_DVS_Events_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](https://sites.google.com/view/video2events/home), [YouTube](https://youtu.be/VzQ7b5-pLag), [Suppl.](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/supplemental/Hu_v2e_From_Video_CVPRW_2021_supplemental.zip), [Code](https://github.com/SensorsINI/v2e).
+- <a name="Nehvi21cvprw"></a>Nehvi, J., Golyanik, V., Mueller, F., Seidel, H.-P., Elgharib, M., Theobalt, C.,  
+*[Differentiable Event Stream Simulator for Non-Rigid 3D Tracking](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Nehvi_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](http://gvv.mpi-inf.mpg.de/projects/Event-based_Non-rigid_3D_Tracking/), [YouTube](https://youtu.be/dU2zv_Ggp7Y), [Suppl.](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/supplemental/Nehvi_Differentiable_Event_Stream_CVPRW_2021_supplemental.pdf).
+
 
 
 ## Datasets (sorted by topic)
@@ -2088,12 +2124,21 @@ arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset
 - [N-SOD Dataset](https://drive.google.com/drive/folders/10_bnZ_TOcq7xCtCiDcaDiIO3_Txgr19S) associated to the paper [Ramesh et al., FNINS 2020](#Ramesh20fnins).
 - [SL-ANIMALS-DVS Database](http://www2.imse-cnm.csic.es/neuromorphs/index.php/SL-ANIMALS-DVS-Database) associated to the paper [Vasudevan et al., FG 2020](#Vasudevan20fg). Recordings made using the sensitive DVS developed at [IMSE](http://imse-cnm.csic.es).
 - <a name="1mpx_detection_dataset"></a> Perot, E., de Tournemire, P., Nitti, D., Masci, J., Sironi, A.,  [1Mpx Detection Dataset](https://www.prophesee.ai/2020/11/24/automotive-megapixel-event-based-dataset/): [Learning to Detect Objects with a 1 Megapixel Event Camera. NeurIPS 2020](#Perot20nips).
+- <a name="Cannici21cvprw"></a>Cannici, M., Plizzari, C., Planamente, M., Ciccone, M., Bottino, A., Caputo, B., Matteucci, M.,  
+*[N-ROD: a Neuromorphic Dataset for Synthetic-to-Real Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Cannici_N-ROD_A_Neuromorphic_Dataset_for_Synthetic-to-Real_Domain_Adaptation_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](https://n-rod-dataset.github.io/home/), [YouTube](https://youtu.be/IOZl8MxrfpQ), [Poster](https://tub-rip.github.io/eventvision2021/slides/CVPRW21_NROD_poster.pdf).
+
 
 ### Event Denoising
 - [DVSNOISE20](https://sites.google.com/a/udayton.edu/issl/software/dataset) associated to the paper [Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](#Baldwin20cvpr).
 
 ### Space Situational Awareness
 - [The Event-Based Space Situational Awareness (EBSSA) Dataset](https://www.westernsydney.edu.au/icns/reproducible_research/publication_support_materials/space_imaging) associated to the paper [Event-based Object Detection and Tracking for Space Situational Awareness](#Afshar19arxiv).
+
+### Outdoor Monitoring / Surveillance
+- <a name="Bolten21cvprw"></a>Bolten, T., Pohle-Frohlich, R., Tonnies, K. D.,  
+*[DVS-OUTLAB: A Neuromorphic Event-Based Long Time Monitoring Dataset for Real-World Outdoor Scenarios](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Bolten_DVS-OUTLAB_A_Neuromorphic_Event-Based_Long_Time_Monitoring_Dataset_for_Real-World_CVPRW_2021_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](http://dnt.kr.hsnr.de/DVS-OUTLAB/), [YouTube](https://youtu.be/4wV0ejrcDo0)
 
 
 <br><br>
@@ -2140,7 +2185,7 @@ arXiv, 2020.
 IEEE Sensors Journal, 2020.
 - <a name="Muglikar21cvprw"></a>Muglikar, M., Gehrig, M., Gehrig, D., Scaramuzza, D.,  
 *[How to Calibrate Your Event Camera](http://rpg.ifi.uzh.ch/docs/CVPRW21_Muglikar.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021.
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](https://github.com/uzh-rpg/e2calib), [YouTube](https://youtu.be/UlTd9Z25WGM), [Code](https://github.com/uzh-rpg/e2calib).
 
 
 <a name="software-algorithms"></a>
