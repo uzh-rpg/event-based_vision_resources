@@ -2409,6 +2409,9 @@ Ph.D. Thesis, Australian National University, Canberra, Australia, 2021. [PDF](h
 - <a name="Stoffregen21PhD"></a>Stoffregen, T.,  
 *[Motion Estimation by Focus Optimisation: Optic Flow and Motion Segmentation with Event Cameras](https://doi.org/10.26180/14531871.v1)*,  
 Ph.D. Thesis, Monash University, Melbourne, Australia, 2021.
+- <a name="Monforte21PhD"></a>Monforte, M.,  
+*[Trajectory Prediction with Event-Based Cameras for Robotics Applications](http://hdl.handle.net/11567/1047290)*,  
+Ph.D. Thesis, Italian Institute of Technology, Genoa, Italy, 2021. [PDF](https://iris.unige.it/retrieve/handle/11567/1047290/534319/phdunige_4458940.pdf)
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
