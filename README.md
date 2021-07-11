@@ -1975,6 +1975,13 @@ arXiv, 2020. [Project page](https://gvv.mpi-inf.mpg.de/projects/EventHands/)
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Suppl.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Chen_Indoor_Lighting_Estimation_CVPR_2021_supplemental.pdf)
 
 
+<a name="data_encription"></a>
+## Data Encryption
+- <a name="Du21aensors"></a>Du, B., Li, W., Wang, Z., Xu, M., Gao, T., Li, J., Wen, H.,  
+*[Event Encryption for Neuromorphic Vision Sensors: Framework, Algorithm, and Evaluation](https://doi.org/10.3390/s21134320)*,  
+Sensors, 2021.
+
+
 <br><br>
 <a name="datasets"></a>
 # Datasets and Simulators (sorted by topic)
