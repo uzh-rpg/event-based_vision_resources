@@ -1257,7 +1257,9 @@ IEEE Robotics and Automation Letters (RA-L), 6(3):6016-6023, 2021. [Project page
 - <a name="Liu21cvpr"></a>Liu, D., Parra, A., Chin, T.-J.,  
 *[Spatiotemporal Registration for Event-Based Visual Odometry](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Spatiotemporal_Registration_for_Event-Based_Visual_Odometry_CVPR_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Liu_Spatiotemporal_Registration_for_CVPR_2021_supplemental.pdf), [PDF](http://arxiv.org/abs/2103.05955), [Dataset](https://github.com/liudaqikk/RobotEvt)
-
+- <a name="Wang21arxiv"></a>Wang, Y., Yang, J., Peng, X., Wu, P., Gao, L., Huang, K., Chen, J., Kneip, L.,  
+*[Visual Odometry with an Event Camera Using Continuous Ray Warping and Volumetric Contrast Maximization](https://arxiv.org/abs/2107.03011)*,  
+arXiv, 2021.
 
 #### Stereo
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
