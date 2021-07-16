@@ -731,7 +731,7 @@ IEEE Trans. Image Processing, 30:2488-2500, 2021. [Project page](https://github.
 *Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.
 - <a name="ParedesValles21cvpr"></a>Paredes-Valles, F., de Croon, G. C. H. E.,  
 *[Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy](https://openaccess.thecvf.com/content/CVPR2021/papers/Paredes-Valles_Back_to_Event_Basics_Self-Supervised_Learning_of_Image_Reconstruction_for_CVPR_2021_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](http://mavlab.tudelft.nl/ssl_e2v/), [PDF](https://arxiv.org/abs/2009.08283), [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Paredes-Valles_Back_to_Event_CVPR_2021_supplemental.pdf).
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](http://mavlab.tudelft.nl/ssl_e2v/), [PDF](https://arxiv.org/abs/2009.08283), [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Paredes-Valles_Back_to_Event_CVPR_2021_supplemental.pdf), [Code](https://github.com/tudelft/ssl_e2vid).
 - <a name="Zou21cvpr"></a>Zou, Y., Zheng, Y., Takatani, T., Fu, Y.,  
 *[Learning To Reconstruct High Speed and High Dynamic Range Videos From Events](https://openaccess.thecvf.com/content/CVPR2021/papers/Zou_Learning_To_Reconstruct_High_Speed_and_High_Dynamic_Range_Videos_CVPR_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. 
