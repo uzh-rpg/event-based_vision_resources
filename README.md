@@ -721,9 +721,9 @@ Int. J. Computer Vision (IJCV), 2021.
 - <a name="Wang20arxiv"></a>Wang, Z., Ng, Y., Scheerlinck, C., Mahony., R.,  
 *[An Asynchronous Kalman Filter for Hybrid Event Cameras](https://arxiv.org/abs/2012.05590)*,  
 arXiv, 2020.
-- <a name="Wang20arxivb"></a>Wang, Z., Ng, Y., van Goor, P., Mahony., R.,  
+- <a name="Wang19acra"></a>Wang, Z., Ng, Y., van Goor, P., Mahony., R.,  
 *[Event Camera Calibration of Per-pixel Biased Contrast Threshold](https://arxiv.org/pdf/2012.09378)*,  
-arXiv, 2020.
+Australasian Conf. Robotics and Automation (ACRA) 2019.
 - <a name="GantierCadena21tip"></a>Gantier Cadena, P. R., Qian, Y., Wang, C., Yang, M.,  
 *[SPADE-E2VID: Spatially-Adaptive Denormalization for Event-Based Video Reconstruction](https://doi.org/10.1109/TIP.2021.3052070)*,  
 IEEE Trans. Image Processing, 30:2488-2500, 2021. [Project page](https://github.com/RodrigoGantier/SPADE_E2VID)
