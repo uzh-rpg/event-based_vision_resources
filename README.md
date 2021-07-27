@@ -2198,6 +2198,9 @@ IEEE Sensors Journal, 2020.
 - <a name="Muglikar21cvprw"></a>Muglikar, M., Gehrig, M., Gehrig, D., Scaramuzza, D.,  
 *[How to Calibrate Your Event Camera](http://rpg.ifi.uzh.ch/docs/CVPRW21_Muglikar.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](https://github.com/uzh-rpg/e2calib), [YouTube](https://youtu.be/UlTd9Z25WGM), [Code](https://github.com/uzh-rpg/e2calib).
+- <a name="Huang21iros"></a>Huang, K., Wang, Y., Kneip, L.,  
+*[Dynamic Event Camera Calibration](https://arxiv.org/abs/2107.06749)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [Code](https://github.com/EXing/opengv2).
 
 
 <a name="software-algorithms"></a>
