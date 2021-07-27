@@ -2200,7 +2200,7 @@ IEEE Sensors Journal, 2020.
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](https://github.com/uzh-rpg/e2calib), [YouTube](https://youtu.be/UlTd9Z25WGM), [Code](https://github.com/uzh-rpg/e2calib).
 - <a name="Huang21iros"></a>Huang, K., Wang, Y., Kneip, L.,  
 *[Dynamic Event Camera Calibration](https://arxiv.org/abs/2107.06749)*,  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [Code](https://github.com/EXing/opengv2).
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [Video](https://www.bilibili.com/video/BV1ey4y1j7Ke?share_source=copy_web), [Code](https://github.com/MobilePerceptionLab/EventCameraCalibration).
 
 
 <a name="software-algorithms"></a>
