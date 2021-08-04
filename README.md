@@ -398,6 +398,9 @@ IEEE Sensors 2020. [PDF](https://arxiv.org/pdf/2010.15509).
 - <a name="Liu21arxiv"></a>Liu, Z., Fu, Y.,  
 *[e-ACJ: Accurate Junction Extraction For Event Cameras](https://arxiv.org/pdf/2101.11251)*,  
 arXiv, 2021.
+- <a name="Dong21ICMVA"></a>Dong, Y., Zhang, T.,  
+*[Standard and Event Cameras Fusion for Feature Tracking](https://dl.acm.org/doi/10.1145/3459066.3459075)*,  
+Int. Conf. on Machine Vision and Applications (ICMVA), 2021. [Code](https://github.com/LarryDong/FusionTracking)
 
 
 <a name="corner-detection"></a>
