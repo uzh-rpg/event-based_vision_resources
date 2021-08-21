@@ -1805,8 +1805,8 @@ IEEE Access, 2020.
 - <a name="Banerjee20arxiv"></a>Banerjee, S., Wang, Z. W., Chopp, H. H., Cossairt, O., Katsaggelos, A.,  
 *[Quadtree Driven Lossy Event Compression](https://arxiv.org/pdf/2005.00974.pdf)*,  
 arXiv 2020. [PDF](https://arxiv.org/pdf/2005.00974.pdf)
-- <a name="Khan21IoT-J"></a>N. Khan, K. Iqbal and M. G. Martini,  
-*[Time-Aggregation-Based Lossless Video Encoding for Neuromorphic Vision Sensor Data](https://ieeexplore.ieee.org/document/9136663)*,  
+- <a name="Khan21jiot"></a>Khan, N., Iqbal, K., Martini, M. G.,  
+*[Time-Aggregation-Based Lossless Video Encoding for Neuromorphic Vision Sensor Data](https://doi.org/10.1109/JIOT.2020.3007866)*,  
 IEEE Internet of Things Journal, 2021.
 
 <br><br>
