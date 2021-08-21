@@ -1807,7 +1807,7 @@ IEEE Access, 2020.
 arXiv 2020. [PDF](https://arxiv.org/pdf/2005.00974.pdf)
 - <a name="Khan21IoT-J"></a>N. Khan, K. Iqbal and M. G. Martini,  
 *[Time-Aggregation-Based Lossless Video Encoding for Neuromorphic Vision Sensor Data](https://ieeexplore.ieee.org/document/9136663)*,  
-IEEE Internet of Things Journal, 2021, [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9136663)
+IEEE Internet of Things Journal, 2021.
 
 <br><br>
 <a name="control"></a>
