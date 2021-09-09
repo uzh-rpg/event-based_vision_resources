@@ -401,6 +401,9 @@ arXiv, 2021.
 - <a name="Dong21ICMVA"></a>Dong, Y., Zhang, T.,  
 *[Standard and Event Cameras Fusion for Feature Tracking](https://dl.acm.org/doi/10.1145/3459066.3459075)*,  
 Int. Conf. on Machine Vision and Applications (ICMVA), 2021. [Code](https://github.com/LarryDong/FusionTracking)
+- <a name="Mondal21iccvw"></a>Mondal, A., Shashant, R., Giraldo, J. H., Bouwmans, T., Chowdhury, A. S.,  
+*[Moving Object Detection for Event-based Vision using Graph Spectral Clustering](https://www.researchgate.net/publication/354462913_Moving_Object_Detection_for_Event-based_Vision_using_Graph_Spectral_Clustering)*,  
+IEEE Int. Conf. Computer Vision Workshop (ICCVW), 2021.
 
 
 <a name="corner-detection"></a>
