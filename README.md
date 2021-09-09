@@ -377,7 +377,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [ZDNet news](ht
 IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](https://zenodo.org/record/3816654#.XxHQ9hFS9hE). 
 - [Boettiger, J. P., MSc 2020](#Boettiger20MSc),  
 *A Comparative Evaluation of the Detection and Tracking Capability Between Novel Event-Based and Conventional Frame-Based Sensors*.
-- <a name="Mondal21iccvw"></a>Xu, Mondal, Anindya, R., Shashant, H. Giraldo, Jhony, BOUWMANS, Thierry, S. Chowdhury, Ananda,  
+- <a name="Mondal21iccvw"></a>Mondal, Anindya, R., Shashant, H. Giraldo, Jhony, BOUWMANS, Thierry, S. Chowdhury, Ananda,  
 *[Moving Object Detection for Event-based Vision using Graph Spectral Clustering](https://www.researchgate.net/publication/354462913_Moving_Object_Detection_for_Event-based_Vision_using_Graph_Spectral_Clustering)*,  
 IEEE Conf. International Conference on Computer Vision Workshops (ICCVW), 2021. [Preprint](https://www.researchgate.net/publication/354462913_Moving_Object_Detection_for_Event-based_Vision_using_Graph_Spectral_Clustering/).
 
