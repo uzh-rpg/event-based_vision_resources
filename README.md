@@ -1673,7 +1673,7 @@ IEEE Robotics and Automation Letters (RA-L), 5(3):4265-4272, 2020.
 IAPR IEEE Int. Conf. Pattern Recognition (ICPR), Milan, 2021.
 - <a name="Wang21tpami"></a>Wang. Y., Zhang, X., Shen, Y., Du, B., Zhao, G., Lizhen, L. C. C., Wen, H.,  
 *[Event-Stream Representation for Human Gaits Identification Using Deep Neural Networks](https://doi.org/10.1109/TPAMI.2021.3054886)*,  
-IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2021.
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2021. [Code](https://github.com/zhangxiann/TPAMI_Gait_Identification).
 - <a name="Baldwin21arxiv"></a>Baldwin, R., Ruixu, L., Almatrafi, M., Asari, V., Hirakawa, K.,  
 *[Time-Ordered Recent Event (TORE) Volumes for Event Cameras](https://arxiv.org/abs/2103.06108)*,  
 arXiv:2103.06108, 2021. [Code](https://github.com/bald6354/tore_volumes).
