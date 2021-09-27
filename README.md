@@ -2103,7 +2103,7 @@ IEEE Intelligent Transportation Systems Conf. (ITSC), 2020. [Dataset](https://si
 IEEE Robotics and Automation Letters (RA-L), 2021.
 - <a name="klenk2021tum"></a>Klenk S., Chui, J., Demmel, N., Cremers, D.,  
 *[TUM-VIE: The TUM Stereo Visual-Inertial Event Data Set](https://vision.in.tum.de/data/datasets/visual-inertial-event-dataset)*,  
-arxiv, 2021.
+International Conference on Intelligent Robots and Systems (IROS), 2021.
 
 ### Segmentation
 - [Mitrokhin et al., IROS 2018](#Mitrokhin18iros), Extreme Event Dataset (EED). [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
