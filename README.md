@@ -2101,9 +2101,9 @@ IEEE Intelligent Transportation Systems Conf. (ITSC), 2020. [Dataset](https://si
 - <a name="RodriguezGomez21ral"></a>Rodríguez-Gómez, J. P., Tapia, R., Paneque, J. L., Grau, P., Gómez Eguíluz, A., Martínez-de Dios, J. R., Ollero A.,  
 *[The GRIFFIN Perception Dataset: Bridging the Gap Between Flapping-Wing Flight and Robotic Perception](https://arxiv.org/pdf/2101.10371)*,  
 IEEE Robotics and Automation Letters (RA-L), 2021.
-- <a name="klenk2021tum"></a>Klenk S., Chui, J., Demmel, N., Cremers, D.,  
+- <a name="Klenk21iros"></a>Klenk S., Chui, J., Demmel, N., Cremers, D.,  
 *[TUM-VIE: The TUM Stereo Visual-Inertial Event Data Set](https://vision.in.tum.de/data/datasets/visual-inertial-event-dataset)*,  
-International Conference on Intelligent Robots and Systems (IROS), 2021.
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 
 ### Segmentation
 - [Mitrokhin et al., IROS 2018](#Mitrokhin18iros), Extreme Event Dataset (EED). [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
