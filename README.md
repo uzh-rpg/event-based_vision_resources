@@ -402,7 +402,7 @@ arXiv, 2021.
 *[Standard and Event Cameras Fusion for Feature Tracking](https://dl.acm.org/doi/10.1145/3459066.3459075)*,  
 Int. Conf. on Machine Vision and Applications (ICMVA), 2021. [Code](https://github.com/LarryDong/FusionTracking)
 - <a name="Mondal21iccvw"></a>Mondal, A., Shashant, R., Giraldo, J. H., Bouwmans, T., Chowdhury, A. S.,  
-*[Moving Object Detection for Event-based Vision using Graph Spectral Clustering](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/html/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.html)*,  
+*[Moving Object Detection for Event-based Vision using Graph Spectral Clustering](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.pdf)*,  
 IEEE Int. Conf. Computer Vision Workshop (ICCVW), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.pdf).
 
 
