@@ -803,7 +803,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [YouTube](https://youtu.be/hrfsDOL18pw), [Suppl.](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/supplemental/Paikin_EFI-Net_Video_Frame_CVPRW_2021_supplemental.zip), [Dataset](https://drive.google.com/file/d/1UIGVBqNER_5KguYPAu5y7TVg-JlNhz3-/view?usp=sharing).
 - <a name="Wang21iccv"></a>Wang, Z., Ng, Y., Scheerlinck, C., Mahony., R.,  
 *[An Asynchronous Kalman Filter for Hybrid Event Cameras](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.html)*,  
-IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.html), [Project page](https://github.com/ziweiWWANG/AKF), [YouTube](https://www.youtube.com/watch?v=XPz7laloKws&t=196s)
+IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.pdf), [Project page](https://github.com/ziweiWWANG/AKF), [YouTube](https://www.youtube.com/watch?v=XPz7laloKws&t=196s), [Suppl.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_An_Asynchronous_Kalman_ICCV_2021_supplemental.pdf)
 
 <a name="super-resolution"></a>
 ### Super-resolution
