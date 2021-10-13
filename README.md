@@ -378,7 +378,7 @@ AAAI Conf. Artificial Intelligence, 2020. [PDF](https://www.aaai.org/Papers/AAAI
 - <a name="Monforte20aicas"></a>Monforte, M., Arriandiaga, A., Glover, A., Bartolozzi, C.,  
 *[Exploiting Event Cameras for Spatio-Temporal Prediction of Fast-Changing Trajectories](https://arxiv.org/pdf/2001.01248)*,  
 IEEE Int. Conf. Artificial Intelligence Circuits and Systems (AICAS), 2020.
-- <a name="Sengupta20aicas"></a>Sengupta, J. P., Kubendran, R., Neftci, E., Andreou, A. G.,  *[High-Speed, Real-Time, Spike-Based Object Tracking and Path Prediction on Google Edge TPU.](https://par.nsf.gov/servlets/purl/10212648)*
+- <a name="Sengupta20aicas"></a>Sengupta, J. P., Kubendran, R., Neftci, E., Andreou, A. G.,  *[High-Speed, Real-Time, Spike-Based Object Tracking and Path Prediction on Google Edge TPU.](https://par.nsf.gov/servlets/purl/10212648)*  
 IEEE Int. Conf. Artificial Intelligence Circuits and Systems (AICAS), 2020, pp. 134-135.  
 - <a name="Seok20wacv"></a>Seok, H., Lim, J.,  
 *[Robust Feature Tracking in DVS Event Stream using Bezier Mapping](http://openaccess.thecvf.com/content_WACV_2020/papers/Seok_Robust_Feature_Tracking_in_DVS_Event_Stream_using_Bezier_Mapping_WACV_2020_paper.pdf)*,  
