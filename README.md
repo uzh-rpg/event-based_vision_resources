@@ -378,9 +378,9 @@ AAAI Conf. Artificial Intelligence, 2020. [PDF](https://www.aaai.org/Papers/AAAI
 - <a name="Monforte20aicas"></a>Monforte, M., Arriandiaga, A., Glover, A., Bartolozzi, C.,  
 *[Exploiting Event Cameras for Spatio-Temporal Prediction of Fast-Changing Trajectories](https://arxiv.org/pdf/2001.01248)*,  
 IEEE Int. Conf. Artificial Intelligence Circuits and Systems (AICAS), 2020.
-- <a name="Sengupta2021aicas"></a>Sengupta, J. P., Kubendran, R., Neftci, E., Andreou, A. G.,  
+- <a name="Sengupta20aicas"></a>Sengupta, J. P., Kubendran, R., Neftci, E., Andreou, A. G.,  
 *[High-Speed, Real-Time, Spike-Based Object Tracking and Path Prediction on Google Edge TPU.](https://par.nsf.gov/servlets/purl/10212648)*
-IEEE Int. Conf. Artificial Intelligence Circuits and Systems (AICAS), 2020, pp. 134-135.
+IEEE Int. Conf. Artificial Intelligence Circuits and Systems (AICAS), 2020, pp. 134-135.  
 - <a name="Seok20wacv"></a>Seok, H., Lim, J.,  
 *[Robust Feature Tracking in DVS Event Stream using Bezier Mapping](http://openaccess.thecvf.com/content_WACV_2020/papers/Seok_Robust_Feature_Tracking_in_DVS_Event_Stream_using_Bezier_Mapping_WACV_2020_paper.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2020.  [YouTube](https://youtu.be/mskBdueW9Hc)
@@ -1775,7 +1775,7 @@ British Machine Vision Conf. (BMVC), 2019. [PDF](https://arxiv.org/pdf/1907.0746
 - <a name="Liu19msp"></a>Liu, S.-C., Rueckauer, B., Ceolini, E., Huber, A., Delbruck, T.,  
 *[Event-Driven Sensing for Efficient Perception: Vision and audition algorithms](https://doi.org/10.1109/MSP.2019.2928127)*,  
 IEEE Signal Process. Mag., 36(6):29-37, Nov. 2019.
-- <a name="Sengupta2021ciss1"></a>Sengupta, J. P., Villemur, M., Andreou, A. G.,  
+- <a name="Sengupta21ciss1"></a>Sengupta, J. P., Villemur, M., Andreou, A. G.,  
 *[A Spike-based Cellular-Neural Network Architecture for Spatiotemporal filtering](https://doi.org/10.1109/CISS50987.2021.9400308)*,  
 55th Annual Conf. on Information Sciences and Systems (CISS), 2021, pp. 1-6.
 
@@ -2303,7 +2303,7 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2014. [PDF](http://compneuro.uwa
 - <a name="Graf14CSEDU"></a>Graf, R., King, R., Belbachir, A.,  
 *[Braille Vision Using Braille Display and Bio-inspired Camera](http://dx.doi.org/10.5220/0004949302140219)*,  
 Int. Conf. Computer Supported Education (CSEDU), SCITEPRESS Digital Library, (2014), pp. 214 - 219.
-- <a name="Sengupta2021architecture"></a>Sengupta, J. P., Villemur, M., Mendat, D. R., Tognetti, G., Andreou, A. G.,  
+- <a name="Sengupta21iscas"></a>Sengupta, J. P., Villemur, M., Mendat, D. R., Tognetti, G., Andreou, A. G.,  
 *[Architecture and Algorithm Co-Design Framework for Embedded Processors in Event-Based Cameras](https://doi.org/10.1109/ISCAS51556.2021.9401246)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2020, pp. 1-5.
 
