@@ -453,7 +453,7 @@ J. Imaging, 2021.
 - <a name="Chiberre21cvprw"></a>Chiberre, P., Perot, E., Sironi, A., Lepetit, V.,  
 *[Detecting Stable Keypoints From Events Through Image Gradient Prediction](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Chiberre_Detecting_Stable_Keypoints_From_Events_Through_Image_Gradient_Prediction_CVPRW_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [YouTube](https://youtu.be/Rrkwxp8J18c).
-- <a name="Sengupta2021ciss0"></a>Sengupta, J. P., Villemur, M., Andreou, A. G.,  
+- <a name="Sengupta21ciss0"></a>Sengupta, J. P., Villemur, M., Andreou, A. G.,  
 *[Efficient, event-driven feature extraction and unsupervised object tracking for embedded applications](https://doi.org/10.1109/CISS50987.2021.9400234)*,  
 55th Annual Conf. on Information Sciences and Systems (CISS), 2021.
 
