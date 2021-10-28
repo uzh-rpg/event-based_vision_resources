@@ -1178,14 +1178,18 @@ IEEE Robotics and Automation Letters (RA-L), 5(4):6924-6931, 2020. [PDF includin
 Front. Neurosci. (2020), 14:551.
 - <a name="Nunes20eccv"></a>Nunes, U.M., Demiris, Y.,  
 *[Entropy Minimisation Framework for Event-based Vision Model Estimation](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154.pdf)*,  
-European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154-supp.pdf), [YouTube](https://youtu.be/3pyD9oCESa0), [Code](https://github.com/ImperialCollegeLondon/EventEMin)
-    - <a name="Nunes21cvprw"></a>Nunes, U.M., Demiris, Y.,  
+European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154-supp.pdf), [YouTube](https://youtu.be/3pyD9oCESa0), [Code](https://github.com/ImperialCollegeLondon/EventEMin)  
+- <a name="Nunes21cvprw"></a>Nunes, U.M., Demiris, Y.,  
 *[Live Demonstration: Incremental Motion Estimation for Event-Based Cameras by Dispersion Minimisation](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Nunes_Live_Demonstration_Incremental_Motion_Estimation_for_Event-Based_Cameras_by_Dispersion_CVPRW_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. 
 - <a name="Peng20eccv"></a>Peng, X., Wang, Y., Gao, L., Kneip, L.,  
 *[Globally-Optimal Event Camera Motion Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052.pdf)*,  
-European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052-supp.pdf), [YouTube](https://youtu.be/Px1puptSX9Q)
-    - <a name="Peng21tpami"></a>Peng, X., Gao, L., Wang, Y., Kneip, L.,  
+European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052-supp.pdf), [YouTube](https://youtu.be/Px1puptSX9Q)  
+
+- <a name="Ber20ebccsp"></a>Bertrand, J., Yigit, A., Durand, S.,  
+*[Embedded Event-based Visual Odometry](https://doi.org/10.1109/EBCCSP51266.2020.9291346)*,  
+International Conference on Event-Based Control, Communication, and Signal Processing (EBCCSP), 2020. [Code](https://github.com/Blabla51/Embedded-Event-based-Visual-Odometry)
+- <a name="Peng21tpami"></a>Peng, X., Gao, L., Wang, Y., Kneip, L.,  
 *[Globally-Optimal Contrast Maximisation for Event Cameras](https://doi.org/10.1109/TPAMI.2021.3053243)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2021.
 - <a name="Chamorro20bmvc"></a>Chamorro, W., Andrade-Cetto, J., Solà, J.,  
@@ -1266,10 +1270,7 @@ IEEE Int. Electron Devices Meeting (IEDM), 2019.
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [Project page](https://github.com/liudaqikk/CMBNB-demo)
 - <a name="Gehrig20icra"></a>Gehrig, M., Shrestha, S. B., Mouritzen, D., Scaramuzza, D.,  
 *[Event-Based Angular Velocity Regression with Spiking Networks](https://arxiv.org/pdf/2003.02790)*,  
-IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA20_Gehrig.pdf), [Code](https://github.com/uzh-rpg/snn_angular_velocity)
-- <a name="Ber20ebccsp"></a>Bertrand, J., Yigit, A., Durand, S.,  
-*[Embedded Event-based Visual Odometry](https://doi.org/10.1109/EBCCSP51266.2020.9291346)*,  
-International Conference on Event-Based Control, Communication, and Signal Processing (EBCCSP), 2020. [Code](https://github.com/Blabla51/Embedded-Event-based-Visual-Odometry)  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA20_Gehrig.pdf), [Code](https://github.com/uzh-rpg/snn_angular_velocity)  
 - <a name="Kim21ral"></a>Kim, H., Kim, H.J.,  
 *[Real-Time Rotational Motion Estimation With Contrast Maximization Over Globally Aligned Events](https://doi.org/10.1109/LRA.2021.3088793)*,  
 IEEE Robotics and Automation Letters (RA-L), 6(3):6016-6023, 2021. [Project page and Dataset](https://haram-kim.github.io/Globally_Aligned_Events/), [YouTube](https://youtu.be/wHeyIWEuEg4), [Code](https://github.com/Haram-kim/Globally_Aligned_Events)
