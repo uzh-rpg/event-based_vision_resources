@@ -1179,19 +1179,18 @@ Front. Neurosci. (2020), 14:551.
 - <a name="Nunes20eccv"></a>Nunes, U.M., Demiris, Y.,  
 *[Entropy Minimisation Framework for Event-based Vision Model Estimation](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154-supp.pdf), [YouTube](https://youtu.be/3pyD9oCESa0), [Code](https://github.com/ImperialCollegeLondon/EventEMin)  
-- <a name="Nunes21cvprw"></a>Nunes, U.M., Demiris, Y.,  
+  - <a name="Nunes21cvprw"></a>Nunes, U.M., Demiris, Y.,  
 *[Live Demonstration: Incremental Motion Estimation for Event-Based Cameras by Dispersion Minimisation](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Nunes_Live_Demonstration_Incremental_Motion_Estimation_for_Event-Based_Cameras_by_Dispersion_CVPRW_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. 
 - <a name="Peng20eccv"></a>Peng, X., Wang, Y., Gao, L., Kneip, L.,  
 *[Globally-Optimal Event Camera Motion Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052-supp.pdf), [YouTube](https://youtu.be/Px1puptSX9Q)  
-
+  - <a name="Peng21tpami"></a>Peng, X., Gao, L., Wang, Y., Kneip, L.,  
+*[Globally-Optimal Contrast Maximisation for Event Cameras](https://doi.org/10.1109/TPAMI.2021.3053243)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2021.
 - <a name="Ber20ebccsp"></a>Bertrand, J., Yigit, A., Durand, S.,  
 *[Embedded Event-based Visual Odometry](https://doi.org/10.1109/EBCCSP51266.2020.9291346)*,  
 International Conference on Event-Based Control, Communication, and Signal Processing (EBCCSP), 2020. [Code](https://github.com/Blabla51/Embedded-Event-based-Visual-Odometry)
-- <a name="Peng21tpami"></a>Peng, X., Gao, L., Wang, Y., Kneip, L.,  
-*[Globally-Optimal Contrast Maximisation for Event Cameras](https://doi.org/10.1109/TPAMI.2021.3053243)*,  
-IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2021.
 - <a name="Chamorro20bmvc"></a>Chamorro, W., Andrade-Cetto, J., Solà, J.,  
 *[High-Speed Event Camera Tracking](https://www.bmvc2020-conference.com/conference/papers/paper_0366.html)*,  
 British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference.com/assets/papers/0366.pdf), [Suppl. Mat.](https://www.bmvc2020-conference.com/assets/supp/0366_supp.zip), [PDF](https://arxiv.org/pdf/2010.02771)
