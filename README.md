@@ -911,6 +911,9 @@ IEEE Signal Processing Letters (LSP), 2020. [Project page](https://github.com/as
 - <a name="Takatani21cvpr"></a>Takatani, T., Ito, Y., Ebisu, A., Zheng, Y., Aoto, T.,  
 *[Event-Based Bispectral Photometry Using Temporally Modulated Illumination](https://openaccess.thecvf.com/content/CVPR2021/papers/Takatani_Event-Based_Bispectral_Photometry_Using_Temporally_Modulated_Illumination_CVPR_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](https://cigl.iit.tsukuba.ac.jp/portfolio/event-based-bispectral-photometry), [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Takatani_Event-Based_Bispectral_Photometry_CVPR_2021_supplemental.pdf), [YouTube](https://youtu.be/BJLDMUQeDB8).
+- <a name="Xueyan21OE"></a>Huang, X., Zhang, Y., Xiong Z.,  
+*[high-speed structured light based 3D scanning using an event camera](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-22-35864&id=460651)*,  
+Optics Express, 2021. [Video](https://osapublishing.figshare.com/articles/media/Tearing_A_Piece_Of_Paper_120Fps_mp4/14984802).
 
 
 <a name="depth-stereo"></a>
