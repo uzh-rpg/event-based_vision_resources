@@ -1286,7 +1286,7 @@ arXiv, 2021.
 #### Stereo
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
 *[Event-based Stereo Visual Odometry](https://doi.org/10.1109/TRO.2021.3062252)*,  
-IEEE Trans. Robot., 2021. [PDF](https://arxiv.org/pdf/2007.15548), [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git)
+IEEE Trans. Robot., 2021. [Project page](https://sites.google.com/view/esvo-project-page/home), [PDF](https://arxiv.org/pdf/2007.15548), [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git).
 
 
 <a name="visual-inertial"></a>
@@ -1369,9 +1369,10 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](http://op
 arXiv, 2020.
 - [Kepple et al., ECCV 2020](#Kepple20eccv),  
 *Jointly learning visual motion and confidence from local patches in event cameras*.
-- <a name="Zhou20arxivb"></a>Zhou, Y., Gallego, G., Lu, X., Liu, S., Shen, S.,  
+- <a name="Zhou21tnnls"></a>Zhou, Y., Gallego, G., Lu, X., Liu, S., Shen, S.,  
 *[Event-based Motion Segmentation with Spatio-Temporal Graph Cuts](https://arxiv.org/pdf/2012.08730)*,  
-arXiv, 2020.
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2021.  [Project page](https://sites.google.com/view/emsgc),  [YouTube](https://youtu.be/ztUyNlKUwcM), [Code](https://github.com/HKUST-Aerial-Robotics/EMSGC.git).
+
 
 
 <a name="pattern-recognition"></a>
