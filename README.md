@@ -650,6 +650,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [You
 - <a name="Barbier21cvprw"></a>Barbier, T., Teuliere, C., Triesch, J.,  
 *[Spike Timing-Based Unsupervised Learning of Orientation, Disparity, and Motion Representations in a Spiking Neural Network](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Barbier_Spike_Timing-Based_Unsupervised_Learning_of_Orientation_Disparity_and_Motion_Representations_CVPRW_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Suppl.](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/supplemental/Barbier_Spike_Timing-Based_Unsupervised_CVPRW_2021_supplemental.pdf), [YouTube](https://youtu.be/TL567P70L68).
+- <a name="Gehrig21threedv"></a>Gehrig, M., Millhäusler, M., Gehrig, D., Scaramuzza, D.,  
+*[E-RAFT: Dense Optical Flow from Event Cameras](https://arxiv.org/pdf/2108.10552)*,  
+IEEE Int. Conf. on 3D Vision (3DV), 2021. [Code](https://github.com/uzh-rpg/E-RAFT), [Dataset](https://dsec.ifi.uzh.ch), [Youtube](https://youtu.be/dN8fl7-XfNw)
 
 
 <a name="scene-flow-estimation"></a>
