@@ -1915,9 +1915,11 @@ IEEE Robotics and Automation Letters (RA-L), 5(4):6239-6246, Oct. 2020. [PDF](ht
 *[Event-Based PID Controller Fully Realized in Neuromorphic Hardware: A One DoF Study](https://ras.papercept.net/proceedings/IROS20/1350.pdf)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
 - <a name="Delbruck21cvprw"></a>Delbruck, T., Graca, R., Paluch, M.,  
-*[Feedback control of event cameras](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Hu_v2e_From_Video_Frames_to_Realistic_DVS_Events_CVPRW_2021_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021.
-
+*[Feedback control of event cameras](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Hu_v2e_From_Video_Frames_to_Realistic_DVS_Events_CVPRW_2021_paper.pdf)*, IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021.
+*[Event-driven Vision and Control for UAVs on a Neuromorphic Chip](http://rpg.ifi.uzh.ch/docs/ICRA21_Vitale.pdf)*,
+IEEE International Conference on Robotics and Automation (ICRA), Xi'an, 2021.
+<a name="Vitale21icra"></a>Vitale, A., Renner, A., Nauer, C., Scaramuzza, D., Sandamirskaya, Y.,
+[YouTube](https://youtu.be/uGEK8eT9Qb0), [PPT Slides](http://rpg.ifi.uzh.ch/docs/ICRA2021_PID%20Controller.pptx)
 
 <a name="space"></a>
 ## Space Applications
