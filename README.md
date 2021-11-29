@@ -1190,7 +1190,10 @@ Front. Neurosci. (2020), 14:551.
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500154-supp.pdf), [YouTube](https://youtu.be/3pyD9oCESa0), [Code](https://github.com/ImperialCollegeLondon/EventEMin)
     - <a name="Nunes21cvprw"></a>Nunes, U.M., Demiris, Y.,  
 *[Live Demonstration: Incremental Motion Estimation for Event-Based Cameras by Dispersion Minimisation](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Nunes_Live_Demonstration_Incremental_Motion_Estimation_for_Event-Based_Cameras_by_Dispersion_CVPRW_2021_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. 
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Code](https://github.com/ImperialCollegeLondon/event_emin_ros)
+    - <a name="Nunes21tpami"></a>Nunes, U.M., Demiris, Y.,  
+*[Robust Event-based Vision Model Estimation by Dispersion Minimisation](https://doi.org/10.1109/TPAMI.2021.3130049)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2021. [Suppl. Mat.](https://doi.org/10.1109/TPAMI.2021.3130049/mm1), [Code](https://github.com/ImperialCollegeLondon/EventEMin)
 - <a name="Peng20eccv"></a>Peng, X., Wang, Y., Gao, L., Kneip, L.,  
 *[Globally-Optimal Event Camera Motion Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052-supp.pdf), [YouTube](https://youtu.be/Px1puptSX9Q)
