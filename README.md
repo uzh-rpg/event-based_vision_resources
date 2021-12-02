@@ -920,6 +920,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](
 - <a name="Xueyan21oe"></a>Huang, X., Zhang, Y., Xiong Z.,  
 *[High-speed structured light based 3D scanning using an event camera](https://doi.org/10.1364/OE.437944)*,  
 Optics Express, 2021. [Video](https://osapublishing.figshare.com/articles/media/Tearing_A_Piece_Of_Paper_120Fps_mp4/14984802).
+- <a name="Muglikar21esl"></a>Muglikar, M., Gallego, G., Scaramuzza, D.,  
+*[ESL: Event-based Structured Light](http://rpg.ifi.uzh.ch/docs/3DV21_Muglikar_ESL.pdf)*,  
+IEEE Int. Conf. 3D Vision (3DV), 2021. [Poster](http://rpg.ifi.uzh.ch/docs/3DV21_Muglikar_ESL_poster.pdf), [YouTube](https://youtu.be/SITmvZ8VLfs), [Project page, Dataset and Code](http://rpg.ifi.uzh.ch/esl.html).
 
 
 <a name="depth-stereo"></a>
