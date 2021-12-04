@@ -1508,7 +1508,9 @@ IEEE Robotics and Automation Letters (RA-L), 5(3):4596-4603, July 2020.
 - <a name="Patel21abec"></a>Patel, H., Iaboni, C., Lobo, D., Choi, J., Abichandani, P.,  
 *[Event Camera Based Real-Time Detection and Tracking of Indoor Ground Robots](https://arxiv.org/pdf/2102.11916v1)*,  
 arXiv, 2021.
-
+*[N-ImageNet: Towards Robust, Fine-Grained Object Recognition with Event Cameras](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_N-ImageNet_Towards_Robust_Fine-Grained_Object_Recognition_With_Event_Cameras_ICCV_2021_paper.pdf),*  
+IEEE Int. Conf. Computer Vision (ICCV), 2021.
+[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_N-ImageNet_Towards_Robust_Fine-Grained_Object_Recognition_With_Event_Cameras_ICCV_2021_paper.pdf), [Suppl. Mat.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Kim_N-ImageNet_Towards_Robust_ICCV_2021_supplemental.pdf), [PDF arXiv](https://arxiv.org/pdf/2112.01041.pdf), [Github Page](https://github.com/82magnolia/n_imagenet), [N-ImageNet Dataset](https://www.dropbox.com/sh/47we7z2gff5barh/AADU4GyWnzLFzMzBDjLP00baa?dl=0).
 
 <a name="gesture-recognition"></a>
 ### Gesture Recognition
