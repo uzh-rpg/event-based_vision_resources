@@ -241,7 +241,7 @@ EURASIP J. Embedded Systems, 2007:082174. [PDF](http://citeseerx.ist.psu.edu/vie
 ACM/IEEE Int. Conf. on Distributed Smart Cameras, 2007. [PDF](http://belbachir.info/PDF/icdsc2007.pdf)
 - <a name="Ni12tro"></a>Ni, Z., Bolopion, A., Agnus, J., Benosman, R., Regnier, S.,  
 *[Asynchronous event-based visual shape tracking for stable haptic feedback in microrobotics](https://doi.org/10.1109/TRO.2012.2198930)*,  
-IEEE Trans. Robot., 28(5):1081-1089, 2012. [PDF](https://www.neuromorphic-vision.com/public/publications/15/publication.pdf)
+IEEE Trans. Robot. (TRO), 28(5):1081-1089, 2012. [PDF](https://www.neuromorphic-vision.com/public/publications/15/publication.pdf)
     - [Ni, Ph.D. Thesis, 2013](#Ni13PhD),  
 *Asynchronous Event Based Vision:  Algorithms and Applications to Microrobotics*.
     - <a name="Ni15neco"></a>Ni, Z., Ieng, S. H., Posch, C., Regnier, S., Benosman, R.,  
@@ -922,7 +922,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](
 Optics Express, 2021. [Video](https://osapublishing.figshare.com/articles/media/Tearing_A_Piece_Of_Paper_120Fps_mp4/14984802).
 - <a name="Muglikar21esl"></a>Muglikar, M., Gallego, G., Scaramuzza, D.,  
 *[ESL: Event-based Structured Light](http://rpg.ifi.uzh.ch/docs/3DV21_Muglikar_ESL.pdf)*,  
-IEEE Int. Conf. 3D Vision (3DV), 2021. [Poster](http://rpg.ifi.uzh.ch/docs/3DV21_Muglikar_ESL_poster.pdf), [YouTube](https://youtu.be/SITmvZ8VLfs), [Project page, Dataset and Code](http://rpg.ifi.uzh.ch/esl.html).
+IEEE Int. Conf. 3D Vision (3DV), 2021. [Poster](http://rpg.ifi.uzh.ch/docs/3DV21_Muglikar_ESL_poster.pdf), [YouTube](https://youtu.be/SITmvZ8VLfs), [Project page and Dataset](http://rpg.ifi.uzh.ch/esl.html), [Code](https://github.com/uzh-rpg/ESL).
 
 
 <a name="depth-stereo"></a>
@@ -1298,14 +1298,14 @@ arXiv, 2021.
 #### Stereo
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
 *[Event-based Stereo Visual Odometry](https://doi.org/10.1109/TRO.2021.3062252)*,  
-IEEE Trans. Robot., 2021. [Project page](https://sites.google.com/view/esvo-project-page/home), [PDF](https://arxiv.org/pdf/2007.15548), [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git).
+IEEE Trans. Robot. (TRO), 2021. [Project page](https://sites.google.com/view/esvo-project-page/home), [PDF](https://arxiv.org/pdf/2007.15548), [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git).
 
 
 <a name="visual-inertial"></a>
 ### Visual-Inertial Odometry
 - <a name="Mueggler18tro"></a>Mueggler, E., Gallego, G., Rebecq, H., Scaramuzza, D.,  
 *[Continuous-Time Visual-Inertial Odometry for Event Cameras](http://rpg.ifi.uzh.ch/docs/TRO18_Mueggler.pdf)*,  
-IEEE Trans. Robot., 2018.
+IEEE Trans. Robot. (TRO), 2018.
 - [Mueggler et al., IJRR 2017](#Mueggler17ijrr).  
 *The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
 - <a name="Zhu17cvpr"></a>Zhu, A., Atanasov, N., Daniilidis, K.,  
@@ -1925,10 +1925,9 @@ IEEE Robotics and Automation Letters (RA-L), 5(4):6239-6246, Oct. 2020. [PDF](ht
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
 - <a name="Delbruck21cvprw"></a>Delbruck, T., Graca, R., Paluch, M.,  
 *[Feedback control of event cameras](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Hu_v2e_From_Video_Frames_to_Realistic_DVS_Events_CVPRW_2021_paper.pdf)*, IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021.
-- <a name="Vitale21icra"></a>Vitale, A., Renner, A., Nauer, C., Scaramuzza, D., Sandamirskaya, Y.,
-*[Event-driven Vision and Control for UAVs on a Neuromorphic Chip](http://rpg.ifi.uzh.ch/docs/ICRA21_Vitale.pdf)*,
-IEEE International Conference on Robotics and Automation (ICRA), Xi'an, 2021.
-[YouTube](https://youtu.be/uGEK8eT9Qb0), [PPT Slides](http://rpg.ifi.uzh.ch/docs/ICRA2021_PID%20Controller.pptx)
+- <a name="Vitale21icra"></a>Vitale, A., Renner, A., Nauer, C., Scaramuzza, D., Sandamirskaya, Y.,  
+*[Event-driven Vision and Control for UAVs on a Neuromorphic Chip](https://doi.org/10.1109/ICRA48506.2021.9560881)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2021. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA21_Vitale.pdf), [YouTube](https://youtu.be/uGEK8eT9Qb0), [PPT Slides](http://rpg.ifi.uzh.ch/docs/ICRA2021_PID%20Controller.pptx).
 
 <a name="space"></a>
 ## Space Applications
