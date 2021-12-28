@@ -1838,8 +1838,7 @@ arXiv, 2020.
 *Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.
 - Alkendi Y., Azzam R., Ayyad A., Javed S., Seneviratne L., and Zweiri Y.
 [Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers](https://arxiv.org/abs/2112.09685). 
-arXiv, 2021. [PDF](https://arxiv.org/abs/2112.09685). [Youtube](https://www.youtube.com/watch?v=x0FXZLEenJ8), [Dataset](https://github.com/Yusra-alkendi/ED-KoGTL)
-
+arXiv, 2021. [PDF](https://arxiv.org/abs/2112.09685). [Youtube](https://www.youtube.com/watch?v=x0FXZLEenJ8), [Dataset](https://github.com/Yusra-alkendi/ED-KoGTL). 
 
 <a name="compression"></a>
 ### Compression
