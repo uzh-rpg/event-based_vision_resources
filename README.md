@@ -1835,8 +1835,10 @@ IEEE Trans. Multimedia (TMM), 2020.
 *[A Noise Filter for Dynamic Vision Sensors based on Global Space and Time Information](https://arxiv.org/pdf/2004.04079)*,  
 arXiv, 2020.
 - [Baldwin et al., arXiv 2021](#Baldwin21arxiv).  
-*Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.
-
+*Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.  
+- Alkendi Y., Azzam R., Ayyad A., Javed S., Seneviratne L., and Zweiri Y.
+[Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers](https://arxiv.org/abs/2112.09685). 
+arXiv, 2021. [PDF](https://arxiv.org/abs/2112.09685). [Youtube](https://www.youtube.com/watch?v=x0FXZLEenJ8), [Dataset](https://github.com/Yusra-alkendi/ED-KoGTL).  
 
 <a name="compression"></a>
 ### Compression
