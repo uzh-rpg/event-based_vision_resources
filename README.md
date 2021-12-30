@@ -1225,8 +1225,8 @@ IEEE Int. Conf. Computer Vision (ICCV), 2021. [Project page](http://vis-www.cs.u
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
-- <a name="Muthusamy20ieeeaccess"></a>Muthusamy, R., Ayyad, A., Halwani, M., Swart, D., Gan, D., Seneviratne, L., Zweiri, Y.,   
-*[Neuromorphic Eye-in-Hand Visual Servoing](https://ieeexplore.ieee.org/document/9395430)*,  
+- <a name="Muthusamy21ieeeaccess"></a>Muthusamy, R., Ayyad, A., Halwani, M., Swart, D., Gan, D., Seneviratne, L., Zweiri, Y.,   
+*[Neuromorphic Eye-in-Hand Visual Servoing](https://doi.org/10.1109/ACCESS.2021.3071261)*,  
 IEEE Access, 2021. [YouTube](https://www.youtube.com/watch?v=g0R-mC43CX0).
 - <a name="Muthusamy20arxiv"></a>Gomez Eguiluz, A., Rodriguez-Gomez, J.P., Martinez-de Dios, J.R., Ollero, A.,  
 *[Asynchronous Event-based Line Tracking for Time-to-Contact Maneuvers in UAS](https://griffin-erc-advanced-grant.eu/wp-content/uploads/2020/08/Asynchronous-Event-based-Line-Tracking-for-Time-to-Contact-Maneuvers-in-UAS.pdf)*,  
