@@ -1096,7 +1096,7 @@ Advanced Robotics, 2020.
 AAAI Conf. Artificial Intelligence, 2021.
 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16171/15978), [Video](https://youtu.be/ow2TsNMo_T4), [Project page](https://sites.google.com/site/gachoncvip/projects/deep-event-based-stereo-matching)
 - <a name="Wang21iros"></a>Wang, Z., Pan, L., Ng, Y., Zhuang, Z., Mahony., R.,   
-*[Stereo Hybrid Event-Frame (SHEF) Cameras for 3D Perception](https://ieeexplore.ieee.org/abstract/document/9636312)*,  
+*[Stereo Hybrid Event-Frame (SHEF) Cameras for 3D Perception](https://doi.org/10.1109/IROS51168.2021.9636312)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 [PDF](https://arxiv.org/abs/2110.04988), [Video](https://www.youtube.com/watch?v=Azu7rJSPGNc), [Dataset](https://github.com/ziweiWWANG/SHEF)
 
