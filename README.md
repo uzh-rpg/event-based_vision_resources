@@ -1304,7 +1304,7 @@ arXiv, 2021.
 IEEE Trans. Robot. (TRO), 2021. [Project page](https://sites.google.com/view/esvo-project-page/home), [PDF](https://arxiv.org/pdf/2007.15548), [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git).
 - <a name="Xiao21icrmv"></a>Xiao, K., Wang, G., Chen, Y., Xie, Y., Li, H.,  
 *[Research on Event Accumulator Settings for Event-Based SLAM](https://arxiv.org/abs/2112.00427)*,  
-arXiv, 2022. [PDF(Monocular VIO ony)](https://arxiv.org/abs/2112.00427), [Code (VIO and Stereo)](https://github.com/robin-shaun/event-slam-accumulator-settings).
+arXiv, 2021. [PDF(Monocular VIO ony)](https://arxiv.org/abs/2112.00427), [Code (VIO and Stereo)](https://github.com/robin-shaun/event-slam-accumulator-settings).
 
 
 <a name="visual-inertial"></a>
@@ -1336,7 +1336,7 @@ IEEE Robotics and Automation Letters (RA-L), 3(2):994-1001, Apr. 2018. [PDF](htt
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020. [PDF](https://arxiv.org/pdf/2008.05749)
 - <a name="Xiao21icrmv"></a>Xiao, K., Wang, G., Chen, Y., Xie, Y., Li, H.,  
 *[Research on Event Accumulator Settings for Event-Based SLAM](https://arxiv.org/abs/2112.00427)*,  
-arXiv, 2022. [PDF(Monocular VIO ony)](https://arxiv.org/abs/2112.00427), [Code (VIO and Stereo)](https://github.com/robin-shaun/event-slam-accumulator-settings).
+arXiv, 2021. [PDF(Monocular VIO ony)](https://arxiv.org/abs/2112.00427), [Code (VIO and Stereo)](https://github.com/robin-shaun/event-slam-accumulator-settings).
 
 
 <a name="segmentation"></a>
