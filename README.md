@@ -1936,6 +1936,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
 - <a name="Vitale21icra"></a>Vitale, A., Renner, A., Nauer, C., Scaramuzza, D., Sandamirskaya, Y.,  
 *[Event-driven Vision and Control for UAVs on a Neuromorphic Chip](https://doi.org/10.1109/ICRA48506.2021.9560881)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2021. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA21_Vitale.pdf), [YouTube](https://youtu.be/uGEK8eT9Qb0), [PPT Slides](http://rpg.ifi.uzh.ch/docs/ICRA2021_PID%20Controller.pptx).
+- <a name="Ayyad21arxiv"></a>Ayyad, A., Halwani, M., Swart, D., Muthusamy, R., Almaskari, F., Zweiri, Y.,   
+*[Neuromorphic Vision Based Control for the Precise Positioning of Robotic Drilling Systems](https://arxiv.org/pdf/2201.01626)*,  
+arXiv, 2021. [Video](https://drive.google.com/file/d/1q9QwPvkd7ZcEBcGMIxIVy2r_iRfTKCSe/view).
 
 <a name="space"></a>
 ## Space Applications
