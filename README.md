@@ -1302,8 +1302,8 @@ arXiv, 2021.
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
 *[Event-based Stereo Visual Odometry](https://doi.org/10.1109/TRO.2021.3062252)*,  
 IEEE Trans. Robot. (TRO), 2021. [Project page](https://sites.google.com/view/esvo-project-page/home), [PDF](https://arxiv.org/pdf/2007.15548), [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git).
-- [Xiao et al., arXiv 2021](#Xiao22icrmv),
-Research on Event Accumulator Settings for Event-Based SLAM.
+- [Xiao et al., arXiv 2021](#Xiao22icrmv),  
+*Research on Event Accumulator Settings for Event-Based SLAM*.
 
 <a name="visual-inertial"></a>
 ### Visual-Inertial Odometry
