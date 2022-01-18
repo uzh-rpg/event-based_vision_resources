@@ -638,7 +638,7 @@ European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/
 Sensors 2021, 21, 1150. [PDF](https://www.mdpi.com/1424-8220/21/4/1150/pdf)
 - [Paredes-Valles et al., CVPR 2021](#ParedesValles21cvpr),  
 *Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy.*
-- <a name="ParedesValles21nips"></a>Paredes-Valles, F., Hagenaars, J. J., de Croon, G. C. H. E.,  
+- <a name="Hagenaars21neurips"></a>Hagenaars, J. J., Paredes-Valles, F., de Croon, G. C. H. E.,  
 *[Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks](https://proceedings.neurips.cc/paper/2021/hash/39d4b545fb02556829aab1db805021c3-Abstract.html)*,  
 Advances in Neural Information Processing Systems 34 (NeurIPS), 2021. [Project page](https://mavlab.tudelft.nl/event_flow/), [PDF](https://proceedings.neurips.cc/paper/2021/file/39d4b545fb02556829aab1db805021c3-Paper.pdf), [Suppl. Mat.](https://proceedings.neurips.cc/paper/2021/file/39d4b545fb02556829aab1db805021c3-Supplemental.pdf), [Code](https://github.com/tudelft/event_flow).
 - <a name="Sikorski21cvprw"></a>Sikorski, O., Izzo, D., Meoni, G.,  
@@ -1748,7 +1748,7 @@ Int. Symp. Low Power Electronics and Design (ISLPED), 2020. [PDF](https://www.re
 *Learning Monocular Dense Depth from Events.*
 - [Gehrig et al., RA-L, 2021](#Gehrig21ral)   
 *Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction*
-- [Paredes-Valles et al., arXiv 2021](#ParedesValles21nips),  
+- [Hagenaars et al., arXiv 2021](#Hagenaars21neurips),  
 *Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks.*
 
 
