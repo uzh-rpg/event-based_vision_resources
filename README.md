@@ -1748,7 +1748,7 @@ Int. Symp. Low Power Electronics and Design (ISLPED), 2020. [PDF](https://www.re
 *Learning Monocular Dense Depth from Events.*
 - [Gehrig et al., RA-L, 2021](#Gehrig21ral)   
 *Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction*
-- [Hagenaars et al., arXiv 2021](#Hagenaars21neurips),  
+- [Hagenaars et al., NeurIPS 2021](#Hagenaars21neurips),  
 *Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks.*
 
 
