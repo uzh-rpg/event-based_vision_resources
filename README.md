@@ -836,13 +836,16 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021.
 - <a name="Duan21cvpr"></a>Duan, P., Wang, Z. W., Zhou, X., Ma, Y., Shi, B.,  
 *[EventZoom: Learning To Denoise and Super Resolve Neuromorphic Events](https://openaccess.thecvf.com/content/CVPR2021/papers/Duan_EventZoom_Learning_To_Denoise_and_Super_Resolve_Neuromorphic_Events_CVPR_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](https://sites.google.com/view/EventZoom), [Suppl.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Duan_EventZoom_Learning_To_CVPR_2021_supplemental.zip)
+- <a name="Han21iccv"></a>Han, J., Yang, Y., Zhou, C., Xu, C., Shi, B.,  
+*[EvIntSR-Net: Event Guided Multiple Latent Frames Reconstruction and Super-resolution](https://openaccess.thecvf.com/content/ICCV2021/papers/Han_EvIntSR-Net_Event_Guided_Multiple_Latent_Frames_Reconstruction_and_Super-Resolution_ICCV_2021_paper.pdf)*,  
+IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Han_EvIntSR-Net_Event_Guided_Multiple_Latent_Frames_Reconstruction_and_Super-Resolution_ICCV_2021_paper.pdf), [Suppl.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Han_EvIntSR-Net_Event_Guided_ICCV_2021_supplemental.pdf)
 
 
 <a name="joint-filtering"></a>
 ### Joint/guided filtering
 - <a name="Wang20cvpr-gef"></a>Wang, Z. W., Duan, P., Cossairt, O., Katsaggelos, A., Huang, T., Shi, B.,  
 *[Joint Filtering of Intensity Images and Neuromorphic Events for High-Resolution Noise-Robust Imaging](https://compphotolab.northwestern.edu/wordpress/wp-content/uploads/2020/04/cvpr2020-gef-compressed.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https://youtu.be/JpJFBZ97KX0), [Dataset](https://sites.google.com/view/guided-event-filtering)
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https://youtu.be/JpJFBZ97KX0), [Dataset](https://sites.google.com/view/guided-event-filtering)  
 
 
 <a name="tone-mapping"></a>
