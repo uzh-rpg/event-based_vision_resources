@@ -1852,6 +1852,9 @@ arXiv, 2020.
 - <a name="Alkendi21arxiv"></a>Alkendi, Y., Azzam, R., Ayyad, A., Javed, S., Seneviratne, L., Zweiri, Y.,  
 [Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers](https://arxiv.org/pdf/2112.09685),  
 arXiv, 2021. [Youtube](https://www.youtube.com/watch?v=x0FXZLEenJ8), [Dataset](https://github.com/Yusra-alkendi/ED-KoGTL)
+- <a name="Guo22pami"></a>Guo, S.  and Delbruck, T.,  
+[Low Cost and Latency Event Camera Background Activity Denoising](https://doi.org/10.1109/TPAMI.2022.3152999),  
+IEEE Trans. Pattern Anal. Mach. Intell., 2022. [DND21 DeNoising Dynamic vision sensors website](https://sites.google.com/view/dnd21/home)
 
 <a name="compression"></a>
 ### Compression
