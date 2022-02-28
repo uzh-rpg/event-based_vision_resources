@@ -2119,7 +2119,7 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 - [Bardow et al., CVPR2016](#Bardow16cvpr), [Four sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
 - [Zhu et al., RAL2018](#Zhu18mvsec): *MVSEC The Multi Vehicle Stereo Event Camera Dataset*.
 - [Almatrafi et al. PAMI 2020](#Almatrafi20arxiv): *Distance Surface for Event-Based Optical Flow*. [DVSMOTION20 Dataset](https://sites.google.com/a/udayton.edu/issl/software/dataset?authuser=0)
-- [Liu and Delbruck TCSVT 2022](#LiuDelbruck22tcsvt): *EDFLOW21 Event Driven Flow dataset*. [EDFLOW21 dataset](https://sites.google.com/view/edflow21/home)
+-  [EDFLOW21 Event Driven Optical Flow Camera dataset](https://sites.google.com/view/edflow21/home) associated with the paper *EDFLOW: Event Driven Optical Flow Camera with Keypoint Detection and Adaptive Block Matching*, IEEE Trans. Circuits Syst. Video Technol., (TCSVT), Accepted Feb 26, 2022.
 
 ### Intensity-Image Reconstruction from events
 - [Bardow et al., CVPR2016](#Bardow16cvpr), [Four sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
