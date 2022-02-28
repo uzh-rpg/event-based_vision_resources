@@ -2086,7 +2086,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - <a name="Nehvi21cvprw"></a>Nehvi, J., Golyanik, V., Mueller, F., Seidel, H.-P., Elgharib, M., Theobalt, C.,  
 *[Differentiable Event Stream Simulator for Non-Rigid 3D Tracking](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Nehvi_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking_CVPRW_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](http://gvv.mpi-inf.mpg.de/projects/Event-based_Non-rigid_3D_Tracking/), [YouTube](https://youtu.be/dU2zv_Ggp7Y), [Suppl.](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/supplemental/Nehvi_Differentiable_Event_Stream_CVPRW_2021_supplemental.pdf).
-- <a name="Joubert21fins"</a>Joubert, C., Marcireau, A., Ralph, N., Jolley, A., van Schaik, A., Cohen, G.,  
+- <a name="Joubert21fins"></a>Joubert, C., Marcireau, A., Ralph, N., Jolley, A., van Schaik, A., Cohen, G.,  
 [Event Camera Simulator Improvements via Characterized Parameters](https://www.frontiersin.org/articles/10.3389/fnins.2021.702765/full)  
 Frontiers in Neuroscience: Neuromorphic Engineering (FINS), 2021, [IEBCS simulator](https://github.com/neuromorphicsystems/IEBCS)
 
