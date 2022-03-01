@@ -124,6 +124,14 @@ IEEE Trans. Circuits Syst. Express Briefs, 2018
     - Prototype, commercially n.a.
 - **Smart DVS (GAEP)**: Posch, C., Hoffstaetter, M., Schoen, P., *[A SPARC-compatible general purpose Address-Event processor with 20-bit 10ns-resolution asynchronous sensor data interface in 0.18um CMOS](https://doi.org/10.1109/ISCAS.2010.5537575)*, IEEE Int. Symp. Circuits and Systems (ISCAS), 2010.
     - Prototype, commercially n.a.
+- **PDAVIS**: Haessig, G. et al.,
+[Bio-inspired Polarization Event Camera](http://arxiv.org/abs/2112.01933),  
+arXiv [cs.CV] (2021) [PDAVIS video](https://drive.google.com/file/d/157mT8960m_QCm15i8HlB5SVyf45X_NUo/view?usp=sharing)
+  - Prototype, commercially n.a.
+- **Center Surround Event Camera (CSDVS)**: Delbruck, T., Li, C., Graca, R. & Mcreynolds, B.,  
+*[Utility and Feasibility of a Center Surround Event Camera](http://arxiv.org/abs/2202.13076)*  
+arXiv [cs.CV] (2022) [CSDVS videos](https://sites.google.com/view/csdvs/home)
+  - Proposed architecture.
 
 <a name="companies_sftwr"></a>
 # Companies working on Event-based Vision
