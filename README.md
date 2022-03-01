@@ -54,7 +54,7 @@
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
     - [Drivers](#drivers)
-    - [Calibration](#calibration)
+    - [Lens Calibration](#calibration)
     - [Algorithms](#software-algorithms)
     - [Utilities](#software-utilities)
 
@@ -98,7 +98,10 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
     - [Product specifications](https://inivation.com/support/product-specifications/)
     - [User guide](https://inivation.github.io/inivation-docs/Hardware%20user%20guides/User_guide_-_DAVIS240.html)
     - **Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734)*, IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 718-721.
-    - **SDAVIS192** Moeys, D. P., Corradi, F., Li, C., Bamford, S. A., Longinotti, L., Voigt, F. F., Berry, S., Taverni, G., Helmchen, F., Delbruck, T., *[A Sensitive Dynamic and Active Pixel Vision Sensor for Color or Neural Imaging Applications](https://doi.org/10.1109/TBCAS.2017.2759783)*, IEEE Trans. Biomed. Circuits Syst. 12(1):123-136 2018.
+    - **SDAVIS192**: Moeys, D. P., Corradi, F., Li, C., Bamford, S. A., Longinotti, L., Voigt, F. F., Berry, S., Taverni, G., Helmchen, F., Delbruck, T., *[A Sensitive Dynamic and Active Pixel Vision Sensor for Color or Neural Imaging Applications](https://doi.org/10.1109/TBCAS.2017.2759783)*, IEEE Trans. Biomed. Circuits Syst. 12(1):123-136 2018.
+    - **DAVIS346**: Taverni, G; Paul Moeys, D; Li, C; Cavaco, C; Motsnyi, V; San Segundo Bello, D; Delbruck, T.,  
+[Front and Back Illuminated Dynamic and Active Pixel Vision Sensors Comparison](http://dx.doi.org/10.1109/TCSII.2018.2824899),  
+IEEE Trans. Circuits Syst. Express Briefs, 2018
 - [**Insightness's Silicon Eye**](https://youtu.be/Y0mIb_MehK8) QVGA event sensor.
     - [The Silicon Eye Technology](http://www.insightness.com/?p=361)
     - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Insightness.pdf) and [Video](https://youtu.be/9IJwF9xYEoU) by [Stefan Isler](http://www.insightness.com/#team) (2019).
@@ -121,6 +124,14 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
     - Prototype, commercially n.a.
 - **Smart DVS (GAEP)**: Posch, C., Hoffstaetter, M., Schoen, P., *[A SPARC-compatible general purpose Address-Event processor with 20-bit 10ns-resolution asynchronous sensor data interface in 0.18um CMOS](https://doi.org/10.1109/ISCAS.2010.5537575)*, IEEE Int. Symp. Circuits and Systems (ISCAS), 2010.
     - Prototype, commercially n.a.
+- **PDAVIS**: Haessig, G. et al.,
+[Bio-inspired Polarization Event Camera](http://arxiv.org/abs/2112.01933),  
+arXiv [cs.CV] (2021) [PDAVIS video](https://drive.google.com/file/d/157mT8960m_QCm15i8HlB5SVyf45X_NUo/view?usp=sharing)
+  - Prototype, commercially n.a.
+- **Center Surround Event Camera (CSDVS)**: Delbruck, T., Li, C., Graca, R. & Mcreynolds, B.,  
+*[Utility and Feasibility of a Center Surround Event Camera](http://arxiv.org/abs/2202.13076)*  
+arXiv [cs.CV] (2022) [CSDVS videos](https://sites.google.com/view/csdvs/home)
+  - Proposed architecture.
 
 <a name="companies_sftwr"></a>
 # Companies working on Event-based Vision
@@ -162,7 +173,7 @@ Proc. IEEE, 102(9):1367-1388, 2014.
 Front. Neurosci. (2016), 10:115.
 - [Liu et al., Signal Process. Mag. 2019](#Liu19msp),  
 *Event-Driven Sensing for Efficient Perception: Vision and audition algorithms*.
-- [Event Cameras - Tutorial - Tobi Delbruck, version 4](https://youtu.be/Th4TM4SsFGY)
+- [Event Cameras Tutorial - Tobi Delbruck, version 4.1](https://youtu.be/D6rv6q9XyWU), Sep. 18, 2020.
 - <a name="Kirkland20spie"></a>Kirkland, P., Di Caterina, G., Soraghan, J., Matich, G.,  
 [Neuromorphic technologies for defence and security](https://doi.org/10.1117/12.2575978),  
 SPIE vol 11540, Emerging Imaging and Sensing Technologies for Security and Defence V; and Advanced Manufacturing Technologies for Micro- and Nanosystems in Security and Defence III; 2020.
@@ -656,6 +667,9 @@ IEEE Int. Conf. on 3D Vision (3DV), 2021. [Code](https://github.com/uzh-rpg/E-RA
 - <a name="Brebion21tits"></a>Brebion, V., Moreau, J., Davoine, F.,  
 *[Real-Time Optical Flow for Vehicular Perception With Low- and High-Resolution Event Cameras](https://doi.org/10.1109/TITS.2021.3136358)*,  
 IEEE Trans. Intell. Transp. Syst. (T-ITS), 2021. [PDF](https://arxiv.org/pdf/2112.10591.pdf), [Code](https://github.com/vbrebion/rt_of_low_high_res_event_cameras), [Dataset](https://datasets.hds.utc.fr/share/er2aA4R0QMJzMyO), [YouTube](https://youtube.com/playlist?list=PLLL0eWAd6OXBRXli-tB1NREdhBElAxisD).
+- <a name="LiuDelbruck22tcsvt"></a>Liu, M., Delbruck, T.,  
+*EDFLOW: Event Driven Optical Flow Camera with Keypoint Detection and Adaptive Block Matching*,  
+IEEE Trans. Circuits Syst. Video Technol., 2022, (in production), [Code and Dataset](https://sites.google.com/view/edflow21/home)
 
 
 <a name="scene-flow-estimation"></a>
@@ -1854,7 +1868,7 @@ arXiv, 2020.
 arXiv, 2021. [Youtube](https://www.youtube.com/watch?v=x0FXZLEenJ8), [Dataset](https://github.com/Yusra-alkendi/ED-KoGTL)
 - <a name="GuoDelbruck22pami"></a>Guo, S.  and Delbruck, T.,  
 [Low Cost and Latency Event Camera Background Activity Denoising](https://doi.org/10.1109/TPAMI.2022.3152999),  
-IEEE Trans. Pattern Anal. Mach. Intell., 2022. [Full PDF incl. Supplementary Material](https://drive.google.com/file/d/1HkkEeX4JmIWgaG9y7joxmPgx3lEw5bt6/view?usp=sharing) [DND21 DeNoising Dynamic vision sensors website](https://sites.google.com/view/dnd21/home)
+IEEE Trans. Pattern Anal. Mach. Intell., 2022. [Full PDF incl. Supplementary Material](https://drive.google.com/file/d/1HkkEeX4JmIWgaG9y7joxmPgx3lEw5bt6/view?usp=sharing), [DND21 DeNoising Dynamic vision sensors website](https://sites.google.com/view/dnd21/home)
 
 <a name="compression"></a>
 ### Compression
@@ -2119,7 +2133,8 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 - [Bardow et al., CVPR2016](#Bardow16cvpr), [Four sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
 - [Zhu et al., RAL2018](#Zhu18mvsec): *MVSEC The Multi Vehicle Stereo Event Camera Dataset*.
 - [Almatrafi et al. PAMI 2020](#Almatrafi20arxiv): *Distance Surface for Event-Based Optical Flow*. [DVSMOTION20 Dataset](https://sites.google.com/a/udayton.edu/issl/software/dataset?authuser=0)
--  [EDFLOW21 Event Driven Optical Flow Camera dataset](https://sites.google.com/view/edflow21/home) associated with the paper *EDFLOW: Event Driven Optical Flow Camera with Keypoint Detection and Adaptive Block Matching*, IEEE Trans. Circuits Syst. Video Technol., (TCSVT), Accepted Feb 26, 2022.
+- [EDFLOW21 Event Driven Optical Flow Camera dataset](https://sites.google.com/view/edflow21/home) associated with the paper [EDFLOW: Event Driven Optical Flow Camera with Keypoint Detection and Adaptive Block Matching](#LiuDelbruck2022tcsvt).
+- [EV-IMO Event based Independently Moving Objects dataset](https://better-flow.github.io/evimo/) associated to the paper [EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](#Mitrokhin19iros) ([motion vector flow](https://github.com/better-flow/evimo/blob/master/tools/evimo_flow.py) added Jan 2022)
 
 ### Intensity-Image Reconstruction from events
 - [Bardow et al., CVPR2016](#Bardow16cvpr), [Four sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
@@ -2247,7 +2262,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - [CeleX5 ROS Wrapper](https://github.com/kehanXue/CeleX5-ROS) A ROS driver and some other tools for [CeleX5_MP](http://www.celepixel.com/#/Samples) event-based sensor (which has a high resolution at 1280×800)
 
 <a name="calibration"></a>
-## Calibration
+## Lens Calibration
 - [Lens focus adjustment](https://github.com/uzh-rpg/rpg_dvs_ros/tree/master/dvs_calibration#focus-adjustment) or [this other source](https://github.com/ethz-asl/kalibr/wiki/calibrating-the-vi-sensor#2-setting-the-focus).
 - For the DAVIS: use the grayscale frames to calibrate the optics of both frames and events.
     - ROS camera calibrator ([monocular](http://wiki.ros.org/camera_calibration/Tutorials/MonocularCalibration) or [stereo](http://wiki.ros.org/camera_calibration/Tutorials/StereoCalibration))
