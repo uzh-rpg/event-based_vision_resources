@@ -165,7 +165,7 @@ Proc. IEEE, 102(9):1367-1388, 2014.
 Front. Neurosci. (2016), 10:115.
 - [Liu et al., Signal Process. Mag. 2019](#Liu19msp),  
 *Event-Driven Sensing for Efficient Perception: Vision and audition algorithms*.
-- [Event Cameras - Tutorial - Tobi Delbruck, version 4](https://youtu.be/Th4TM4SsFGY)
+- [Event Cameras Tutorial - Tobi Delbruck, version 4.1](https://youtu.be/D6rv6q9XyWU), Sep. 18, 2020.
 - <a name="Kirkland20spie"></a>Kirkland, P., Di Caterina, G., Soraghan, J., Matich, G.,  
 [Neuromorphic technologies for defence and security](https://doi.org/10.1117/12.2575978),  
 SPIE vol 11540, Emerging Imaging and Sensing Technologies for Security and Defence V; and Advanced Manufacturing Technologies for Micro- and Nanosystems in Security and Defence III; 2020.
