@@ -668,7 +668,7 @@ IEEE Int. Conf. on 3D Vision (3DV), 2021. [Code](https://github.com/uzh-rpg/E-RA
 *[Real-Time Optical Flow for Vehicular Perception With Low- and High-Resolution Event Cameras](https://doi.org/10.1109/TITS.2021.3136358)*,  
 IEEE Trans. Intell. Transp. Syst. (T-ITS), 2021. [PDF](https://arxiv.org/pdf/2112.10591.pdf), [Code](https://github.com/vbrebion/rt_of_low_high_res_event_cameras), [Dataset](https://datasets.hds.utc.fr/share/er2aA4R0QMJzMyO), [YouTube](https://youtube.com/playlist?list=PLLL0eWAd6OXBRXli-tB1NREdhBElAxisD).
 - <a name="LiuDelbruck22tcsvt"></a>Liu, M., Delbruck, T.,  
-*EDFLOW: Event Driven Optical Flow Camera with Keypoint Detection and Adaptive Block Matching*,  
+*[EDFLOW: Event Driven Optical Flow Camera with Keypoint Detection and Adaptive Block Matching](https://ieeexplore.ieee.org/document/9727106)*,  
 IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 2022, [Preprint PDF](https://drive.google.com/file/d/15YflL00x8X1StKwZqWR3YLBN8iHAP27E/view?usp=sharing), [Code and Dataset](https://sites.google.com/view/edflow21/home)
 
 
