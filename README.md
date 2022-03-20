@@ -1317,6 +1317,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Suppl. Mat.](h
 - <a name="Wang21arxiv"></a>Wang, Y., Yang, J., Peng, X., Wu, P., Gao, L., Huang, K., Chen, J., Kneip, L.,  
 *[Visual Odometry with an Event Camera Using Continuous Ray Warping and Volumetric Contrast Maximization](https://arxiv.org/abs/2107.03011)*,  
 arXiv, 2021.
+- <a name="Zuo22icra"></a>Zuo, Y., Yang, J., Chen, J., Wang, X., Wang, Y., Kneip, L.,  
+*[DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions](https://arxiv.org/abs/2202.02556)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/abs/2202.02556), [YouTube](https://www.youtube.com/watch?v=RqAAA4MOqRI)
 
 #### Stereo
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
