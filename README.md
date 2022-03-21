@@ -1803,7 +1803,7 @@ arXiv, 2019. [PDF](https://arxiv.org/pdf/1904.04805), [Video](https://neurorobot
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https://youtu.be/uX6XknBGg0w),  [Project page](https://github.com/uzh-rpg/rpg_vid2e)
 - <a name="Deng21eventkd"></a>Y. Deng, H. Chen, H. Chen and Y. Li,  
 *[Learning From Images: A Distillation Learning Framework for Event Cameras](https://ieeexplore.ieee.org/abstract/document/9426390)*,  
-IEEE Transactions on Image Processing, vol. 30, pp. 4919-4931, 2021.[Dataset](https://github.com/SuppDoc/EventKD)
+IEEE Transactions on Image Processing, vol. 30, pp. 4919-4931, 2021. [Dataset](https://github.com/SuppDoc/EventKD)
 
 <a name="signal_processing"></a>
 ## Signal Processing
