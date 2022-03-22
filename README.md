@@ -1801,9 +1801,9 @@ arXiv, 2019. [PDF](https://arxiv.org/pdf/1904.04805), [Video](https://neurorobot
 - <a name="Gehrig20cvpr"></a>Gehrig, D., Gehrig, M., Hidalgo-Carrió, J., Scaramuzza, D.,  
 *[Video to Events: Recycling Video Datasets for Event Cameras](http://rpg.ifi.uzh.ch/docs/CVPR20_Gehrig.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https://youtu.be/uX6XknBGg0w),  [Project page](https://github.com/uzh-rpg/rpg_vid2e)
-- <a name="Deng21eventkd"></a>Y. Deng, H. Chen, H. Chen and Y. Li,  
+- <a name="Deng21tip"></a> Deng, Y., Chen, H., Chen, H. and Li, Y. 
 *[Learning From Images: A Distillation Learning Framework for Event Cameras](https://ieeexplore.ieee.org/abstract/document/9426390)*,  
-IEEE Transactions on Image Processing, vol. 30, pp. 4919-4931, 2021. [Dataset](https://github.com/SuppDoc/EventKD)
+IEEE Trans. Image Process., vol. 30, pp. 4919-4931, 2021. [Dataset](https://github.com/SuppDoc/EventKD)
 
 <a name="signal_processing"></a>
 ## Signal Processing
