@@ -1244,7 +1244,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [You
 - <a name="Gu21iccv"></a>Gu, C., Learned-Miller, E., Sheldon, D., Gallego, G., Bideau, P.,  
 *[The Spatio-Temporal Poisson Point Process: A Simple Model for the Alignment of Event Camera Data](http://vis-www.cs.umass.edu/motionSegmentation/website_ICCV21/ICCV2021-paper.pdf)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2021. [Project page](http://vis-www.cs.umass.edu/motionSegmentation/website_ICCV21/index.html), [Code](https://github.com/pbideau/Event-ST-PPP)
-
+- <a name="Peng21bmvc"></a>Xin, P., Wanting, X., Jiaqi Y., Kneip, L.,  
+*[Continuous Event-Line Constraint for Closed-Form Velocity Initialization](https://www.bmvc2021-virtualconference.com/assets/papers/0877.pdf)*,  
+British Machine Vision Conf. (BMVC), 2021, [PDF](https://www.bmvc2021-virtualconference.com/assets/papers/0877.pdf), [Video](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0877.html)
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
