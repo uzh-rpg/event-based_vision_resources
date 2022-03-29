@@ -2345,7 +2345,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [Video](https:/
 *[Sepia, Tarsier, and Chameleon: A Modular C++ Framework for Event-Based Computer Vision](https://doi.org/10.3389/fnins.2019.01338)*,  
 Front. Neurosci. (2020), 13:1338. [Code](https://github.com/neuromorphic-paris/tutorials)
 - [BIMVEE](https://github.com/event-driven-robotics/bimvee) Python tools for Batch Import, Manipulation, Visualisation and Export of Events and other timestamped data. Imports from various file formats into a common workspace format, including native Python import of rosbags.
-- [Tonic](https://github.com/neuromorphs/tonic) provides publicly available event datasets and data transformations based on PyTorch.
+- [Tonic](https://github.com/neuromorphs/tonic) provides publicly available event datasets and data transformations much like Torchvision/audio.
 - Prophesee automotive dataset toolbox, [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox)
 - [dv_ros](https://github.com/kehanXue/dv_ros) ROS package for accumulating event frames with iniVation Dynamic Vision System's dv-sdk.
 - [dvs_event_server](https://github.com/robin-shaun/dvs_event_server) ROS package used to transport "dvs/events" ROS topic to Python through protobuf and zmq, because Python ROS callback has a large delay.
@@ -2528,6 +2528,9 @@ Ph.D. Thesis, Monash University, Melbourne, Australia, 2021.
 - <a name="Monforte21PhD"></a>Monforte, M.,  
 *[Trajectory Prediction with Event-Based Cameras for Robotics Applications](http://hdl.handle.net/11567/1047290)*,  
 Ph.D. Thesis, Italian Institute of Technology, Genoa, Italy, 2021. [PDF](https://iris.unige.it/retrieve/handle/11567/1047290/534319/phdunige_4458940.pdf)
+- <a name="Lenz21PhD"></a>Lenz, G.,  
+*[Neuromorphic algorithms and hardware for event-based processing](https://tel.archives-ouvertes.fr/tel-03474197)*,  
+Ph.D. Thesis, Sorbonne University, Paris, France, 2021. [PDF](https://tel.archives-ouvertes.fr/tel-03474197/document)
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
