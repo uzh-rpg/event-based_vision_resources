@@ -411,7 +411,7 @@ arXiv, 2020.
 IEEE Sensors 2020. [PDF](https://arxiv.org/pdf/2010.15509).
 - <a name="Alzugaray20bmvc"></a>Alzugaray, I., Chli, M.,  
 *[HASTE: multi-Hypothesis Asynchronous Speeded-up Tracking of Events](https://www.bmvc2020-conference.com/conference/papers/paper_0744.html)*,  
-British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference.com/assets/papers/0744.pdf), [Suppl. Mat.](https://www.bmvc2020-conference.com/assets/supp/0744_supp.zip), [Code](https://github.com/ialzugaray/haste), [Youtube](https://youtu.be/6DZxIzrVLcI)
+British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference.com/assets/papers/0744.pdf), [Suppl. Mat.](https://www.bmvc2020-conference.com/assets/supp/0744_supp.zip), [Code](https://github.com/ialzugaray/haste), [Presentation](https://www.bmvc2020-conference.com/conference/papers/paper_0744.html), [Youtube](https://youtu.be/6DZxIzrVLcI)
 - <a name="Liu21arxiv"></a>Liu, Z., Fu, Y.,  
 *[e-ACJ: Accurate Junction Extraction For Event Cameras](https://arxiv.org/pdf/2101.11251)*,  
 arXiv, 2021.
