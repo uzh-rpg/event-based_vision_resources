@@ -364,7 +364,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Vid
 IS&T International Symposium on Electronic Imaging 2019. Computational Imaging XVII.
 - <a name="Alzugaray193dv"></a>Alzugaray, I., Chli, M.,  
 *[Asynchronous Multi-Hypothesis Tracking of Features with Event Cameras](https://doi.org/10.3929/ethz-b-000360434)*,  
-Int. Conf. 3D Vision (3DV), 2019. [PDF](https://doi.org/10.3929/ethz-b-000360434), [YouTube](https://youtu.be/eguV_AIbteU)
+Int. Conf. 3D Vision (3DV), 2019. [PDF](https://doi.org/10.3929/ethz-b-000360434), [Code](https://github.com/ialzugaray/haste), [YouTube](https://youtu.be/eguV_AIbteU)
 - <a name="LinaresBarranco19access"></a>Linares-Barranco, A., Perez-Pena, F., Moeys, D.P., Gomez-Rodriguez, F., Jimenez-Moreno, G., Delbruck, T.  
 *[Low Latency Event-based Filtering and Feature Extraction for Dynamic Vision Sensors in Real-Time FPGA Applications](https://doi.org/10.1109/ACCESS.2019.2941282)*,  
 IEEE Access, vol. 7, pp. 134926-134942, 2019. [Code](https://github.com/RTC-research-group/EDIP_library)
@@ -409,6 +409,9 @@ arXiv, 2020.
 - <a name="Yasin20sensors"></a>Yasin, J. N., Mohamed, S. A. S., Haghbayan, M.-H., Heikkonen, J., Tenhunen, H., Yasin, M. M., Plosila, J.,  
 *[Night vision obstacle detection and avoidance based on Bio-Inspired Vision Sensors](https://doi.org/10.1109/SENSORS47125.2020.9278914)*,  
 IEEE Sensors 2020. [PDF](https://arxiv.org/pdf/2010.15509).
+- <a name="Alzugaray20bmvc"></a>Alzugaray, I., Chli, M.,  
+*[HASTE: multi-Hypothesis Asynchronous Speeded-up Tracking of Events](https://www.bmvc2020-conference.com/conference/papers/paper_0744.html)*,  
+British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference.com/assets/papers/0744.pdf), [Suppl. Mat.](https://www.bmvc2020-conference.com/assets/supp/0744_supp.zip), [Code](https://github.com/ialzugaray/haste), [Youtube](https://youtu.be/6DZxIzrVLcI)
 - <a name="Liu21arxiv"></a>Liu, Z., Fu, Y.,  
 *[e-ACJ: Accurate Junction Extraction For Event Cameras](https://arxiv.org/pdf/2101.11251)*,  
 arXiv, 2021.
@@ -418,7 +421,8 @@ Int. Conf. on Machine Vision and Applications (ICMVA), 2021. [Code](https://gith
 - <a name="Mondal21iccvw"></a>Mondal, A., Shashant, R., Giraldo, J. H., Bouwmans, T., Chowdhury, A. S.,  
 *[Moving Object Detection for Event-based Vision using Graph Spectral Clustering](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.pdf)*,  
 IEEE Int. Conf. Computer Vision Workshop (ICCVW), 2021. [Youtube](https://youtu.be/ST6Z-3SlNS4), [Code](https://github.com/anindya2001/GSCEventMOD).
-
+- [Alzugaray, I., Ph.D. Thesis, 2022](#Alzugaray22PhD),  
+*Event-driven Feature Detection and Tracking for Visual SLAM*.
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
@@ -449,9 +453,6 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.  [PDF](https://
 - <a name="Manderscheid19cvpr"></a>Li, R., Shi, D., Zhang, Y., Li, K., Li, R.,  
 *[FA-Harris: A Fast and Asynchronous Corner Detector for Event Cameras](https://doi.org/10.1109/IROS40897.2019.8968491)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019. [PDF](https://arxiv.org/pdf/1906.10925)
-- <a name="Alzugaray20bmvc"></a>Alzugaray, I., Chli, M.,  
-*[HASTE: multi-Hypothesis Asynchronous Speeded-up Tracking of Events](https://www.bmvc2020-conference.com/conference/papers/paper_0744.html)*,  
-British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference.com/assets/papers/0744.pdf), [Suppl. Mat.](https://www.bmvc2020-conference.com/assets/supp/0744_supp.zip)
 - <a name="Mohamed20icpr"></a>Mohamed, S. A. S., Yasin, J. N., Haghbayan, M.-H., Miele, A., Heikkonen, J., Tenhunen, H., Plosila, J.,  
 *[Dynamic Resource-aware Corner Detection for Bio-inspired Vision Sensors](https://arxiv.org/pdf/2010.15507)*,  
 Int. Conf. Pattern Recognition (ICPR), 2020.
@@ -467,6 +468,8 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [You
 - <a name="Sengupta21ciss0"></a>Sengupta, J. P., Villemur, M., Andreou, A. G.,  
 *[Efficient, event-driven feature extraction and unsupervised object tracking for embedded applications](https://doi.org/10.1109/CISS50987.2021.9400234)*,  
 55th Annual Conf. on Information Sciences and Systems (CISS), 2021.
+- [Alzugaray, I., Ph.D. Thesis, 2022](#Alzugaray22PhD),  
+*Event-driven Feature Detection and Tracking for Visual SLAM*.
 
 
 <a name="particle-detection"></a>
@@ -670,6 +673,7 @@ IEEE Trans. Intell. Transp. Syst. (T-ITS), 2021. [PDF](https://arxiv.org/pdf/211
 - <a name="LiuDelbruck22tcsvt"></a>Liu, M., Delbruck, T.,  
 *[EDFLOW: Event Driven Optical Flow Camera with Keypoint Detection and Adaptive Block Matching](https://ieeexplore.ieee.org/document/9727106)*,  
 IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 2022. [Preprint PDF](https://drive.google.com/file/d/15YflL00x8X1StKwZqWR3YLBN8iHAP27E/view?usp=sharing), [Code and Dataset](https://sites.google.com/view/edflow21/home)
+
 
 
 <a name="scene-flow-estimation"></a>
@@ -2531,6 +2535,9 @@ Ph.D. Thesis, Italian Institute of Technology, Genoa, Italy, 2021. [PDF](https:/
 - <a name="Lenz21PhD"></a>Lenz, G.,  
 *[Neuromorphic algorithms and hardware for event-based processing](https://tel.archives-ouvertes.fr/tel-03474197)*,  
 Ph.D. Thesis, Sorbonne University, Paris, France, 2021. [PDF](https://tel.archives-ouvertes.fr/tel-03474197/document)
+- <a name="Alzugaray22Phd"></a>Alzugaray, I.,  
+*[Event-driven Feature Detection and Tracking for Visual SLAM](https://doi.org/10.3929/ethz-b-000541700)*,   
+Ph.D. Thesis, ETH Zurich, Zurich, Switzerland, 2022. [PDF](https://doi.org/10.3929/ethz-b-000541700)
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
