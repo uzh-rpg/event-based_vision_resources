@@ -424,6 +424,7 @@ IEEE Int. Conf. Computer Vision Workshop (ICCVW), 2021. [Youtube](https://youtu.
 - [Alzugaray, I., Ph.D. Thesis, 2022](#Alzugaray22PhD),  
 *Event-driven Feature Detection and Tracking for Visual SLAM*.
 
+
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
 - <a name="Clady15neunet"></a>Clady, X., Ieng, S.-H., Benosman, R.,  
@@ -673,7 +674,6 @@ IEEE Trans. Intell. Transp. Syst. (T-ITS), 2021. [PDF](https://arxiv.org/pdf/211
 - <a name="LiuDelbruck22tcsvt"></a>Liu, M., Delbruck, T.,  
 *[EDFLOW: Event Driven Optical Flow Camera with Keypoint Detection and Adaptive Block Matching](https://ieeexplore.ieee.org/document/9727106)*,  
 IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 2022. [Preprint PDF](https://drive.google.com/file/d/15YflL00x8X1StKwZqWR3YLBN8iHAP27E/view?usp=sharing), [Code and Dataset](https://sites.google.com/view/edflow21/home)
-
 
 
 <a name="scene-flow-estimation"></a>
