@@ -727,9 +727,6 @@ Int. Conf. Neuromorphic Systems (ICONS), 2018. Article No. 8. [PDF](https://dl.a
 - <a name="Scheerlinck18accv"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
 *[Continuous-time Intensity Estimation Using Event Cameras](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf)*,  
 Asian Conf. Computer Vision (ACCV), 2018. [PDF](https://cedric-scheerlinck.github.io/files/2018_scheerlinck_continuous-time_intensity_estimation.pdf), [YouTube](https://youtu.be/bZ0ZKido0Ag), [Website](https://cedric-scheerlinck.github.io/continuous-time-intensity-estimation)
-- <a name="Wang19acra"></a>Wang, Z., Ng, Y., van Goor, P., Mahony., R.,  
-*[Event Camera Calibration of Per-pixel Biased Contrast Threshold](https://arxiv.org/pdf/2012.09378)*,  
-Australasian Conf. Robotics and Automation (ACRA) 2019.
 - <a name="Rebecq20tpami"></a>Rebecq, H., Ranftl, R., Koltun, V., Scaramuzza, D.,  
 *[High Speed and High Dynamic Range Video with an Event Camera](https://doi.org/10.1109/TPAMI.2019.2963386)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/TPAMI19_Rebecq.pdf),  [YouTube](https://youtu.be/eomALySSGVU), [Code](https://github.com/uzh-rpg/rpg_e2vid), [Project page](http://rpg.ifi.uzh.ch/E2VID/)
@@ -2292,6 +2289,9 @@ WRC Symposium on Advanced Robotics and Automation (WRC SARA), 2018.
 - <a name="DominguezMorales19access"></a>Dominguez-Morales, M. J., Jimenez-Fernandez, A., Jimenez-Moreno, G., Conde, C., Cabello, E., Linares-Barranco, A.,  
 *[Bio-Inspired Stereo Vision Calibration for Dynamic Vision Sensors](https://doi.org/10.1109/ACCESS.2019.2943160)*,  
 IEEE Access, vol. 7, pp. 138415-138425, 2019.
+- <a name="Wang19acra"></a>Wang, Z., Ng, Y., van Goor, P., Mahony., R.,  
+*[Event Camera Calibration of Per-pixel Biased Contrast Threshold](https://arxiv.org/pdf/2012.09378)*,  
+Australasian Conf. Robotics and Automation (ACRA) 2019. [PDF](https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap135s1-file1.pdf), [Github](https://github.com/ziweiWWANG/Event-Camera-Calibration).
 - <a name="Dubeau20arxiv"></a>Dubeau, E., Garon, M., Debaque, B., de Charette, R., Lalonde, J.-F.,  
 *[RGB-DE: Event Camera Calibration for Fast 6-DOF Object Tracking](https://arxiv.org/pdf/2006.05011.pdf)*,  
 arXiv, 2020.
