@@ -2201,7 +2201,7 @@ IEEE Robotics and Automation Letters (RA-L), 2021.
 *[TUM-VIE: The TUM Stereo Visual-Inertial Event Data Set](https://vision.in.tum.de/data/datasets/visual-inertial-event-dataset)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 - <a name="lee2022vivid++"></a>Lee, A. J., Cho, Y., Shin, Y., Kim, A., Myung, H.,  
-[ViViD++: Vision for Visibility Dataset](https://sites.google.com/view/dgbicra2019-vivid/),  
+[ViViD++: Vision for Visibility Dataset](https://visibilitydataset.github.io/),  
 IEEE Robotics and Automation Letters (RA-L), 2022. [Dataset](https://visibilitydataset.github.io/)
 
 ### Segmentation
