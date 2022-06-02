@@ -1249,6 +1249,9 @@ IEEE Int. Conf. Computer Vision (ICCV), 2021. [Project page](http://vis-www.cs.u
 - <a name="Peng21bmvc"></a>Peng, X., Xu, W., Yang, J., Kneip, L.,  
 *[Continuous Event-Line Constraint for Closed-Form Velocity Initialization](https://www.bmvc2021-virtualconference.com/assets/papers/0877.pdf)*,  
 British Machine Vision Conf. (BMVC), 2021, [PDF](https://www.bmvc2021-virtualconference.com/assets/papers/0877.pdf), [Video](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0877.html)
+- <a name="Peng21bmvc"></a>Peng, X., Xu, W., Yang, J., Kneip, L.,  
+*[EventVLAD: Visual Place Recognition with Reconstructed Edges from Event Cameras](https://ieeexplore.ieee.org/abstract/document/9635907)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021, [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9635907)
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
@@ -2197,6 +2200,9 @@ IEEE Robotics and Automation Letters (RA-L), 2021.
 - <a name="Klenk21iros"></a>Klenk S., Chui, J., Demmel, N., Cremers, D.,  
 *[TUM-VIE: The TUM Stereo Visual-Inertial Event Data Set](https://vision.in.tum.de/data/datasets/visual-inertial-event-dataset)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
+- <a name="lee2022vivid++"></a>Lee, A. J., Cho, Y., Shin, Y., Kim, A., Myung, H.,  
+[ViViD++: Vision for Visibility Dataset](https://sites.google.com/view/dgbicra2019-vivid/),  
+IEEE Robotics and Automation Letters (RA-L), 2022. [Dataset](https://visibilitydataset.github.io/)
 
 ### Segmentation
 - [Mitrokhin et al., IROS 2018](#Mitrokhin18iros), Extreme Event Dataset (EED). [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
