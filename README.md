@@ -54,6 +54,7 @@
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
     - [Drivers](#drivers)
+    - [Synchronization](#synchronization)
     - [Lens Calibration](#calibration)
     - [Algorithms](#software-algorithms)
     - [Utilities](#software-utilities)
@@ -1224,11 +1225,11 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Cod
 *[Robust Event-based Vision Model Estimation by Dispersion Minimisation](https://doi.org/10.1109/TPAMI.2021.3130049)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2021. [Suppl. Mat.](https://doi.org/10.1109/TPAMI.2021.3130049/mm1), [Code](https://github.com/ImperialCollegeLondon/EventEMin)
 - <a name="Peng20eccv"></a>Peng, X., Wang, Y., Gao, L., Kneip, L.,  
-*[Globally-Optimal Event Camera Motion Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052.pdf)*,  
-European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052-supp.pdf), [YouTube](https://youtu.be/Px1puptSX9Q)
+*[Globally-Optimal Event Camera Motion Estimation](https://doi.org/10.1007/978-3-030-58574-7_4)*,  
+European Conf. Computer Vision (ECCV), 2020. [PDF](https://arxiv.org/abs/2203.03914), [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710052-supp.pdf), [YouTube](https://youtu.be/Px1puptSX9Q)
     - <a name="Peng21tpami"></a>Peng, X., Gao, L., Wang, Y., Kneip, L.,  
 *[Globally-Optimal Contrast Maximisation for Event Cameras](https://doi.org/10.1109/TPAMI.2021.3053243)*,  
-IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2021.
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(7):3479-3495, 2022. [PDF](https://arxiv.org/abs/2206.05127)
 - <a name="Bertrand20ebccsp"></a>Bertrand, J., Yigit, A., Durand, S.,  
 *[Embedded Event-based Visual Odometry](https://doi.org/10.1109/EBCCSP51266.2020.9291346)*,  
 IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2020. [Code](https://github.com/Blabla51/Embedded-Event-based-Visual-Odometry)  
@@ -2143,6 +2144,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - <a name="MGehrig21ral"></a>Gehrig, M., Aarents, W., Gehrig, D., Scaramuzza, D.,  
 *[DSEC: A Stereo Event Camera Dataset for Driving Scenarios](https://doi.org/10.1109/LRA.2021.3068942)*,  
 IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.ch/dsec.html), [PDF](http://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf), [Code](https://github.com/uzh-rpg/DSEC), [Video](https://youtu.be/W4yW78y4F7A).
+- [Gao et al., RAL 2022](#Gao22ral), *VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM*.
 
 ### Optical Flow
 - [DVS/DAVIS Optical Flow Dataset](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) associated to the paper [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
@@ -2204,6 +2206,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 - <a name="lee2022vivid++"></a>Lee, A. J., Cho, Y., Shin, Y., Kim, A., Myung, H.,  
 [ViViD++: Vision for Visibility Dataset](https://visibilitydataset.github.io/),  
 IEEE Robotics and Automation Letters (RA-L), 2022. [Dataset](https://visibilitydataset.github.io/)
+- <a name="Gao22ral"></a>Gao, L., Liang, Y., Yang, J., Wu, S., Wang, C., Chen, J., Kneip, L.,  
+*[VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM](https://doi.org/10.1109/LRA.2022.3186770)*,  
+IEEE Robotics and Automation Letters (RA-L), 7(3):8217-8224, 2022. [PDF](https://arxiv.org/abs/2207.01404), [Dataset](https://star-datasets.github.io/vector/), [MPL Calibration Toolbox](https://github.com/mgaoling/mpl_calibration_toolbox), [MPL Dataset Toolbox](https://github.com/mgaoling/mpl_dataset_toolbox).
 
 ### Segmentation
 - [Mitrokhin et al., IROS 2018](#Mitrokhin18iros), Extreme Event Dataset (EED). [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
@@ -2280,6 +2285,10 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - [Prophesee camera plugins](https://docs.prophesee.ai/stable/installation/camera_plugins.html)
 - [CeleX5 ROS Wrapper](https://github.com/kehanXue/CeleX5-ROS) A ROS driver and some other tools for [CeleX5_MP](http://www.celepixel.com/#/Samples) event-based sensor (which has a high resolution at 1280×800)
 
+<a name="synchronization"></a>
+## Synchronization
+- [Sync Toolbox](https://github.com/sjtuyuxuan/sync_toolbox). This open-source toolbox provides a QT-based GUI to allow easy access for hardware-level multi-sensor synchronization (Prophesee Gen 3.1 included and tested). After proper configuration of the software, users can seamlessly record new ROS bags.
+
 <a name="calibration"></a>
 ## Lens Calibration
 - [Lens focus adjustment](https://github.com/uzh-rpg/rpg_dvs_ros/tree/master/dvs_calibration#focus-adjustment) or [this other source](https://github.com/ethz-asl/kalibr/wiki/calibrating-the-vi-sensor#2-setting-the-focus).
@@ -2354,6 +2363,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [Video](https:/
 - [edvstools](https://github.com/Danvil/edvstools), by D. Weikersdorfer: A collection of tools for the embedded Dynamic Vision Sensor eDVS.
 - [Tarsier](https://github.com/neuromorphic-paris/tarsier) Framework for event-based Vision in C++.
 - [events_h52bag](https://github.com/tub-rip/events_h52bag) C++ code to convert event data from HDF5 to ROSbags.
+- [events_bag2h5](https://github.com/mgaoling/mpl_dataset_toolbox) Python code to convert event data from ROSbags to HDF5.
 - [CelexMatlabToolbox](https://github.com/yucicheung/CelexMatlabToolbox) by Yuxin Zhang. Tools to decode events generated by CeleX IV DVS, visualize them and denoise.
 - [Loris](https://github.com/neuromorphic-paris/loris) Python package to read files from neuromorphic cameras.
 - Marcireau A., Ieng S.-H., Benosman R.,  
