@@ -1251,7 +1251,7 @@ IEEE Int. Conf. Computer Vision (ICCV), 2021. [Project page](http://vis-www.cs.u
 - <a name="Peng21bmvc"></a>Peng, X., Xu, W., Yang, J., Kneip, L.,  
 *[Continuous Event-Line Constraint for Closed-Form Velocity Initialization](https://www.bmvc2021-virtualconference.com/assets/papers/0877.pdf)*,  
 British Machine Vision Conf. (BMVC), 2021, [PDF](https://www.bmvc2021-virtualconference.com/assets/papers/0877.pdf), [Video](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0877.html)
-- <a name="Peng21bmvc"></a>Peng, X., Xu, W., Yang, J., Kneip, L.,  
+- <a name="lee2021eventvlad"></a>Lee, A. J., Kim, A.,  
 *[EventVLAD: Visual Place Recognition with Reconstructed Edges from Event Cameras](https://ieeexplore.ieee.org/abstract/document/9635907)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021, [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9635907)
 
