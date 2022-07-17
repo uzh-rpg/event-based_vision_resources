@@ -425,7 +425,8 @@ Int. Conf. on Machine Vision and Applications (ICMVA), 2021. [Code](https://gith
 IEEE Int. Conf. Computer Vision Workshop (ICCVW), 2021. [Youtube](https://youtu.be/ST6Z-3SlNS4), [Code](https://github.com/anindya2001/GSCEventMOD).
 - [Alzugaray, I., Ph.D. Thesis, 2022](#Alzugaray22PhD),  
 *Event-driven Feature Detection and Tracking for Visual SLAM*.
-
+- [Gao, et at., FPGA, 2022](#Gao22FPGA),  
+*REMOT: A Hardware-Software Architecture for Attention-Guided Multi-Object Tracking with Dynamic Vision Sensors on FPGAs*.
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
@@ -473,8 +474,6 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [You
 55th Annual Conf. on Information Sciences and Systems (CISS), 2021.
 - [Alzugaray, I., Ph.D. Thesis, 2022](#Alzugaray22PhD),  
 *Event-driven Feature Detection and Tracking for Visual SLAM*.
-- [Gao, et at., FPGA, 2022](#GAO22FPGA),  
-*REMOT: A Hardware-Software Architecture for Attention-Guided Multi-Object Tracking with Dynamic Vision Sensors on FPGAs*.
 
 <a name="particle-detection"></a>
 ### Particle Detection and Tracking
