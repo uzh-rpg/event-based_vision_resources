@@ -473,7 +473,8 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [You
 55th Annual Conf. on Information Sciences and Systems (CISS), 2021.
 - [Alzugaray, I., Ph.D. Thesis, 2022](#Alzugaray22PhD),  
 *Event-driven Feature Detection and Tracking for Visual SLAM*.
-
+- [Gao, et at., FPGA, 2022](#GAO22FPGA),  
+*REMOT: A Hardware-Software Architecture for Attention-Guided Multi-Object Tracking with Dynamic Vision Sensors on FPGAs*.
 
 <a name="particle-detection"></a>
 ### Particle Detection and Tracking
@@ -2412,6 +2413,9 @@ Int. Conf. Computer Supported Education (CSEDU), SCITEPRESS Digital Library, (20
 - <a name="Sengupta21iscas"></a>Sengupta, J. P., Villemur, M., Mendat, D. R., Tognetti, G., Andreou, A. G.,  
 *[Architecture and Algorithm Co-Design Framework for Embedded Processors in Event-Based Cameras](https://doi.org/10.1109/ISCAS51556.2021.9401246)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2020, pp. 1-5.
+- <a name="Gao22fpga"></a>Gao, Y., Wang, S., So, H. K. H.,  
+*[REMOT: A Hardware-Software Architecture for Attention-Guided Multi-Object Tracking with Dynamic Vision Sensors on FPGAs](https://doi.org/10.1145/3490422.3502365)*,  
+ACM/SIGDA Int. Symp. Field-Programmable Gate Arrays (FPGA), 2022. [Code](https://github.com/CASR-HKU/REMOT-FPGA-22)
 
 <br><br>
 <a name="teaching"></a>
