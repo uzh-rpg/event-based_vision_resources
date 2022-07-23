@@ -50,6 +50,9 @@
     - [Object Pose Estimation](#object_pose_estimation)
         - [Human Pose Estimation](#human_pose_estimation)
         - [Hand Pose Estimation](#hand_pose_estimation)
+    - [Indoor Lighting Estimation](#indoor_lighting_estimation)
+    - [Data Encryption](#data_encription)
+    - [Nuclear Verification](#nuclear_verification)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -2081,6 +2084,12 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Suppl.](https:
 - <a name="Du21aensors"></a>Du, B., Li, W., Wang, Z., Xu, M., Gao, T., Li, J., Wen, H.,  
 *[Event Encryption for Neuromorphic Vision Sensors: Framework, Algorithm, and Evaluation](https://doi.org/10.3390/s21134320)*,  
 Sensors, 2021.
+
+<a name="nuclear_verification"></a>
+## Nuclear Verification
+- <a name="Glaser22casa"></a>A. Glaser,  
+*[Keeping Secrets at a Distance: New Approaches to Nuclear Monitoring and Verification](https://sgs.princeton.edu/sites/default/files/2022-06/ALX-2022-CASA-REV3.pdf)*,  
+Distinguished Lecture, Cyber Security in the Age of Large-Scale Adversaries (CASA), Ruhr-Universität Bochum, Germany, 2022.
 
 
 <br><br>
