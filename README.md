@@ -427,6 +427,15 @@ Int. Conf. on Machine Vision and Applications (ICMVA), 2021. [Code](https://gith
 *[Moving Object Detection for Event-based Vision using Graph Spectral Clustering](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.pdf)*,  
 IEEE Int. Conf. Computer Vision Workshop (ICCVW), 2021. [Youtube](https://youtu.be/ST6Z-3SlNS4), [Code](https://github.com/anindya2001/GSCEventMOD).
 - [Alzugaray, I., Ph.D. Thesis, 2022](#Alzugaray22PhD),  
+- <a name="zhang2021multi"></a>Zhang, J., Zhao, K., Dong, B., Fu, Y., Wang, Y., Yang, X., and Yin, B.,  
+*[Multi-domain collaborative feature representation for robust visual object tracking](https://doi.org/10.1007/s00371-021-02237-9)*,  
+The Visual Computer, 2021. [PDF](https://link.springer.com/article/10.1007/s00371-021-02237-9), [Project](https://zhangjiqing.com/publication/multi-domain-collaborative-feature-representation-for-robust-visual-object-tracking-the-visual-computer-2021-proc-cgi-2021-/).
+- <a name="zhang2021object"></a>Zhang, J., Yang, X., Fu, Y., Wei, X., Yin, B., Dong, B.,  
+*[Object Tracking by Jointly Exploiting Frame and Event Domain](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Object_Tracking_by_Jointly_Exploiting_Frame_and_Event_Domain_ICCV_2021_paper.pdf)*,  
+ICCV, 2021. [Project](https://zhangjiqing.com/publication/iccv21_fe108_tracking/), [PDF](https://arxiv.org/abs/2109.09052), [code](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking), [dataset](https://zhangjiqing.com/dataset/).
+- <a name="zhang2022stnet"></a>Zhang, J., Dong, B., Zhang, H., Ding, J., Heide, F., Yin, B., Yang, X.,  
+*[Spiking Transformers for Event-based Single Object Tracking](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf)*,  
+CVPR, 2022. [Project](https://zhangjiqing.com/publication/stnet/), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf), [code](https://github.com/Jee-King/CVPR2022_STNet).
 *Event-driven Feature Detection and Tracking for Visual SLAM*.
 - [Gao, et at., FPGA, 2022](#Gao22FPGA),  
 *REMOT: A Hardware-Software Architecture for Attention-Guided Multi-Object Tracking with Dynamic Vision Sensors on FPGAs*.
