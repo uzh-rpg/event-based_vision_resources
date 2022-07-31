@@ -2673,6 +2673,7 @@ MSc. Thesis, University of Genoa, 2020.
 - [Prophesee Showcases Neuromorphic Vision Systems from Biotech to Space Debris](https://www.eetimes.eu/prophesee-showcases-neuromorphic-vision-systems-from-biotech-to-space-debris/), 12.2021.
 - [Exclusive: An Interview with Carver Mead](https://www.eetimes.com/exclusive-an-interview-with-carver-mead/), 07.2022.
 - [Inspiration or Imitation: How Closely Should We Copy Biological Systems?](https://www.eetimes.com/inspiration-or-imitation-how-closely-should-we-copy-biological-systems/), 07.2022.
+- [Neuromorphic Sensing: Coming Soon to Consumer Products](https://www.eetimes.com/neuromorphic-sensing-coming-soon-to-consumer-products/), 07.2022.
 
 
 # Press 
