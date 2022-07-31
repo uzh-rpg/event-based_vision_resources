@@ -2671,10 +2671,13 @@ MSc. Thesis, University of Genoa, 2020.
 - [Telluride Neuromorphic Engineering Workshop Goes Large](https://www.eetimes.com/telluride-neuromorphic-engineering-workshop-goes-large/), 07.2020.
 - [Prophesee Touts Toolkit for Event-based Vision](https://www.eetimes.eu/prophesee-touts-toolkit-for-event-based-vision/), 09.2020.
 - [Prophesee Showcases Neuromorphic Vision Systems from Biotech to Space Debris](https://www.eetimes.eu/prophesee-showcases-neuromorphic-vision-systems-from-biotech-to-space-debris/), 12.2021.
-- [Exclusive: An Interview with Carver Mead](https://www.eetimes.com/exclusive-an-interview-with-carver-mead/), 07.2022.
-- [Inspiration or Imitation: How Closely Should We Copy Biological Systems?](https://www.eetimes.com/inspiration-or-imitation-how-closely-should-we-copy-biological-systems/), 07.2022.
-- [Neuromorphic Sensing: Coming Soon to Consumer Products](https://www.eetimes.com/neuromorphic-sensing-coming-soon-to-consumer-products/), 07.2022.
-- [What Does “Neuromorphic” Mean Today?](https://www.eetimes.com/what-does-neuromorphic-mean-today/), 07. 2022.
+- [What Does “Neuromorphic” Mean Today?](https://www.eetimes.com/what-does-neuromorphic-mean-today/), EETimes Special Issue, 07. 2022.
+    - [Exclusive: An Interview with Carver Mead](https://www.eetimes.com/exclusive-an-interview-with-carver-mead/), 07.2022.
+    - [Inspiration or Imitation: How Closely Should We Copy Biological Systems?](https://www.eetimes.com/inspiration-or-imitation-how-closely-should-we-copy-biological-systems/), 07.2022.
+    - [A Shift in Computer Vision is Coming](https://www.eetimes.com/a-shift-in-computer-vision-is-coming/), 04.2022.
+    - [Neuromorphic Sensing: Coming Soon to Consumer Products](https://www.eetimes.com/neuromorphic-sensing-coming-soon-to-consumer-products/), 07.2022.
+    - [Reverse-Engineering Insect Brains to Make Robots](https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/), 07.2022.
+    - [Cars That Think Like You](https://www.eetimes.com/cars-that-think-like-you/), 07.2022.
 
 # Press 
 - [Event-Based Vision: Taking a Cue From Biology](https://www.qualitymag.com/articles/96413-event-based-vision-taking-a-cue-from-biology), 03.2021.
