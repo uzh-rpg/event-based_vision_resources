@@ -1910,6 +1910,10 @@ arXiv 2020. [PDF](https://arxiv.org/pdf/2005.00974.pdf)
 - <a name="Khan21jiot"></a>Khan, N., Iqbal, K., Martini, M. G.,  
 *[Time-Aggregation-Based Lossless Video Encoding for Neuromorphic Vision Sensor Data](https://doi.org/10.1109/JIOT.2020.3007866)*,  
 IEEE Internet of Things Journal, 2021.
+- <a name="Schiopu22lsp"></a>Schiopu, I., Bilcu, R. C.,  
+*[Lossless Compression of Event Camera Frames](https://doi.org/10.1109/LSP.2022.3196599)*,  
+IEEE Signal Proc. Letters 2022.
+
 
 <br><br>
 <a name="control"></a>
