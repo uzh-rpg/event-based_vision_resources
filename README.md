@@ -439,6 +439,9 @@ IEEE Int. Conf. Computer Vision (ICCV), 2021. [Project](https://zhangjiqing.com/
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project](https://zhangjiqing.com/publication/stnet/), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf), [code](https://github.com/Jee-King/CVPR2022_STNet).
 - [Gao, et at., FPGA, 2022](#Gao22FPGA),  
 *REMOT: A Hardware-Software Architecture for Attention-Guided Multi-Object Tracking with Dynamic Vision Sensors on FPGAs*.
+- <a name="el2022high"></a>El Shair, Z., Rawashdeh, S.A.,  
+*[High-Temporal-Resolution Object Detection and Tracking using Images and Events](https://doi.org/10.3390/jimaging8080210)*,  
+Journal of Imaging, 2022. [PDF](https://www.mdpi.com/2313-433X/8/8/210/pdf), [dataset](http://sar-lab.net/event-based-vehicle-detection-and-tracking-dataset/).
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
