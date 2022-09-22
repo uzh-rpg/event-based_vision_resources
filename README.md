@@ -1272,7 +1272,7 @@ IEEE Access, 2021. [YouTube](https://www.youtube.com/watch?v=g0R-mC43CX0).
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020. [Youtube](https://www.youtube.com/watch?v=u9G_oT8psac&list=PL-Kzs2T7Hx3K-IDKsgUwPUnzHmk8Pcsek&index=4).
 - <a name="Gomez21iros"></a>Gomez Eguiluz, A., Rodriguez-Gomez, J.P., Tapia, R., F.J., Maldonado, J.A., Acosta, J.R., Martinez-de Dios,  Ollero, A.,  
 *[Why fly blind? Event-based visual guidance for ornithopter robot flight](https://doi.org/10.1109/IROS51168.2021.9636315)*,  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021, [PDF](https://zenodo.org/record/5069951#.Yyx-oNJBxhF), [Youtube](https://www.youtube.com/watch?v=6aJJSEVStUE&list=PL-Kzs2T7Hx3K-IDKsgUwPUnzHmk8Pcsek).
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [PDF](https://zenodo.org/record/5069951#.Yyx-oNJBxhF), [Youtube](https://www.youtube.com/watch?v=6aJJSEVStUE&list=PL-Kzs2T7Hx3K-IDKsgUwPUnzHmk8Pcsek).
 
 <a name="slam-mapping"></a>
 ### Mapping
