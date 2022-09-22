@@ -112,8 +112,8 @@ IEEE Trans. Circuits Syst. Express Briefs, 2018
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Insightness.pdf) and [Video](https://youtu.be/6YyOW6DDGKw) by [Christian Brandli](http://www.insightness.com/#team), CEO and co-founder of Insightness (2017).
 - [**PROPHESEE’s Metavision Sensor**](https://www.prophesee.ai/event-based-sensor-packaged/) and [**Software**](https://www.prophesee.ai/metavision-intelligence/)
     - ATIS (Asynchronous Time-based Image Sensor): Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011. [PDF](https://www.neuromorphic-vision.com/public/publications/2/publication.pdf), [YouTube](https://youtu.be/YQ8rT9Harb4), [YouTube](https://youtu.be/3Wiw8LA8hLs)
-    - Prophesee Gen4 is described in: Finateu et al., *[A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86μm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline](https://doi.org/10.1109/ISSCC19947.2020.9063149)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), 2020, pp. 112-114. 
-    - [**Buy a Prophesee packaged sensor VGA**](https://www.prophesee.ai/event-based-sensor-packaged) 
+    - Prophesee Gen4 is described in: Finateu et al., *[A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86μm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline](https://doi.org/10.1109/ISSCC19947.2020.9063149)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), 2020, pp. 112-114.
+    - [**Buy a Prophesee packaged sensor VGA**](https://www.prophesee.ai/event-based-sensor-packaged)
     - [Prophesee Cameras Specifications](https://www.prophesee.ai/event-based-evaluation-kits/)
     - What is event-based vision and sample applications, [YouTube](https://www.youtube.com/watch?v=MjX3z-6n3iA)
     - [Download free or buy our software ](https://www.prophesee.ai/metavision-intelligence/)
@@ -783,7 +783,7 @@ IEEE Trans. Image Processing, 30:2488-2500, 2021. [Project page](https://github.
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](http://mavlab.tudelft.nl/ssl_e2v/), [PDF](https://arxiv.org/abs/2009.08283), [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Paredes-Valles_Back_to_Event_CVPR_2021_supplemental.pdf), [Code](https://github.com/tudelft/ssl_e2vid).
 - <a name="Zou21cvpr"></a>Zou, Y., Zheng, Y., Takatani, T., Fu, Y.,  
 *[Learning To Reconstruct High Speed and High Dynamic Range Videos From Events](https://openaccess.thecvf.com/content/CVPR2021/papers/Zou_Learning_To_Reconstruct_High_Speed_and_High_Dynamic_Range_Videos_CVPR_2021_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. 
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021.
 - <a name="Zhang21cvpr"></a>Zhang, X., Liao, W., Yu, L., Yang, W., Xia, G.-S.,  
 *[Event-Based Synthetic Aperture Imaging With a Hybrid Network ](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Event-Based_Synthetic_Aperture_Imaging_With_a_Hybrid_Network_CVPR_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Suppl.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Zhang_Event-Based_Synthetic_Aperture_CVPR_2021_supplemental.pdf), [PDF](http://arxiv.org/abs/2103.02376), [YouTube](https://youtu.be/vom7qcZ7t9Y).
@@ -1278,7 +1278,9 @@ IEEE Access, 2021. [YouTube](https://www.youtube.com/watch?v=g0R-mC43CX0).
 - <a name="Muthusamy20arxiv"></a>Gomez Eguiluz, A., Rodriguez-Gomez, J.P., Martinez-de Dios, J.R., Ollero, A.,  
 *[Asynchronous Event-based Line Tracking for Time-to-Contact Maneuvers in UAS](https://griffin-erc-advanced-grant.eu/wp-content/uploads/2020/08/Asynchronous-Event-based-Line-Tracking-for-Time-to-Contact-Maneuvers-in-UAS.pdf)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
-
+- <a name="Gomez21iros"></a>Gomez Eguiluz, A., Rodriguez-Gomez, J.P., Tapia, R., F.J., Maldonado, J.A., Acosta, J.R., Martinez-de Dios,  Ollero, A.,  
+*[Why fly blind? Event-based visual guidance for ornithopter robot flight](https://zenodo.org/record/5069951#.Yyx-oNJBxhF)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 
 <a name="slam-mapping"></a>
 ### Mapping
@@ -2686,7 +2688,7 @@ MSc. Thesis, University of Genoa, 2020.
     - [Reverse-Engineering Insect Brains to Make Robots](https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/), 07.2022.
     - [Cars That Think Like You](https://www.eetimes.com/cars-that-think-like-you/), 07.2022.
 
-# Press 
+# Press
 - [Event-Based Vision: Taking a Cue From Biology](https://www.qualitymag.com/articles/96413-event-based-vision-taking-a-cue-from-biology), 03.2021.
 
 
