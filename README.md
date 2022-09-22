@@ -45,6 +45,7 @@
         - [Event Denoising](#denoising)
         - [Compression](#compression)
     - [Control](#control)
+    - [Obstacle Avoidance](#obstacle_avoidance)
     - [Space Applications](#space)
     - [Tactile Sensing Applications](#tactile_sensing)
     - [Object Pose Estimation](#object_pose_estimation)
