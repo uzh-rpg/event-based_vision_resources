@@ -571,9 +571,6 @@ Int. Workshop on Brain-Inspired Computing (BrainComp), 2015. LNCS, vol 10087.
     - <a name="Kosiorek15techrep"></a>Kosiorek, A., Adrian, D., Rausch, J., Conradt, J.,  
 *[An Efficient Event-Based Optical Flow Implementation in C/C++ and CUDA](http://tum.neurocomputing.systems/fileadmin/w00bqs/www/publications/pp/2015SS-PP-RealTimeDVSOpticFlow.pdf),*  
 Tech. Rep. TU Munich, 2015.
-- <a name="Milde15ebccsp"></a>Milde, M. B., Bertrand, O.J.N., Benosman, R., Egelhaaf, M., Chicca, E.,  
-*[Bioinspired event-driven collision avoidance algorithm based on optic flow](https://doi.org/10.1109/EBCCSP.2015.7300673)*,  
-IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2015.
 - <a name="Giulioni16fnins"></a>Giulioni, M., Lagorce, X., Galluppi, F., Benosman, R.,  
 *[Event-Based Computation of Motion Flow on a Neuromorphic Analog Neural Platform](https://doi.org/10.3389/fnins.2016.00035)*,  
 Front. Neurosci. (2016), 10:35. [PDF](https://www.neuromorphic-vision.com/public/publications/46/publication.pdf)
@@ -1272,10 +1269,10 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021, [PDF](https://i
 IEEE Access, 2021. [YouTube](https://www.youtube.com/watch?v=g0R-mC43CX0).
 - <a name="Muthusamy20arxiv"></a>Gomez Eguiluz, A., Rodriguez-Gomez, J.P., Martinez-de Dios, J.R., Ollero, A.,  
 *[Asynchronous Event-based Line Tracking for Time-to-Contact Maneuvers in UAS](https://griffin-erc-advanced-grant.eu/wp-content/uploads/2020/08/Asynchronous-Event-based-Line-Tracking-for-Time-to-Contact-Maneuvers-in-UAS.pdf)*,  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020. [Youtube](https://www.youtube.com/watch?v=u9G_oT8psac&list=PL-Kzs2T7Hx3K-IDKsgUwPUnzHmk8Pcsek&index=4)
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020. [Youtube](https://www.youtube.com/watch?v=u9G_oT8psac&list=PL-Kzs2T7Hx3K-IDKsgUwPUnzHmk8Pcsek&index=4).
 - <a name="Gomez21iros"></a>Gomez Eguiluz, A., Rodriguez-Gomez, J.P., Tapia, R., F.J., Maldonado, J.A., Acosta, J.R., Martinez-de Dios,  Ollero, A.,  
 *[Why fly blind? Event-based visual guidance for ornithopter robot flight](https://doi.org/10.1109/IROS51168.2021.9636315)*,  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021, [PDF](https://zenodo.org/record/5069951#.Yyx-oNJBxhF), [Youtube](https://www.youtube.com/watch?v=6aJJSEVStUE&list=PL-Kzs2T7Hx3K-IDKsgUwPUnzHmk8Pcsek)
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021, [PDF](https://zenodo.org/record/5069951#.Yyx-oNJBxhF), [Youtube](https://www.youtube.com/watch?v=6aJJSEVStUE&list=PL-Kzs2T7Hx3K-IDKsgUwPUnzHmk8Pcsek).
 
 <a name="slam-mapping"></a>
 ### Mapping
@@ -1999,9 +1996,9 @@ arXiv, 2021. [Video](https://drive.google.com/file/d/1q9QwPvkd7ZcEBcGMIxIVy2r_iR
 - <a name="Clady14fnins"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
 *[Asynchronous visual event-based time-to-contact](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
 Front. Neurosci. (2014), 8:9. [PDF](https://www.neuromorphic-vision.com/public/publications/30/publication.pdf)
-  - <a name="milde14ebccsp"></a>Milde, M.B., Bertrand., O.J.N., Benosmanz, R., Egelhaaf, M., Chicca,   E.  
+  - <a name="Milde15ebccsp"></a>Milde, M. B., Bertrand, O.J.N., Benosman, R., Egelhaaf, M., Chicca, E.,  
 *[Bioinspired event-driven collision avoidance algorithm based on optic flow](https://doi.org/10.1109/EBCCSP.2015.7300673)*,  
-Int. Conf. on Event-based Control, Communication, and Signal Processing (EBCCSP), 2015. [PDF](https://core.ac.uk/download/pdf/211842521.pdf)
+IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2015 [PDF](https://core.ac.uk/download/pdf/211842521.pdf).
 - <a name="Sanket19arxiv"></a>Sanket, N.J., Parameshwara, C.M., Singh, C.D., Kuruttukulam, A.V., Fermüller, C., Scaramuzza, D., Aloimonos, Y.,  
 *[EVDodgeNet: Deep Dynamic Obstacle Dodging with Event Cameras](https://arxiv.org/pdf/1906.02919)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2020. [PDF](https://prg.cs.umd.edu/research/EVDodge_files/EVDodge.pdf), [YouTube](https://youtu.be/k1uzsiDI4hM), [Project page](http://prg.cs.umd.edu/EVDodgeNet), [Code](https://github.com/prgumd/EVDodge).
@@ -2016,10 +2013,10 @@ IEEE Sensors 2020. [PDF](https://arxiv.org/pdf/2010.15509).
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 - <a name="he21iros"></a>He, B., Li, H., Wu, S., Wang, D., Zhang, Z., Dong, Q., Xu, C., Gao, F.
 *[FAST-Dynamic-Vision: Detection and Tracking Dynamic Objects with Event and Depth Sensing](https://ieeexplore.ieee.org/abstract/document/9636448)*,  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [PDF](https://arxiv.org/pdf/2103.05903.pdf), [YouTube](https://www.youtube.com/watch?v=QPpwppeE_x0)
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [PDF](https://arxiv.org/pdf/2103.05903.pdf), [YouTube](https://www.youtube.com/watch?v=QPpwppeE_x0).
 - <a name="rodriguez22ral"></a>Rodriguez-Gomez, J.P., Tapia, R., M.M., Guzman, J.R., Martinez-de Dios,  Ollero, A.
 *[Free as a Bird: Event-Based Dynamic Sense-and-Avoid for Ornithopter Robot Flight](https://doi.org/10.1109/LRA.2022.3153904)*,  
-IEEE Robotics and Automation Letters (RA-L), 2022. [PDF](https://zenodo.org/record/5924071#.YyyGC9JBxhE), [YouTube](https://www.youtube.com/watch?v=cBMcw5jRnfU&list=PL-Kzs2T7Hx3K-IDKsgUwPUnzHmk8Pcsek&index=5)
+IEEE Robotics and Automation Letters (RA-L), 2022. [PDF](https://zenodo.org/record/5924071#.YyyGC9JBxhE), [YouTube](https://www.youtube.com/watch?v=cBMcw5jRnfU&list=PL-Kzs2T7Hx3K-IDKsgUwPUnzHmk8Pcsek&index=5).
 
 
 <a name="space"></a>
