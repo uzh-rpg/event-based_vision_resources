@@ -1999,8 +1999,8 @@ arXiv, 2021. [Video](https://drive.google.com/file/d/1q9QwPvkd7ZcEBcGMIxIVy2r_iR
 - <a name="Clady14fnins"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
 *[Asynchronous visual event-based time-to-contact](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
 Front. Neurosci. (2014), 8:9. [PDF](https://www.neuromorphic-vision.com/public/publications/30/publication.pdf)
-  - <a name="Clady14fnins"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
-*[Bioinspired event-driven collision avoidance algorithm based on optic flow](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
+  - <a name="milde14ebccsp"></a>Milde, M.B., Bertrand., O.J.N., Benosmanz, R., Egelhaaf, M., Chicca,   E.  
+*[Bioinspired event-driven collision avoidance algorithm based on optic flow](https://core.ac.uk/download/pdf/211842521.pdf)*,  
 Int. Conf. on Event-based Control, Communication, and Signal Processing (EBCCSP), 2015.
 - <a name="Sanket19arxiv"></a>Sanket, N.J., Parameshwara, C.M., Singh, C.D., Kuruttukulam, A.V., Fermüller, C., Scaramuzza, D., Aloimonos, Y.,  
 *[EVDodgeNet: Deep Dynamic Obstacle Dodging with Event Cameras](https://arxiv.org/pdf/1906.02919)*,  
@@ -2011,10 +2011,10 @@ Science Robotics, 5(40):eaaz9712, 2020. [YouTube](https://youtu.be/BzykucxFddI)
 - <a name="Yasin20sensors"></a>Yasin, J. N., Mohamed, S. A. S., Haghbayan, M.-H., Heikkonen, J., Tenhunen, H., Yasin, M. M., Plosila, J.,  
 *[Night vision obstacle detection and avoidance based on Bio-Inspired Vision Sensors](https://doi.org/10.1109/SENSORS47125.2020.9278914)*,  
 IEEE Sensors 2020. [PDF](https://arxiv.org/pdf/2010.15509).
-- <a name="walters21iros"></a>C., Walters, S., Hadfield.
+- <a name="walters21iros"></a>Walters, C., Hadfield,  S.
 *[EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance](https://arxiv.org/pdf/2109.00405.pdf)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
-- <a name="he21iros"></a>B., He, H., Li, S., Wu, D., Wang, Z., Zhang, Q., Dong, C., Xu, F., Gao.
+- <a name="he21iros"></a>He, B., Li, H., Wu, S., Wang, D., Zhang, Z., Dong, Q., Xu, C., Gao, F.
 *[FAST-Dynamic-Vision: Detection and Tracking Dynamic Objects with Event and Depth Sensing](https://arxiv.org/pdf/2103.05903.pdf)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [YouTube](https://www.youtube.com/watch?v=QPpwppeE_x0)
 - <a name="rodriguez22ral"></a>Rodriguez-Gomez, J.P., Tapia, R., M.M., Guzman, J.R., Martinez-de Dios,  Ollero, A.
