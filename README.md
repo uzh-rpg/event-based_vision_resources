@@ -530,7 +530,7 @@ IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2013. [PDF](https://www.res
 *[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537),*  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 25(2):407-417, 2014. [PDF](https://www.neuromorphic-vision.com/public/publications/3/publication.pdf), [Code (jAER): LocalPlanesFlow](https://sourceforge.net/p/jaer/code/HEAD/tree/jAER/trunk/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java)
     - <a name="Clady14fnins_2"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,   
-    *[Asynchronous visual event-based time-to-contact](#Clady14fnins).
+    *[Asynchronous visual event-based time-to-contact](#Clady14fnins)*.
     - <a name="Mueggler15icra"></a>E. Mueggler, C. Forster, N. Baumli, G. Gallego, D. Scaramuzza,  
 *[Lifetime Estimation of Events from Dynamic Vision Sensors](http://dx.doi.org/10.1109/ICRA.2015.7139876)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2015, pp. 4874-4881. [PDF](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pdf), [PPT](http://rpg.ifi.uzh.ch/docs/ICRA15_Mueggler.pptm), [Code](https://www.github.com/uzh-rpg/rpg_event_lifetime)
@@ -574,7 +574,7 @@ Int. Workshop on Brain-Inspired Computing (BrainComp), 2015. LNCS, vol 10087.
 *[An Efficient Event-Based Optical Flow Implementation in C/C++ and CUDA](http://tum.neurocomputing.systems/fileadmin/w00bqs/www/publications/pp/2015SS-PP-RealTimeDVSOpticFlow.pdf),*  
 Tech. Rep. TU Munich, 2015.
   - <a name="Milde15ebccsp_2"></a>Milde, M. B., Bertrand, O.J.N., Benosman, R., Egelhaaf, M., Chicca, E.,   
-  *[Bioinspired event-driven collision avoidance algorithm based on optic flow](#Milde15ebccsp).  
+  *[Bioinspired event-driven collision avoidance algorithm based on optic flow](#Milde15ebccsp)*.  
 - <a name="Giulioni16fnins"></a>Giulioni, M., Lagorce, X., Galluppi, F., Benosman, R.,  
 *[Event-Based Computation of Motion Flow on a Neuromorphic Analog Neural Platform](https://doi.org/10.3389/fnins.2016.00035)*,  
 Front. Neurosci. (2016), 10:35. [PDF](https://www.neuromorphic-vision.com/public/publications/46/publication.pdf)
@@ -2012,13 +2012,13 @@ Science Robotics, 5(40):eaaz9712, 2020. [YouTube](https://youtu.be/BzykucxFddI)
 - <a name="Yasin20sensors"></a>Yasin, J. N., Mohamed, S. A. S., Haghbayan, M.-H., Heikkonen, J., Tenhunen, H., Yasin, M. M., Plosila, J.,  
 *[Night vision obstacle detection and avoidance based on Bio-Inspired Vision Sensors](https://doi.org/10.1109/SENSORS47125.2020.9278914)*,  
 IEEE Sensors 2020. [PDF](https://arxiv.org/pdf/2010.15509).
-- <a name="walters21iros"></a>Walters, C., Hadfield,  S.
+- <a name="walters21iros"></a>Walters, C., Hadfield,  S.,
 *[EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance](https://doi.org/10.1109/IROS51168.2021.9636448)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
-- <a name="he21iros"></a>He, B., Li, H., Wu, S., Wang, D., Zhang, Z., Dong, Q., Xu, C., Gao, F.
+- <a name="he21iros"></a>He, B., Li, H., Wu, S., Wang, D., Zhang, Z., Dong, Q., Xu, C., Gao, F.,
 *[FAST-Dynamic-Vision: Detection and Tracking Dynamic Objects with Event and Depth Sensing](https://ieeexplore.ieee.org/abstract/document/9636448)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [PDF](https://arxiv.org/pdf/2103.05903.pdf), [YouTube](https://www.youtube.com/watch?v=QPpwppeE_x0).
-- <a name="rodriguez22ral"></a>Rodriguez-Gomez, J.P., Tapia, R., M.M., Guzman, J.R., Martinez-de Dios,  Ollero, A.
+- <a name="rodriguez22ral"></a>Rodriguez-Gomez, J.P., Tapia, R., M.M., Guzman, J.R., Martinez-de Dios,  Ollero, A.,
 *[Free as a Bird: Event-Based Dynamic Sense-and-Avoid for Ornithopter Robot Flight](https://doi.org/10.1109/LRA.2022.3153904)*,  
 IEEE Robotics and Automation Letters (RA-L), 2022. [PDF](https://zenodo.org/record/5924071#.YyyGC9JBxhE), [YouTube](https://www.youtube.com/watch?v=cBMcw5jRnfU&list=PL-Kzs2T7Hx3K-IDKsgUwPUnzHmk8Pcsek&index=5).
 
