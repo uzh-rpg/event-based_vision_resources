@@ -1902,10 +1902,10 @@ arXiv, 2021. [Youtube](https://www.youtube.com/watch?v=x0FXZLEenJ8), [Dataset](h
 - <a name="GuoDelbruck22pami"></a>Guo, S.  and Delbruck, T.,  
 [Low Cost and Latency Event Camera Background Activity Denoising](https://doi.org/10.1109/TPAMI.2022.3152999),  
 IEEE Trans. Pattern Anal. Mach. Intell., 2022. [Full PDF incl. Supplementary Material](https://drive.google.com/file/d/1HkkEeX4JmIWgaG9y7joxmPgx3lEw5bt6/view?usp=sharing), [DND21 DeNoising Dynamic vision sensors website](https://sites.google.com/view/dnd21/home)
-- <a name="Wang22icra"></a>Wang, Z., Yuan, D., Ng, Y, Mahony, R.,
+- <a name="Wang22icra"></a>Wang, Z., Yuan, D., Ng, Y., Mahony., R.,   
 *[A Linear Comb Filter for Event Flicker Removal](https://doi.org/10.1109/ICRA46639.2022.9812003)*,  
-IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://ieeexplore.ieee.org/document/9812003), [arXiv preprint](https://arxiv.org/abs/2205.08090), [Project Page](https://github.com/ziweiWWANG/EFR)
-
+IEEE Int. Conf. Robotics and Automation (ICRA), 2022.
+[PDF](https://ieeexplore.ieee.org/document/9812003), [arXiv](https://arxiv.org/abs/2205.08090), [YouTube](https://youtu.be/1XgOknDIV00), [Project Page](https://github.com/ziweiWWANG/EFR)
 <a name="compression"></a>
 ### Compression
 - <a name="Khan20access"></a>Khan, N., Iqbal, K., Martini, M. G.,  
