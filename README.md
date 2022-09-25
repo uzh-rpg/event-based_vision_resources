@@ -53,7 +53,7 @@
     - [Indoor Lighting Estimation](#indoor_lighting_estimation)
     - [Data Encryption](#data_encription)
     - [Nuclear Verification](#nuclear_verification)
-    - [Optical Communication](#0ptical_communication)
+    - [Optical Communication](#optical_communication)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
