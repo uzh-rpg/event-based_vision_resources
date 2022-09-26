@@ -573,8 +573,8 @@ Int. Workshop on Brain-Inspired Computing (BrainComp), 2015. LNCS, vol 10087.
     - <a name="Kosiorek15techrep"></a>Kosiorek, A., Adrian, D., Rausch, J., Conradt, J.,  
 *[An Efficient Event-Based Optical Flow Implementation in C/C++ and CUDA](http://tum.neurocomputing.systems/fileadmin/w00bqs/www/publications/pp/2015SS-PP-RealTimeDVSOpticFlow.pdf),*  
 Tech. Rep. TU Munich, 2015.
-  - [Milde et al., EBCCSP 2015](#Milde15ebccsp),  
-  *Bioinspired event-driven collision avoidance algorithm based on optic flow*.
+- [Milde et al., EBCCSP 2015](#Milde15ebccsp),  
+*Bioinspired event-driven collision avoidance algorithm based on optic flow*.
 - <a name="Giulioni16fnins"></a>Giulioni, M., Lagorce, X., Galluppi, F., Benosman, R.,  
 *[Event-Based Computation of Motion Flow on a Neuromorphic Analog Neural Platform](https://doi.org/10.3389/fnins.2016.00035)*,  
 Front. Neurosci. (2016), 10:35. [PDF](https://www.neuromorphic-vision.com/public/publications/46/publication.pdf)
