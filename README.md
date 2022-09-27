@@ -1,9 +1,8 @@
 # Event-based Vision Resources
 
-## <a href="https://tub-rip.github.io/eventvision2021/">CVPR 2021 Workshop on Event-based Vision: June 19, 2021. Virtual.</a>
-
 ## Table of Contents:
 - [Survey paper](#survey_paper)
+- [Workshops](#workshops)
 - [Devices and Manufacturers](#devices)
 - [Companies working on Event-based Vision](#companies_sftwr)
 - [Neuromorphic Systems](#neuromorphic-systems)
@@ -65,7 +64,6 @@
 
 - [Neuromorphic Processors and Platforms](#processors-platforms)
 - [Courses](#teaching)
-- [Workshops](#workshops)
 - [Theses and Dissertations](#theses)
     - [Dissertations](#theses-phd)
     - [Master's Theses](#theses-master)
@@ -81,6 +79,29 @@ ___
 - <a name="Gallego20tpami"></a>Gallego, G., Delbruck, T., Orchard, G., Bartolozzi, C., Taba, B., Censi, A., Leutenegger, S., Davison, A., Conradt, J., Daniilidis, K., Scaramuzza, D.,  
 **_[Event-based Vision: A Survey](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)_**,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020.
+
+
+<a name="workshops"></a>
+# Workshops
+- [MFI 2022 First Neuromorphic Event Sensor Fusion Workshop](https://sites.google.com/view/eventsensorfusion2022/home) with videos incl. _Event Sensor Fusion Jeopardy_ game - Virtual
+    - [Video playlist](https://youtube.com/playlist?list=PLVtZ8f-q0U5gXhjN4inwWZi66bp5vp-lN)
+- [CVPR 2021 Third International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2021) - Virtual.
+    - [Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7)
+- [Neuro-Inspired Computational Elements (NICE) Workshop Series](https://niceworkshop.org/nice-2019/)
+    - [Videos](https://www.youtube.com/channel/UCKTLpjY9e8cMK12d2-Z-usA)
+- [IEEE Embedded Vision Workshop Series](https://embeddedvisionworkshop.wordpress.com), with focus on Biologically-inspired vision and embedded systems.
+- [Capo Caccia Workshops toward Cognitive Neuromorphic Engineering](http://capocaccia.iniforum.ch/).
+- [The Telluride Neuromorphic Cognition Engineering Workshops](https://tellurideneuromorhic.org).
+    - [Videos](https://sites.google.com/view/telluride2020/about-workshop/videos)
+    - Telluride 2020 (Online): [YouTube playlist](https://www.youtube.com/playlist?list=PLG-iqBTOyCO5NAbqbsHPPnL9h35z0ooSE), [Slides](https://drive.google.com/drive/folders/1lmUSjZoDb7yc_HO9xw0M5J4fIGRIfu_u)
+- [CVPR 2019 Second International Workshop on Event-based Vision and Smart Cameras](http://rpg.ifi.uzh.ch/CVPR19_event_vision_workshop.html) - Slides and Videos available on the website.
+    - [Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If97iGiuBHmnW8IFIxwvSeCHx)
+- [IROS 2018 Unconventional Sensing and Processing for Robotic Visual Perception](https://www.jmartel.net/irosws-home).
+- [ICRA 2017 First International Workshop on Event-based Vision](http://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html) - Slides and Videos available on the website.
+    - [Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If94k8mw6GcKU5C9PUgM1sK0U)
+- [IROS 2015 Event-Based Vision for High-Speed Robotics (slides)](http://www.rit.edu/kgcoe/iros15workshop/papers/IROS2015-WASRoP-Invited-04-slides.pdf), Workshop on Alternative Sensing for Robot Perception.
+- [ICRA 2015 Workshop on Innovative Sensing for Robotics](http://innovative-sensing.mit.edu/), with a focus on Neuromorphic Sensors.
+    
 
 <a name="devices"></a>
 # Devices & Companies Manufacturing them
@@ -1916,7 +1937,6 @@ IEEE Internet of Things Journal, 2021.
 IEEE Signal Proc. Letters 2022.
 
 
-<br><br>
 <a name="control"></a>
 ## Control
 - <a name="Delbruck13fnins"></a>Delbruck, T. and Lang, M.,  
@@ -2423,7 +2443,7 @@ Front. Neurosci. (2020), 13:1338. [Code](https://github.com/neuromorphic-paris/t
 - [AEDAT decoder](https://github.com/neuromorphicsystems/aedat) A fast AEDAT 4 Python reader, with a Rust underlying implementation.
 - [aedat-rs](https://github.com/ac-freeman/aedat-rs) Standalone Rust library for decoding AEDAT 4 files for use in bespoke Rust event systems.
 
-<br><br>
+
 <a name="processors-platforms"></a>
 # Neuromorphic Processors and Platforms
 - <a name="Hofstaetter11icecs"></a>Hoffstaetter, M., Belbachir, N., Bodenstorfer, E., Schoen, P.,  
@@ -2461,35 +2481,12 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2020, pp. 1-5.
 *[REMOT: A Hardware-Software Architecture for Attention-Guided Multi-Object Tracking with Dynamic Vision Sensors on FPGAs](https://doi.org/10.1145/3490422.3502365)*,  
 ACM/SIGDA Int. Symp. Field-Programmable Gate Arrays (FPGA), 2022. [Code](https://github.com/CASR-HKU/REMOT-FPGA-22)
 
-<br><br>
+
 <a name="teaching"></a>
 # Courses (Educational content)
 - [Event-based Robot Vision at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision).
     - [YouTube videos and Slides with links](https://www.youtube.com/channel/UCuuIEatPpBZQkQ_kSoeZtCQ/videos)
 - [Projects course: Bio-inspired Computer (Event-based) Vision at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/bio-inspired-computer-vision)
-
-
-<br><br>
-<a name="workshops"></a>
-# Workshops
-- [ICRA 2015 Workshop on Innovative Sensing for Robotics](http://innovative-sensing.mit.edu/), with a focus on Neuromorphic Sensors.
-- [IROS 2015 Event-Based Vision for High-Speed Robotics (slides)](http://www.rit.edu/kgcoe/iros15workshop/papers/IROS2015-WASRoP-Invited-04-slides.pdf), Workshop on Alternative Sensing for Robot Perception.
-- [ICRA 2017 First International Workshop on Event-based Vision](http://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html) - Slides and Videos available on the website.
-    - [Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If94k8mw6GcKU5C9PUgM1sK0U)
-- [IROS 2018 Unconventional Sensing and Processing for Robotic Visual Perception](https://www.jmartel.net/irosws-home).
-- [CVPR 2019 Second International Workshop on Event-based Vision and Smart Cameras](http://rpg.ifi.uzh.ch/CVPR19_event_vision_workshop.html) - Slides and Videos available on the website.
-    - [Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If97iGiuBHmnW8IFIxwvSeCHx)
-- [The Telluride Neuromorphic Cognition Engineering Workshops](https://tellurideneuromorhic.org).
-    - [Videos](https://sites.google.com/view/telluride2020/about-workshop/videos)
-    - Telluride 2020 (Online): [YouTube playlist](https://www.youtube.com/playlist?list=PLG-iqBTOyCO5NAbqbsHPPnL9h35z0ooSE), [Slides](https://drive.google.com/drive/folders/1lmUSjZoDb7yc_HO9xw0M5J4fIGRIfu_u)
-- [Capo Caccia Workshops toward Cognitive Neuromorphic Engineering](http://capocaccia.iniforum.ch/).
-- [IEEE Embedded Vision Workshop Series](https://embeddedvisionworkshop.wordpress.com), with focus on Biologically-inspired vision and embedded systems.
-- [Neuro-Inspired Computational Elements (NICE) Workshop Series](https://niceworkshop.org/nice-2019/)
-    - [Videos](https://www.youtube.com/channel/UCKTLpjY9e8cMK12d2-Z-usA)
-- [CVPR 2021 Third International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2021) - Virtual.
-    - [Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7)
-- [MFI 2022 First Neuromorphic Event Sensor Fusion Workshop](https://sites.google.com/view/eventsensorfusion2022/home) with videos incl. _Event Sensor Fusion Jeopardy_ game - Virtual
-    - [Video playlist](https://youtube.com/playlist?list=PLVtZ8f-q0U5gXhjN4inwWZi66bp5vp-lN)
 
 <br><br>
 <a name="theses"></a>
@@ -2665,7 +2662,6 @@ MSc. Thesis, Ecole polytechnique de Louvain, Université catholique de Louvain, 
 MSc. Thesis, University of Genoa, 2020.
 
 
-<br><br>
 <a name="people"></a>
 # People / Organizations
 - [Institute of NeuroInformatics](https://www.ini.uzh.ch/) (INI) of the University of Zurich (UZH) and ETH Zurich, Switzerland.
@@ -2689,7 +2685,6 @@ MSc. Thesis, University of Genoa, 2020.
 - [Prophesee SA](https://prophesee.ai/): Sensor and Software development and production
 
 
-<br><br>
 <a name="press-eetimes"></a>
 # Press EETimes
 - [Neuromorphic Revolution to Start in 2024](https://www.eetimes.eu/neuromorphic-revolution-to-start-in-2024/), 10.2019.
