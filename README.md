@@ -2607,6 +2607,9 @@ Ph.D. Thesis, Sorbonne University, Paris, France, 2021. [PDF](https://tel.archiv
 - <a name="Alzugaray22Phd"></a>Alzugaray, I.,  
 *[Event-driven Feature Detection and Tracking for Visual SLAM](https://doi.org/10.3929/ethz-b-000541700)*,   
 Ph.D. Thesis, ETH Zurich, Zurich, Switzerland, 2022. [PDF](https://doi.org/10.3929/ethz-b-000541700)
+- <a name="Liu22Phd"></a>Liu, D.,  
+*[Motion Estimation Using an Event Camera](https://hdl.handle.net/2440/136406)*,   
+Ph.D. Thesis, University of Adelaide, Adelaide, Australia, 2022.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
