@@ -2479,7 +2479,7 @@ ACM/SIGDA Int. Symp. Field-Programmable Gate Arrays (FPGA), 2022. [Code](https:/
 - [IROS 2018 Unconventional Sensing and Processing for Robotic Visual Perception](https://www.jmartel.net/irosws-home).
 - [CVPR 2019 Second International Workshop on Event-based Vision and Smart Cameras](http://rpg.ifi.uzh.ch/CVPR19_event_vision_workshop.html) - Slides and Videos available on the website.
     - [Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If97iGiuBHmnW8IFIxwvSeCHx)
-- [The Telluride Neuromorphic Cognition Engineering Workshops](https://sites.google.com/view/telluride2020).
+- [The Telluride Neuromorphic Cognition Engineering Workshops](https://tellurideneuromorhic.org).
     - [Videos](https://sites.google.com/view/telluride2020/about-workshop/videos)
     - Telluride 2020 (Online): [YouTube playlist](https://www.youtube.com/playlist?list=PLG-iqBTOyCO5NAbqbsHPPnL9h35z0ooSE), [Slides](https://drive.google.com/drive/folders/1lmUSjZoDb7yc_HO9xw0M5J4fIGRIfu_u)
 - [Capo Caccia Workshops toward Cognitive Neuromorphic Engineering](http://capocaccia.iniforum.ch/).
@@ -2488,7 +2488,8 @@ ACM/SIGDA Int. Symp. Field-Programmable Gate Arrays (FPGA), 2022. [Code](https:/
     - [Videos](https://www.youtube.com/channel/UCKTLpjY9e8cMK12d2-Z-usA)
 - [CVPR 2021 Third International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2021) - Virtual.
     - [Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7)
-
+- [MFI 2022 First Neuromorphic Event Sensor Fusion Workshop](https://sites.google.com/view/eventsensorfusion2022/home) with videos incl. _Event Sensor Fusion Jeopardy_ game - Virtual
+    - [Video playlist](https://youtube.com/playlist?list=PLVtZ8f-q0U5gXhjN4inwWZi66bp5vp-lN)
 
 <br><br>
 <a name="theses"></a>
