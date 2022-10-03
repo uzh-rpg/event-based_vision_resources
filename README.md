@@ -53,6 +53,7 @@
     - [Indoor Lighting Estimation](#indoor_lighting_estimation)
     - [Data Encryption](#data_encription)
     - [Nuclear Verification](#nuclear_verification)
+    - [Optical Communication](#optical_communication)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -1151,7 +1152,7 @@ Advanced Robotics, 2020.
 *[Deep Event Stereo Leveraged by Event-to-Image Translation](https://ojs.aaai.org/index.php/AAAI/article/view/16171)*,  
 AAAI Conf. Artificial Intelligence, 2021.
 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16171/15978), [Video](https://youtu.be/ow2TsNMo_T4), [Project page](https://sites.google.com/site/gachoncvip/projects/deep-event-based-stereo-matching)
-- <a name="Wang21iros"></a>Wang, Z., Pan, L., Ng, Y., Zhuang, Z., Mahony., R.,   
+- <a name="Wang21iros"></a>Wang, Z., Pan, L., Ng, Y., Zhuang, Z., Mahony, R.,   
 *[Stereo Hybrid Event-Frame (SHEF) Cameras for 3D Perception](https://doi.org/10.1109/IROS51168.2021.9636312)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 [PDF](https://arxiv.org/abs/2110.04988), [Video](https://www.youtube.com/watch?v=Azu7rJSPGNc), [Dataset](https://github.com/ziweiWWANG/SHEF)
@@ -1920,7 +1921,9 @@ arXiv, 2021. [Youtube](https://www.youtube.com/watch?v=x0FXZLEenJ8), [Dataset](h
 - <a name="GuoDelbruck22pami"></a>Guo, S.  and Delbruck, T.,  
 [Low Cost and Latency Event Camera Background Activity Denoising](https://doi.org/10.1109/TPAMI.2022.3152999),  
 IEEE Trans. Pattern Anal. Mach. Intell., 2022. [Full PDF incl. Supplementary Material](https://drive.google.com/file/d/1HkkEeX4JmIWgaG9y7joxmPgx3lEw5bt6/view?usp=sharing), [DND21 DeNoising Dynamic vision sensors website](https://sites.google.com/view/dnd21/home)
-
+- <a name="Wang22icra"></a>Wang, Z., Yuan, D., Ng, Y., Mahony, R.,   
+*[A Linear Comb Filter for Event Flicker Removal](https://doi.org/10.1109/ICRA46639.2022.9812003)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/abs/2205.08090), [Project Page](https://github.com/ziweiWWANG/EFR)
 <a name="compression"></a>
 ### Compression
 - <a name="Khan20access"></a>Khan, N., Iqbal, K., Martini, M. G.,  
@@ -2146,6 +2149,13 @@ Sensors, 2021.
 - <a name="Glaser22casa"></a>A. Glaser,  
 *[Keeping Secrets at a Distance: New Approaches to Nuclear Monitoring and Verification](https://sgs.princeton.edu/sites/default/files/2022-06/ALX-2022-CASA-REV3.pdf)*,  
 Distinguished Lecture, Cyber Security in the Age of Large-Scale Adversaries (CASA), Ruhr-Universität Bochum, Germany, 2022.
+
+<a name="optical_communication"></a>
+## Optical Communication
+- <a name="Wang22iros"></a>Wang, Z., Ng, Y., Henderson, J., Mahony., R.,   
+*[Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras](https://arxiv.org/abs/2208.01710)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022.
+[PDF](https://arxiv.org/abs/2208.01710), [Project Page](https://github.com/ziweiWWANG/Event-Beacon-Communication)
 
 
 <br><br>
