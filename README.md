@@ -1138,7 +1138,7 @@ AAAI Conf. Artificial Intelligence, 2021.
 - <a name="Wang21iros"></a>Wang, Z., Pan, L., Ng, Y., Zhuang, Z., Mahony., R.,   
 *[Stereo Hybrid Event-Frame (SHEF) Cameras for 3D Perception](https://doi.org/10.1109/IROS51168.2021.9636312)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
-[PDF](https://ieeexplore.ieee.org/abstract/document/9636312), [arXiv](https://arxiv.org/abs/2110.04988), [Video](https://www.youtube.com/watch?v=Azu7rJSPGNc), [Dataset](https://github.com/ziweiWWANG/SHEF)
+[PDF](https://arxiv.org/abs/2110.04988), [Video](https://www.youtube.com/watch?v=Azu7rJSPGNc), [Dataset](https://github.com/ziweiWWANG/SHEF)
 
 <a name="depth-stereo-active"></a>
 ### Stereo Depth Estimation using Structured Light
@@ -1904,7 +1904,7 @@ arXiv, 2021. [Youtube](https://www.youtube.com/watch?v=x0FXZLEenJ8), [Dataset](h
 IEEE Trans. Pattern Anal. Mach. Intell., 2022. [Full PDF incl. Supplementary Material](https://drive.google.com/file/d/1HkkEeX4JmIWgaG9y7joxmPgx3lEw5bt6/view?usp=sharing), [DND21 DeNoising Dynamic vision sensors website](https://sites.google.com/view/dnd21/home)
 - <a name="Wang22icra"></a>Wang, Z., Yuan, D., Ng, Y, Mahony, R., 
 [A Linear Comb Filter for Event Flicker Removal](https://doi.org/10.1109/ICRA46639.2022.9812003),  
-IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://ieeexplore.ieee.org/document/9812003), [arXiv preprint][https://arxiv.org/abs/2205.08090][Project Page](https://github.com/ziweiWWANG/EFR)
+IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/abs/2205.08090)[Project Page](https://github.com/ziweiWWANG/EFR)
 
 <a name="compression"></a>
 ### Compression
@@ -2116,7 +2116,7 @@ Distinguished Lecture, Cyber Security in the Age of Large-Scale Adversaries (CAS
 - <a name="Wang22iros"></a>Wang, Z., Ng, Y., Henderson, J., Mahony., R.,   
 *[Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras](https://arxiv.org/abs/2208.01710)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022.
-[PDF](https://arxiv.org/abs/2208.01710), [Video](https://youtu.be/eMuSe9r3wtk), [Project Page](https://github.com/ziweiWWANG/Event-Beacon-Communication)
+[PDF](https://arxiv.org/abs/2208.01710), [Project Page](https://github.com/ziweiWWANG/Event-Beacon-Communication)
 
 
 <br><br>
