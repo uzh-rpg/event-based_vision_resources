@@ -2626,29 +2626,29 @@ Ph.D. Thesis, University of Adelaide, Adelaide, Australia, 2022.
 <a name="theses-master"></a>
 ## Master's (and Bachelor's) Theses
 - <a name="Reisinger06MSc"></a>Reisinger, K.,  
-*[EMC testing on Silicon Retinas](http://catalogplus.tuwien.ac.at/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=UTW_alma2164793430003336&indx=1&recIds=UTW_alma2164793430003336&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&vl(D487844771UI4)=20-YEAR&vl(487848257UI0)=creator&vl(drStartMonth6)=00&vl(487849216UI1)=title&&vl(drEndYear6)=Jahr&dscnt=0&vl(1UIStartWith0)=contains&vl(976016785UI2)=any&vl(1UIStartWith2)=contains&mode=Advanced&vid=UTW&vl(boolOperator1)=AND&tab=default_tab&vl(487849261UI3)=all_items&vl(freeText1)=silicon+retina&vl(drStartDay6)=00&vl(drStartYear6)=Jahr&dstmp=1518094639224&frbg=&vl(487849310UI5)=ger&vl(1UIStartWith1)=contains&srt=rank&vl(boolOperator0)=AND&vl(drEndMonth6)=00&Submit=Suche&vl(freeText2)=&vl(boolOperator2)=AND&dum=true&vl(freeText0)=Reisinger&vl(drEndDay6)=00)*,  
-MSc. Thesis, TU Wien & AIT, 2006.
+*[EMC testing on Silicon Retinas](https://permalink.catalogplus.tuwien.at/AC05792670)*,  
+MSc. Thesis, TU Wien & AIT, Austria, 2006.
 - <a name="Nowakowska11MSc"></a>Nowakowska, A.,  
 *[Recognition of a vision approach for fall detection using a biologically inspired dynamic stereo vision sensor](http://repositum.tuwien.ac.at/obvutwhs/download/pdf/1623418?originalFilename=true)*,  
-MSc. Thesis, TU Wien & AIT, 2011.
+MSc. Thesis, TU Wien & AIT, Austria, 2011.
 - <a name="Reingruber11MSc"></a>Reingruber, H.,  
 *[An Asynchronous Data Interface for Event-based Stereo Matching](http://repositum.tuwien.ac.at/obvutwhs/download/pdf/1621666?originalFilename=true)*,  
-MSc. Thesis, TU Wien & AIT, 2011.
+MSc. Thesis, TU Wien & AIT, Austria, 2011.
 - <a name="Zima12MSc"></a>Zima, M.,  
 *[Hand/Arm Gesture Recognition based on Address-Event-Representation Data](http://repositum.tuwien.ac.at/obvutwhs/download/pdf/1623095?originalFilename=true)*,  
-MSc. Thesis, TU Wien & AIT, 2012.
+MSc. Thesis, TU Wien & AIT, Austria, 2012.
 - <a name="Huber14MSc"></a>Huber, B.,  
 *[High-Speed Pose Estimation using a Dynamic Vision Sensor](http://www.kutter-fonds.ethz.ch/App_Themes/default/datalinks/BasilHuber_UniZ_MT2014.pdf)*,  
-MSc. Thesis, University of Zurich, 2014.
+MSc. Thesis, University of Zurich, Switzerland, 2014.
 - <a name="Horstschaefer16MSc"></a>Horstschaefer, T.,  
 *[Parallel Tracking, Depth Estimation, and Image Reconstruction with an Event Camera](http://www.kutter-fonds.ethz.ch/App_Themes/default/datalinks/2016_MT_Horstschaefer1.pdf)*,  
-MSc. Thesis, University of Zurich, 2016.
+MSc. Thesis, University of Zurich, Switzerland, 2016.
 - <a name="Kaelber16BS"></a>Kaelber, F., (Everding, L., Conradt, J.,)    
 *[A probabilistic method for event stream registration](https://mediatum.ub.tum.de/doc/1327653/1327653.pdf)*,  
-Bacherlor Thesis, TU Munich, 2016.
+Bacherlor Thesis, TU Munich, Germany, 2016.
 - <a name="Galanis16BS"></a>Galanis, M., (Everding, L., Conradt, J.,)    
 *[DVS event stream registration](https://mediatum.ub.tum.de/doc/1367575/1367575.pdf)*,  
-Bacherlor Thesis, TU Munich, 2016.
+Bacherlor Thesis, TU Munich, Germany, 2016.
 - <a name="ParedesValles18MSc"></a>Paredes-Valles, F.,  
 *[Neuromorphic Computing of Event-Based Data for High-Speed Vision-Based Navigation](http://resolver.tudelft.nl/uuid:aa13959b-79b9-4dfc-b5e0-7c501d9d3e2f)*,  
 MSc. Thesis, TU Delft, The Netherlands, 2018.
@@ -2657,10 +2657,10 @@ MSc. Thesis, TU Delft, The Netherlands, 2018.
 MSc. Thesis, Air Force Institute of Technology, USA, 2019. [PDF](https://apps.dtic.mil/docs/citations/AD1076268), [PDF](https://apps.dtic.mil/dtic/tr/fulltext/u2/1076268.pdf)
 - <a name="Attanasio19MSc"></a>Attanasio, G.,  
 *[Event-based camera communications: a measurement-based analysis](https://webthesis.biblio.polito.it/11693/1/tesi.pdf)*,  
-MSc. Thesis, Politecnico di Torino, 2019.
+MSc. Thesis, Politecnico di Torino, Italy, 2019.
 - <a name="Wang19MSc"></a>Wang, Z.,  
 *[Motion Equivariance of Event-based Camera Data with the Temporal Normalization Transform](https://arxiv.org/pdf/1911.12801)*,  
-MSc. Thesis, University of Pennsylvania, 2019.
+MSc. Thesis, University of Pennsylvania, USA, 2019.
 - <a name="Boettiger20MSc"></a>Boettiger, J. P.,  
 *[A Comparative Evaluation of the Detection and Tracking Capability Between Novel Event-Based and Conventional Frame-Based Sensors](https://scholar.afit.edu/etd/3154 )*,  
 MSc. Thesis, Air Force Institute of Technology, USA, 2020. [PDF](https://scholar.afit.edu/cgi/viewcontent.cgi?article=4155&context=etd)
@@ -2669,10 +2669,14 @@ MSc. Thesis, Air Force Institute of Technology, USA, 2020. [PDF](https://scholar
 MSc. Thesis, Air Force Institute of Technology, USA, 2020.
 - <a name="Verecken20MSc"></a>Verecken, J.,  
 *[Embedded real-time inference in spiking neural networks for neuromorphic IoT vision sensors](http://hdl.handle.net/2078.1/thesis:26663)*,  
-MSc. Thesis, Ecole polytechnique de Louvain, Université catholique de Louvain, 2020.
+MSc. Thesis, Ecole polytechnique de Louvain, Université catholique de Louvain, Belgium, 2020.
 - <a name="Gava20MSc"></a>Gava, L.,  
 *[Event-driven Motion-In-Depth for Low Latency Control of the Humanoid Robot iCub](https://unire.unige.it/handle/123456789/3258)*,  
-MSc. Thesis, University of Genoa, 2020.
+MSc. Thesis, University of Genoa, Italy, 2020.
+- <a name="Dubeau22MSc"></a>Dubeau, E.,  
+*[Suivi d'objet en 6 degrés de liberté avec caméra événementielle](http://hdl.handle.net/20.500.11794/100283)* (Object Tracking in 6-DOF using an event camera),  
+MSc. Thesis, Université Laval, Canada, 2022.
+
 
 
 <a name="people"></a>
