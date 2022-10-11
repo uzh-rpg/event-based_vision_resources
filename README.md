@@ -2017,7 +2017,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2021. [PDF](http://rpg.ifi.uzh.c
 - <a name="Ayyad21arxiv"></a>Ayyad, A., Halwani, M., Swart, D., Muthusamy, R., Almaskari, F., Zweiri, Y.,   
 *[Neuromorphic Vision Based Control for the Precise Positioning of Robotic Drilling Systems](https://arxiv.org/pdf/2201.01626)*,  
 arXiv, 2021. [Video](https://drive.google.com/file/d/1q9QwPvkd7ZcEBcGMIxIVy2r_iRfTKCSe/view).
-
+- <a name="Wang22iros"></a> Wang, Z., Cladera Ojeda, F., Bisulco A., Lee, D., Taylor, C. J., Daniilidis, K., Hsieh, A. M., Lee, D. D., Isler, V.,  
+*[EV-Catcher: High-Speed Object Catching Using Low-Latency Event-Based Neural Networks](https://doi.org/10.1109/LRA.2022.3188400)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.  
 <a name="obstacle_avoidance"></a>
 ## Obstacle Avoidance
 - <a name="Clady14fnins"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
@@ -2035,6 +2037,10 @@ Science Robotics, 5(40):eaaz9712, 2020. [YouTube](https://youtu.be/BzykucxFddI)
 - <a name="Yasin20sensors"></a>Yasin, J. N., Mohamed, S. A. S., Haghbayan, M.-H., Heikkonen, J., Tenhunen, H., Yasin, M. M., Plosila, J.,  
 *[Night vision obstacle detection and avoidance based on Bio-Inspired Vision Sensors](https://doi.org/10.1109/SENSORS47125.2020.9278914)*,  
 IEEE Sensors 2020. [PDF](https://arxiv.org/pdf/2010.15509).
+- <a name="Bisulco21icra"></a>Bisulco, A., Cladera Ojeda, F., Isler, V., Lee, D. D.,  
+*[Fast Motion Understanding with Spatiotemporal Neural Networks and Dynamic Vision Sensors
+](https://doi.org/10.1109/SEDEP.1998.730709)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2021. [PDF](https://arxiv.org/pdf/2011.09427).
 - <a name="walters21iros"></a>Walters, C., Hadfield,  S.,  
 *[EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance](https://doi.org/10.1109/IROS51168.2021.9636448)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
