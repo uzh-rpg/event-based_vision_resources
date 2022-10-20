@@ -2727,6 +2727,7 @@ MSc. Thesis, Université Laval, Canada, 2022.
 
 # Press
 - [Event-Based Vision: Taking a Cue From Biology](https://www.qualitymag.com/articles/96413-event-based-vision-taking-a-cue-from-biology), 03.2021.
+- [Silicon retinas to help robots navigate the world](https://www.advancedsciencenews.com/silicon-retinas-to-help-robots-navigate-the-world/), Advanced Science News, 10.2022.
 
 
 <br><br>
