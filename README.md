@@ -1156,6 +1156,17 @@ AAAI Conf. Artificial Intelligence, 2021.
 *[Stereo Hybrid Event-Frame (SHEF) Cameras for 3D Perception](https://doi.org/10.1109/IROS51168.2021.9636312)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 [PDF](https://arxiv.org/abs/2110.04988), [Video](https://www.youtube.com/watch?v=Azu7rJSPGNc), [Dataset](https://github.com/ziweiWWANG/SHEF)
+- <a name="Ghosh22aisy"></a>Ghosh, S., Gallego, G.,   
+*[Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion](https://arxiv.org/pdf/2207.10494)*,  
+Advanced Intelligent Systems (AISY), 2022.
+[Video](https://www.youtube.com/watch?v=Azu7rJSPGNc), [Project page (with Code)](https://github.com/tub-rip/dvs_mcemvs),
+    - <a name="Ghosh22asn"></a>Ghosh, S., Gallego, G.,   
+    [Silicon retinas to help robots navigate the world](https://www.advancedsciencenews.com/silicon-retinas-to-help-robots-navigate-the-world/),  
+    Advanced Science News, 2022.
+    - <a name="Ghosh22eccvw"></a>Ghosh, S., Gallego, G.,   
+    [Event-based Stereo Depth Estimation from Ego-motion using Ray Density Fusion](https://arxiv.org/pdf/2210.08927),  
+    2nd Int. Ego4D Workshop at European Conf. Computer Vision Workshops (ECCVW), 2022.
+
 
 <a name="depth-stereo-active"></a>
 ### Stereo Depth Estimation using Structured Light
