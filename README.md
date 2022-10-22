@@ -625,6 +625,12 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 *Focus Is All You Need: Loss Functions For Event-based Vision*.
     - [Stoffregen et al., ICCV 2019](#Stoffregen19iccv),  
 *Event-Based Motion Segmentation by Motion Compensation*.
+    - [Shiba et al., Sensors 2022](#Shiba22sensors),  
+*Event Collapse in Contrast Maximization Frameworks*.
+    - [Shiba et al., ECCV 2022](#Shiba22eccv),  
+*Secrets of Event-based Optical Flow*.
+    - [Zhang et al., arXiv 2021](#Zhang21arxiv),  
+*Formulating Event-based Image Reconstruction as a Linear Inverse Problem using Optical Flow*.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
 Robotics: Science and Systems (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE), [Code](https://github.com/daniilidis-group/EV-FlowNet)
@@ -703,6 +709,13 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Sup
 - <a name="Gehrig21threedv"></a>Gehrig, M., Millhäusler, M., Gehrig, D., Scaramuzza, D.,  
 *[E-RAFT: Dense Optical Flow from Event Cameras](https://arxiv.org/pdf/2108.10552)*,  
 IEEE Int. Conf. on 3D Vision (3DV), 2021. [Code](https://github.com/uzh-rpg/E-RAFT), [Dataset](https://dsec.ifi.uzh.ch), [Youtube](https://youtu.be/dN8fl7-XfNw)
+- <a name="Shiba22sensors"></a>Shiba, S., Aoki, Y., Gallego, G.,  
+*[Event Collapse in Contrast Maximization Frameworks](https://www.mdpi.com/1424-8220/22/14/5190/htm)*,  
+Sensors, 2022. [PDF](https://arxiv.org/pdf/2207.04007)
+- <a name="Shiba22eccv"></a>Shiba, S., Aoki, Y., Gallego, G.,  
+*[Secrets of Event-based Optical Flow](https://arxiv.org/pdf/2207.10022)*,  
+Europen Conf. Computer Vision (ECCV), 2022. [YouTube](https://youtu.be/nUb2ZRPdbWk), [Poster](https://drive.google.com/file/d/1mF-mM4teb8A9bKJJiQwN7IFsGsRIsRaX/view?usp=sharing), [Presentation at  the  PRG  Seminar Series  U. Maryland (Video)](https://vid.umd.edu/detsmediasite/Play/d31926745bdd446e8f6ce165ae4811591d), [Presentation at the GRASP Laboratory (UPenn) seminar](https://youtu.be/8v-bYCVL9hw),
+[Project page and Code](https://github.com/tub-rip/event_based_optical_flow)
 - <a name="Brebion21tits"></a>Brebion, V., Moreau, J., Davoine, F.,  
 *[Real-Time Optical Flow for Vehicular Perception With Low- and High-Resolution Event Cameras](https://doi.org/10.1109/TITS.2021.3136358)*,  
 IEEE Trans. Intell. Transp. Syst. (T-ITS), 2021. [PDF](https://arxiv.org/pdf/2112.10591.pdf), [Code](https://github.com/vbrebion/rt_of_low_high_res_event_cameras), [Dataset](https://datasets.hds.utc.fr/share/er2aA4R0QMJzMyO), [YouTube](https://youtube.com/playlist?list=PLLL0eWAd6OXBRXli-tB1NREdhBElAxisD).
@@ -808,6 +821,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Suppl.](https:
 - <a name="CohenDuwek21cvprw"></a>Cohen Duwek, H., Shalumov, A., Ezra Tsur, E.,  
 *[Image Reconstruction From Neuromorphic Event Cameras Using Laplacian-Prediction and Poisson Integration With Spiking and Artificial Neural Networks](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Duwek_Image_Reconstruction_From_Neuromorphic_Event_Cameras_Using_Laplacian-Prediction_and_Poisson_CVPRW_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [YouTube](https://youtu.be/CoocgoUhxvU).
+- <a name="Zhang21arxiv"></a>Zhang, Z., Yezzi, A., Gallego, G.,  
+*[Formulating Event-based Image Reconstruction as a Linear Inverse Problem using Optical Flow](https://arxiv.org/pdf/2112.06242)*,  
+arXiv, 2021.
 
 
 <a name="video-synthesis"></a>
@@ -1157,14 +1173,14 @@ AAAI Conf. Artificial Intelligence, 2021.
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 [PDF](https://arxiv.org/abs/2110.04988), [Video](https://www.youtube.com/watch?v=Azu7rJSPGNc), [Dataset](https://github.com/ziweiWWANG/SHEF)
 - <a name="Ghosh22aisy"></a>Ghosh, S., Gallego, G.,   
-*[Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion](https://arxiv.org/pdf/2207.10494)*,  
+*[Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion (MCEMVS)](https://arxiv.org/pdf/2207.10494)*,  
 Advanced Intelligent Systems (AISY), 2022.
-[Video](https://www.youtube.com/watch?v=Azu7rJSPGNc), [Project page (with Code)](https://github.com/tub-rip/dvs_mcemvs),
+[Video](https://www.youtube.com/watch?v=Azu7rJSPGNc), [Presentation at IEEE MFI workshop 2022 (YouTube)](https://youtu.be/MaRoJ16obdI), [Slides MFI 2022](https://drive.google.com/file/d/12bFp1sW5vRIUhnRLNk-g8BCe7rlH8x94/view), [Presentation at the GRASP Laboratory (UPenn) seminar](https://youtu.be/8v-bYCVL9hw), [Project page (with Code)](https://github.com/tub-rip/dvs_mcemvs),
     - <a name="Ghosh22asn"></a>Ghosh, S., Gallego, G.,   
-    [Silicon retinas to help robots navigate the world](https://www.advancedsciencenews.com/silicon-retinas-to-help-robots-navigate-the-world/),  
+    *[Silicon retinas to help robots navigate the world](https://www.advancedsciencenews.com/silicon-retinas-to-help-robots-navigate-the-world/)*,  
     Advanced Science News, 2022.
     - <a name="Ghosh22eccvw"></a>Ghosh, S., Gallego, G.,   
-    [Event-based Stereo Depth Estimation from Ego-motion using Ray Density Fusion](https://arxiv.org/pdf/2210.08927),  
+    *[Event-based Stereo Depth Estimation from Ego-motion using Ray Density Fusion](https://arxiv.org/pdf/2210.08927)*,  
     2nd Int. Ego4D Workshop at European Conf. Computer Vision Workshops (ECCVW), 2022.
 
 
@@ -1338,7 +1354,7 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2014, pp. 359-364.
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2016, pp. 16-23. [PDF](http://rpg.ifi.uzh.ch/docs/IROS16_Kueng.pdf). [YouTube](https://youtu.be/RDu5eldW8i8)
 - <a name="Kim16eccv"></a>Kim, H., Leutenegger, S., Davison, A.J.,  
 *[Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera](http://doi.org/10.1007/978-3-319-46466-4_21)*,  
-European Conference on Computer Vision (ECCV), 2016, pp. 349-364. [PDF](https://www.doc.ic.ac.uk/~ajd/Publications/kim_etal_eccv2016.pdf), [YouTube](https://youtu.be/yHLyhdMSw7w), [YouTube 2](https://youtu.be/ajzdA4zkMfs)
+European Conf. Computer Vision (ECCV), 2016, pp. 349-364. [PDF](https://www.doc.ic.ac.uk/~ajd/Publications/kim_etal_eccv2016.pdf), [YouTube](https://youtu.be/yHLyhdMSw7w), [YouTube 2](https://youtu.be/ajzdA4zkMfs)
 - <a name="Gallego17ral"></a>Gallego, G. and Scaramuzza, D.,  
 *[Accurate Angular Velocity Estimation with an Event Camera](https://doi.org/10.1109/LRA.2016.2647639)*,  
 IEEE Robotics and Automation Letters (RA-L), 2(2):632-639, 2017.
