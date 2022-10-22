@@ -1175,7 +1175,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 - <a name="Ghosh22aisy"></a>Ghosh, S., Gallego, G.,   
 *[Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion (MCEMVS)](https://arxiv.org/pdf/2207.10494)*,  
 Advanced Intelligent Systems (AISY), 2022.
-[Video](https://www.youtube.com/watch?v=Azu7rJSPGNc), [Presentation at IEEE MFI workshop 2022 (YouTube)](https://youtu.be/MaRoJ16obdI), [Slides MFI 2022](https://drive.google.com/file/d/12bFp1sW5vRIUhnRLNk-g8BCe7rlH8x94/view), [Presentation at the GRASP Laboratory (UPenn) seminar](https://youtu.be/8v-bYCVL9hw), [Project page (with Code)](https://github.com/tub-rip/dvs_mcemvs),
+[YouTube](https://youtu.be/o7Bxg9XlHmg), [Presentation at IEEE MFI workshop 2022 (YouTube)](https://youtu.be/MaRoJ16obdI), [Slides MFI 2022](https://drive.google.com/file/d/12bFp1sW5vRIUhnRLNk-g8BCe7rlH8x94/view), [Presentation at the GRASP Laboratory (UPenn) seminar](https://youtu.be/8v-bYCVL9hw), [Project page (with Code)](https://github.com/tub-rip/dvs_mcemvs),
     - <a name="Ghosh22asn"></a>Ghosh, S., Gallego, G.,   
     *[Silicon retinas to help robots navigate the world](https://www.advancedsciencenews.com/silicon-retinas-to-help-robots-navigate-the-world/)*,  
     Advanced Science News, 2022.
