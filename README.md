@@ -1712,6 +1712,9 @@ IEEE Sensors Journal, 20(11):6170-6181, 2020.
 - <a name="Chen21tfis"></a>Chen, G., Liu, P., Liu, Z., Tang, H., Hong, L., Dong, J., Conradt, J., Knoll, A.,  
 *[NeuroAED: Towards Efficient Abnormal Event Detection in Visual Surveillance With Neuromorphic Vision Sensor](https://doi.org/10.1109/TIFS.2020.3023791)*,  
 IEEE Trans. Information Forensics and Security (TIFS), 16:923-936, 2021.
+- <a name="Liu_21_IJCAI"></a>Liu, Q., Xing, D., Tang, H., Ma, D., Pan, G.,  
+*[Event-based Action Recognition Using Motion Information and Spiking Neural Networks](https://doi.org/10.24963/ijcai.2021/240)*,  
+International Joint Conferences on Artifical Intelligence (IJCAI), 2021. [PDF](https://www.ijcai.org/proceedings/2021/0240.pdf), [DailyAction-DVS Dataset](https://github.com/qianhuiliu/SNN-action-recognition)  
 - <a name="Sabater_2022_CVPR"></a>Sabater, A., Montesano, L., Murillo, A.,  
 *Event Transformer. A sparse-aware solution for efficient event data processing*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2022. [PDF](https://arxiv.org/abs/2204.03355), [Supp. Video](https://drive.google.com/file/d/1X4OviJTxTUbi2W0zQYKG3qqtEUf98a0p/view?usp=sharing), [Code](https://github.com/AlbertoSabater/EventTransformer).
