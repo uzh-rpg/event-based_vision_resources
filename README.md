@@ -2114,8 +2114,8 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2020. [PDF](https://ar
 - <a name="Afshar19arxiv"></a>Afshar, S., Nicholson, A. P., van Schaik, A., Cohen, G.,  
 *[Event-based Object Detection and Tracking for Space Situational Awareness](https://arxiv.org/pdf/1911.08730)*,  
 arXiv:1911.08730, 2019. [Dataset](https://www.westernsydney.edu.au/icns/reproducible_research/publication_support_materials/space_imaging)
-- <a name="ralph2019observations"></a>Ralph, N.O., Maybour, D., Bethi, Y., Cohen, G.,  
-*[Observations and Design of a new Neuromorphic Event-based All-Sky and Fixed Region Imaging System](https://ui.adsabs.harvard.edu/abs/2019amos.confE..71R/abstract)*, 
+- <a name="Ralph19amos"></a>Ralph, N.O., Maybour, D., Bethi, Y., Cohen, G.,  
+*[Observations and Design of a new Neuromorphic Event-based All-Sky and Fixed Region Imaging System](https://amostech.com/TechnicalPapers/2019/Optical-Systems-&-Instrumentation/Ralph.pdf)*, 
 Proc. Advanced Maui Optical and Space Surveillance Technologies Conf. (AMOS), 2019.
 - <a name="Roffe21arxiv"></a>Roffe, S., Akolkar, H., George, A. D., Linares-barranco, B., Benosman, R.,  
 *[Neutron-Induced, Single-Event Effects on Neuromorphic Event-based Vision Sensor: A First Step Towards Space Applications](https://arxiv.org/abs/2102.00112)*,  
@@ -2123,10 +2123,10 @@ arXiv, 2021.
 - <a name="McMahon21osa"></a>McMahon-Crabtree, P., Monet, D.,  
 *[Evaluation of Commercial-off-the-Shelf EventBased Cameras for Space Surveillance Applications](https://www.osapublishing.org/ao/upcoming_pdf.cfm?id=425623)*,  
 Applied Optics, 2021.
-- <a name="ralph2022real"></a>Ralph, N.O., Joubert, D., Jolley, A., Afshar, S., Tothill, N., van Schaik, A. and Cohen, G.,  
-*[Real-Time Event-Based Unsupervised Feature Consolidation and Tracking for Space Situational Awareness](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9120364/)*, 
+- <a name="Ralph22fnins"></a>Ralph, N.O., Joubert, D., Jolley, A., Afshar, S., Tothill, N., van Schaik, A. and Cohen, G.,  
+*[Real-Time Event-Based Unsupervised Feature Consolidation and Tracking for Space Situational Awareness](https://doi.org/10.3389%2Ffnins.2022.821157)*, 
 Frontiers in Neuroscience, 2022.
-- <a name="ralph2022astrometric"></a>Ralph, N.O., Marcireau, A., Afshar, S., Tothill, N., van Schaik, A. and Cohen, G.  
+- <a name="Ralph22arxiv"></a>Ralph, N.O., Marcireau, A., Afshar, S., Tothill, N., van Schaik, A. and Cohen, G.  
 *[Astrometric Calibration and Source Characterisation of the Latest Generation Neuromorphic Event-based Cameras for Space Imaging](https://arxiv.org/abs/2211.09939)*, 
 arXiv preprint arXiv:2211.09939, 2022.
 
@@ -2386,6 +2386,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 
 ### Space Situational Awareness
 - [The Event-Based Space Situational Awareness (EBSSA) Dataset](https://www.westernsydney.edu.au/icns/reproducible_research/publication_support_materials/space_imaging) associated to the paper [Event-based Object Detection and Tracking for Space Situational Awareness](#Afshar19arxiv).
+- [The Event Based Space Imaging Slew Speed Star Dataset](https://drive.google.com/drive/folders/126nz5-6aOyRnWBFaAoPsOYEztO1PFabd?usp=share_link) associated to the paper [Astrometric Calibration and Source Characterisation of the Latest Generation Neuromorphic Event-based Cameras for Space Imaging](#Ralph22arxiv).
 
 ### Outdoor Monitoring / Surveillance
 - <a name="Bolten21cvprw"></a>Bolten, T., Pohle-Frohlich, R., Tonnies, K. D.,  
