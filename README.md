@@ -448,6 +448,9 @@ Int. Conf. on Machine Vision and Applications (ICMVA), 2021. [Code](https://gith
 - <a name="Mondal21iccvw"></a>Mondal, A., Shashant, R., Giraldo, J. H., Bouwmans, T., Chowdhury, A. S.,  
 *[Moving Object Detection for Event-based Vision using Graph Spectral Clustering](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.pdf)*,  
 IEEE Int. Conf. Computer Vision Workshop (ICCVW), 2021. [Youtube](https://youtu.be/ST6Z-3SlNS4), [Code](https://github.com/anindya2001/GSCEventMOD).
+- <a name="Wang21arxiv"></a>Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu,  
+*[VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows](https://arxiv.org/abs/2108.05015)*,  
+arXiv, 2021. [Code](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)
 - [Alzugaray, I., Ph.D. Thesis, 2022](#Alzugaray22PhD),  
 *Event-driven Feature Detection and Tracking for Visual SLAM*.
 - <a name="zhang2021multi"></a>Zhang, J., Zhao, K., Dong, B., Fu, Y., Wang, Y., Yang, X., Yin, B.,  
