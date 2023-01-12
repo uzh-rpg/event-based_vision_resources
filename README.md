@@ -1719,8 +1719,11 @@ IEEE Trans. Information Forensics and Security (TIFS), 16:923-936, 2021.
 *[Event-based Action Recognition Using Motion Information and Spiking Neural Networks](https://doi.org/10.24963/ijcai.2021/240)*,  
 International Joint Conferences on Artifical Intelligence (IJCAI), 2021. [PDF](https://www.ijcai.org/proceedings/2021/0240.pdf), [DailyAction-DVS Dataset](https://github.com/qianhuiliu/SNN-action-recognition)  
 - <a name="Sabater_2022_CVPR"></a>Sabater, A., Montesano, L., Murillo, A.,  
-*Event Transformer. A sparse-aware solution for efficient event data processing*,  
+*[Event Transformer. A sparse-aware solution for efficient event data processing](https://openaccess.thecvf.com/content/CVPR2022W/ECV/html/Sabater_Event_Transformer._A_Sparse-Aware_Solution_for_Efficient_Event_Data_Processing_CVPRW_2022_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2022. [PDF](https://arxiv.org/abs/2204.03355), [Supp. Video](https://drive.google.com/file/d/1X4OviJTxTUbi2W0zQYKG3qqtEUf98a0p/view?usp=sharing), [Code](https://github.com/AlbertoSabater/EventTransformer).
+- <a name="Sabater_EvT_2023"></a>Sabater, A., Montesano, L., Murillo, A.,  
+*[Event Transformer+. A multi-purpose solution for efficient event data processing](https://arxiv.org/abs/2211.12222)*,  
+arXiv [cs.CV] (2022).
 
 
 <a name="learning-representation-features"></a>
