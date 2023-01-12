@@ -886,6 +886,10 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [You
 - <a name="Wang21iccv"></a>Wang, Z., Ng, Y., Scheerlinck, C., Mahony., R.,  
 *[An Asynchronous Kalman Filter for Hybrid Event Cameras](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.html)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.pdf), [Code](https://github.com/ziweiWWANG/AKF), [YouTube](https://www.youtube.com/watch?v=XPz7laloKws), [Suppl.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_An_Asynchronous_Kalman_ICCV_2021_supplemental.pdf)
+- <a name="Sun22eccv"></a>Sun, L., Sakaridis, C., Liang, J., Jiang, Q., Yang, K., Sun, P., Ye, Y., Wang, K., Gool, L.,  
+*[Event-Based Fusion for Motion Deblurring with Cross-modal Attention](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3239_ECCV_2022_paper.php)*,  
+European Conf. Computer Vision (ECCV), 2022. [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780403.pdf), [Code](https://github.com/AHupuJR/EFNet), [Suppl.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780403-supp.pdf), [Project page](https://ahupujr.github.io/EFNet/)
+
 
 <a name="super-resolution"></a>
 ### Super-resolution
