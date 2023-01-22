@@ -229,7 +229,9 @@ IEEE Spectrum, 52(12):44-49, 2015. [PDF](https://www.neuromorphic-vision.com/pub
 - <a name="Cho15sam"></a>Cho, D., Lee, T.-J.,  
 *[A Review of Bioinspired Vision Sensors and Their Applications](https://doi.org/10.18494/SAM.2015.1133)*,  
 Sensors and Materials, 27(6):447-463, 2015. [PDF](https://myukk.org/SM2017/sm_pdf/SM1083.pdf)
-
+- <a name="Sandamirskaya22scirob"></a>Sandamirskaya, Y., Kaboli, M., Conradt, J., Celikel, T.,  
+*[Neuromorphic computing hardware and neural architectures for robotics](https://doi.org/10.1126/scirobotics.abl8419)*,  
+Science Robotics, 7(67):eabl8419, 2022.
 
 <a name="reviewpapers-algs"></a>
 ## Algorithms, Applications
@@ -258,6 +260,12 @@ Front. Neural Circuits 15:610446, 2021.
 - <a name="Sun21hindawi"></a>Sun, R. Shi, D., Zhang, Y., Li, R., Li, R.,  
 *[Data-Driven Technology in Event-Based Vision](https://doi.org/10.1155/2021/6689337)*,  
 Complexity, vol. 2021, Article ID 6689337.
+- <a name="Bartolozzi22natcomm"></a>Bartolozzi, C., Indiveri, G., Donati, E.,  
+*[Embodied neuromorphic intelligence](https://doi.org/10.1038/s41467-022-28487-2)*,  
+Nat. Commun. 13:1024, 2022.
+- <a name="Zou22mir"></a>Zou, XL., Huang, T.J., Wu, S.,  
+*[Towards a New Paradigm for Brain-inspired Computer Vision](https://doi.org/10.1007/s11633-022-1370-z)*,  
+Mach. Intell. Res., 19:412-424, 2022.
 
 
 <a name="algorithms"></a>
@@ -391,7 +399,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Vid
 IS&T International Symposium on Electronic Imaging 2019. Computational Imaging XVII.
 - <a name="Alzugaray193dv"></a>Alzugaray, I., Chli, M.,  
 *[Asynchronous Multi-Hypothesis Tracking of Features with Event Cameras](https://doi.org/10.3929/ethz-b-000360434)*,  
-Int. Conf. 3D Vision (3DV), 2019. [PDF](https://doi.org/10.3929/ethz-b-000360434), [Code](https://github.com/ialzugaray/haste), [YouTube](https://youtu.be/eguV_AIbteU)
+IEEE Int. Conf. 3D Vision (3DV), 2019. [PDF](https://doi.org/10.3929/ethz-b-000360434), [Code](https://github.com/ialzugaray/haste), [YouTube](https://youtu.be/eguV_AIbteU)
 - <a name="LinaresBarranco19access"></a>Linares-Barranco, A., Perez-Pena, F., Moeys, D.P., Gomez-Rodriguez, F., Jimenez-Moreno, G., Delbruck, T.  
 *[Low Latency Event-based Filtering and Feature Extraction for Dynamic Vision Sensors in Real-Time FPGA Applications](https://doi.org/10.1109/ACCESS.2019.2941282)*,  
 IEEE Access, 7:134926-134942, 2019. [Code](https://github.com/RTC-research-group/EDIP_library)
@@ -484,7 +492,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019.
 IEEE Robotics and Automation Letters (RA-L), 3(4):3177-3184, Oct. 2018.  [PDF](https://doi.org/10.3929/ethz-b-000277131), [YouTube](https://youtu.be/bKUAZ7IQcf0), [Code](https://github.com/ialzugaray/arc_star_ros).
 - <a name="Alzugaray183dv"></a>Alzugaray, I., Chli, M.,  
 *[ACE: An Efficient Asynchronous Corner Tracker for Event Cameras](https://doi.org/10.1109/3DV.2018.00080)*,  
-Int. Conf. 3D Vision (3DV), 2018. [PDF](https://doi.org/10.3929/ethz-b-000291763), [YouTube](https://youtu.be/I31yQqmCsfs)
+IEEE Int. Conf. 3D Vision (3DV), 2018. [PDF](https://doi.org/10.3929/ethz-b-000291763), [YouTube](https://youtu.be/I31yQqmCsfs)
 - <a name="Scheerlinck19ral"></a>Scheerlinck, C., Barnes, N., Mahony, R.,  
 *[Asynchronous Spatial Image Convolutions for Event Cameras](https://doi.org/10.1109/LRA.2019.2893427)*,  
 IEEE Robotics and Automation Letters (RA-L), 4(2):816-822, Apr. 2019.  [PDF](https://cedric-scheerlinck.github.io/files/2018_event_convolutions.pdf), [Website](https://cedric-scheerlinck.github.io/2018_event_convolutions)
@@ -710,7 +718,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [You
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Suppl.](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/supplemental/Barbier_Spike_Timing-Based_Unsupervised_CVPRW_2021_supplemental.pdf), [YouTube](https://youtu.be/TL567P70L68).
 - <a name="Gehrig21threedv"></a>Gehrig, M., Millhäusler, M., Gehrig, D., Scaramuzza, D.,  
 *[E-RAFT: Dense Optical Flow from Event Cameras](https://arxiv.org/pdf/2108.10552)*,  
-IEEE Int. Conf. on 3D Vision (3DV), 2021. [Code](https://github.com/uzh-rpg/E-RAFT), [Dataset](https://dsec.ifi.uzh.ch), [Youtube](https://youtu.be/dN8fl7-XfNw)
+IEEE Int. Conf. 3D Vision (3DV), 2021. [Code](https://github.com/uzh-rpg/E-RAFT), [Dataset](https://dsec.ifi.uzh.ch), [Youtube](https://youtu.be/dN8fl7-XfNw)
 - <a name="Shiba22sensors"></a>Shiba, S., Aoki, Y., Gallego, G.,  
 *[Event Collapse in Contrast Maximization Frameworks](https://www.mdpi.com/1424-8220/22/14/5190/htm)*,  
 Sensors, 2022. [PDF](https://arxiv.org/pdf/2207.04007),  [Project page](https://github.com/tub-rip/event_collapse)
@@ -989,7 +997,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019.
 *Unsupervised Event-Based Learning of Optical Flow, Depth, and Egomotion.*
 - <a name="Hidalgo20threedv"></a>Hidalgo-Carrió J., Gehrig D., Scaramuzza, D.,  
 *[Learning Monocular Dense Depth from Events](https://arxiv.org/pdf/2010.08350.pdf)*,  
-IEEE Int. Conf. on 3D Vision (3DV), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/3DV20_Hidalgo.pdf), [YouTube](https://youtu.be/Ne1KyyXd3_A), [Code](https://github.com/uzh-rpg/rpg_e2depth), [Project Page](http://rpg.ifi.uzh.ch/e2depth).
+IEEE Int. Conf. 3D Vision (3DV), 2020. [PDF](http://rpg.ifi.uzh.ch/docs/3DV20_Hidalgo.pdf), [YouTube](https://youtu.be/Ne1KyyXd3_A), [Code](https://github.com/uzh-rpg/rpg_e2depth), [Project Page](http://rpg.ifi.uzh.ch/e2depth).
 - <a name="Baudron20arxiv"></a>Baudron, A., Wang, Z. W., Cossairt, O., Katsaggelos, A. K.,  
 *[E3D: Event-Based 3D Shape Reconstruction](https://arxiv.org/pdf/2012.05214)*,  
 arXiv, 2020. [Code](https://github.com/alexisbdr/e3d).
@@ -1471,6 +1479,11 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020. [PDF](https://a
 *[Research on Event Accumulator Settings for Event-Based SLAM](https://arxiv.org/abs/2112.00427)*,  
 arXiv, 2021. [PDF(Monocular VIO ony)](https://arxiv.org/abs/2112.00427), [Code (VIO and Stereo)](https://github.com/robin-shaun/event-slam-accumulator-settings).
 
+#### Stereo
+- <a name="Chen22arxiv"></a>Chen, P., Guan, W., Lu, P.,  
+*[ESVIO: Event-based Stereo Visual Inertial Odometry](https://arxiv.org/abs/2212.13184)*,  
+arXiv, 2022.
+
 
 <a name="segmentation"></a>
 ## Segmentation
@@ -1802,7 +1815,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF
 Front. Neurosci. (2018), 12:1047.
 - <a name="Sekikawa183dv"></a>Sekikawa, Y., Ishikawa, K., Hara, K., Yoshida, Y., Suzuki, K., Sato, I., Saito, H.,  
 *[Constant Velocity 3D Convolution](https://doi.org/10.1109/3DV.2018.00047)*,  
-Int. Conf. 3D Vision (3DV), 2018.
+IEEE Int. Conf. 3D Vision (3DV), 2018.
     - <a name="Sekikawa18access"></a>Sekikawa, Y., Ishikawa, K., Saito, H.,  
 *[Constant Velocity 3D Convolution](https://doi.org/10.1109/ACCESS.2018.2883340)*,  
 IEEE Access, 6:76490-76501, 2018.
@@ -2221,6 +2234,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
 - <a name="Scarpellini21cvprw"></a>Scarpellini, G., Morerio, P., Del Bue, A.,  
 *[Lifting Monocular Events to 3D Human Poses](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Scarpellini_Lifting_Monocular_Events_to_3D_Human_Poses_CVPRW_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](https://iit-pavis.github.io/lifting_events_to_3d_hpe/), [YouTube](https://youtu.be/nwWh3MKdOEM), [Code](https://github.com/IIT-PAVIS/lifting_events_to_3d_hpe).
+- <a name="Chen22threedv"></a>Chen, J., Shi, H., Ye, Y., Yang, K., Sun, L., Wang, K.,  
+*[Efficient Human Pose Estimation via 3D Event Point Cloud](https://arxiv.org/pdf/2206.04511)*,  
+IEEE Int. Conf. 3D Vision (3DV), 2022. [Project page](https://bestchen97.github.io/EventHumanPerception/), [Code](https://github.com/MasterHow/EventPointPose)
 
 
 <a name="hand_pose_estimation"></a>
