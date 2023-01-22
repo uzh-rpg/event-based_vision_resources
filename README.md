@@ -630,7 +630,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 *Event Collapse in Contrast Maximization Frameworks*.
     - [Shiba et al., ECCV 2022](#Shiba22eccv),  
 *Secrets of Event-based Optical Flow*.
-    - [Zhang et al., arXiv 2021](#Zhang21arxiv),  
+    - [Zhang et al., arXiv 2021](#Zhang22tpami),  
 *Formulating Event-based Image Reconstruction as a Linear Inverse Problem using Optical Flow*.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
@@ -712,7 +712,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Sup
 IEEE Int. Conf. on 3D Vision (3DV), 2021. [Code](https://github.com/uzh-rpg/E-RAFT), [Dataset](https://dsec.ifi.uzh.ch), [Youtube](https://youtu.be/dN8fl7-XfNw)
 - <a name="Shiba22sensors"></a>Shiba, S., Aoki, Y., Gallego, G.,  
 *[Event Collapse in Contrast Maximization Frameworks](https://www.mdpi.com/1424-8220/22/14/5190/htm)*,  
-Sensors, 2022. [PDF](https://arxiv.org/pdf/2207.04007)
+Sensors, 2022. [PDF](https://arxiv.org/pdf/2207.04007),  [Project page](https://github.com/tub-rip/event_collapse)
 - <a name="Shiba22eccv"></a>Shiba, S., Aoki, Y., Gallego, G.,  
 *[Secrets of Event-based Optical Flow](https://arxiv.org/pdf/2207.10022)*,  
 Europen Conf. Computer Vision (ECCV), 2022. [YouTube](https://youtu.be/nUb2ZRPdbWk), [Poster](https://drive.google.com/file/d/1mF-mM4teb8A9bKJJiQwN7IFsGsRIsRaX/view?usp=sharing), [Presentation at  the  PRG  Seminar Series  U. Maryland (Video)](https://vid.umd.edu/detsmediasite/Play/d31926745bdd446e8f6ce165ae4811591d), [Presentation at the GRASP Laboratory (UPenn) seminar](https://youtu.be/8v-bYCVL9hw),
@@ -723,6 +723,9 @@ IEEE Trans. Intell. Transp. Syst. (T-ITS), 2021. [PDF](https://arxiv.org/pdf/211
 - <a name="LiuDelbruck22tcsvt"></a>Liu, M., Delbruck, T.,  
 *[EDFLOW: Event Driven Optical Flow Camera with Keypoint Detection and Adaptive Block Matching](https://ieeexplore.ieee.org/document/9727106)*,  
 IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 2022. [Preprint PDF](https://drive.google.com/file/d/15YflL00x8X1StKwZqWR3YLBN8iHAP27E/view?usp=sharing), [Code and Dataset](https://sites.google.com/view/edflow21/home)
+- <a name="Shiba22lsp"></a>Shiba, S., Aoki, Y., Gallego, G.,  
+*[Fast Event-based Optical Flow Estimation by Triplet Matching](https://doi.org/10.1109/LSP.2023.3234800)*,  
+IEEE Signal Process. Lett. (SPL), vol. 29, pp. 2712-2716, 2022. [PDF](https://arxiv.org/pdf/2212.12218)
 
 
 <a name="scene-flow-estimation"></a>
@@ -822,9 +825,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Suppl.](https:
 - <a name="CohenDuwek21cvprw"></a>Cohen Duwek, H., Shalumov, A., Ezra Tsur, E.,  
 *[Image Reconstruction From Neuromorphic Event Cameras Using Laplacian-Prediction and Poisson Integration With Spiking and Artificial Neural Networks](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Duwek_Image_Reconstruction_From_Neuromorphic_Event_Cameras_Using_Laplacian-Prediction_and_Poisson_CVPRW_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [YouTube](https://youtu.be/CoocgoUhxvU).
-- <a name="Zhang21arxiv"></a>Zhang, Z., Yezzi, A., Gallego, G.,  
-*[Formulating Event-based Image Reconstruction as a Linear Inverse Problem using Optical Flow](https://arxiv.org/pdf/2112.06242)*,  
-arXiv, 2021.
+- <a name="Zhang22tpami"></a>Zhang, Z., Yezzi, A., Gallego, G.,  
+*[Formulating Event-based Image Reconstruction as a Linear Inverse Problem with Deep Regularization using Optical Flow](https://doi.org/10.1109/TPAMI.2022.3230727)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022. [PDF](https://arxiv.org/pdf/2112.06242),  [Code](https://github.com/tub-rip/event_based_image_rec_inverse_problem)
 
 
 <a name="video-synthesis"></a>
@@ -989,7 +992,7 @@ IEEE Conf. Computational Photography (ICCP), 2015. [PDF](http://compphotolab.nor
 arXiv:1811.10771, 2018.
 - <a name="mangalore2020neuromorphic"></a>Mangalore, A. R., Seelamantula, C. S., Thakur, C. S.,  
 *[Neuromorphic Fringe Projection Profilometry](https://doi.org/10.1109/LSP.2020.3016251)*,  
-IEEE Signal Processing Letters (LSP), 2020. [Project page](https://github.com/ashishrao7/NFPP)
+IEEE Signal Process. Lett. (SPL), vol. 27, pp. 1510-1514, 2020. [Project page](https://github.com/ashishrao7/NFPP)
 - [Wang et al. JSEN](#Wang20jsen),  
 *Temporal Matrices Mapping Based Calibration Method for Event-Driven Structured Light Systems.*
 - <a name="Takatani21cvpr"></a>Takatani, T., Ito, Y., Ebisu, A., Zheng, Y., Aoto, T.,  
@@ -1187,7 +1190,7 @@ Advanced Intelligent Systems (AISY), 2022.
     - <a name="Ghosh22eccvw"></a>Ghosh, S., Gallego, G.,   
     *[Event-based Stereo Depth Estimation from Ego-motion using Ray Density Fusion](https://arxiv.org/pdf/2210.08927)*,  
     2nd Int. Ego4D Workshop at European Conf. Computer Vision Workshops (ECCVW), 2022.
-- <a name="GUu23eistereo"></a>Gu, J., Zhou, J., Chu, R.S.W., Chen, Y., Zhang, J., Cheng, X., Zhang, S., Ren, J.S.,  
+- <a name="Gu23eistereo"></a>Gu, J., Zhou, J., Chu, R.S.W., Chen, Y., Zhang, J., Cheng, X., Zhang, S., Ren, J.S.,  
 *[Self-Supervised Intensity-Event Stereo Matching](https://arxiv.org/abs/2211.00509)*,  
 J. Imaging Sci. Technol. 2023. [Project page and Code](https://ringoswchu.com/Research/iestereo/).
 
@@ -1322,6 +1325,10 @@ British Machine Vision Conf. (BMVC), 2021, [PDF](https://www.bmvc2021-virtualcon
 - <a name="lee2021eventvlad"></a>Lee, A. J., Kim, A.,  
 *[EventVLAD: Visual Place Recognition with Reconstructed Edges from Event Cameras](https://ieeexplore.ieee.org/abstract/document/9635907)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021, [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9635907)
+- <a name="Shiba22aisy"></a>Shiba, S., Aoki, Y., Gallego, G.,  
+*[A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200251)*,  
+Advanced Intelligent Systems, 2022.  [PDF](https://arxiv.org/pdf/2212.07350), [YouTube](https://youtu.be/IwqA57yaBTo), [Project page](https://github.com/tub-rip/event_collapse)
+
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
@@ -1978,7 +1985,10 @@ arXiv 2020. [PDF](https://arxiv.org/pdf/2005.00974.pdf)
 IEEE Internet of Things Journal, 2021.
 - <a name="Schiopu22lsp"></a>Schiopu, I., Bilcu, R. C.,  
 *[Lossless Compression of Event Camera Frames](https://doi.org/10.1109/LSP.2022.3196599)*,  
-IEEE Signal Proc. Letters 2022.
+IEEE Signal Process. Lett. (SPL), vol. 29, pp. 1779-1783, 2022.
+- <a name="Schiopu22sensors"></a>Schiopu, I., Bilcu, R. C.,  
+*[Low-Complexity Lossless Coding of Asynchronous Event Sequences for Low-Power Chip Integration](https://doi.org/10.3390/s222410014)*,  
+Sensors, 2022.
 
 
 <a name="control"></a>
