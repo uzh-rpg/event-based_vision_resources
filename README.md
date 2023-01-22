@@ -721,9 +721,9 @@ Europen Conf. Computer Vision (ECCV), 2022. [YouTube](https://youtu.be/nUb2ZRPdb
 - <a name="Brebion21tits"></a>Brebion, V., Moreau, J., Davoine, F.,  
 *[Real-Time Optical Flow for Vehicular Perception With Low- and High-Resolution Event Cameras](https://doi.org/10.1109/TITS.2021.3136358)*,  
 IEEE Trans. Intell. Transp. Syst. (T-ITS), 2021. [PDF](https://arxiv.org/pdf/2112.10591.pdf), [Code](https://github.com/vbrebion/rt_of_low_high_res_event_cameras), [Dataset](https://datasets.hds.utc.fr/share/er2aA4R0QMJzMyO), [YouTube](https://youtube.com/playlist?list=PLLL0eWAd6OXBRXli-tB1NREdhBElAxisD).
-- <a name="LiuDelbruck22tcsvt"></a>Liu, M., Delbruck, T.,  
-*[EDFLOW: Event Driven Optical Flow Camera with Keypoint Detection and Adaptive Block Matching](https://ieeexplore.ieee.org/document/9727106)*,  
-IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 2022. [Preprint PDF](https://drive.google.com/file/d/15YflL00x8X1StKwZqWR3YLBN8iHAP27E/view?usp=sharing), [Code and Dataset](https://sites.google.com/view/edflow21/home)
+- <a name="Liu22tcsvt"></a>Liu, M., Delbruck, T.,  
+*[EDFLOW: Event Driven Optical Flow Camera with Keypoint Detection and Adaptive Block Matching](https://doi.org/10.1109/TCSVT.2022.3156653)*,  
+IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 32(9):5776-5789, 2022. [Preprint PDF](https://drive.google.com/file/d/15YflL00x8X1StKwZqWR3YLBN8iHAP27E/view?usp=sharing), [Code and Dataset](https://sites.google.com/view/edflow21/home)
 - <a name="Wan22tip"></a>Wan, Z., Dai, Y., Mao, Y.,  
 *[Learning Dense and Continuous Optical Flow From an Event Camera](https://doi.org/10.1109/TIP.2022.3220938)*,  
 IEEE Trans. Image Process. (TIP), 31:7237-7251, 2022. [PDF](https://arxiv.org/abs/2211.09078), [Project page](https://npucvr.github.io/DCEIFlow/), [Code](https://github.com/danqu130/DCEIFlow)
@@ -905,6 +905,9 @@ IEEE Trans. Multimedia (TMM), 2022. [PDF](https://ci.idm.pku.edu.cn/Chen_TMM22.p
 - <a name="Gao22tpami"></a>Gao, Y., Li, S., Li, Y., Guo, Y., Dai, Q.,  
 *[SuperFast: 200x Video Frame Interpolation via Event Camera](https://doi.org/10.1109/TPAMI.2022.3224051)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022.
+- <a name="Xiao22tci"></a>Xiao, Z., Weng, W., Zhang, Y., Xiong, Z.,  
+*[EVA2: Event-Assisted Video Frame Interpolation via Cross-Modal Alignment and Aggregation](https://doi.org/10.1109/TCI.2022.3228747)*,  
+IEEE Trans. Comput. Imag. (TCI), 8:1145-1158, 2022.
 
 
 <a name="super-resolution"></a>
@@ -1206,6 +1209,9 @@ Advanced Intelligent Systems (AISY), 2022.
     - <a name="Ghosh22eccvw"></a>Ghosh, S., Gallego, G.,   
     *[Event-based Stereo Depth Estimation from Ego-motion using Ray Density Fusion](https://arxiv.org/pdf/2210.08927)*,  
     2nd Int. Ego4D Workshop at European Conf. Computer Vision Workshops (ECCVW), 2022.
+- <a name="Uddin22tcsvt"></a>Uddin, S.M.N., Ahmed, S.H., Jung, Y.J.,  
+*[Unsupervised Deep Event Stereo for Depth Estimation](https://doi.org/10.1109/TCSVT.2022.3189480)*,  
+IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 32(11):7489-7504, 2022.
 - <a name="Gu23eistereo"></a>Gu, J., Zhou, J., Chu, R.S.W., Chen, Y., Zhang, J., Cheng, X., Zhang, S., Ren, J.S.,  
 *[Self-Supervised Intensity-Event Stereo Matching](https://arxiv.org/abs/2211.00509)*,  
 J. Imaging Sci. Technol. 2023. [Project page and Code](https://ringoswchu.com/Research/iestereo/).
@@ -1748,9 +1754,12 @@ IEEE Trans. Information Forensics and Security (TIFS), 16:923-936, 2021.
 - <a name="Liu21ijcai"></a>Liu, Q., Xing, D., Tang, H., Ma, D., Pan, G.,  
 *[Event-based Action Recognition Using Motion Information and Spiking Neural Networks](https://doi.org/10.24963/ijcai.2021/240)*,  
 International Joint Conferences on Artifical Intelligence (IJCAI), 2021. [PDF](https://www.ijcai.org/proceedings/2021/0240.pdf), [DailyAction-DVS Dataset](https://github.com/qianhuiliu/SNN-action-recognition)  
-- <a name="Sabater_2022_CVPR"></a>Sabater, A., Montesano, L., Murillo, A.,  
+- <a name="Sabater22cvprw"></a>Sabater, A., Montesano, L., Murillo, A.,  
 *Event Transformer. A sparse-aware solution for efficient event data processing*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2022. [PDF](https://arxiv.org/abs/2204.03355), [Supp. Video](https://drive.google.com/file/d/1X4OviJTxTUbi2W0zQYKG3qqtEUf98a0p/view?usp=sharing), [Code](https://github.com/AlbertoSabater/EventTransformer).
+- <a name="Chen22tcyb"></a>Chen, G., Qu, S., Li, Z., Zhu, H., Dong, J., Liu, M., Conradt, J.,  
+*[Neuromorphic Vision-Based Fall Localization in Event Streams With Temporal–Spatial Attention Weighted Network](https://doi.org/10.1109/TCYB.2022.3164882)*,  
+IEEE Trans. Cybern., 52(9):9251-9262, 2022.
 
 
 <a name="learning-representation-features"></a>
@@ -1857,6 +1866,9 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(7)3436:3449, 2021. [Code](
 - <a name="Baldwin22tpami"></a>Baldwin, R., Ruixu, L., Almatrafi, M., Asari, V., Hirakawa, K.,  
 *[Time-Ordered Recent Event (TORE) Volumes for Event Cameras](https://doi.org/10.1109/TPAMI.2022.3172212)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 45(2)2519:2532, 2022. [PDF](https://arxiv.org/abs/2103.06108), [Code](https://github.com/bald6354/tore_volumes).
+- <a name="Chen22tcsvt"></a>Chen, Z., Wu, J., Hou, J., Li, L., Dong, W., Shi, G.,  
+*[ECSNet: Spatio-Temporal Feature Learning for Event Camera](https://doi.org/10.1109/TCSVT.2022.3202659)*,  
+IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 2022.
 
 
 <a name="learning-regression"></a>
