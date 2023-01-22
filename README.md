@@ -56,6 +56,7 @@
     - [Data Encryption](#data_encription)
     - [Nuclear Verification](#nuclear_verification)
     - [Optical Communication](#optical_communication)
+    - [Animal Behavior Monitoring](#animal_monitoring)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -1150,7 +1151,7 @@ European Conf. Computer Vision (ECCV), 2018. [YouTube](https://youtu.be/4oa7e4hs
 *[Semi-Dense 3D Reconstruction with a Stereo Event Camera](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou.pdf)*,  
 European Conf. Computer Vision (ECCV), 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou_poster.pdf),  [YouTube](https://youtu.be/Qrnpj2FD1e4).
     - [Zhou et al., TRO 2021](#Zhou21tro),  
-*Event-based Stereo Visual Odometry*.
+*ESVO: Event-based Stereo Visual Odometry*.
 - <a name="DominguezMorales19electr"></a>Dominguez-Morales, M., Dominguez-Morales, J. P., Jimenez-Fernandez, A., Linares-Barranco, A., Jimenez-Moreno, G.,  
 *[Stereo Matching in Address-Event-Representation (AER) Bio-Inspired Binocular Systems in a Field-Programmable Gate Array (FPGA)](https://doi.org/10.3390/electronics8040410)*,  
 Electronics 2019, 8(4), 410.
@@ -1406,10 +1407,14 @@ Sensors 22 (15), 5687.
 - <a name="Zuo22icra"></a>Zuo, Y., Yang, J., Chen, J., Wang, X., Wang, Y., Kneip, L.,  
 *[DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions](https://arxiv.org/abs/2202.02556)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/abs/2202.02556), [YouTube](https://www.youtube.com/watch?v=RqAAA4MOqRI)
+- <a name="Hidalgo22cvpr"></a>Hidalgo-Carrió J., Gallego, G., Scaramuzza, D.,  
+*[EDS: Event-aided Direct Sparse Odometry](https://rpg.ifi.uzh.ch/docs/CVPR22_Hidalgo.pdf )*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Poster](https://rpg.ifi.uzh.ch/docs/CVPR22_Hidalgo_poster.pdf),  [YouTube](https://youtu.be/Y97Sg4YTRh0),  [Project page and dataset](https://rpg.ifi.uzh.ch/eds.html), [Code](https://github.com/uzh-rpg/eds-buildconf)
+
 
 #### Stereo
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
-*[Event-based Stereo Visual Odometry](https://doi.org/10.1109/TRO.2021.3062252)*,  
+*[ESVO: Event-based Stereo Visual Odometry](https://doi.org/10.1109/TRO.2021.3062252)*,  
 IEEE Trans. Robot. (TRO), 2021. [Project page](https://sites.google.com/view/esvo-project-page/home), [PDF](https://arxiv.org/pdf/2007.15548), [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git).
 - [Xiao et al., arXiv 2021](#Xiao22icrmv),  
 *Research on Event Accumulator Settings for Event-Based SLAM*.
@@ -1498,7 +1503,7 @@ arXiv, 2020.
 - [Kepple et al., ECCV 2020](#Kepple20eccv),  
 *Jointly learning visual motion and confidence from local patches in event cameras*.
 - <a name="Zhou21tnnls"></a>Zhou, Y., Gallego, G., Lu, X., Liu, S., Shen, S.,  
-*[Event-based Motion Segmentation with Spatio-Temporal Graph Cuts](https://arxiv.org/pdf/2012.08730)*,  
+*[EMSGC: Event-based Motion Segmentation with Spatio-Temporal Graph Cuts](https://arxiv.org/pdf/2012.08730)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2021.  [Project page](https://sites.google.com/view/emsgc),  [YouTube](https://youtu.be/ztUyNlKUwcM), [Code](https://github.com/HKUST-Aerial-Robotics/EMSGC.git).
 
 
@@ -2223,6 +2228,13 @@ Distinguished Lecture, Cyber Security in the Age of Large-Scale Adversaries (CAS
 *[Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras](https://arxiv.org/abs/2208.01710)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022.
 [PDF](https://arxiv.org/abs/2208.01710), [Project Page](https://github.com/ziweiWWANG/Event-Beacon-Communication)
+
+
+<a name="animal_monitoring"></a>
+## Animal Behavior Monitoring
+- <a name="Hamann22icprw"></a>Hamann, F., Gallego, G.,   
+*[Stereo Co-capture System for Recording and Tracking Fish with Frame- and Event Cameras](https://arxiv.org/pdf/2207.07332)*,  
+26th Int. Conf. Pattern Recognition (ICPR), Visual observation and analysis of Vertebrate And Insect Behavior (VAIB) Workshop, Montreal, Canada, 2022.
 
 
 <br><br>
