@@ -474,7 +474,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project](https
 Journal of Imaging, 2022. [PDF](https://www.mdpi.com/2313-433X/8/8/210/pdf), [dataset](http://sar-lab.net/event-based-vehicle-detection-and-tracking-dataset/).
 - <a name="Zhu2022Neurips"></a>Zhiyu Zhu, Junhui Hou, Xianqiang Lyu,  
 *[Learning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds](https://openreview.net/pdf?id=hTxYJAKY85)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://openreview.net/pdf?id=hTxYJAKY85), [code](https://github.com/ZHU-Zhiyu/Event-tracking).
+Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022. [PDF](https://openreview.net/pdf?id=hTxYJAKY85), [code](https://github.com/ZHU-Zhiyu/Event-tracking).
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
