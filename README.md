@@ -472,6 +472,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project](https
 - <a name="el2022high"></a>El Shair, Z., Rawashdeh, S.A.,  
 *[High-Temporal-Resolution Object Detection and Tracking using Images and Events](https://doi.org/10.3390/jimaging8080210)*,  
 Journal of Imaging, 2022. [PDF](https://www.mdpi.com/2313-433X/8/8/210/pdf), [dataset](http://sar-lab.net/event-based-vehicle-detection-and-tracking-dataset/).
+- <a name="hu2022eCDT"></a> Hu, S., Kim, Y., Lim, H., Lee, A., Myung, H.,  
+[eCDT: Event Clustering for Simultaneous Feature Detection and Tracking](https://doi.org/10.1109/IROS47612.2022.9981451),  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022. [YouTube](https://www.youtube.com/watch?v=eS-3PP-8sek&ab_channel=KAISTUrbanRoboticsLab)
 - <a name="zhu2022learning"></a>Zhu, Z., Hou, J., Lyu, X.,  
 *[Learning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds](https://openreview.net/pdf?id=hTxYJAKY85)*,  
 Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022. [PDF](https://openreview.net/pdf?id=hTxYJAKY85), [code](https://github.com/ZHU-Zhiyu/Event-tracking).
