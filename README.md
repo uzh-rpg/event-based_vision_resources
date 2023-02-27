@@ -1,6 +1,7 @@
 # Event-based Vision Resources
 
 ## <a href="https://tub-rip.github.io/eventvision2023/">CVPR 2023 Workshop on Event-based Vision: June 19, 2023.</a>
+## <a href="https://www.cs.unc.edu/~kmp/AsyncVideo2023/">MMSys 2023 Workshop on Asynchronous Video: June, 2023.</a>
 
 ## Table of Contents:
 - [Survey paper](#survey_paper)
