@@ -1775,9 +1775,12 @@ IEEE Trans. Information Forensics and Security (TIFS), 16:923-936, 2021.
 - <a name="Liu21ijcai"></a>Liu, Q., Xing, D., Tang, H., Ma, D., Pan, G.,  
 *[Event-based Action Recognition Using Motion Information and Spiking Neural Networks](https://doi.org/10.24963/ijcai.2021/240)*,  
 International Joint Conferences on Artifical Intelligence (IJCAI), 2021. [PDF](https://www.ijcai.org/proceedings/2021/0240.pdf), [DailyAction-DVS Dataset](https://github.com/qianhuiliu/SNN-action-recognition)  
-- <a name="Sabater22cvprw"></a>Sabater, A., Montesano, L., Murillo, A.,  
-*Event Transformer. A sparse-aware solution for efficient event data processing*,  
+- <a name="key:Sabater22cvprw"></a>Sabater, A., Montesano, L., Murillo, A.,  
+*[Event Transformer. A sparse-aware solution for efficient event data processing](https://openaccess.thecvf.com/content/CVPR2022W/ECV/html/Sabater_Event_Transformer._A_Sparse-Aware_Solution_for_Efficient_Event_Data_Processing_CVPRW_2022_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2022. [PDF](https://arxiv.org/abs/2204.03355), [Supp. Video](https://drive.google.com/file/d/1X4OviJTxTUbi2W0zQYKG3qqtEUf98a0p/view?usp=sharing), [Code](https://github.com/AlbertoSabater/EventTransformer).
+  - <a name="Sabater23arxiv"></a>Sabater, A., Montesano, L., Murillo, A.,  
+  *[Event Transformer+. A multi-purpose solution for efficient event data processing](https://arxiv.org/abs/2211.12222)*,  
+  arXiv, 2022.
 - <a name="Chen22tcyb"></a>Chen, G., Qu, S., Li, Z., Zhu, H., Dong, J., Liu, M., Conradt, J.,  
 *[Neuromorphic Vision-Based Fall Localization in Event Streams With Temporal–Spatial Attention Weighted Network](https://doi.org/10.1109/TCYB.2022.3164882)*,  
 IEEE Trans. Cybern., 52(9):9251-9262, 2022.
