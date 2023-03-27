@@ -928,7 +928,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022.
 IEEE Trans. Comput. Imag. (TCI), 8:1145-1158, 2022.
 - <a name="Sun23cvpr"></a>Sun, L., Sakaridis, C., Liang, J., Sun, P., Cao, J., Zhang, K., Jiang, Q., Wang, K., Gool, L.,  
 *[Event-Based Frame Interpolation with Ad-hoc Deblurring](https://arxiv.org/abs/2301.05191)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://arxiv.org/pdf/2301.05191.pdf), [Code](https://github.com/AHupuJR/REFID), [Suppl.](https://arxiv.org/pdf/2301.05191.pdf), [Project page](https://ahupujr.github.io/REFID/)
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [Code](https://github.com/AHupuJR/REFID), [Project page](https://ahupujr.github.io/REFID/)
 
 
 
@@ -2541,7 +2541,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [Video](https://www.bilibili.com/video/BV1ey4y1j7Ke?share_source=copy_web), [Code](https://github.com/MobilePerceptionLab/EventCameraCalibration).
 - <a name="BaoArxiv23"></a>Bao, Y., Sun, L., Ma, Y., Gu, D., Wang, K.,  
 *[Improving Fast Auto-Focus with Event Polarity](https://arxiv.org/abs/2303.08611)*,  
-Arxiv, 2023. [PDF](https://arxiv.org/pdf/2303.08611.pdf).
+Arxiv, 2023.
 
 
 <a name="software-algorithms"></a>
