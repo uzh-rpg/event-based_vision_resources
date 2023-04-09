@@ -1715,7 +1715,7 @@ IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.co
 IEEE Int. Conf. Image Processing (ICIP), 2022. [PDF](https://arxiv.org/pdf/2202.05054.pdf).
 - <a name="Gehrig23cvpr"></a>Gehrig, M., Scaramuzza, D.,  
 *[Recurrent Vision Transformers for Object Detection with Event Cameras](https://arxiv.org/abs/2212.05598)*,  
- IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/arxiv22_detection_mgehrig.pdf).  
+ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_mgehrig.pdf), [Code](https://github.com/uzh-rpg/RVT).  
 
 <a name="gesture-recognition"></a>
 ### Gesture Recognition
