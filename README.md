@@ -940,12 +940,13 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022.
 *[EVA2: Event-Assisted Video Frame Interpolation via Cross-Modal Alignment and Aggregation](https://doi.org/10.1109/TCI.2022.3228747)*,  
 IEEE Trans. Comput. Imag. (TCI), 8:1145-1158, 2022.
 - <a name="Tulyakov22cvpr"></a>Tulyakov, S., Bochicchio, A., Gehrig, D., Georgoulis, S., Li, Y., Scaramuzza, D.,  
-*[Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion](http://dx.doi.org/10.1109/CVPR52688.2022.01723)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR22_Tulyakov.pdf), [dataset](https://github.com/uzh-rpg/timelens-pp/), [YouTube](https://youtu.be/bWJz_p8Y5Hc).  
+*[Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion](http://dx.doi.org/10.1109/CVPR52688.2022.01723)*,  IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR22_Tulyakov.pdf), [dataset](https://github.com/uzh-rpg/timelens-pp/), [YouTube](https://youtu.be/bWJz_p8Y5Hc).  
 - <a name="Sun23cvpr"></a>Sun, L., Sakaridis, C., Liang, J., Sun, P., Cao, J., Zhang, K., Jiang, Q., Wang, K., Gool, L.,  
 *[Event-Based Frame Interpolation with Ad-hoc Deblurring](https://arxiv.org/abs/2301.05191)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [Code](https://github.com/AHupuJR/REFID), [Project page](https://ahupujr.github.io/REFID/)
-
+- <a name="Freeman23mmsys"></a>Freeman, A., Singh, M., Mayer-Patel, K.,  
+*[An Asynchronous Intensity Representation for Framed and Event Video Sources](https://doi.org/10.1145/3587819.3590969)*,  
+ACM Multimedia Systems (MMSys), 2023. [PDF](https://arxiv.org/abs/2301.08783), [Code](https://github.com/ac-freeman/adder-codec-rs/).
 
 
 <a name="super-resolution"></a>
