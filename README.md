@@ -487,7 +487,7 @@ Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022
 - <a name="Messikommer23cvpr"></a>Messikommer, N., Fang, C., Gehrig, M., Scaramuzza, D.,  
 *[Data-driven Feature Tracking for Event Cameras](https://arxiv.org/abs/2211.12826)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_Messikommer.pdf), [YouTube](https://youtu.be/dtkXvNXcWRY), [code](https://github.com/uzh-rpg/deep_ev_tracker).  
-- <a name="Pedersen23object"></a>Pedersen, J., Singhal, R., Conradt, J.,<br/>
+- <a name="Pedersen23nice"></a>Pedersen, J., Singhal, R., Conradt, J.,<br/>
   [Translation and Scale Invariance for Event-Based Object tracking](https://dl.acm.org/doi/10.1145/3584954.3584996),<br/>
   Proc. Annual Neuro-Inspired Computational Elements Conf. (NICE), 2023, pp. 86-91. <a href="https://jepedersen.dk/202304_nice_object">Website</a>, <a href="https://github.com/jegp/coordinate-regression">code</a>, <a href="https://jepedersen.dk/slides/2304_NICE/2304_object_tracking.html">presentation</a>.
 
