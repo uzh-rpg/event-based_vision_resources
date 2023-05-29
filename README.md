@@ -760,6 +760,9 @@ IEEE Trans. Image Process. (TIP), 32:335-349, 2022.
 - <a name="Gehrig22arxiv_flow"></a>Gehrig, M., Muglikar, M., Scaramuzza, D.,  
 *[Dense Continuous-Time Optical Flow from Events and Frames](https://arxiv.org/abs/2203.13674)*,  
 arXiv, 2022.  
+- <a name="Tian22bmvc"></a>Tian, Y., Andrade-Cetto, J.,  
+*[Event transformer FlowNet for optical flow estimation](https://bmvc2022.mpi-inf.mpg.de/577/)*,  
+British Mach. Vis. Conf., 2022, [PDF](https://bmvc2022.mpi-inf.mpg.de/0577.pdf), [Poster](https://bmvc2022.mpi-inf.mpg.de/0577_poster.pdf), [Video](https://bmvc2022.mpi-inf.mpg.de/0577_video.mp4), [Supplementary](https://bmvc2022.mpi-inf.mpg.de/0577_supp.zip).
 
 
 <a name="scene-flow-estimation"></a>
@@ -1397,6 +1400,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021, [PDF](https://i
 - <a name="Shiba22aisy"></a>Shiba, S., Aoki, Y., Gallego, G.,  
 *[A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200251)*,  
 Advanced Intelligent Systems, 2022.  [PDF](https://arxiv.org/pdf/2212.07350), [YouTube](https://youtu.be/IwqA57yaBTo), [Project page](https://github.com/tub-rip/event_collapse)
+- <a name="Chamorro22ral"></a>Chamorro, W. O., Solà, J., Andrade-Cetto, J.,  
+*[Event-based SLAM in real-time](https://doi.org/10.1109/LRA.2022.3187266)*,  
+IEEE Robotics and Automation Letters, 7(3):8146-8153, 2022. [PDF](https://www.iri.upc.edu/download/scidoc/2608), [Video](http://www.iri.upc.edu/people/cetto/ral22_slam/22-0927_02_VI.mp4)
 
 
 <a name="visual-servoing"></a>
@@ -1520,6 +1526,11 @@ arXiv, 2021. [PDF(Monocular VIO ony)](https://arxiv.org/abs/2112.00427), [Code (
 - <a name="Mahlknecht22ral"></a>Mahlknecht, F., Gehrig, D., Nash, J., Rockenbauer, F., Morrell, B., Delaune, J., Scaramuzza, D.,  
 *[Exploring Event Camera-based Odometry for Planetary Robots](http://dx.doi.org/10.1109/LRA.2022.3187826)*,  
 IEEE Robotics and Automation Letters (RA-L),2022. [PDF](https://rpg.ifi.uzh.ch/docs/RAL22_Mahlknecht.pdf), [code&dataset](https://uzh-rpg.github.io/eklt-vio/), [YouTube](https://youtu.be/GvKfJrMGNCs).  
+- <a name="Chamorro23cvprworkshop"></a>Chamorro, W. O., Solà, J., Andrade-Cetto, J.,  
+*[Event-IMU fusion strategies for faster-than-IMU estimation throughput](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput.pdf)*,  
+CVPR 2023 Workshop on Event-based Vision. [PDF](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput.pdf), [Video](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput_supp.zip).
+
+
 
 #### Stereo
 - <a name="Chen22arxiv"></a>Chen, P., Guan, W., Lu, P.,  
@@ -2822,7 +2833,9 @@ Ph.D. Thesis, ETH Zurich, Zurich, Switzerland, 2022. [PDF](https://doi.org/10.39
 *[Motion Estimation Using an Event Camera](https://hdl.handle.net/2440/136406)*,   
 Ph.D. Thesis, University of Adelaide, Adelaide, Australia, 2022.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
-
+- <a name="Chamorro22Phd"></a>Chamorro, W. O.,  
+*[Event-based Simultaneous Localization and Mapping](https://www.iri.upc.edu/thesis/show/136)*,  
+Ph.D. Thesis, Universitat Politècnica de Catalunya, Barcelona, Spain, 2023. [PDF](http://www.iri.upc.edu/people/cetto/William_thesis/Chamorro_phdthesis.pdf)
 
 <a name="theses-master"></a>
 ## Master's (and Bachelor's) Theses
@@ -2877,7 +2890,6 @@ MSc. Thesis, University of Genoa, Italy, 2020.
 - <a name="Dubeau22MSc"></a>Dubeau, E.,  
 *[Suivi d'objet en 6 degrés de liberté avec caméra événementielle](http://hdl.handle.net/20.500.11794/100283)* (Object Tracking in 6-DOF using an event camera),  
 MSc. Thesis, Université Laval, Canada, 2022.
-
 
 
 <a name="people"></a>
