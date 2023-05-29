@@ -2834,7 +2834,7 @@ Ph.D. Thesis, ETH Zurich, Zurich, Switzerland, 2022. [PDF](https://doi.org/10.39
 Ph.D. Thesis, University of Adelaide, Adelaide, Australia, 2022.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 - <a name="Chamorro22Phd"></a>Chamorro, W. O.,
-*[Event-based Simultaneous Localization and Mapping](https://www.iri.upc.edu/thesis/show/136)*, 
+*[Event-based Simultaneous Localization and Mapping](https://www.iri.upc.edu/thesis/show/136)*,
 Ph.D. Thesis, Universitat Politècnica de Catalunya, Barcelona, Spain, 2023.
 [PDF](http://www.iri.upc.edu/people/cetto/William_thesis/Chamorro_phdthesis.pdf)
 
