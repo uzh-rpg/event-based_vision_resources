@@ -1400,8 +1400,8 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021, [PDF](https://i
 - <a name="Shiba22aisy"></a>Shiba, S., Aoki, Y., Gallego, G.,  
 *[A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200251)*,  
 Advanced Intelligent Systems, 2022.  [PDF](https://arxiv.org/pdf/2212.07350), [YouTube](https://youtu.be/IwqA57yaBTo), [Project page](https://github.com/tub-rip/event_collapse)
-- <a name="Chamorro22ral"></a>Chamorro, W. O., Solà, J., Andrade-Cetto, J.,
-*[Event-based SLAM in real-time](https://doi.org/10.1109/LRA.2022.3187266)*,
+- <a name="Chamorro22ral"></a>Chamorro, W. O., Solà, J., Andrade-Cetto, J.,  
+*[Event-based SLAM in real-time](https://doi.org/10.1109/LRA.2022.3187266)*,  
 IEEE Robotics and Automation Letters, 7(3):8146-8153, 2022. [PDF](https://www.iri.upc.edu/download/scidoc/2608), [Video](http://www.iri.upc.edu/people/cetto/ral22_slam/22-0927_02_VI.mp4)
 
 
