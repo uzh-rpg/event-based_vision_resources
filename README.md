@@ -789,8 +789,9 @@ Int. Joint Conf. on Neural Networks (IJCNN), San Jose, CA, 2011, pp. 770-776. [P
     - <a name="Martel15iscas"></a>Martel, J. N. P., Chau, M., Dudek, P., Cook, M.,  
     *[Toward joint approximate inference of visual quantities on cellular processor arrays](https://doi.org/10.1109/ISCAS.2015.7169083)*,  
     IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
-- [Belbachir et al., CVPRW 2014](#Belbachir14cvprw),  
-*A Novel HDR Depth Camera for Real-time 3D 360-degree Panoramic Vision*.
+- <a name="Belbachir16cvprw"></a>Belbachir, A. N., Schraml, S., Mayerhofer, M., Hofstatter, M.,  
+*[A Novel HDR Depth Camera for Real-time 3D 360-degree Panoramic Vision](https://doi.org/10.1109/CVPRW.2014.69)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Wrokshops (CVPRW), 2014. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6910017).
 - <a name="Kim14bmvc"></a>Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A. J.,  
 *[Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/)*,  
 British Machine Vision Conf. (BMVC), 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU), [YouTube 2](https://youtu.be/z72lNV7idUs)
@@ -799,8 +800,10 @@ British Machine Vision Conf. (BMVC), 2014. [PDF](http://www.bmva.org/bmvc/2014/f
 - <a name="Barua16wacv"></a>Barua, S., Miyatani, Y., Veeraraghavan, A.,  
 *[Direct face detection and video reconstruction from event cameras](http://doi.org/10.1109/WACV.2016.7477561)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2016. [YouTube](https://youtu.be/yGDVlN-L1TU)
-- [Bardow et al., CVPR 2016](#Bardow16cvpr),  
-*Simultaneous Optical Flow and Intensity Estimation from an Event Camera*.
+
+- <a name="Barua16wacv"></a>Bardow, P., Davison, A. J., Leutenegger, S.,  
+*[Simultaneous Optical Flow and Intensity Estimation From an Event Camera](https://openaccess.thecvf.com/content_cvpr_2016/html/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.html)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2016. [PDF](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.pdf),  [YouTube](https://www.youtube.com/watch?v=CASsIFuPxmc)
 - <a name="Moeys17iscas"></a>Moeys, D. P., Li, C., Martel, J. N. P., Bamford, S., Longinotti, L., Motsnyi, V., Bello, D. S. S., Delbruck, T.,  
 *[Color Temporal Contrast Sensitivity in Dynamic Vision Sensors](http://dx.doi.org/10.1109/ISCAS.2017.8050412)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2017. [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=65634).
@@ -834,8 +837,10 @@ Int. J. Computer Vision (IJCV), 2021.
     - <a name="Mostafavi19cvpr"></a>Mostafavi I., S.M., Wang, L., Ho, Y.S., Yoon, K.J.,  
 *[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Event-Based_High_Dynamic_Range_Image_and_Very_High_Frame_Rate_CVPR_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/abs/1811.08230)
-- [Scheerlinck et al., CVPRW 2019](#Scheerlinck19cvprw),  
-*CED: Color Event Camera Dataset*.
+
+- <a name="Scheerlinck19cvprw"></a>Scheerlinck, C., Rebecq, H., Stoffregen, T., Barnes, N., Mahony, r., Scaramuzza, D.,  
+*[CED: Color Event Camera Dataset](https://openaccess.thecvf.com/content_CVPRW_2019/html/EventVision/Scheerlinck_CED_Color_Event_Camera_Dataset_CVPRW_2019_paper.html)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Wrokshops (CVPRW), 2019. [PDF](https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Scheerlinck_CED_Color_Event_Camera_Dataset_CVPRW_2019_paper.pdf), [Dataset](http://arxiv.org/abs/1904.10772v1).  
 - <a name="Nagata20wacv"></a>Nagata, J., Sekikawa, Y., Hara, K., Suzuki, T., Aoki, Y.,  
 *[QR-code Reconstruction from Event Data via Optimization in Code Subspace](http://openaccess.thecvf.com/content_WACV_2020/papers/Nagata_QR-code_Reconstruction_from_Event_Data_via_Optimization_in_Code_Subspace_WACV_2020_paper.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2020.
@@ -847,9 +852,7 @@ European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/
 IEEE Int. Conf. Image Processing (ICIP), 2020.
 - <a name="GantierCadena21tip"></a>Gantier Cadena, P. R., Qian, Y., Wang, C., Yang, M.,  
 *[SPADE-E2VID: Spatially-Adaptive Denormalization for Event-Based Video Reconstruction](https://doi.org/10.1109/TIP.2021.3052070)*,  
-IEEE Trans. Image Process. (TIP), 30:2488-2500, 2021. [Project page](https://github.com/RodrigoGantier/SPADE_E2VID)
-- [Baldwin et al., TPAMI 2022](#Baldwin22tpami).  
-*Time-Ordered Recent Event (TORE) Volumes for Event Cameras*.
+IEEE Trans. Image Process. (TIP), 30:2488-2500, 2021. [Project page](https://github.com/RodrigoGantier/SPADE_E2VID).  
 - <a name="ParedesValles21cvpr"></a>Paredes-Valles, F., de Croon, G. C. H. E.,  
 *[Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy](https://openaccess.thecvf.com/content/CVPR2021/papers/Paredes-Valles_Back_to_Event_Basics_Self-Supervised_Learning_of_Image_Reconstruction_for_CVPR_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](http://mavlab.tudelft.nl/ssl_e2v/), [PDF](https://arxiv.org/abs/2009.08283), [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Paredes-Valles_Back_to_Event_CVPR_2021_supplemental.pdf), [Code](https://github.com/tudelft/ssl_e2vid).
@@ -870,7 +873,12 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [You
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022. [PDF](https://arxiv.org/pdf/2112.06242),  [Code](https://github.com/tub-rip/event_based_image_rec_inverse_problem)
 - <a name="Zhu2022cvpr"></a>Zhu, L., Wang, X., Chang, Y., Li, J., Huang T., Tian Y,  
 *[Event-based Video Reconstruction via Potential-assisted Spiking Neural Network](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project page](https://sites.google.com/view/evsnn), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.pdf), [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhu_Event-Based_Video_Reconstruction_CVPR_2022_supplemental.pdf), [Code](https://github.com/LinZhu111/EVSNN).
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project page](https://sites.google.com/view/evsnn), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.pdf), [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhu_Event-Based_Video_Reconstruction_CVPR_2022_supplemental.pdf), [Code](https://github.com/LinZhu111/EVSNN).  
+- <a name="Baldwin22tpami"></a>Baldwin, R., Liu, R., Almatrafi, M., Asari, V., Hirakawa, K.,    
+*[Time-Ordered Recent Event (TORE) Volumes for Event Cameras](https://doi.org/10.1109/TPAMI.2022.3172212)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022. [PDF](https://arxiv.org/pdf/2103.06108).
+
+
 
 <a name="video-synthesis"></a>
 ### Video Synthesis
