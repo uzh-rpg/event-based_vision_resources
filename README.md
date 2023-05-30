@@ -57,6 +57,8 @@
     - [Nuclear Verification](#nuclear_verification)
     - [Optical Communication](#optical_communication)
     - [Animal Behavior Monitoring](#animal_monitoring)
+    - [Auto-focus](#auto_focus)
+    - [Speckle Analysis](#speckle_analysis)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -2359,6 +2361,30 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022.
 - <a name="Hamann22icprw"></a>Hamann, F., Gallego, G.,   
 *[Stereo Co-capture System for Recording and Tracking Fish with Frame- and Event Cameras](https://arxiv.org/pdf/2207.07332)*,  
 26th Int. Conf. Pattern Recognition (ICPR), Visual observation and analysis of Vertebrate And Insect Behavior (VAIB) Workshop, Montreal, Canada, 2022.
+
+<a name="auto_focus"></a>
+## Auto-focus
+- <a name="Lin22cvpr"></a>Lin, S., Zhang, Y., Zhang, L., Zhou, B., Luo, X., Pan, J.,  
+*[Autofocus for Event Cameras](https://openaccess.thecvf.com/content/CVPR2022/html/Lin_Autofocus_for_Event_Cameras_CVPR_2022_paper.html)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Autofocus_for_Event_Cameras_CVPR_2022_paper.pdf), [Suppl.](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lin_Autofocus_for_Event_CVPR_2022_supplemental.zip).
+- <a name="Ge23ole"></a>Ge, Z., Wei, H., Xu, F., Gao, Y., Chu, Z., So, H., Lam, E.,  
+*[Millisecond autofocusing microscopy using neuromorphic event sensing](https://doi.org/10.1016/j.optlaseng.2022.107247)*,  
+Optics and Lasers in Engineering, 2023.
+- <a name="BaoArxiv23"></a>Bao, Y., Sun, L., Ma, Y., Gu, D., Wang, K.,  
+*[Improving Fast Auto-Focus with Event Polarity](https://arxiv.org/abs/2303.08611)*,  
+Arxiv, 2023. 
+
+<a name="speckle_analysis"></a>
+## Speckle Analysis
+- <a name="Ge21ao"></a>Ge, Z., Meng, N., Song, L, Lam, E.,  
+*[Dynamic laser speckle analysis using the event sensor](https://doi.org/10.1364/AO.412601)*,  
+Applied Optics, 2021.
+- <a name="Ge21ol"></a>Ge, Z., Gao, Y., So, H., Lam, E.,  
+*[Event-based laser speckle correlation for micro motion estimation](https://doi.org/10.1364/OL.430419)*,  
+Optics Letters, 2021.
+- <a name="Ge22oe"></a>Ge, Z., Zhang, P., Gao, Y., So, H, Lam, E.,  
+*[Lens-free motion analysis via neuromorphic laser speckle imaging](https://doi.org/10.1364/OE.444948)*,  
+Optics Express, 2022.
 
 
 <br><br>
