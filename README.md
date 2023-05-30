@@ -45,6 +45,7 @@
     - [Signal Processing](#signal_processing)
         - [Event Denoising](#denoising)
         - [Compression](#compression)
+        - [Speckle Analysis](#speckle_analysis)
     - [Control](#control)
     - [Obstacle Avoidance](#obstacle_avoidance)
     - [Space Applications](#space)
@@ -2118,6 +2119,17 @@ IEEE Signal Process. Lett. (SPL), 29:1779-1783, 2022.
 - <a name="Schiopu22sensors"></a>Schiopu, I., Bilcu, R. C.,  
 *[Low-Complexity Lossless Coding of Asynchronous Event Sequences for Low-Power Chip Integration](https://doi.org/10.3390/s222410014)*,  
 Sensors, 2022.
+<a name="speckle_analysis"></a>
+### Speckle Analysis
+- <a name="Ge21ao"></a>Ge, Z., Meng, N., Song, L, Lam, E.,  
+*[Dynamic laser speckle analysis using the event sensor](https://doi.org/10.1364/AO.412601)*,  
+Applied Optics, 2021.
+- <a name="Ge21ol"></a>Ge, Z., Gao, Y., So, H., Lam, E.,  
+*[Event-based laser speckle correlation for micro motion estimation](https://doi.org/10.1364/OL.430419)*,  
+Optics Letters, 2021.
+- <a name="Ge22oe"></a>Ge, Z., Zhang, P., Gao, Y., So, H, Lam, E.,  
+*[Lens-free motion analysis via neuromorphic laser speckle imaging](https://doi.org/10.1364/OE.444948)*,  
+Optics Express, 2022.
 
 
 <a name="control"></a>
