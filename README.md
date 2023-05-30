@@ -57,6 +57,7 @@
     - [Nuclear Verification](#nuclear_verification)
     - [Optical Communication](#optical_communication)
     - [Animal Behavior Monitoring](#animal_monitoring)
+    - [Auto-focus](#auto_focus)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -2368,6 +2369,15 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022.
 *[Stereo Co-capture System for Recording and Tracking Fish with Frame- and Event Cameras](https://arxiv.org/pdf/2207.07332)*,  
 26th Int. Conf. Pattern Recognition (ICPR), Visual observation and analysis of Vertebrate And Insect Behavior (VAIB) Workshop, Montreal, Canada, 2022.
 
+<a name="auto_focus"></a>
+## Auto-focus
+- <a name="Ge23ole"></a>Ge, Z., Wei, H., Xu, F., Gao, Y., Chu, Z., So, H., Lam, E.,  
+*[Millisecond autofocusing microscopy using neuromorphic event sensing](https://doi.org/10.1016/j.optlaseng.2022.107247)*,  
+Optics and Lasers in Engineering, 2023.
+- <a name="BaoArxiv23"></a>Bao, Y., Sun, L., Ma, Y., Gu, D., Wang, K.,  
+*[Improving Fast Auto-Focus with Event Polarity](https://arxiv.org/abs/2303.08611)*,  
+Arxiv, 2023.
+
 
 <br><br>
 <a name="datasets"></a>
@@ -2612,9 +2622,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - <a name="Huang21iros"></a>Huang, K., Wang, Y., Kneip, L.,  
 *[Dynamic Event Camera Calibration](https://arxiv.org/abs/2107.06749)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [Video](https://www.bilibili.com/video/BV1ey4y1j7Ke?share_source=copy_web), [Code](https://github.com/MobilePerceptionLab/EventCameraCalibration).
-- <a name="BaoArxiv23"></a>Bao, Y., Sun, L., Ma, Y., Gu, D., Wang, K.,  
-*[Improving Fast Auto-Focus with Event Polarity](https://arxiv.org/abs/2303.08611)*,  
-Arxiv, 2023.
+
 
 
 <a name="software-algorithms"></a>
