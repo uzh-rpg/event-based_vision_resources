@@ -838,7 +838,7 @@ Int. J. Computer Vision (IJCV), 2021.
     - <a name="Mostafavi19cvpr"></a>Mostafavi I., S.M., Wang, L., Ho, Y.S., Yoon, K.J.,  
 *[Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Event-Based_High_Dynamic_Range_Image_and_Very_High_Frame_Rate_CVPR_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://arxiv.org/abs/1811.08230).
-- <a name="Scheerlinck19cvprw"></a>Scheerlinck, C., Rebecq, H., Stoffregen, T., Barnes, N., Mahony, r., Scaramuzza, D.,  
+- <a name="Scheerlinck19cvprw"></a>Scheerlinck, C., Rebecq, H., Stoffregen, T., Barnes, N., Mahony, R., Scaramuzza, D.,  
 *[CED: Color Event Camera Dataset](https://openaccess.thecvf.com/content_CVPRW_2019/html/EventVision/Scheerlinck_CED_Color_Event_Camera_Dataset_CVPRW_2019_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Wrokshops (CVPRW), 2019. [PDF](https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Scheerlinck_CED_Color_Event_Camera_Dataset_CVPRW_2019_paper.pdf), [Dataset](http://arxiv.org/abs/1904.10772v1).  
 - <a name="Nagata20wacv"></a>Nagata, J., Sekikawa, Y., Hara, K., Suzuki, T., Aoki, Y.,  
