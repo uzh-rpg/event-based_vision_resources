@@ -844,7 +844,7 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2020.
 - <a name="Zhang20eccv"></a>Zhang, S., Zhang, Y., Jiang, Z., Zou, D., Ren, J., Zhou, B.,  
 *[Learning to See in the Dark with Events](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630647.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630647-supp.pdf)
-- <a name="Su20icip"></a>B. Su, L. Yu and W. Yang,  
+- <a name="Su20icip"></a>Su, B., Yu, L., Yang, W.,  
 *[Event-Based High Frame-Rate Video Reconstruction With A Novel Cycle-Event Network](https://doi.org/10.1109/ICIP40778.2020.9191114)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2020.
 - <a name="GantierCadena21tip"></a>Gantier Cadena, P. R., Qian, Y., Wang, C., Yang, M.,  
