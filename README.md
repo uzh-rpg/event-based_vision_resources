@@ -316,7 +316,7 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(8):1710-1720, 2015. [PDF](http
     - <a name="Lagorce14biocas"></a>Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R.,  
 *[Live demonstration: Neuromorphic event-based multi-kernel algorithm for high speed visual features tracking](https://doi.org/10.1109/BioCAS.2014.6981681)*,  
 IEEE Biomedical Circuits and Systems Conference (BioCAS), 2014, pp. 178.
-- <a name="Reverter15tnnls"></a>D. Reverter Valeiras, D., Lagorce, X., Clady, X., Bartolozzi, C., Ieng, S., Benosman, R.,  
+- <a name="Reverter15tnnls"></a>Reverter Valeiras, D., Lagorce, X., Clady, X., Bartolozzi, C., Ieng, S., Benosman, R.,  
 *[An Asynchronous Neuromorphic Event-Driven Visual Part-Based Shape Tracking](https://doi.org/10.1109/TNNLS.2015.2401834)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(12):3045-3059, 2015. [PDF](https://www.neuromorphic-vision.com/public/publications/23/publication.pdf), [YouTube](https://youtu.be/XeQYNYESJtQ)
 - <a name="LinaresBarranco15iscas"></a>Linares-Barranco, A., Gómez-Rodríguez, F., Villanueva, V., Longinotti, L., Delbrück, T.,    
