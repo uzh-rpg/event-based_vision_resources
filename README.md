@@ -2477,7 +2477,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Sli
 - Barranco, F., Fermüller, C., Aloimonos, Y.,  
 *[A Dataset for Visual Navigation with Neuromorphic Methods](https://dx.doi.org/10.3389%2Ffnins.2016.00049),*  
 Front. Neurosci. (2016), 10:49.
-- <a name="Mueggler17ijrr"></a>E. Mueggler, H. Rebecq, G. Gallego, T. Delbruck, D. Scaramuzza,  
+- <a name="Mueggler17ijrr"></a>Mueggler, E., Rebecq, H., Gallego, G., Delbruck, T., Scaramuzza, D.,  
 *[The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM](http://rpg.ifi.uzh.ch/davis_data.html),*  
 Int. J. Robotics Research, 36:2, pp. 142-149, 2017. [PDF](https://arxiv.org/pdf/1610.08336.pdf), [PDF IJRR](http://dx.doi.org/10.1177/0278364917691115), [YouTube](https://youtu.be/bVVBTQ7l36I), [Dataset](http://rpg.ifi.uzh.ch/davis_data.html).
 - <a name="Binas17icmlw"></a>Binas, J., Neil, D., Liu, S.-C., Delbruck, T.,  
