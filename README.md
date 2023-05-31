@@ -1840,7 +1840,9 @@ IEEE Robotics and Automation Letters (RA-L), 2022. [PDF](https://rpg.ifi.uzh.ch/
 - <a name="Chen22tcyb"></a>Chen, G., Qu, S., Li, Z., Zhu, H., Dong, J., Liu, M., Conradt, J.,  
 *[Neuromorphic Vision-Based Fall Localization in Event Streams With Temporal–Spatial Attention Weighted Network](https://doi.org/10.1109/TCYB.2022.3164882)*,  
 IEEE Trans. Cybern., 52(9):9251-9262, 2022.
-
+- <a name="Liu22access"></a>Liu, C., Qi, X., Lam, E. Y., Wong, N.,  
+*[Fast Classification and Action Recognition With Event-Based Imaging](https://doi.org/10.1109/ACCESS.2022.3177744)*,  
+IEEE Access 10, 55638–55649 (2022).
 
 <a name="learning-representation-features"></a>
 ### Representation / Feature Extraction
