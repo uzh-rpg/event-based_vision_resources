@@ -57,8 +57,10 @@
     - [Nuclear Verification](#nuclear_verification)
     - [Optical Communication](#optical_communication)
     - [Animal Behavior Monitoring](#animal_monitoring)
-    - [Auto-focus](#auto_focus)
-    - [Speckle Analysis](#speckle_analysis)
+    - [Optical Applications](#optical_applications)
+      - [Auto-focus](#auto_focus)
+      - [Speckle Analysis](#speckle_analysis)
+      - [Coherence Scanning Interferometry](#coherence_scanning_interferometry)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -316,7 +318,7 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(8):1710-1720, 2015. [PDF](http
     - <a name="Lagorce14biocas"></a>Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R.,  
 *[Live demonstration: Neuromorphic event-based multi-kernel algorithm for high speed visual features tracking](https://doi.org/10.1109/BioCAS.2014.6981681)*,  
 IEEE Biomedical Circuits and Systems Conference (BioCAS), 2014, pp. 178.
-- <a name="Reverter15tnnls"></a>D. Reverter Valeiras, D., Lagorce, X., Clady, X., Bartolozzi, C., Ieng, S., Benosman, R.,  
+- <a name="Reverter15tnnls"></a>Reverter Valeiras, D., Lagorce, X., Clady, X., Bartolozzi, C., Ieng, S., Benosman, R.,  
 *[An Asynchronous Neuromorphic Event-Driven Visual Part-Based Shape Tracking](https://doi.org/10.1109/TNNLS.2015.2401834)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(12):3045-3059, 2015. [PDF](https://www.neuromorphic-vision.com/public/publications/23/publication.pdf), [YouTube](https://youtu.be/XeQYNYESJtQ)
 - <a name="LinaresBarranco15iscas"></a>Linares-Barranco, A., Gómez-Rodríguez, F., Villanueva, V., Longinotti, L., Delbrück, T.,    
@@ -420,7 +422,7 @@ ACM Int. Conf. on Multimedia (MM), 2019.
 - <a name="Reverter19tnnls"></a>Reverter Valeiras, D., Clady, X., Ieng, S.-H., Benosman, R.,  
 *[Event-Based Line Fitting and Segment Detection Using a Neuromorphic Visual Sensor](https://doi.org/10.1109/TNNLS.2018.2807983)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 30(4):1218-1230, 2019. [PDF](https://www.neuromorphic-vision.com/public/publications/51/publication.pdf)
-- <a name="Li19fnbot"></a>Li, H., Shi, L.,  
+- <a name="Li19fnbot"></a>Li, H., Shi, L., 
 *[Robust Event-Based Object Tracking Combining Correlation Filter and CNN Representation](https://doi.org/10.3389/fnbot.2019.00082)*,  
 Front. Neurorobot. 13:82, 2019. [Dataset](https://figshare.com/s/70565903453eef7c3965)
 - <a name="Chen2020arxiv"></a>Chen, H., Suter, D., Wu, Q., Wang, H.,  
@@ -452,7 +454,7 @@ British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference
 - <a name="Liu21arxiv"></a>Liu, Z., Fu, Y.,  
 *[e-ACJ: Accurate Junction Extraction For Event Cameras](https://arxiv.org/pdf/2101.11251)*,  
 arXiv, 2021.
-- <a name="Dong21ICMVA"></a>Dong, Y., Zhang, T.,  
+- <a name="Dong21icmva"></a>Dong, Y., Zhang, T.,  
 *[Standard and Event Cameras Fusion for Feature Tracking](https://dl.acm.org/doi/10.1145/3459066.3459075)*,  
 Int. Conf. on Machine Vision and Applications (ICMVA), 2021. [Code](https://github.com/LarryDong/FusionTracking)
 - <a name="Mondal21iccvw"></a>Mondal, A., Shashant, R., Giraldo, J. H., Bouwmans, T., Chowdhury, A. S.,  
@@ -549,7 +551,7 @@ Experiments in Fluids (2011), 51(1):1465-1469. [PDF](http://www.zora.uzh.ch/6062
 - <a name="Ni11jmcro"></a>Ni, Z., Pacoret, C., Benosman, R., Ieng, S., Regnier, S.,  
 *[Asynchronous event-based high speed vision for microparticle tracking](http://doi.org/10.1111/j.1365-2818.2011.03565.x)*,  
 J. Microscopy (2011), 245(3):236-244. [PDF](https://www.neuromorphic-vision.com/public/publications/14/publication.pdf)
-- <a name="Borer14isfv"></a>Borer, D.,  Roesgen, T.,  
+- <a name="Borer14isfv"></a>Borer, D., Roesgen, T.,  
 *[Large-scale Particle Tracking with Dynamic Vision Sensors](https://www.research-collection.ethz.ch/handle/20.500.11850/86729)*,  
 ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http://www.ifd.mavt.ethz.ch/research/group-roesgen/dynamic-vision-sensors.html), [Poster](http://www.ifd.mavt.ethz.ch/content/dam/ethz/special-interest/mavt/fluid-dynamics/ifd-dam/research/documents/posters/experimental-methods/daniel_borer_dynamic_vision_sensor.pdf)
 - <a name="Wang20eccv"></a>Wang, Y., Idoughi, R., Heidrich, W.,  
@@ -693,7 +695,7 @@ European Conf. Computer Vision Workshops (ECCVW), 2018. [PDF](http://openaccess.
 - <a name="Khoei19neco"></a>Khoei, M.A., Benosman, R.,  
 *[Asynchronous Event-Based Motion Processing: From Visual Events to Probabilistic Sensory Representation](https://doi.org/10.1162/neco_a_01191)*,  
 Neural Computation (2019), 31(6):1114-1138. [PDF](https://www.neuromorphic-vision.com/public/publications/56/publication.pdf)
-- <a name="Almatrafi19davis"></a>Almatrafi, M. M.,  Hirakawa, K.,  
+- <a name="Almatrafi19davis"></a>Almatrafi, M. M., Hirakawa, K.,  
 *[DAViS Camera Optical Flow](http://doi.org/10.1109/TCI.2019.2948787)*,  
 IEEE Trans. Comput. Imag. (TCI), 6:396-407, 2019.
 - <a name="Almatrafi20arxiv"></a>Almatrafi, M., Baldwin, R., Aizawa, K., Hirakawa, K.,  
@@ -844,7 +846,7 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2020.
 - <a name="Zhang20eccv"></a>Zhang, S., Zhang, Y., Jiang, Z., Zou, D., Ren, J., Zhou, B.,  
 *[Learning to See in the Dark with Events](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630647.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630647-supp.pdf)
-- <a name="Su20icip"></a>B. Su, L. Yu and W. Yang,  
+- <a name="Su20icip"></a>Su, B., Yu, L., Yang, W.,  
 *[Event-Based High Frame-Rate Video Reconstruction With A Novel Cycle-Event Network](https://doi.org/10.1109/ICIP40778.2020.9191114)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2020.
 - <a name="GantierCadena21tip"></a>Gantier Cadena, P. R., Qian, Y., Wang, C., Yang, M.,  
@@ -1713,7 +1715,7 @@ Advances in Neural Information Processing Systems 33 (NeurIPS), 2020. [1Mpx Dete
 - <a name="Ojeda20icip"></a>Ojeda, F. C., Bisulco, A., Kepple, D., Isler, V., Lee, D. D.,  
 *[On-Device Event Filtering with Binary Neural Networks for Pedestrian Detection Using Neuromorphic Vision Sensors](https://doi.org/10.1109/ICIP40778.2020.9191148)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2020.
-- <a name="Deng20amae"></a>Y. Deng, Y. Li and H. Chen.,  
+- <a name="Deng20amae"></a>Deng, Y., Li, Y., Chen, H.,  
 *[AMAE: Adaptive Motion-Agnostic Encoder for Event-Based Object Classification](http://ras.papercept.net/images/temp/IROS/files/2483.pdf)*,  
 IEEE Robotics and Automation Letters (RA-L), 5(3):4596-4603, July 2020.
 - [Baldwin et al., TPAMI 2022](#Baldwin22tpami).  
@@ -1840,7 +1842,9 @@ IEEE Robotics and Automation Letters (RA-L), 2022. [PDF](https://rpg.ifi.uzh.ch/
 - <a name="Chen22tcyb"></a>Chen, G., Qu, S., Li, Z., Zhu, H., Dong, J., Liu, M., Conradt, J.,  
 *[Neuromorphic Vision-Based Fall Localization in Event Streams With Temporal–Spatial Attention Weighted Network](https://doi.org/10.1109/TCYB.2022.3164882)*,  
 IEEE Trans. Cybern., 52(9):9251-9262, 2022.
-
+- <a name="Liu22access"></a>Liu, C., Qi, X., Lam, E. Y., Wong, N.,  
+*[Fast Classification and Action Recognition With Event-Based Imaging](https://doi.org/10.1109/ACCESS.2022.3177744)*,  
+IEEE Access 10, 55638–55649 (2022).
 
 <a name="learning-representation-features"></a>
 ### Representation / Feature Extraction
@@ -2214,7 +2218,7 @@ IEEE Sensors 2020. [PDF](https://arxiv.org/pdf/2010.15509).
 *[Fast Motion Understanding with Spatiotemporal Neural Networks and Dynamic Vision Sensors
 ](https://doi.org/10.1109/SEDEP.1998.730709)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2021. [PDF](https://arxiv.org/pdf/2011.09427).
-- <a name="walters21iros"></a>Walters, C., Hadfield,  S.,  
+- <a name="walters21iros"></a>Walters, C., Hadfield, S.,  
 *[EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance](https://doi.org/10.1109/IROS51168.2021.9636448)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 - <a name="he21iros"></a>He, B., Li, H., Wu, S., Wang, D., Zhang, Z., Dong, Q., Xu, C., Gao, F.,  
@@ -2362,20 +2366,21 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022.
 *[Stereo Co-capture System for Recording and Tracking Fish with Frame- and Event Cameras](https://arxiv.org/pdf/2207.07332)*,  
 26th Int. Conf. Pattern Recognition (ICPR), Visual observation and analysis of Vertebrate And Insect Behavior (VAIB) Workshop, Montreal, Canada, 2022.
 
+<a name="optical_applications"></a>
+## Optical Applications
 <a name="auto_focus"></a>
-## Auto-focus
+### Auto-focus
 - <a name="Lin22cvpr"></a>Lin, S., Zhang, Y., Zhang, L., Zhou, B., Luo, X., Pan, J.,  
 *[Autofocus for Event Cameras](https://openaccess.thecvf.com/content/CVPR2022/html/Lin_Autofocus_for_Event_Cameras_CVPR_2022_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Autofocus_for_Event_Cameras_CVPR_2022_paper.pdf), [Suppl.](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lin_Autofocus_for_Event_CVPR_2022_supplemental.zip).
 - <a name="Ge23ole"></a>Ge, Z., Wei, H., Xu, F., Gao, Y., Chu, Z., So, H., Lam, E.,  
 *[Millisecond autofocusing microscopy using neuromorphic event sensing](https://doi.org/10.1016/j.optlaseng.2022.107247)*,  
 Optics and Lasers in Engineering, 2023.
-- <a name="BaoArxiv23"></a>Bao, Y., Sun, L., Ma, Y., Gu, D., Wang, K.,  
-*[Improving Fast Auto-Focus with Event Polarity](https://arxiv.org/abs/2303.08611)*,  
-Arxiv, 2023. 
+- [Bao et al., Arxiv 2023](#Bao23arxiv),  
+*Improving Fast Auto-Focus with Event Polarity*.
 
 <a name="speckle_analysis"></a>
-## Speckle Analysis
+### Speckle Analysis
 - <a name="Ge21ao"></a>Ge, Z., Meng, N., Song, L, Lam, E.,  
 *[Dynamic laser speckle analysis using the event sensor](https://doi.org/10.1364/AO.412601)*,  
 Applied Optics, 2021.
@@ -2385,6 +2390,12 @@ Optics Letters, 2021.
 - <a name="Ge22oe"></a>Ge, Z., Zhang, P., Gao, Y., So, H, Lam, E.,  
 *[Lens-free motion analysis via neuromorphic laser speckle imaging](https://doi.org/10.1364/OE.444948)*,  
 Optics Express, 2022.
+
+<a name="coherence_scanning_interferometry"></a>
+### Coherence Scanning Interferometry
+- <a name="Schober21ol"></a>Schober, C., Pruss, C., Faulhaber, A., Herkommer, A.,  
+*[Event based coherence scanning interferometry](https://doi.org/10.1364/OL.437489)*,  
+Optics Letters, 2021.
 
 
 <br><br>
@@ -2401,16 +2412,15 @@ IEEE Int. Conf. on Simulation, Modeling, and Programming for Autonomous Robots (
 - <a name="Pineda16ssci"></a>Pineda García, G., Camilleri, P., Liu, Q., Furber, S.,  
 *[pyDVS: An extensible, real-time Dynamic Vision Sensor emulator using off-the-shelf hardware](https://doi.org/10.1109/SSCI.2016.7850249)*,  
 IEEE Int. Symp. Series on Computational Intelligence (SSCI), 2016. [Code](https://github.com/chanokin/pyDVS)
-- E. Mueggler, H. Rebecq, G. Gallego, T. Delbruck, D. Scaramuzza,  
-*[The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM](http://rpg.ifi.uzh.ch/davis_data.html),*  
-Int. J. Robotics Research, 36:2, pp. 142-149, 2017. [PDF](https://arxiv.org/pdf/1610.08336.pdf), [PDF IJRR](http://dx.doi.org/10.1177/0278364917691115), [YouTube](https://youtu.be/bVVBTQ7l36I), [Dataset](http://rpg.ifi.uzh.ch/davis_data.html).
+- [Mueggler et al., IJRR 2017](#Mueggler17ijrr).  
+*The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM.*
 - <a name="Bi17icip"></a>Bi, Y. and Andreopoulos, Y.,  
 *[PIX2NVS: Parameterized conversion of pixel-domain video frames to neuromorphic vision streams](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8296630),*  
 IEEE Int. Conf. Image Processing (ICIP), 2017, [GitHub Page](https://github.com/PIX2NVS/PIX2NVS).
-- <a name="Li18bmvc"></a>W. Li, S. Saeedi, J. McCormac, R. Clark, D. Tzoumanikas, Q. Ye, Y. Huang, R. Tang, S. Leutenegger,  
+- <a name="Li18bmvc"></a>Li, W., Saeedi, S., McCormac, J., Clark, R., Tzoumanikas, D., Ye, Q., Huang, Y., Tang, R., Leutenegger, S.,  
 [Interiornet: Mega-scale multi-sensor photo-realistic indoor scenes dataset](https://arxiv.org/pdf/1809.00716.pdf),  
 British Machine Vis. Conf. (BMVC), 2018. [YouTube](https://youtu.be/z8uJh_xUq7A), [Project Page](https://interiornet.org/).
-- <a name="Rebecq18corl"></a>H. Rebecq, D. Gehrig, D. Scaramuzza,  
+- <a name="Rebecq18corl"></a>Rebecq, H., Gehrig, D., Scaramuzza, D.,  
 *[ESIM: an Open Event Camera Simulator](http://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf),*  
 Conf. on Robot Learning (CoRL), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CORL18_Rebecq.pdf), [YouTube](https://youtu.be/ytKOIX_2clo), [Project Page](http://rpg.ifi.uzh.ch/esim/index.html).
 - [Gehrig et al. CVPR 2020](#Gehrig20cvpr),  
@@ -2477,7 +2487,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Sli
 - Barranco, F., Fermüller, C., Aloimonos, Y.,  
 *[A Dataset for Visual Navigation with Neuromorphic Methods](https://dx.doi.org/10.3389%2Ffnins.2016.00049),*  
 Front. Neurosci. (2016), 10:49.
-- <a name="Mueggler17ijrr"></a>E. Mueggler, H. Rebecq, G. Gallego, T. Delbruck, D. Scaramuzza,  
+- <a name="Mueggler17ijrr"></a>Mueggler, E., Rebecq, H., Gallego, G., Delbruck, T., Scaramuzza, D.,  
 *[The Event-Camera Dataset and Simulator: Event-based Data for Pose Estimation, Visual Odometry, and SLAM](http://rpg.ifi.uzh.ch/davis_data.html),*  
 Int. J. Robotics Research, 36:2, pp. 142-149, 2017. [PDF](https://arxiv.org/pdf/1610.08336.pdf), [PDF IJRR](http://dx.doi.org/10.1177/0278364917691115), [YouTube](https://youtu.be/bVVBTQ7l36I), [Dataset](http://rpg.ifi.uzh.ch/davis_data.html).
 - <a name="Binas17icmlw"></a>Binas, J., Neil, D., Liu, S.-C., Delbruck, T.,  
@@ -2630,7 +2640,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - <a name="Huang21iros"></a>Huang, K., Wang, Y., Kneip, L.,  
 *[Dynamic Event Camera Calibration](https://arxiv.org/abs/2107.06749)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [Video](https://www.bilibili.com/video/BV1ey4y1j7Ke?share_source=copy_web), [Code](https://github.com/MobilePerceptionLab/EventCameraCalibration).
-- <a name="BaoArxiv23"></a>Bao, Y., Sun, L., Ma, Y., Gu, D., Wang, K.,  
+- <a name="Bao23arxiv"></a>Bao, Y., Sun, L., Ma, Y., Gu, D., Wang, K.,  
 *[Improving Fast Auto-Focus with Event Polarity](https://arxiv.org/abs/2303.08611)*,  
 Arxiv, 2023.
 
