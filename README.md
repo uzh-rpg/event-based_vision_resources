@@ -57,9 +57,10 @@
     - [Nuclear Verification](#nuclear_verification)
     - [Optical Communication](#optical_communication)
     - [Animal Behavior Monitoring](#animal_monitoring)
-    - [Auto-focus](#auto_focus)
-    - [Speckle Analysis](#speckle_analysis)
-    - [Coherence Scanning Interferometry](#coherence_scanning_interferometry)
+    - [Optical Applications](#optical_applications)
+      - [Auto-focus](#auto_focus)
+      - [Speckle Analysis](#speckle_analysis)
+      - [Coherence Scanning Interferometry](#coherence_scanning_interferometry)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -453,7 +454,7 @@ British Machine Vision Conf. (BMVC), 2020. [PDF](https://www.bmvc2020-conference
 - <a name="Liu21arxiv"></a>Liu, Z., Fu, Y.,  
 *[e-ACJ: Accurate Junction Extraction For Event Cameras](https://arxiv.org/pdf/2101.11251)*,  
 arXiv, 2021.
-- <a name="Dong21ICMVA"></a>Dong, Y. and Zhang, T.,  
+- <a name="Dong21icmva"></a>Dong, Y., Zhang, T.,  
 *[Standard and Event Cameras Fusion for Feature Tracking](https://dl.acm.org/doi/10.1145/3459066.3459075)*,  
 Int. Conf. on Machine Vision and Applications (ICMVA), 2021. [Code](https://github.com/LarryDong/FusionTracking)
 - <a name="Mondal21iccvw"></a>Mondal, A., Shashant, R., Giraldo, J. H., Bouwmans, T., Chowdhury, A. S.,  
@@ -2365,20 +2366,21 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022.
 *[Stereo Co-capture System for Recording and Tracking Fish with Frame- and Event Cameras](https://arxiv.org/pdf/2207.07332)*,  
 26th Int. Conf. Pattern Recognition (ICPR), Visual observation and analysis of Vertebrate And Insect Behavior (VAIB) Workshop, Montreal, Canada, 2022.
 
+<a name="optical_applications"></a>
+## Optical Applications
 <a name="auto_focus"></a>
-## Auto-focus
+### Auto-focus
 - <a name="Lin22cvpr"></a>Lin, S., Zhang, Y., Zhang, L., Zhou, B., Luo, X., Pan, J.,  
 *[Autofocus for Event Cameras](https://openaccess.thecvf.com/content/CVPR2022/html/Lin_Autofocus_for_Event_Cameras_CVPR_2022_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Autofocus_for_Event_Cameras_CVPR_2022_paper.pdf), [Suppl.](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lin_Autofocus_for_Event_CVPR_2022_supplemental.zip).
 - <a name="Ge23ole"></a>Ge, Z., Wei, H., Xu, F., Gao, Y., Chu, Z., So, H., Lam, E.,  
 *[Millisecond autofocusing microscopy using neuromorphic event sensing](https://doi.org/10.1016/j.optlaseng.2022.107247)*,  
 Optics and Lasers in Engineering, 2023.
-- <a name="BaoArxiv23"></a>Bao, Y., Sun, L., Ma, Y., Gu, D., Wang, K.,  
-*[Improving Fast Auto-Focus with Event Polarity](https://arxiv.org/abs/2303.08611)*,  
-Arxiv, 2023. 
+- [Bao et al., Arxiv 2023](#Bao23arxiv),  
+*Improving Fast Auto-Focus with Event Polarity*.
 
 <a name="speckle_analysis"></a>
-## Speckle Analysis
+### Speckle Analysis
 - <a name="Ge21ao"></a>Ge, Z., Meng, N., Song, L, Lam, E.,  
 *[Dynamic laser speckle analysis using the event sensor](https://doi.org/10.1364/AO.412601)*,  
 Applied Optics, 2021.
@@ -2390,7 +2392,7 @@ Optics Letters, 2021.
 Optics Express, 2022.
 
 <a name="coherence_scanning_interferometry"></a>
-## Coherence Scanning Interferometry
+### Coherence Scanning Interferometry
 - <a name="Schober21ol"></a>Schober, C., Pruss, C., Faulhaber, A., Herkommer, A.,  
 *[Event based coherence scanning interferometry](https://doi.org/10.1364/OL.437489)*,  
 Optics Letters, 2021.
@@ -2638,7 +2640,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - <a name="Huang21iros"></a>Huang, K., Wang, Y., Kneip, L.,  
 *[Dynamic Event Camera Calibration](https://arxiv.org/abs/2107.06749)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [Video](https://www.bilibili.com/video/BV1ey4y1j7Ke?share_source=copy_web), [Code](https://github.com/MobilePerceptionLab/EventCameraCalibration).
-- <a name="BaoArxiv23"></a>Bao, Y., Sun, L., Ma, Y., Gu, D., Wang, K.,  
+- <a name="Bao23arxiv"></a>Bao, Y., Sun, L., Ma, Y., Gu, D., Wang, K.,  
 *[Improving Fast Auto-Focus with Event Polarity](https://arxiv.org/abs/2303.08611)*,  
 Arxiv, 2023.
 
