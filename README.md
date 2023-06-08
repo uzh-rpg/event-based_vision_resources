@@ -61,6 +61,7 @@
       - [Auto-focus](#auto_focus)
       - [Speckle Analysis](#speckle_analysis)
       - [Coherence Scanning Interferometry](#coherence_scanning_interferometry)
+      - [Wavefront sensing](#wavefront sensing)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -2399,6 +2400,11 @@ Optics Express, 2022.
 *[Event based coherence scanning interferometry](https://doi.org/10.1364/OL.437489)*,  
 Optics Letters, 2021.
 
+<a name="wavefront_sensing"></a>
+### Wavefront sensing
+- <a name="Kong20oe"></a>Kong, F., Lambert, A., Joubert, D., Cohen, G.,  
+*[Shack-Hartmann wavefront sensing using spatial-temporal data from an event-based image sensor](https://doi.org/10.1364/OE.409682)*,  
+Optics Express, 2020.
 
 <br><br>
 <a name="datasets"></a>
