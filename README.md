@@ -60,7 +60,8 @@
     - [Optical Applications](#optical_applications)
       - [Auto-focus](#auto_focus)
       - [Speckle Analysis](#speckle_analysis)
-      - [Coherence Scanning Interferometry](#coherence_scanning_interferometry)
+      - [Interferometry or Holography](#interferometry_or_holography)
+      - [Wavefront sensing](#wavefront_sensing)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -1082,7 +1083,9 @@ IEEE Int. Conf. 3D Vision (3DV), 2021. [Poster](http://rpg.ifi.uzh.ch/docs/3DV21
 - <a name="Muglikar21threedv"></a>Muglikar, M., Moeys, D., Scaramuzza, D.,  
 *[Event Guided Depth Sensing](https://rpg.ifi.uzh.ch/docs/3DV21_Muglikar.pdf)*,  
 IEEE Int. Conf. 3D Vision (3DV), 2021. [YouTube](https://youtu.be/Rvv9IQLYjCQ).
-
+- <a name="Wang22mfi"></a>Wang, H., Liu, T., He, C., Li, C., Liu, J., Yu, L.,  
+*[Enhancing Event-based Structured Light Imaging with a Single Frame](https://doi.org/10.1109/MFI55806.2022.9913845)*,  
+IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI), 2022.
 
 <a name="depth-stereo"></a>
 ### Stereo Depth Estimation
@@ -2380,6 +2383,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://o
 Optics and Lasers in Engineering, 2023.
 - [Bao et al., Arxiv 2023](#Bao23arxiv),  
 *Improving Fast Auto-Focus with Event Polarity*.
+- <a name="Lou23cvpr"></a>Lou, H., Teng, M., Yang, Y., Shi, B.,  
+*[All-in-Focus Imaging From Event Focal Stack](https://openaccess.thecvf.com/content/CVPR2022/html/Lin_Autofocus_for_Event_Cameras_CVPR_2022_paper.html)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjU-oPEn7P_AhUVBt4KHW68DiQQFnoECA8QAQ&url=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FCVPR2023%2Fpapers%2FLou_All-in-Focus_Imaging_From_Event_Focal_Stack_CVPR_2023_paper.pdf&usg=AOvVaw2SxXp7z29FqyHFlGpNosXx)
 
 <a name="speckle_analysis"></a>
 ### Speckle Analysis
@@ -2393,12 +2399,17 @@ Optics Letters, 2021.
 *[Lens-free motion analysis via neuromorphic laser speckle imaging](https://doi.org/10.1364/OE.444948)*,  
 Optics Express, 2022.
 
-<a name="coherence_scanning_interferometry"></a>
-### Coherence Scanning Interferometry
+<a name="interferometry_or_holography"></a>
+### Interferometry or Holography
 - <a name="Schober21ol"></a>Schober, C., Pruss, C., Faulhaber, A., Herkommer, A.,  
 *[Event based coherence scanning interferometry](https://doi.org/10.1364/OL.437489)*,  
 Optics Letters, 2021.
 
+<a name="wavefront_sensing"></a>
+### Wavefront sensing
+- <a name="Kong20oe"></a>Kong, F., Lambert, A., Joubert, D., Cohen, G.,  
+*[Shack-Hartmann wavefront sensing using spatial-temporal data from an event-based image sensor](https://doi.org/10.1364/OE.409682)*,  
+Optics Express, 2020.
 
 <br><br>
 <a name="datasets"></a>
