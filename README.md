@@ -273,7 +273,9 @@ Mach. Intell. Res., 19:412-424, 2022.
 - <a name="Gehrig22arxiv"></a>Gehrig, D., Scaramuzza, D.,  
 *[Are High-Resolution Cameras Really Needed?](https://arxiv.org/abs/2203.14672)*,  
 arXiv, 2022. [YouTube](https://youtu.be/HV9_FhS-f88), [code](https://uzh-rpg.github.io/eres/).  
-
+- <a name="Ercan23cvprw"></a>Ercan, B., Eker, O., Erdem, A., Erdem, E.  
+*[EVREAL: Towards a Comprehensive Benchmark and Analysis Suite for Event-based Video Reconstruction](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Ercan_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-Based_CVPRW_2023_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [PDF](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Ercan_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-Based_CVPRW_2023_paper.pdf), [Project Page](https://ercanburak.github.io/evreal.html), [Suppl.](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/supplemental/Ercan_EVREAL_Towards_a_CVPRW_2023_supplemental.zip), [Code](https://github.com/ercanburak/EVREAL).
 
 <a name="algorithms"></a>
 # Algorithms
@@ -2665,6 +2667,7 @@ Arxiv, 2023.
     - [DVS Reconstruction code](https://github.com/VLOGroup/dvs-reconstruction) associated to the paper [Reinbacher et al., BMVC 2016](#Reinbacher16bmvc).
     - [High-pass filter code](https://github.com/cedric-scheerlinck/dvs_image_reconstruction) associated to the paper [Scheerlinck et al., ACCV 2018](#Scheerlinck18accv)
     - [E2VID code](https://github.com/uzh-rpg/rpg_e2vid) associated to the paper [Rebecq et al., TPAMI 2020](#Rebecq20tpami).
+    - [EVREAL code](https://github.com/ercanburak/EVREAL) associated to the paper [Ercan et al., CVPRW 2023](#Ercan23cvprw)
 - **Localization and Ego-Motion Estimation**
     - [Panoramic tracking code](https://github.com/VLOGroup/dvs-panotracking) associated to the paper [Reinbacher et al., ICCP 2017](#Reinbacher17iccp).
 - **Pattern Recognition**
