@@ -1080,7 +1080,9 @@ IEEE Int. Conf. 3D Vision (3DV), 2021. [Poster](http://rpg.ifi.uzh.ch/docs/3DV21
 - <a name="Muglikar21threedv"></a>Muglikar, M., Moeys, D., Scaramuzza, D.,  
 *[Event Guided Depth Sensing](https://rpg.ifi.uzh.ch/docs/3DV21_Muglikar.pdf)*,  
 IEEE Int. Conf. 3D Vision (3DV), 2021. [YouTube](https://youtu.be/Rvv9IQLYjCQ).
-
+- <a name="Wang22mfi"></a>Wang, H., Liu, T., He, C., Li, C., Liu, J., Yu, L.,
+*[Enhancing Event-based Structured Light Imaging with a Single Frame](https://doi.org/10.1109/MFI55806.2022.9913845)*,  
+IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI), 2022.
 
 <a name="depth-stereo"></a>
 ### Stereo Depth Estimation
