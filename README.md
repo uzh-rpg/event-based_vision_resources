@@ -60,7 +60,7 @@
     - [Optical Applications](#optical_applications)
       - [Auto-focus](#auto_focus)
       - [Speckle Analysis](#speckle_analysis)
-      - [Coherence Scanning Interferometry](#coherence_scanning_interferometry)
+      - [Interferometry or Holography](#interferometry_or_holography)
       - [Wavefront sensing](#wavefront sensing)
 
 - [Datasets and Simulators](#datasets)
@@ -2394,8 +2394,8 @@ Optics Letters, 2021.
 *[Lens-free motion analysis via neuromorphic laser speckle imaging](https://doi.org/10.1364/OE.444948)*,  
 Optics Express, 2022.
 
-<a name="coherence_scanning_interferometry"></a>
-### Coherence Scanning Interferometry
+<a name="interferometry_or_holography"></a>
+### Interferometry or Holography
 - <a name="Schober21ol"></a>Schober, C., Pruss, C., Faulhaber, A., Herkommer, A.,  
 *[Event based coherence scanning interferometry](https://doi.org/10.1364/OL.437489)*,  
 Optics Letters, 2021.
