@@ -61,7 +61,7 @@
       - [Auto-focus](#auto_focus)
       - [Speckle Analysis](#speckle_analysis)
       - [Interferometry or Holography](#interferometry_or_holography)
-      - [Wavefront sensing](#wavefront sensing)
+      - [Wavefront sensing](#wavefront_sensing)
 
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
@@ -2381,7 +2381,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://o
 Optics and Lasers in Engineering, 2023.
 - [Bao et al., Arxiv 2023](#Bao23arxiv),  
 *Improving Fast Auto-Focus with Event Polarity*.
-- <a name="Lou23cvpr"></a>Lou, H., Teng, M., Yang, Y., Shi, B., 
+- <a name="Lou23cvpr"></a>Lou, H., Teng, M., Yang, Y., Shi, B.,  
 *[All-in-Focus Imaging From Event Focal Stack](https://openaccess.thecvf.com/content/CVPR2022/html/Lin_Autofocus_for_Event_Cameras_CVPR_2022_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjU-oPEn7P_AhUVBt4KHW68DiQQFnoECA8QAQ&url=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FCVPR2023%2Fpapers%2FLou_All-in-Focus_Imaging_From_Event_Focal_Stack_CVPR_2023_paper.pdf&usg=AOvVaw2SxXp7z29FqyHFlGpNosXx)
 
