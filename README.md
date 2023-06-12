@@ -878,6 +878,9 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022. [PDF](https://arxiv.org
 - <a name="Zhu2022cvpr"></a>Zhu, L., Wang, X., Chang, Y., Li, J., Huang T., Tian Y,  
 *[Event-based Video Reconstruction via Potential-assisted Spiking Neural Network](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project page](https://sites.google.com/view/evsnn), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.pdf), [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhu_Event-Based_Video_Reconstruction_CVPR_2022_supplemental.pdf), [Code](https://github.com/LinZhu111/EVSNN).
+- <a name="Ercan23arxiv"></a>Ercan, B., Eker, O., Saglam, C., Erdem, A., Erdem, E.  
+*[HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks](https://arxiv.org/abs/2305.06382)*,  
+arXiv, 2023. [PDF](https://arxiv.org/pdf/2305.06382), [Project Page](https://ercanburak.github.io/HyperE2VID.html), [Code](https://github.com/ercanburak/HyperE2VID).
 
 <a name="video-synthesis"></a>
 ### Video Synthesis
@@ -2678,7 +2681,8 @@ Arxiv, 2023.
     - [DVS Reconstruction code](https://github.com/VLOGroup/dvs-reconstruction) associated to the paper [Reinbacher et al., BMVC 2016](#Reinbacher16bmvc).
     - [High-pass filter code](https://github.com/cedric-scheerlinck/dvs_image_reconstruction) associated to the paper [Scheerlinck et al., ACCV 2018](#Scheerlinck18accv)
     - [E2VID code](https://github.com/uzh-rpg/rpg_e2vid) associated to the paper [Rebecq et al., TPAMI 2020](#Rebecq20tpami).
-    - [EVREAL code](https://github.com/ercanburak/EVREAL) associated to the paper [Ercan et al., CVPRW 2023](#Ercan23cvprw)
+    - [EVREAL code](https://github.com/ercanburak/EVREAL) associated to the paper [Ercan et al., CVPRW 2023](#Ercan23cvprw).
+    - [HyperE2VID code](https://github.com/ercanburak/HyperE2VID) associated to the paper [Ercan et al., arXiv 2023](#Ercan23arxiv).
 - **Localization and Ego-Motion Estimation**
     - [Panoramic tracking code](https://github.com/VLOGroup/dvs-panotracking) associated to the paper [Reinbacher et al., ICCP 2017](#Reinbacher17iccp).
 - **Pattern Recognition**
