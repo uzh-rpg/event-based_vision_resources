@@ -880,7 +880,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022. [PDF](https://arxiv.org
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project page](https://sites.google.com/view/evsnn), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.pdf), [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhu_Event-Based_Video_Reconstruction_CVPR_2022_supplemental.pdf), [Code](https://github.com/LinZhu111/EVSNN).
 - <a name="Ercan23arxiv"></a>Ercan, B., Eker, O., Saglam, C., Erdem, A., Erdem, E.  
 *[HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks](https://arxiv.org/abs/2305.06382)*,  
-arXiv, 2023. [PDF](https://arxiv.org/pdf/2305.06382), [Project Page](https://ercanburak.github.io/HyperE2VID.html), [Code](https://github.com/ercanburak/HyperE2VID).
+arXiv, 2023. [PDF](https://arxiv.org/pdf/2305.06382), [Project Page](https://ercanburak.github.io/HyperE2VID.html), [Code](https://github.com/ercanburak/HyperE2VID), [YouTube](https://www.youtube.com/watch?v=BWEV56-E0mE).
 
 <a name="video-synthesis"></a>
 ### Video Synthesis
