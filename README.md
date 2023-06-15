@@ -1089,6 +1089,9 @@ IEEE Int. Conf. 3D Vision (3DV), 2021. [YouTube](https://youtu.be/Rvv9IQLYjCQ).
 - <a name="Wang22mfi"></a>Wang, H., Liu, T., He, C., Li, C., Liu, J., Yu, L.,  
 *[Enhancing Event-based Structured Light Imaging with a Single Frame](https://doi.org/10.1109/MFI55806.2022.9913845)*,  
 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI), 2022.
+- <a name="Morgenstern23cvprw"></a>Morgenstern, W., Gard, N., Baumann, S., Hilsmann, A., Eisert, P.,  
+*[X-maps: Direct Depth Lookup for Event-based Structured Light Systems](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Morgenstern_X-Maps_Direct_Depth_Lookup_for_Event-Based_Structured_Light_Systems_CVPRW_2023_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [Project page](https://fraunhoferhhi.github.io/X-maps/), [Code](https://github.com/fraunhoferhhi/X-maps).  
 
 <a name="depth-stereo"></a>
 ### Stereo Depth Estimation
