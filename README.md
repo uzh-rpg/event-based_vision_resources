@@ -2724,7 +2724,7 @@ Front. Neurosci. (2020), 13:1338. [Code](https://github.com/neuromorphic-paris/t
 - [ADΔER](https://github.com/ac-freeman/adder-codec-rs/) A suite of tools for transcoding, inspecting, visualizing, and building applications for a unified intensity event representation
   - <a name="Freeman23mmsys"></a>Freeman, A.,  
     *[The ADΔER Framework: Tools for Event Video Representations](https://doi.org/10.1145/3587819.3593028)*,  
-    ACM Multimedia Systems (MMSys), 2023. [PDF](https://dl.acm.org/doi/pdf/10.1145/3587819.3593028), [Code](https://github.com/ac-freeman/adder-codec-rs/).
+    ACM Multimedia Systems (MMSys) Doctoral Symposium, 2023. [PDF](https://dl.acm.org/doi/pdf/10.1145/3587819.3593028), [Code](https://github.com/ac-freeman/adder-codec-rs/).
 
 
 <a name="processors-platforms"></a>
