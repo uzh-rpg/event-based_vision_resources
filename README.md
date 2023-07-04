@@ -2966,21 +2966,33 @@ MSc. Thesis, Université Laval, Canada, 2022.
     - [INI Sensors Group Videos](https://www.youtube.com/playlist?list=PLVtZ8f-q0U5iROmshCSqzzBNlqpUGbSkS)
 - [iniVation AG](https://www.inivation.com/) (commercialization of neuromorphic vision technology from INI), Switzerland.
 - [Dynamic Vision Sensor (DVS) - asynchronous temporal contrast silicon retina](http://siliconretina.ini.uzh.ch/wiki/index.php)
-- [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) of the University of Zurich (UZH) and ETH Zurich, Switzerland.
-- [Institut de la Vision](http://neuromorphic-vision.com/) Neuromorphics group Paris, France.
-- [GRASP Lab](https://www.grasp.upenn.edu/) at University of Pennsylvania, [Kostas Daniilidis](http://www.cis.upenn.edu/~kostas/).
-- [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/) Sensing & vision solutions group in Vienna, Austria.
-- [Event-Driven Perception for Robotics (EDPR)](https://www.edpr.iit.it) group at Istituto Italiano di Tecnologia (IIT), Italy.
-- [Sinapse](http://sinapse.nus.edu.sg/) Singapore Institute for Neurotechnology, Singapore.
 - [Western Sydney University’s International Centre for Neuromorphic Systems (ICNS)](https://www.westernsydney.edu.au/icns), Australia.
+- [GRASP Lab](https://www.grasp.upenn.edu/) at University of Pennsylvania, [Kostas Daniilidis](http://www.cis.upenn.edu/~kostas/).
+- [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) of the University of Zurich (UZH) and ETH Zurich, Switzerland.
+- [Robotic Interactice Perception](https://sites.google.com/view/guillermogallego/research/event-based-vision) of TU Berlin, Germany.
 - [Perception and Robotics Group](http://prg.cs.umd.edu/) at University of Maryland (UMD). [Fermüller's Lab on Event-based vision](http://users.umiacs.umd.edu/~fer/dvs.html)
+- [Event-Driven Perception for Robotics (EDPR)](https://www.edpr.iit.it) group at Istituto Italiano di Tecnologia (IIT), Italy.
+- [Computer Vision and Robotics Lab](https://www.ugr.es/~cvrlab/) of University of Granada, Spain.
+- [Institut de la Vision](http://neuromorphic-vision.com/) Neuromorphics group Paris, France.
+- [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/) Sensing & vision solutions group in Vienna, Austria.
+- [Sinapse](http://sinapse.nus.edu.sg/) Singapore Institute for Neurotechnology, Singapore.
 - [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), [Mike Davies](https://newsroom.intel.com/news/bobbleheads-tool-test-neuromorphic-mind/#gs.nndw9d) (Intel’s neuromorphic computing program leader).
   - [Video CVPRW 2019](https://youtu.be/jhQgElvtb1s)
   - [Video Intel NICE 2018 Loihi](https://vimeo.com/264342847),  [Video Intel NICE 2018 Day 3](https://vimeo.com/258246382)
   - [Advancing neuromorphic computing from lab to mainstream applications -Telluride 2020](https://youtu.be/bmCMsWF_ORg)
 - [Robotics and Technology of Computers Lab - Sevilla (RTC)](http://www.rtc.us.es/) of the University of Seville (USE), Seville, Spain.
 - [IMSE-CNM – Seville Institute of Microelectronics](http://imse-cnm.csic.es), Seville, Spain. [News](https://elpais.com/tecnologia/2020-04-13/chips-que-detectan-olores-o-como-la-tecnologia-intenta-imitar-el-funcionamiento-del-cerebro.html)
-- [Prophesee SA](https://prophesee.ai/): Sensor and Software development and production
+- [Prophesee SA](https://prophesee.ai/): Sensor and Software development and production.
+- [Adaptive Robotic Controls Lab (ArcLab)](https://arclab.hku.hk/) of the University of Hong Kong (HKU).
+- [Neuromorphic Automation and Intelligence Lab (NAIL)](https://sites.google.com/view/zhouyi-joey/home) at the Hunan University, China.
+- [Mobile Perception Lab (MPL)](https://mpl.sist.shanghaitech.edu.cn/) at ShanghaiTech University, China.
+- [Camera Intelligence Lab](https://ci.idm.pku.edu.cn/) at Peking University (PKU), China.
+- [Nano(neuro)electronics Research Laboratory](https://engineering.purdue.edu/NRL) at Purdue University, USA.
+- [Martinet Lab](https://www.i3s.unice.fr/jmartinet/) at Université Côte d'Azur, France.
+- [Hyper Vision Research Laboratory](http://www.hvrl.ics.keio.ac.jp/) at Keio University, Japan.
+- [Aoki Media Sensing Lab](https://aoki-medialab.jp/home-en/) at Keio University, Japan.
+- [Visual Intelligence Lab.](http://vi.kaist.ac.kr/) at KAIST, South Korea.
+- [Neuromorphic Computing Group (NCG)](https://www.zhaw.ch/en/lsfm/institutes-centres/icls/cognitive-computing-in-life-sciences/research-group-neuromorphic-computing/) at ZHAW Zurich University of Applied Sciences, Switzerland.
 
 
 <a name="press-eetimes"></a>
@@ -2991,6 +3003,7 @@ MSc. Thesis, Université Laval, Canada, 2022.
 - [Europe Still the Focal Point for Neuromorphic Vision](https://www.eetimes.eu/europe-still-the-focal-point-for-neuromorphic-vision/), 07.2020.
 - [Telluride Neuromorphic Engineering Workshop Goes Large](https://www.eetimes.com/telluride-neuromorphic-engineering-workshop-goes-large/), 07.2020.
 - [Prophesee Touts Toolkit for Event-based Vision](https://www.eetimes.eu/prophesee-touts-toolkit-for-event-based-vision/), 09.2020.
+- [Neuromorphic Vision in Space](https://www.eetimes.eu/neuromorphic-vision-in-space/), 07.2021. 
 - [Prophesee Showcases Neuromorphic Vision Systems from Biotech to Space Debris](https://www.eetimes.eu/prophesee-showcases-neuromorphic-vision-systems-from-biotech-to-space-debris/), 12.2021.
 - [What Does “Neuromorphic” Mean Today?](https://www.eetimes.com/what-does-neuromorphic-mean-today/), EETimes Special Issue, 07. 2022.
     - [Exclusive: An Interview with Carver Mead](https://www.eetimes.com/exclusive-an-interview-with-carver-mead/), 07.2022.
@@ -2999,10 +3012,13 @@ MSc. Thesis, Université Laval, Canada, 2022.
     - [Neuromorphic Sensing: Coming Soon to Consumer Products](https://www.eetimes.com/neuromorphic-sensing-coming-soon-to-consumer-products/), 07.2022.
     - [Reverse-Engineering Insect Brains to Make Robots](https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/), 07.2022.
     - [Cars That Think Like You](https://www.eetimes.com/cars-that-think-like-you/), 07.2022.
+- [Embedded AI Processors: The Cambrian Explosion](https://www.eetimes.eu/embedded-ai-processors-the-cambrian-explosion/)
+- [EU-Funded NimbleAI to Deliver 3D Neuromorphic Chip](https://www.eetimes.eu/eu-funded-nimbleai-to-deliver-3d-neuromorphic-chip/), 04.2023.
 
 # Press
 - [Event-Based Vision: Taking a Cue From Biology](https://www.qualitymag.com/articles/96413-event-based-vision-taking-a-cue-from-biology), 03.2021.
 - [Silicon retinas to help robots navigate the world](https://www.advancedsciencenews.com/silicon-retinas-to-help-robots-navigate-the-world/), Advanced Science News, 10.2022.
+- [Event cameras at TU Berlin - SCIoI](https://www.scienceofintelligence.de/news-tu-press-release-puts-sciois-event-cameras-in-the-spotlight/?utm_source=CleverReach&utm_medium=email&utm_campaign=04-04-22+Name+of+Campaign&utm_content=Mailing_14489706)
 
 
 <br><br>
