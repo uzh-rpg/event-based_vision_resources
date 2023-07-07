@@ -2969,7 +2969,7 @@ MSc. Thesis, Université Laval, Canada, 2022.
 - [Western Sydney University’s International Centre for Neuromorphic Systems (ICNS)](https://www.westernsydney.edu.au/icns), Australia.
 - [GRASP Lab](https://www.grasp.upenn.edu/) at University of Pennsylvania, [Kostas Daniilidis](http://www.cis.upenn.edu/~kostas/).
 - [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) of the University of Zurich (UZH) and ETH Zurich, Switzerland.
-- [Robotic Interactice Perception](https://sites.google.com/view/guillermogallego/research/event-based-vision) of TU Berlin, Germany.
+- [Robotic Interactive Perception](https://sites.google.com/view/guillermogallego/research/event-based-vision) of TU Berlin, Germany.
 - [Perception and Robotics Group](http://prg.cs.umd.edu/) at University of Maryland (UMD). [Fermüller's Lab on Event-based vision](http://users.umiacs.umd.edu/~fer/dvs.html)
 - [Event-Driven Perception for Robotics (EDPR)](https://www.edpr.iit.it) group at Istituto Italiano di Tecnologia (IIT), Italy.
 - [Computer Vision and Robotics Lab](https://www.ugr.es/~cvrlab/) of University of Granada, Spain.
@@ -3005,7 +3005,7 @@ MSc. Thesis, Université Laval, Canada, 2022.
 - [Prophesee Touts Toolkit for Event-based Vision](https://www.eetimes.eu/prophesee-touts-toolkit-for-event-based-vision/), 09.2020.
 - [Neuromorphic Vision in Space](https://www.eetimes.eu/neuromorphic-vision-in-space/), 07.2021. 
 - [Prophesee Showcases Neuromorphic Vision Systems from Biotech to Space Debris](https://www.eetimes.eu/prophesee-showcases-neuromorphic-vision-systems-from-biotech-to-space-debris/), 12.2021.
-- [What Does “Neuromorphic” Mean Today?](https://www.eetimes.com/what-does-neuromorphic-mean-today/), EETimes Special Issue, 07. 2022.
+- [What Does “Neuromorphic” Mean Today?](https://www.eetimes.com/what-does-neuromorphic-mean-today/), EETimes Special Issue, 07.2022.
     - [Exclusive: An Interview with Carver Mead](https://www.eetimes.com/exclusive-an-interview-with-carver-mead/), 07.2022.
     - [Inspiration or Imitation: How Closely Should We Copy Biological Systems?](https://www.eetimes.com/inspiration-or-imitation-how-closely-should-we-copy-biological-systems/), 07.2022.
     - [A Shift in Computer Vision is Coming](https://www.eetimes.com/a-shift-in-computer-vision-is-coming/), 04.2022.
@@ -3018,7 +3018,7 @@ MSc. Thesis, Université Laval, Canada, 2022.
 # Press
 - [Event-Based Vision: Taking a Cue From Biology](https://www.qualitymag.com/articles/96413-event-based-vision-taking-a-cue-from-biology), 03.2021.
 - [Silicon retinas to help robots navigate the world](https://www.advancedsciencenews.com/silicon-retinas-to-help-robots-navigate-the-world/), Advanced Science News, 10.2022.
-- [Event cameras at TU Berlin - SCIoI](https://www.scienceofintelligence.de/news-tu-press-release-puts-sciois-event-cameras-in-the-spotlight/?utm_source=CleverReach&utm_medium=email&utm_campaign=04-04-22+Name+of+Campaign&utm_content=Mailing_14489706)
+- [Event cameras at TU Berlin - SCIoI](https://www.scienceofintelligence.de/news-tu-press-release-puts-sciois-event-cameras-in-the-spotlight/?utm_source=CleverReach&utm_medium=email&utm_campaign=04-04-22+Name+of+Campaign&utm_content=Mailing_14489706), 06.2023.
 
 
 <br><br>
