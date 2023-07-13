@@ -2973,7 +2973,7 @@ MSc. Thesis, Université Laval, Canada, 2022.
 - [Perception and Robotics Group](http://prg.cs.umd.edu/) at University of Maryland (UMD). [Fermüller's Lab on Event-based vision](http://users.umiacs.umd.edu/~fer/dvs.html)
 - [Event-Driven Perception for Robotics (EDPR)](https://www.edpr.iit.it) group at Istituto Italiano di Tecnologia (IIT), Italy.
 - [Computer Vision and Robotics Lab](https://www.ugr.es/~cvrlab/) of University of Granada, Spain.
-- [Institut de la Vision](http://neuromorphic-vision.com/) Neuromorphics group Paris, France.
+- [Institut de la Vision](https://github.com/neuromorphic-paris) Neuromorphics group Paris, France.
 - [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/) Sensing & vision solutions group in Vienna, Austria.
 - [Sinapse](http://sinapse.nus.edu.sg/) Singapore Institute for Neurotechnology, Singapore.
 - [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), [Mike Davies](https://newsroom.intel.com/news/bobbleheads-tool-test-neuromorphic-mind/#gs.nndw9d) (Intel’s neuromorphic computing program leader).
@@ -2999,6 +2999,7 @@ MSc. Thesis, Université Laval, Canada, 2022.
 # Press EETimes
 - [Neuromorphic Revolution to Start in 2024](https://www.eetimes.eu/neuromorphic-revolution-to-start-in-2024/), 10.2019.
 - [Neuromorphic Vision Sensors Eye the Future of Autonomy](https://www.eetimes.com/neuromorphic-vision-sensors-eye-the-future-of-autonomy/), 04.2020.
+- [Neuromorphic Vision Sensors Bring Autonomy Closer to Reality](https://www.eetasia.com/neuromorphic-vision-sensors-bring-autonomy-closer-to-reality/), 04.2020.
 - [The Slow But Steady Rise of the Event Camera](https://www.eetimes.eu/the-slow-but-steady-rise-of-the-event-camera/), 06.2020
 - [Europe Still the Focal Point for Neuromorphic Vision](https://www.eetimes.eu/europe-still-the-focal-point-for-neuromorphic-vision/), 07.2020.
 - [Telluride Neuromorphic Engineering Workshop Goes Large](https://www.eetimes.com/telluride-neuromorphic-engineering-workshop-goes-large/), 07.2020.
@@ -3009,7 +3010,7 @@ MSc. Thesis, Université Laval, Canada, 2022.
     - [Exclusive: An Interview with Carver Mead](https://www.eetimes.com/exclusive-an-interview-with-carver-mead/), 07.2022.
     - [Inspiration or Imitation: How Closely Should We Copy Biological Systems?](https://www.eetimes.com/inspiration-or-imitation-how-closely-should-we-copy-biological-systems/), 07.2022.
     - [A Shift in Computer Vision is Coming](https://www.eetimes.com/a-shift-in-computer-vision-is-coming/), 04.2022.
-    - [Neuromorphic Sensing: Coming Soon to Consumer Products](https://www.eetimes.com/neuromorphic-sensing-coming-soon-to-consumer-products/), 07.2022.
+    - [Neuromorphic Sensing: Coming Soon to Consumer Products](https://www.eetimes.com/neuromorphic-sensing-coming-soon-to-consumer-products/), 07.2022.    
     - [Reverse-Engineering Insect Brains to Make Robots](https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/), 07.2022.
     - [Cars That Think Like You](https://www.eetimes.com/cars-that-think-like-you/), 07.2022.
 - [Embedded AI Processors: The Cambrian Explosion](https://www.eetimes.eu/embedded-ai-processors-the-cambrian-explosion/)
