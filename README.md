@@ -497,7 +497,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://r
 - <a name="Pedersen23nice"></a>Pedersen, J., Singhal, R., Conradt, J.,<br/>
   [Translation and Scale Invariance for Event-Based Object tracking](https://dl.acm.org/doi/10.1145/3584954.3584996),<br/>
   Proc. Annual Neuro-Inspired Computational Elements Conf. (NICE), 2023, pp. 86-91. <a href="https://jepedersen.dk/202304_nice_object">Website</a>, <a href="https://github.com/jegp/coordinate-regression">code</a>, <a href="https://jepedersen.dk/slides/2304_NICE/2304_object_tracking.html">presentation</a>.
-- <a name="zhu2023high-rank">/a> Zhu, Z., Hou, J., Wu DO.,
+- <a name="zhu2023high-rank"></a>Zhu, Z., Hou, J., Wu DO.,
 *[Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers](https://arxiv.org/abs/2307.04129)*,  
 IEEE Conf. International Conference on Computer Vision (ICCV), 2023. [PDF](https://arxiv.org/abs/2307.04129), [code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker).
 
