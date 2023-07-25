@@ -62,7 +62,7 @@
       - [Speckle Analysis](#speckle_analysis)
       - [Interferometry or Holography](#interferometry_or_holography)
       - [Wavefront sensing](#wavefront_sensing)
-
+      - [Super-resolution imaging](#super_resolution_imaging)
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
     - [Drivers](#drivers)
@@ -2408,6 +2408,15 @@ Optics Letters, 2021.
 - <a name="Kong20oe"></a>Kong, F., Lambert, A., Joubert, D., Cohen, G.,  
 *[Shack-Hartmann wavefront sensing using spatial-temporal data from an event-based image sensor](https://doi.org/10.1364/OE.409682)*,  
 Optics Express, 2020.
+
+<a name="super_resolution_imaging"></a>
+### Super-resolution imaging
+- <a name="Cabriel22bioArxiv"></a>Cabriel, C., Specht, C. G. & Izeddin, I.,  
+*[Event-based vision sensor enables fast and dense single-molecule localization microscopy](https://doi.org/10.1101/2022.07.22.501162)*,  
+bioArxiv, 2022.
+- <a name="Mangalwedhekar23NN"></a>Mangalwedhekar, R., Singh, N., Thakur, C. S., Seelamantula, C. S., Jose, M., and Nair, D.,  
+*[Event-based vision sensor enables fast and dense single-molecule localization microscopy](https://doi.org/10.1101/2022.07.22.501162)*,  
+Nat. Nanotechnol., 2023.
 
 <br><br>
 <a name="datasets"></a>
