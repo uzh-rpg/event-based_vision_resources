@@ -21,7 +21,7 @@
     - [Reconstruction of Visual Information](#visualization)
         - [Intensity-Image Reconstruction](#image-reconstruction)
         - [Video Synthesis](#video-synthesis)
-        - [Super-resolution](#super-resolution)
+        - [Image super-resolution](#super-resolution)
         - [Joint/guided filtering](#joint-filtering)
         - [Tone mapping](#tone-mapping)
         - [Visual Stabilization](#visual-stabilization)
@@ -62,7 +62,7 @@
       - [Speckle Analysis](#speckle_analysis)
       - [Interferometry or Holography](#interferometry_or_holography)
       - [Wavefront sensing](#wavefront_sensing)
-      - [Super-resolution imaging](#super_resolution_imaging)
+      - [Optical super-resolution](#super_resolution_imaging)
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
     - [Drivers](#drivers)
@@ -959,7 +959,7 @@ ACM Multimedia Systems (MMSys), 2023. [PDF](https://arxiv.org/abs/2301.08783), [
 
 
 <a name="super-resolution"></a>
-### Super-resolution
+### Image super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
 *[Super-resolution of spatiotemporal event-stream image](https://doi.org/10.1016/j.neucom.2018.12.048)*,  
 Neurocomputing, 335:206-214, 2019. [PDF pre-print](https://arxiv.org/abs/1802.02398)
@@ -2413,7 +2413,7 @@ Optics Letters, 2021.
 Optics Express, 2020.
 
 <a name="super_resolution_imaging"></a>
-### Super-resolution imaging
+### Optical super-resolution
 - <a name="Cabriel22bioArxiv"></a>Cabriel, C., Specht, C. G. & Izeddin, I.,  
 *[Event-based vision sensor enables fast and dense single-molecule localization microscopy](https://doi.org/10.1101/2022.07.22.501162)*,  
 bioArxiv, 2022.
