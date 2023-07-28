@@ -2384,6 +2384,9 @@ Optics and Lasers in Engineering, 2023.
 - <a name="Lou23cvpr"></a>Lou, H., Teng, M., Yang, Y., Shi, B.,  
 *[All-in-Focus Imaging From Event Focal Stack](https://openaccess.thecvf.com/content/CVPR2022/html/Lin_Autofocus_for_Event_Cameras_CVPR_2022_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjU-oPEn7P_AhUVBt4KHW68DiQQFnoECA8QAQ&url=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FCVPR2023%2Fpapers%2FLou_All-in-Focus_Imaging_From_Event_Focal_Stack_CVPR_2023_paper.pdf&usg=AOvVaw2SxXp7z29FqyHFlGpNosXx)
+- <a name="Bao23oe"></a>Bao, Y., Sun, L., Ma, Y., Gu, D. & Wang, K.,  
+*[Improving Fast Auto-Focus with Event Polarity](https://doi.org/10.1364/OE.489717)*,  
+Opt. Express, 2023. 
 
 <a name="speckle_analysis"></a>
 ### Speckle Analysis
