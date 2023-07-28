@@ -21,7 +21,7 @@
     - [Reconstruction of Visual Information](#visualization)
         - [Intensity-Image Reconstruction](#image-reconstruction)
         - [Video Synthesis](#video-synthesis)
-        - [Super-resolution](#super-resolution)
+        - [Image super-resolution](#super-resolution)
         - [Joint/guided filtering](#joint-filtering)
         - [Tone mapping](#tone-mapping)
         - [Visual Stabilization](#visual-stabilization)
@@ -62,7 +62,7 @@
       - [Speckle Analysis](#speckle_analysis)
       - [Interferometry or Holography](#interferometry_or_holography)
       - [Wavefront sensing](#wavefront_sensing)
-
+      - [Optical super-resolution](#super_resolution_imaging)
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
     - [Drivers](#drivers)
@@ -967,7 +967,7 @@ ACM Multimedia Systems (MMSys), 2023. [PDF](https://arxiv.org/abs/2301.08783), [
 
 
 <a name="super-resolution"></a>
-### Super-resolution
+### Image super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
 *[Super-resolution of spatiotemporal event-stream image](https://doi.org/10.1016/j.neucom.2018.12.048)*,  
 Neurocomputing, 335:206-214, 2019. [PDF pre-print](https://arxiv.org/abs/1802.02398)
@@ -2402,6 +2402,9 @@ Optics and Lasers in Engineering, 2023.
 - <a name="Lou23cvpr"></a>Lou, H., Teng, M., Yang, Y., Shi, B.,  
 *[All-in-Focus Imaging From Event Focal Stack](https://openaccess.thecvf.com/content/CVPR2022/html/Lin_Autofocus_for_Event_Cameras_CVPR_2022_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjU-oPEn7P_AhUVBt4KHW68DiQQFnoECA8QAQ&url=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FCVPR2023%2Fpapers%2FLou_All-in-Focus_Imaging_From_Event_Focal_Stack_CVPR_2023_paper.pdf&usg=AOvVaw2SxXp7z29FqyHFlGpNosXx)
+- <a name="Bao23oe"></a>Bao, Y., Sun, L., Ma, Y., Gu, D. & Wang, K.,  
+*[Improving Fast Auto-Focus with Event Polarity](https://doi.org/10.1364/OE.489717)*,  
+Opt. Express, 2023. 
 
 <a name="speckle_analysis"></a>
 ### Speckle Analysis
@@ -2426,6 +2429,15 @@ Optics Letters, 2021.
 - <a name="Kong20oe"></a>Kong, F., Lambert, A., Joubert, D., Cohen, G.,  
 *[Shack-Hartmann wavefront sensing using spatial-temporal data from an event-based image sensor](https://doi.org/10.1364/OE.409682)*,  
 Optics Express, 2020.
+
+<a name="super_resolution_imaging"></a>
+### Optical super-resolution
+- <a name="Cabriel22bioarxiv"></a>Cabriel, C., Specht, C. G. & Izeddin, I.,  
+*[Event-based vision sensor enables fast and dense single-molecule localization microscopy](https://doi.org/10.1101/2022.07.22.501162)*,  
+bioArxiv, 2022.
+- <a name="Mangalwedhekar23natnano"></a>Mangalwedhekar, R., Singh, N., Thakur, C. S., Seelamantula, C. S., Jose, M., and Nair, D.,  
+*[Achieving nanoscale precision using neuromorphic localization microscopy](https://doi.org/10.1101/2022.07.22.501162)*,  
+Nat. Nanotechnol., 2023.
 
 <br><br>
 <a name="datasets"></a>
