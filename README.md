@@ -2347,7 +2347,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 IEEE Int. Conf. 3D Vision (3DV), 2022. [Project page](https://bestchen97.github.io/EventHumanPerception/), [Code](https://github.com/MasterHow/EventPointPose)
 - <a name="ZHANG2023126388"></a> Zhang, Z., Chai, K., Yu, H., Majaj, R., Walsh, F., Wang, E., Mahbub, U., Siegelmann, H., Kim, D., Rahman, T.,
 *[Neuromorphic high-frequency 3D dancing pose estimation in dynamic environment](https://www.sciencedirect.com/science/article/pii/S0925231223005118)*, 
-Neurocomputing, 547, 2023.
+Neurocomputing, 547, 2023. [Code](https://github.com/miracleyoo/yelan-dynamic-dvs-hpe)
 
 <a name="hand_pose_estimation"></a>
 ### Hand Pose Estimation
