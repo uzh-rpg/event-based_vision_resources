@@ -2345,7 +2345,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - <a name="Chen22threedv"></a>Chen, J., Shi, H., Ye, Y., Yang, K., Sun, L., Wang, K.,  
 *[Efficient Human Pose Estimation via 3D Event Point Cloud](https://arxiv.org/pdf/2206.04511)*,  
 IEEE Int. Conf. 3D Vision (3DV), 2022. [Project page](https://bestchen97.github.io/EventHumanPerception/), [Code](https://github.com/MasterHow/EventPointPose)
-
+- <a name="ZHANG2023126388"></a> Zhang, Z., Chai, K., Yu, H., Majaj, R., Walsh, F., Wang, E., Mahbub, U., Siegelmann, H., Kim, D., Rahman, T.,
+*[Neuromorphic high-frequency 3D dancing pose estimation in dynamic environment](https://www.sciencedirect.com/science/article/pii/S0925231223005118)*, 
+Neurocomputing, 547, 2023.
 
 <a name="hand_pose_estimation"></a>
 ### Hand Pose Estimation
@@ -2490,6 +2492,12 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
     - DDD20 - End-to-End Event Camera Driving Dataset
     - DND21 - DeNoising Dynamic vision sensors dataset
     - EDFLOW21 - Event Driven Flow dataset
+
+### Human Pose Estimation
+- [Calabrese et al., CVPRW 2019](#Calabrese19cvprw),  
+*DHP19: Dynamic Vision Sensor 3D Human Pose Dataset*.
+- [Zhang et al., Neurocomputing 2023](#ZHANG2023126388),
+*Neuromorphic high-frequency 3D dancing pose estimation in dynamic environment*, Neurocomputing, 547, 2023.
 
 ### Stereo Depth Estimation
 - [Andreopoulos et al., CVPR 2018](#Andreopoulos18cvpr), *A Low Power, High Throughput, Fully Event-Based Stereo System*.
