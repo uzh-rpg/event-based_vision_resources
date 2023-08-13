@@ -500,7 +500,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://r
 - <a name="Zhu23iccv"></a>Zhu, Z., Hou, J., Wu DO.,<br/>
 *[Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers](https://arxiv.org/abs/2307.04129).*,<br/>
 IEEE Int. Conf. Computer Vision (ICCV), 2023., [code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker).
-
+- <a name="Wang23arxiv"></a>Wang, Z., Molloy, T., van Goor, P., Mahony, R.,<br/>
+*[Event Blob Tracking: An Asynchronous Real-Time Algorithm](https://arxiv.org/abs/2307.10593).*,<br/>
+arXiv:2307.10593, 2023. [PDF](https://arxiv.org/pdf/2307.10593.pdf), [Video](https://www.youtube.com/watch?v=1W2DC7BI-uc), [Project page](https://github.com/ziweiWWANG/Event-Blob-Tracking).
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
 - <a name="Clady15neunet"></a>Clady, X., Ieng, S.-H., Benosman, R.,  
@@ -943,7 +945,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [YouTube](https://youtu.be/hrfsDOL18pw), [Suppl.](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/supplemental/Paikin_EFI-Net_Video_Frame_CVPRW_2021_supplemental.zip), [Dataset](https://drive.google.com/file/d/1UIGVBqNER_5KguYPAu5y7TVg-JlNhz3-/view?usp=sharing).
 - <a name="Wang21iccv"></a>Wang, Z., Ng, Y., Scheerlinck, C., Mahony., R.,  
 *[An Asynchronous Kalman Filter for Hybrid Event Cameras](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.html)*,  
-IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.pdf), [Code](https://github.com/ziweiWWANG/AKF), [YouTube](https://www.youtube.com/watch?v=XPz7laloKws), [Suppl.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_An_Asynchronous_Kalman_ICCV_2021_supplemental.pdf)
+IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.pdf), [Code](https://github.com/ziweiWWANG/AKF), [YouTube](https://www.youtube.com/watch?v=XPz7laloKws), [Suppl.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_An_Asynchronous_Kalman_ICCV_2021_supplemental.pdf).
 - <a name="Sun22eccv"></a>Sun, L., Sakaridis, C., Liang, J., Jiang, Q., Yang, K., Sun, P., Ye, Y., Wang, K., Gool, L.,  
 *[Event-Based Fusion for Motion Deblurring with Cross-modal Attention](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3239_ECCV_2022_paper.php)*,  
 European Conf. Computer Vision (ECCV), 2022. [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780403.pdf), [Code](https://github.com/AHupuJR/EFNet), [Suppl.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780403-supp.pdf), [Project page](https://ahupujr.github.io/EFNet/)
@@ -1269,7 +1271,7 @@ AAAI Conf. Artificial Intelligence, 2021.
 - <a name="Wang21iros"></a>Wang, Z., Pan, L., Ng, Y., Zhuang, Z., Mahony, R.,   
 *[Stereo Hybrid Event-Frame (SHEF) Cameras for 3D Perception](https://doi.org/10.1109/IROS51168.2021.9636312)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
-[PDF](https://arxiv.org/abs/2110.04988), [Video](https://www.youtube.com/watch?v=Azu7rJSPGNc), [Dataset](https://github.com/ziweiWWANG/SHEF)
+[PDF](https://arxiv.org/pdf/2110.04988.pdf), [Video](https://www.youtube.com/watch?v=Azu7rJSPGNc), [Code and Data](https://github.com/ziweiWWANG/SHEF).
 - <a name="Ghosh22aisy"></a>Ghosh, S., Gallego, G.,   
 *[Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion (MCEMVS)](https://arxiv.org/pdf/2207.10494)*,  
 Advanced Intelligent Systems (AISY), 2022.
@@ -2120,7 +2122,7 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2022. [PDF](https://arxiv.org/pdf
 IEEE Trans. Pattern Anal. Mach. Intell., 45(1)785:795, 2022. [Full PDF incl. Supplementary Material](https://drive.google.com/file/d/1HkkEeX4JmIWgaG9y7joxmPgx3lEw5bt6/view?usp=sharing), [DND21 DeNoising Dynamic vision sensors website](https://sites.google.com/view/dnd21/home)
 - <a name="Wang22icra"></a>Wang, Z., Yuan, D., Ng, Y., Mahony, R.,   
 *[A Linear Comb Filter for Event Flicker Removal](https://doi.org/10.1109/ICRA46639.2022.9812003)*,  
-IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/abs/2205.08090), [Project Page](https://github.com/ziweiWWANG/EFR)
+IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/pdf/2205.08090.pdf), [Code and Data](https://github.com/ziweiWWANG/EFR), [Youtube](https://www.youtube.com/watch?v=1XgOknDIV00).
 <a name="compression"></a>
 
 ### Compression
@@ -2381,7 +2383,7 @@ Distinguished Lecture, Cyber Security in the Age of Large-Scale Adversaries (CAS
 - <a name="Wang22iros"></a>Wang, Z., Ng, Y., Henderson, J., Mahony., R.,   
 *[Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras](https://arxiv.org/abs/2208.01710)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022.
-[PDF](https://arxiv.org/abs/2208.01710), [Project Page](https://github.com/ziweiWWANG/Event-Beacon-Communication)
+[PDF](https://arxiv.org/pdf/2208.01710.pdf), [Code and Data](https://github.com/ziweiWWANG/Event-Beacon-Communication).
 
 
 <a name="animal_monitoring"></a>
@@ -2671,7 +2673,7 @@ WRC Symposium on Advanced Robotics and Automation (WRC SARA), 2018.
 IEEE Access, 7:138415-138425, 2019.
 - <a name="Wang19acra"></a>Wang, Z., Ng, Y., van Goor, P., Mahony., R.,  
 *[Event Camera Calibration of Per-pixel Biased Contrast Threshold](https://arxiv.org/pdf/2012.09378)*,  
-Australasian Conf. Robotics and Automation (ACRA) 2019. [PDF](https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap135s1-file1.pdf), [Github](https://github.com/ziweiWWANG/Event-Camera-Calibration).
+Australasian Conf. Robotics and Automation (ACRA) 2019. [PDF](https://ssl.linklings.net/conferences/acra/acra2019_proceedings/views/includes/files/pap135s1-file1.pdf), [Code and Data](https://github.com/ziweiWWANG/Event-Camera-Calibration).
 - <a name="Dubeau20arxiv"></a>Dubeau, E., Garon, M., Debaque, B., de Charette, R., Lalonde, J.-F.,  
 *[RGB-DE: Event Camera Calibration for Fast 6-DOF Object Tracking](https://arxiv.org/pdf/2006.05011.pdf)*,  
 arXiv, 2020.
