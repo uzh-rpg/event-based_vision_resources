@@ -25,6 +25,7 @@
         - [Joint/guided filtering](#joint-filtering)
         - [Tone mapping](#tone-mapping)
         - [Visual Stabilization](#visual-stabilization)
+        - [Polarization Reconstruction](@polarization-reconstruction)
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
         - [Monocular](#depth-mono)
         - [Stereo](#depth-stereo)
@@ -1018,6 +1019,11 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2014. [YouTube](https://youtu.be/T
 *[Stabilizing Event Data on Flapping-wing Robots for Simpler Perception](https://zenodo.org/record/6602940/files/Workshop_Flapping_Wing_Challenges.pdf)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA) Workshop on Challenges of Flapping-wing Aerial Robots, 2022. [Slides](https://grvc.us.es/newweb/wp-content/uploads/2022/06/icra2022_flappingwingworkshop.pdf)
 
+<a name="polarization-reconstruction"></a>
+### Polarization Reconstruction
+- <a name="Mei23cvpr"></a>Mei, H., Wang, Z., Yang, X., Wei, X., Delbruck, T.,  
+*[Deep Polarization Reconstruction with PDAVIS Events](https://openaccess.thecvf.com/content/CVPR2023/html/Mei_Deep_Polarization_Reconstruction_With_PDAVIS_Events_CVPR_2023_paper.html)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Mei_Deep_Polarization_Reconstruction_With_PDAVIS_Events_CVPR_2023_paper.pdf), [code](https://github.com/SensorsINI/e2p).
 
 <a name="depth-estimation"></a>
 ## Depth Estimation (3D Reconstruction)
@@ -1059,9 +1065,6 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [PDF](http://rpg.ifi.uzh.ch/d
 - <a name="Muglikar23cvpr"></a>Muglikar, M., Bauersfeld, L., Moeys, D., Scaramuzza, D.,  
 *[Event-based Shape from Polarization](https://arxiv.org/abs/2301.06855)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_Muglikar.pdf), [YouTube](https://youtu.be/sF3Ue2Zkpec), [code](https://github.com/uzh-rpg/ESfP).
-- <a name="Mei23cvpr"></a>Mei, H., Wang, Z., Yang, X., Wei, X., Delbruck, T.,  
-*[Deep Polarization Reconstruction with PDAVIS Events](https://openaccess.thecvf.com/content/CVPR2023/html/Mei_Deep_Polarization_Reconstruction_With_PDAVIS_Events_CVPR_2023_paper.html)*, 
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Mei_Deep_Polarization_Reconstruction_With_PDAVIS_Events_CVPR_2023_paper.pdf), [code](https://github.com/SensorsINI/e2p).
 - <a name="Brebion23scia"></a>Brebion, V., Moreau, J., Davoine, F.,  
 *[Learning to Estimate Two Dense Depths from LiDAR and Event Data](https://doi.org/10.1007/978-3-031-31438-4_34)*,  
 22nd Scandinavian Conference on Image Analysis (SCIA 2023), 2023. [PDF](https://arxiv.org/pdf/2302.14444.pdf), [Project Page (suppl. mat., poster, code, dataset, videos)](https://vbrebion.github.io/ALED).
