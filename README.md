@@ -2497,7 +2497,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - [Calabrese et al., CVPRW 2019](#Calabrese19cvprw),  
 *DHP19: Dynamic Vision Sensor 3D Human Pose Dataset*.
 - [Zhang et al., Neurocomputing 2023](#Zhang23neurocomp),  
-*Neuromorphic high-frequency 3D dancing pose estimation in dynamic environment*, Neurocomputing, 547, 2023.
+*Neuromorphic high-frequency 3D dancing pose estimation in dynamic environment*.
 
 ### Stereo Depth Estimation
 - [Andreopoulos et al., CVPR 2018](#Andreopoulos18cvpr), *A Low Power, High Throughput, Fully Event-Based Stereo System*.
