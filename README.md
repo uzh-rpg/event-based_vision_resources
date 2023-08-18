@@ -1587,7 +1587,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Code](https://
 - <a name="Sun22eccv"></a>Sun, Z., Messikommer, N., Gehrig, D., Scaramuzza, D.,  
 *[ESS: Learning Event-based Semantic Segmentation from Still Images](http://dx.doi.org/10.1007/978-3-031-19830-4_20)*,  
 European Conf. Computer Vision (ECCV), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/ECCV22_Sun.pdf), [dataset](https://dsec.ifi.uzh.ch/dsec-semantic/), [YouTube](https://youtu.be/Tby5c9IDsDc), [code](https://github.com/uzh-rpg/ess).  
-
+- <a name="Biswas23wacv"></a>Biswas, S.D., Kosta, A.,  Liyanagedera, C., Apolinario, M., Roy, K.,  
+*[HALSIE: Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities](https://arxiv.org/abs/2211.10754)*,  
+Winter Conference on Applications of Computer Vision (WACV), 2024. [PDF](https://arxiv.org/abs/2211.10754).  
 
 <a name="motion-segmentation"></a>
 ### Motion Segmentation
