@@ -478,8 +478,8 @@ IEEE Int. Conf. Computer Vision (ICCV), 2021. [Project](https://zhangjiqing.com/
 - <a name="Dietsche21iros"></a>Dietsche, A., Cioffi, G., Hidalgo-Carrio, J., Scaramuzza, D.,  
 *[Powerline Tracking with Event Cameras](http://dx.doi.org/10.1109/IROS51168.2021.9636824)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [PDF](https://rpg.ifi.uzh.ch/docs/IROS21_Dietsche.pdf), [dataset](https://download.ifi.uzh.ch/rpg/powerline_tracking_dataset/), [YouTube](https://www.youtube.com/watch?v=KnBJqed5qDI), [code](https://github.com/uzh-rpg/line_tracking_with_event_cameras).
-- <a name="li2021_evtracking"></a>Li, H., Stueckler, J.,
-*[Tracking 6-DoF Object Motion from Events and Frames](https://doi.org/10.1109/ICRA48506.2021.9561760)*,  
+- <a name="Li21icra"></a>Li, H., Stueckler, J.,
+*[Tracking 6-DoF Object Motion from Events and Frames](https://arxiv.org/pdf/2103.15568.pdf)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2021.
 - <a name="Zhang2022cvpr"></a>Zhang, J., Dong, B., Zhang, H., Ding, J., Heide, F., Yin, B., Yang, X.,  
 *[Spiking Transformers for Event-based Single Object Tracking](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf)*,  
@@ -2368,7 +2368,7 @@ Neurocomputing, 547, 2023. [Code](https://github.com/miracleyoo/yelan-dynamic-dv
 - <a name="Naeini20sensors"></a>Rudnev, V., Golyanik, V., Wang, J., Seidel, H.-P., Mueller, F., Elgharib, M., Theobalt, C.,  
 *[EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream](https://arxiv.org/pdf/2012.06475)*,  
 arXiv, 2020. [Project page](https://gvv.mpi-inf.mpg.de/projects/EventHands/)
-- <a name="xue2022_evnonrigid"></a>Xue, Y., Li, H., Leutenegger, S., Stueckler, J.,  
+- <a name="Xue22bmvc"></a>Xue, Y., Li, H., Leutenegger, S., Stueckler, J.,  
 *[Event-based Non-Rigid Reconstruction from Contours](https://bmvc2022.mpi-inf.mpg.de/0078.pdf)*,  
 British Machine Vision Conf. (BMVC), 2022. [Project page](https://bmvc2022.mpi-inf.mpg.de/78/)
 
