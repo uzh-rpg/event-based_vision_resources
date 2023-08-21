@@ -1589,7 +1589,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Code](https://
 European Conf. Computer Vision (ECCV), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/ECCV22_Sun.pdf), [dataset](https://dsec.ifi.uzh.ch/dsec-semantic/), [YouTube](https://youtu.be/Tby5c9IDsDc), [code](https://github.com/uzh-rpg/ess).  
 - <a name="Biswas23wacv"></a>Biswas, S.D., Kosta, A.,  Liyanagedera, C., Apolinario, M., Roy, K.,  
 *[HALSIE: Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities](https://arxiv.org/abs/2211.10754)*,  
-Winter Conference on Applications of Computer Vision (WACV), 2024. [PDF](https://arxiv.org/abs/2211.10754).  
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2024.  
 
 <a name="motion-segmentation"></a>
 ### Motion Segmentation
