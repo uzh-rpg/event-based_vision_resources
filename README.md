@@ -1114,7 +1114,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [Pro
 ### Monocular Voxel Reconstruction
 - <a name="Chen23icvr"></a>Chen, H., Chung, V., Tan, L., Chen, X.,  
 *[Dense Voxel 3D Reconstruction Using a Monocular Event Camera](https://doi.org/10.1109/ICVR57957.2023.10169359)*,  
-International Conference on Virtual Reality (ICVR), 2023. [IEEEXplore](https://ieeexplore.ieee.org/document/10169359), [Arxiv](https://arxiv.org/abs/2309.00385), [Dataset](https://www.kaggle.com/datasets/hche8927/synthevox3d).
+Int. Conf. Virtual Reality (ICVR), 2023. [PDF](https://arxiv.org/pdf/2309.00385), [Dataset](https://www.kaggle.com/datasets/hche8927/synthevox3d).
 
 <a name="depth-stereo"></a>
 ### Stereo Depth Estimation
@@ -2534,7 +2534,7 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 - [Gao et al., RAL 2022](#Gao22ral), *VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM*.
 
 ### Monocular Voxel Reconstruction
-- [Chen et al., ICVR, 2023](#Chen23icvr), *Dense Voxel 3D Reconstruction Using a Monocular Event Camera*.
+- [Chen et al., ICVR 2023](#Chen23icvr), *Dense Voxel 3D Reconstruction Using a Monocular Event Camera*.
 
 ### Optical Flow
 - [DVS/DAVIS Optical Flow Dataset](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) associated to the paper [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
