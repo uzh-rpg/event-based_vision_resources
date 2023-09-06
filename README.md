@@ -1110,6 +1110,12 @@ IEEE International Conference on Multisensor Fusion and Integration for Intellig
 *[X-maps: Direct Depth Lookup for Event-based Structured Light Systems](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Morgenstern_X-Maps_Direct_Depth_Lookup_for_Event-Based_Structured_Light_Systems_CVPRW_2023_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [Project page](https://fraunhoferhhi.github.io/X-maps/), [Code](https://github.com/fraunhoferhhi/X-maps).  
 
+<a name="voxel-mono"></a>
+### Monocular Voxel Reconstruction
+- <a name="Chen23icvr"></a>Chen, H., Chung, V., Tan, L., Chen, X.,
+*[Dense Voxel 3D Reconstruction Using a Monocular Event Camera](https://doi.org/10.1109/ICVR57957.2023.10169359)*,
+International Conference on Virtual Reality (ICVR), 2023. [IEEEXplore](https://ieeexplore.ieee.org/document/10169359), [Arxiv](https://arxiv.org/abs/2309.00385), [Dataset](https://www.kaggle.com/datasets/hche8927/synthevox3d).
+
 <a name="depth-stereo"></a>
 ### Stereo Depth Estimation
 - [Misha Mahowald’s Stereo Chip - Tobi Delbruck- 2020 Telluride Neuromorphic workshop](https://youtu.be/9mYTbZM9odc),  
@@ -2526,6 +2532,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 *[DSEC: A Stereo Event Camera Dataset for Driving Scenarios](https://doi.org/10.1109/LRA.2021.3068942)*,  
 IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.ch/dsec.html), [PDF](http://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf), [Code](https://github.com/uzh-rpg/DSEC), [Video](https://youtu.be/W4yW78y4F7A).
 - [Gao et al., RAL 2022](#Gao22ral), *VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM*.
+- [Chen et al., ICVR, 2023](#Chen23icvr), *Dense Voxel 3D Reconstruction Using a Monocular Event Camera*.
 
 ### Optical Flow
 - [DVS/DAVIS Optical Flow Dataset](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) associated to the paper [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
