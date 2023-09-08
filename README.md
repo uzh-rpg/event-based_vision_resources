@@ -2647,7 +2647,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 ### Event Denoising
 - [DVSNOISE20](https://sites.google.com/a/udayton.edu/issl/software/dataset) associated to the paper [Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](#Baldwin20cvpr).
 - [DND21 DeNoising Dynamic vision sensors dataset](https://sites.google.com/view/dnd21/datasets?authuser=0) associated to the paper [Low Cost and Latency Event Camera Background Activity Denoising](#GuoDelbruck22pami)
-
+- [Event Flicker Removal Dataset](https://drive.google.com/drive/u/1/folders/1S2LiKrteh4N23SOghA0xU7rC1Q8trNCR) associated to the paper [Wang et al., ICRA 2022](#Wang22icra). [PDF](https://arxiv.org/pdf/2205.08090.pdf), [Code and Data](https://github.com/ziweiWWANG/EFR), [Youtube](https://www.youtube.com/watch?v=1XgOknDIV00).
 ### Space Situational Awareness
 - [The Event-Based Space Situational Awareness (EBSSA) Dataset](https://www.westernsydney.edu.au/icns/reproducible_research/publication_support_materials/space_imaging) associated to the paper [Event-based Object Detection and Tracking for Space Situational Awareness](#Afshar19arxiv).
 - [The Event Based Space Imaging Slew Speed Star Dataset](https://github.com/NicRalph213/ICNS_NORALPH_Event_Based-Space_Imaging-Speed_Dataset) associated to the paper [Astrometric Calibration and Source Characterisation of the Latest Generation Neuromorphic Event-based Cameras for Space Imaging](#Ralph22arxiv).
