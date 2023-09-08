@@ -971,8 +971,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [Code](https://
 *[An Asynchronous Intensity Representation for Framed and Event Video Sources](https://doi.org/10.1145/3587819.3590969)*,  
 ACM Multimedia Systems (MMSys), 2023. [PDF](https://arxiv.org/abs/2301.08783), [Code](https://github.com/ac-freeman/adder-codec-rs/).
 - <a name="Wang23tpami"></a>Wang, Z., Ng, Y., Scheerlinck, C., Mahony., R.,  
-*[An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.html)*,  
-IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [PDF](https://arxiv.org/pdf/2309.01159.pdf), [Project Page](https://github.com/ziweiWWANG/Event-Asynchronous-Filter), [YouTube](https://www.youtube.com/watch?v=K1kRjw9xQNU).
+*[An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras](https://ieeexplore.ieee.org/document/10238826)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [PDF](https://arxiv.org/pdf/2309.01159.pdf), [Project Page](https://github.com/ziweiWWANG/Event-Asynchronous-Filter), [YouTube](https://www.youtube.com/watch?v=K1kRjw9xQNU).
     - <a name="Wang21iccv"></a>Wang, Z., Ng, Y., Scheerlinck, C., Mahony., R.,  
 *[An Asynchronous Kalman Filter for Hybrid Event Cameras](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.html)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.pdf), [Code](https://github.com/ziweiWWANG/AKF), [YouTube](https://www.youtube.com/watch?v=XPz7laloKws), [Suppl](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_An_Asynchronous_Kalman_ICCV_2021_supplemental.pdf).
