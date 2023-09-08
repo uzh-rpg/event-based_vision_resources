@@ -1110,8 +1110,8 @@ IEEE International Conference on Multisensor Fusion and Integration for Intellig
 *[X-maps: Direct Depth Lookup for Event-based Structured Light Systems](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Morgenstern_X-Maps_Direct_Depth_Lookup_for_Event-Based_Structured_Light_Systems_CVPRW_2023_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [Project page](https://fraunhoferhhi.github.io/X-maps/), [Code](https://github.com/fraunhoferhhi/X-maps).  
 
-<a name="voxel-mono"></a>
-### Monocular Voxel Reconstruction
+<a name="object-mono"></a>
+### Monocular Object Reconstruction
 - <a name="Chen23icvr"></a>Chen, H., Chung, V., Tan, L., Chen, X.,  
 *[Dense Voxel 3D Reconstruction Using a Monocular Event Camera](https://doi.org/10.1109/ICVR57957.2023.10169359)*,  
 Int. Conf. Virtual Reality (ICVR), 2023. [PDF](https://arxiv.org/pdf/2309.00385), [Dataset](https://www.kaggle.com/datasets/hche8927/synthevox3d).
@@ -2533,7 +2533,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.ch/dsec.html), [PDF](http://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf), [Code](https://github.com/uzh-rpg/DSEC), [Video](https://youtu.be/W4yW78y4F7A).
 - [Gao et al., RAL 2022](#Gao22ral), *VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM*.
 
-### Monocular Voxel Reconstruction
+### Monocular Object Reconstruction
 - [Chen et al., ICVR 2023](#Chen23icvr), *Dense Voxel 3D Reconstruction Using a Monocular Event Camera*.
 
 ### Optical Flow
