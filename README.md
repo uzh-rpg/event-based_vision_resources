@@ -973,7 +973,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [Code](https://
 - <a name="Freeman23mmsys"></a>Freeman, A., Singh, M., Mayer-Patel, K.,  
 *[An Asynchronous Intensity Representation for Framed and Event Video Sources](https://doi.org/10.1145/3587819.3590969)*,  
 ACM Multimedia Systems (MMSys), 2023. [PDF](https://arxiv.org/abs/2301.08783), [Code](https://github.com/ac-freeman/adder-codec-rs/).
-
+- <a name="Wang21iccv"></a>Wang, Z., Ng, Y., Scheerlinck, C., Mahony., R.,  
+*[An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.html)*,  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [PDF](https://arxiv.org/pdf/2309.01159.pdf), [Project Page](https://github.com/ziweiWWANG/Event-Asynchronous-Filter), [YouTube](https://www.youtube.com/watch?v=K1kRjw9xQNU).
 
 <a name="super-resolution"></a>
 ### Image super-resolution
