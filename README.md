@@ -2141,6 +2141,9 @@ IEEE Trans. Pattern Anal. Mach. Intell., 45(1)785:795, 2022. [Full PDF incl. Sup
 - <a name="Wang22icra"></a>Wang, Z., Yuan, D., Ng, Y., Mahony, R.,   
 *[A Linear Comb Filter for Event Flicker Removal](https://doi.org/10.1109/ICRA46639.2022.9812003)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/pdf/2205.08090.pdf), [Code and Data](https://github.com/ziweiWWANG/EFR), [Youtube](https://www.youtube.com/watch?v=1XgOknDIV00).
+- <a name="Zhang23tci"></a>Zhang, P., Ge, Z., Song, L., Lam, E. Y.,   
+*[Neuromorphic Imaging with Density-based Spatiotemporal Denoising](https://doi.org/10.1109/TCI.2023.3281202)*,  
+IEEE Trans. Comput. Imaging (TCI), 2023. [Project Page](https://discriminative.github.io/NeuroDenoising/).
 <a name="compression"></a>
 
 ### Compression
@@ -2393,6 +2396,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Suppl.](https:
 - <a name="Du21aensors"></a>Du, B., Li, W., Wang, Z., Xu, M., Gao, T., Li, J., Wen, H.,  
 *[Event Encryption for Neuromorphic Vision Sensors: Framework, Algorithm, and Evaluation](https://doi.org/10.3390/s21134320)*,  
 Sensors, 2021.
+- <a name="Zhang23arxiv"></a>Zhang, P., Zhu, S., Lam, E. Y.,   
+*[Event Encryption: Rethinking Privacy Exposure for Neuromorphic Imaging](https://arxiv.org/abs/2306.03369)*,  
+arXiv, 2023.
 
 <a name="nuclear_verification"></a>
 ## Nuclear Verification
