@@ -2508,7 +2508,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - <a name="Joubert21fins"></a>Joubert, C., Marcireau, A., Ralph, N., Jolley, A., van Schaik, A., Cohen, G.,  
 [Event Camera Simulator Improvements via Characterized Parameters](https://www.frontiersin.org/articles/10.3389/fnins.2021.702765/full)  
   Front. Neurosci., 2021, [IEBCS simulator](https://github.com/neuromorphicsystems/IEBCS)
-
+- <a name="Lin2022dvs"></a>Lin, S., Ma, Y., Guo, Z. and Wen, B.,
+[DVS-Voltmeter: Stochastic process-based event simulator for dynamic vision sensors](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571.pdf)
+  European Conference on Computer Vision, 2022 Springer, [DVS-Voltmeter](https://github.com/Lynn0306/DVS-Voltmeter)
 
 
 ## Datasets (sorted by topic)
