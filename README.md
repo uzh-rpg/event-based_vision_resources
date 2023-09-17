@@ -3075,6 +3075,7 @@ MSc. Thesis, Université Laval, Canada, 2022.
     - [Cars That Think Like You](https://www.eetimes.com/cars-that-think-like-you/), 07.2022.
 - [Embedded AI Processors: The Cambrian Explosion](https://www.eetimes.eu/embedded-ai-processors-the-cambrian-explosion/)
 - [EU-Funded NimbleAI to Deliver 3D Neuromorphic Chip](https://www.eetimes.eu/eu-funded-nimbleai-to-deliver-3d-neuromorphic-chip/), 04.2023.
+- **[Brains and Machine Podcast](https://brainsandmachines.net/)**, since 09.2023. A podcast about neuromorphic engineering and bio-inspired technology.
 
 # Press
 - [Event-Based Vision: Taking a Cue From Biology](https://www.qualitymag.com/articles/96413-event-based-vision-taking-a-cue-from-biology), 03.2021.
