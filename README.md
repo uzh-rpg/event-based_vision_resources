@@ -1882,6 +1882,9 @@ IEEE Trans. Cybern., 52(9):9251-9262, 2022.
 - <a name="Liu22access"></a>Liu, C., Qi, X., Lam, E. Y., Wong, N.,  
 *[Fast Classification and Action Recognition With Event-Based Imaging](https://doi.org/10.1109/ACCESS.2022.3177744)*,  
 IEEE Access 10, 55638–55649 (2022).
+- <a name="Plizzari22cvpr"></a>Plizzari, C., Planamente, Goletto, G., Cannici, M., Gusso, E., Matteucci, M., Caputo, B.,  
+[E2(GO)MOTION: Motion Augmented Event Stream for Egocentric Action Recognition](https://openaccess.thecvf.com/content/CVPR2022/html/Plizzari_E2GOMOTION_Motion_Augmented_Event_Stream_for_Egocentric_Action_Recognition_CVPR_2022_paper.html),  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project page](https://github.com/EgocentricVision/N-EPIC-Kitchens)
 
 <a name="learning-representation-features"></a>
 ### Representation / Feature Extraction
@@ -2655,7 +2658,7 @@ arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset
 - <a name="Cannici21cvprw"></a>Cannici, M., Plizzari, C., Planamente, M., Ciccone, M., Bottino, A., Caputo, B., Matteucci, M.,  
 *[N-ROD: a Neuromorphic Dataset for Synthetic-to-Real Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Cannici_N-ROD_A_Neuromorphic_Dataset_for_Synthetic-to-Real_Domain_Adaptation_CVPRW_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](https://n-rod-dataset.github.io/home/), [YouTube](https://youtu.be/IOZl8MxrfpQ), [Poster](https://tub-rip.github.io/eventvision2021/slides/CVPRW21_NROD_poster.pdf).
-
+- [N-EPIC-Kitchens Dataset of Plizzari et al., CVPR 2022](#Plizzari22cvpr). [Project page](https://github.com/EgocentricVision/N-EPIC-Kitchens)
 
 ### Event Denoising
 - [DVSNOISE20](https://sites.google.com/a/udayton.edu/issl/software/dataset) associated to the paper [Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](#Baldwin20cvpr).
