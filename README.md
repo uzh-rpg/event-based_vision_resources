@@ -1,6 +1,7 @@
 # Event-based Vision Resources
 
 ## <a href="https://tub-rip.github.io/eventvision2023/">CVPR 2023 Workshop on Event-based Vision: June 19, 2023.</a>
+## <a href="https://www.neuropac.info/">NeuroPAC</a>
 
 ## Table of Contents:
 - [Survey paper](#survey_paper)
@@ -3056,6 +3057,7 @@ MSc. Thesis, Université Laval, Canada, 2022.
 - [Aoki Media Sensing Lab](https://aoki-medialab.jp/home-en/) at Keio University, Japan.
 - [Visual Intelligence Lab.](http://vi.kaist.ac.kr/) at KAIST, South Korea.
 - [Neuromorphic Computing Group (NCG)](https://www.zhaw.ch/en/lsfm/institutes-centres/icls/cognitive-computing-in-life-sciences/research-group-neuromorphic-computing/) at ZHAW Zurich University of Applied Sciences, Switzerland.
+- [NeuroPAC](https://www.neuropac.info/)
 
 
 <a name="press-eetimes"></a>
