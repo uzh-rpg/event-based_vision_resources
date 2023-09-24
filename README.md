@@ -148,7 +148,8 @@ IEEE Trans. Circuits Syst. Express Briefs, 2018
     - [Download free or buy our software ](https://www.prophesee.ai/metavision-intelligence/)
     - [Documentation and tutorials](https://docs.prophesee.ai/)
     - [Knowledge Base](https://support.prophesee.ai/portal/en/kb/prophesee-1) and [Community Forum](https://support.prophesee.ai/portal/en/community/forum)
-- **[CelePixel](http://www.celepixel.com/)**, Shanghai. CeleX-V: the first 1 Mega-pixel event-camera sensor.
+- [**SONY's explanation of Event-based Vision Sensor (EVS) Technolgy**](https://www.sony-semicon.com/en/technology/industry/evs.html)
+- [**CelePixel**](http://www.celepixel.com/), Shanghai. CeleX-V: the first 1 Mega-pixel event-camera sensor.
 - **Sensitive DVS (sDVS)**
     - Leñero-Bardallo, J. A., Serrano-Gotarredona, T., Linares-Barranco, B., *[A 3.6us Asynchronous Frame-Free Event-Driven Dynamic-Vision-Sensor](https://doi.org/10.1109/JSSC.2011.2118490)*,  IEEE J. of Solid-State Circuits, 46(6):1443-1455, 2011.
     - Serrano-Gotarredona, T. and Linares-Barranco, B., *[A 128x128 1.5% Contrast Sensitivity 0.9% FPN 3us Latency 4mW Asynchronous Frame-Free Dynamic Vision Sensor Using Transimpedance Amplifiers](https://doi.org/10.1109/JSSC.2012.2230553)*,  IEEE J. Solid-State Circuits, 48(3):827-838, 2013.
