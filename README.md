@@ -17,6 +17,7 @@
     - [Feature Detection and Tracking](#feature-detection)
         - [Corners](#corner-detection)
         - [Particles in fluids](#particle-detection)
+        - [Eye Tracking](#eye_tracking)
     - [Optical Flow Estimation](#optical-flow-estimation)
         - [Scene Flow Estimation](#scene-flow-estimation)
     - [Reconstruction of Visual Information](#visualization)
@@ -65,6 +66,7 @@
       - [Interferometry or Holography](#interferometry_or_holography)
       - [Wavefront sensing](#wavefront_sensing)
       - [Optical super-resolution](#super_resolution_imaging)
+      - [Schlieren imaging](#schlieren_imaging)
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
     - [Drivers](#drivers)
@@ -514,6 +516,7 @@ arXiv:2307.10593, 2023. [PDF](https://arxiv.org/pdf/2307.10593.pdf), [Video](htt
 *[DOTIE - Detecting Objects through Temporal Isolation of Events using a Spiking Architecture](https://ieeexplore.ieee.org/abstract/document/10161164).*,<br/>
 IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [Arxiv](https://arxiv.org/abs/2210.00975), [CVPR 2023 workshop](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_Live_Demonstration_Real-time_Event-based_Speed_Detection_using_Spiking_Neural_Networks.pdf), [Code](https://github.com/manishnagaraj/DOTIE).
 - [Gao et al., ICCV 2023](#Gao23iccv), *A 5-Point Minimal Solver for Event Camera Relative Motion Estimation*.
+
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
 - <a name="Clady15neunet"></a>Clady, X., Ieng, S.-H., Benosman, R.,  
@@ -578,6 +581,7 @@ ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http:/
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740035-supp.zip)
 
 
+<a name="eye_tracking"></a>
 ### Eye Tracking
 - <a name="Ryan20arxiv"></a>Ryan, C., Sullivan, B. O., Elrasad, A., Lemley, J., Kielty., P., Posch, C., Perot, E.,  
 *[Real-Time Face & Eye Tracking and Blink Detection using Event Cameras](https://arxiv.org/pdf/2010.08278)*,  
@@ -682,6 +686,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 *Event-Based Motion Segmentation by Motion Compensation*.
     - [Shiba et al., Sensors 2022](#Shiba22sensors),  
 *Event Collapse in Contrast Maximization Frameworks*.
+    - [Shiba et al., AISY 2022](#Shiba22aisy),  
+*A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework*.
     - [Shiba et al., ECCV 2022](#Shiba22eccv),  
 *Secrets of Event-based Optical Flow*.
     - [Zhang et al., arXiv 2021](#Zhang22tpami),  
@@ -789,6 +795,8 @@ arXiv, 2022.
 - <a name="Tian22bmvc"></a>Tian, Y., Andrade-Cetto, J.,  
 *[Event transformer FlowNet for optical flow estimation](https://bmvc2022.mpi-inf.mpg.de/577/)*,  
 British Mach. Vis. Conf., 2022, [PDF](https://bmvc2022.mpi-inf.mpg.de/0577.pdf), [Poster](https://bmvc2022.mpi-inf.mpg.de/0577_poster.pdf), [Video](https://bmvc2022.mpi-inf.mpg.de/0577_video.mp4), [Supplementary](https://bmvc2022.mpi-inf.mpg.de/0577_supp.zip).
+- [Shiba et al., TPAMI 2023](#Shiba23tpami),  
+*Event-based Background-Oriented Schlieren*.
 
 
 <a name="scene-flow-estimation"></a>
@@ -2493,6 +2501,14 @@ bioArxiv, 2022.
 - <a name="Mangalwedhekar23natnano"></a>Mangalwedhekar, R., Singh, N., Thakur, C. S., Seelamantula, C. S., Jose, M., and Nair, D.,  
 *[Achieving nanoscale precision using neuromorphic localization microscopy](https://doi.org/10.1101/2022.07.22.501162)*,  
 Nat. Nanotechnol., 2023.
+
+
+<a name="schlieren_imaging"></a>
+### Schlieren imaging
+- <a name="Shiba23tpami"></a>Shiba, S., Hamann, F., Aoki, Y., Gallego, G.,  
+*[Event-based Background-Oriented Schlieren](https://doi.org/10.1109/TPAMI.2023.3328188)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Project page](https://github.com/tub-rip/event_based_bos), [Video](https://youtu.be/v6ms6g2eOB8), [PDF](https://arxiv.org/pdf/2311.00434)
+
 
 <br><br>
 <a name="datasets"></a>
