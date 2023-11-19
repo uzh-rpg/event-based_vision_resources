@@ -1794,9 +1794,9 @@ IEEE Int. Conf. Image Processing (ICIP), 2022. [PDF](https://arxiv.org/pdf/2202.
 - <a name="Gehrig23cvpr"></a>Gehrig, M., Scaramuzza, D.,  
 *[Recurrent Vision Transformers for Object Detection with Event Cameras](https://arxiv.org/abs/2212.05598)*,  
  IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_mgehrig.pdf), [Code](https://github.com/uzh-rpg/RVT).
-- <a name="Zhang23arxiv1"></a>Zhang, P., Wang, C., Lam, E. Y.,  
-*[Neuromorphic Imaging and Classification with Graph Learning](https://arxiv.org/abs/2309.15627)*,  
-arXiv, 2023.  
+- <a name="Zhang23neurocomputing"></a>Zhang, P., Wang, C., Lam, E. Y.,  
+*[Neuromorphic Imaging and Classification with Graph Learning](https://doi.org/10.1016/j.neucom.2023.127010)*,  
+Neurocomputing, 2023.  
 
 <a name="gesture-recognition"></a>
 ### Gesture Recognition
