@@ -911,6 +911,9 @@ arXiv, 2023. [PDF](https://arxiv.org/pdf/2305.06382), [Project Page](https://erc
 - <a name="Zhang23arxiv2"></a>Zhang, P., Liu, H., Ge, Z., Wang, C., Lam, E. Y.,   
 *[Neuromorphic Imaging with Joint Image Deblurring and Event Denoising](https://arxiv.org/abs/2309.16106)*,  
 arXiv, 2023.
+- <a name="Liu23tpami"></a>Liu, S., Dragotti, P.L.,    
+*[Sensing Diversity and Sparsity Models for Event Generation and Video Reconstruction from Events](https://doi.org/10.1109/TPAMI.2023.3278940)*,    
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Code](https://github.com/pld-group/V2E2V)
 
 <a name="video-synthesis"></a>
 ### Video Synthesis
