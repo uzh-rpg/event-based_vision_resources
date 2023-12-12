@@ -2578,6 +2578,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.ch/dsec.html), [PDF](http://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf), [Code](https://github.com/uzh-rpg/DSEC), [Video](https://youtu.be/W4yW78y4F7A).
 - [Wang et al., IROS 2021 (SHEF)](#Wang21iros), *Stereo Hybrid Event-Frame (SHEF) Cameras for 3D Perception*, [Project Page](https://github.com/ziweiWWANG/SHEF).
 - [Gao et al., RAL 2022](#Gao22ral), *VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM*.
+- [Chaney et al., CVPRW 2023](#Chaney23cvprw), *M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset*
 
 ### Monocular Object Reconstruction
 - [Chen et al., ICVR 2023](#Chen23icvr), *Dense Voxel 3D Reconstruction Using a Monocular Event Camera*.
@@ -2590,6 +2591,7 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 - [EDFLOW21 Event Driven Optical Flow Camera dataset](https://sites.google.com/view/edflow21/home) associated with the paper [EDFLOW: Event Driven Optical Flow Camera with Keypoint Detection and Adaptive Block Matching](#LiuDelbruck2022tcsvt).
 - [Gehrig et al., RAL 2021](#MGehrig21ral): *DSEC: A Stereo Event Camera Dataset for Driving Scenarios*.  
 - [EV-IMO Event based Independently Moving Objects dataset](https://better-flow.github.io/evimo/) associated to the paper [EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](#Mitrokhin19iros) ([motion vector flow](https://github.com/better-flow/evimo/blob/master/tools/evimo_flow.py) added Jan 2022)
+- [Chaney et al., CVPRW 2023](#Chaney23cvprw), *M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset*
 
 ### Intensity-Image Reconstruction from events
 - [Bardow et al., CVPR2016](#Bardow16cvpr), [Four sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
@@ -2648,6 +2650,13 @@ IEEE Robotics and Automation Letters (RA-L), 2022. [Dataset](https://visibilityd
 - <a name="Gao22ral"></a>Gao, L., Liang, Y., Yang, J., Wu, S., Wang, C., Chen, J., Kneip, L.,  
 *[VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM](https://doi.org/10.1109/LRA.2022.3186770)*,  
 IEEE Robotics and Automation Letters (RA-L), 7(3):8217-8224, 2022. [PDF](https://arxiv.org/abs/2207.01404), [Dataset](https://star-datasets.github.io/vector/), [MPL Calibration Toolbox](https://github.com/mgaoling/mpl_calibration_toolbox), [MPL Dataset Toolbox](https://github.com/mgaoling/mpl_dataset_toolbox).
+- <a name="Chaney23cvprw"></a>Chaney, K., Cladera, F., Wang, Z., Bisulco, A., Hsieh, M.A., Korpela, C., Kumar, V., Taylor, C.J. and Daniilidis, K.,  
+*[M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset](https://m3ed.io/)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023.
+[PDF](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chaney_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset_CVPRW_2023_paper.pdf),
+[Dataset](https://m3ed.io/sequences/),
+[Code](https://github.com/daniilidis-group/m3ed),
+
 
 ### Segmentation
 - [Mitrokhin et al., IROS 2018](#Mitrokhin18iros), Extreme Event Dataset (EED). [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
