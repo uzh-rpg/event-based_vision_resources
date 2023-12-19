@@ -564,6 +564,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [You
 55th Annual Conf. on Information Sciences and Systems (CISS), 2021.
 - [Alzugaray, I., Ph.D. Thesis, 2022](#Alzugaray22PhD),  
 *Event-driven Feature Detection and Tracking for Visual SLAM*.
+- <a name="Freeman23arxiv"></a>Freeman, A., Mayer-Patel, K., Singh, M.,  
+*[Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems](https://arxiv.org/pdf/2312.08213.pdf)*,  
+arXiv 2023.
 
 <a name="particle-detection"></a>
 ### Particle Detection and Tracking
@@ -2195,6 +2198,7 @@ IEEE Signal Process. Lett. (SPL), 29:1779-1783, 2022.
 - <a name="Schiopu22sensors"></a>Schiopu, I., Bilcu, R. C.,  
 *[Low-Complexity Lossless Coding of Asynchronous Event Sequences for Low-Power Chip Integration](https://doi.org/10.3390/s222410014)*,  
 Sensors, 2022.
+- [Freeman et al., arXiv](#Freeman23arxiv), _Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems_
 
 
 <a name="control"></a>
