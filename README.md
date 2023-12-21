@@ -780,6 +780,9 @@ Sensors, 2022. [PDF](https://arxiv.org/pdf/2207.04007),  [Project page](https://
 *[Secrets of Event-based Optical Flow](https://arxiv.org/pdf/2207.10022)*,  
 Europen Conf. Computer Vision (ECCV), 2022. [YouTube](https://youtu.be/nUb2ZRPdbWk), [Poster](https://drive.google.com/file/d/1mF-mM4teb8A9bKJJiQwN7IFsGsRIsRaX/view?usp=sharing), [Presentation at  the  PRG  Seminar Series  U. Maryland (Video)](https://vid.umd.edu/detsmediasite/Play/d31926745bdd446e8f6ce165ae4811591d), [Presentation at the GRASP Laboratory (UPenn) seminar](https://youtu.be/8v-bYCVL9hw),
 [Project page and Code](https://github.com/tub-rip/event_based_optical_flow)
+- <a name="Shiba22spl"></a>Shiba, S., Aoki, Y., Gallego, G.,  
+*[Fast Event-Based Optical Flow Estimation by Triplet Matching](https://ieeexplore.ieee.org/document/10008035)*,
+IEEE Signal Process. Lett. (SPL), 29:2712-2716, 2022. [PDF](https://arxiv.org/pdf/2212.12218).
 - <a name="Brebion21tits"></a>Brebion, V., Moreau, J., Davoine, F.,  
 *[Real-Time Optical Flow for Vehicular Perception With Low- and High-Resolution Event Cameras](https://doi.org/10.1109/TITS.2021.3136358)*,  
 IEEE Trans. Intell. Transp. Syst. (T-ITS), 2021. [PDF](https://arxiv.org/pdf/2112.10591.pdf), [Code](https://github.com/vbrebion/rt_of_low_high_res_event_cameras), [Dataset](https://datasets.hds.utc.fr/share/er2aA4R0QMJzMyO), [YouTube](https://youtube.com/playlist?list=PLLL0eWAd6OXBRXli-tB1NREdhBElAxisD).
@@ -2514,7 +2517,7 @@ Nat. Nanotechnol., 2023.
 ### Schlieren imaging
 - <a name="Shiba23tpami"></a>Shiba, S., Hamann, F., Aoki, Y., Gallego, G.,  
 *[Event-based Background-Oriented Schlieren](https://doi.org/10.1109/TPAMI.2023.3328188)*,  
-IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Project page](https://github.com/tub-rip/event_based_bos), [Video](https://youtu.be/v6ms6g2eOB8), [PDF](https://arxiv.org/pdf/2311.00434)
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Project page](https://github.com/tub-rip/event_based_bos), [Video (short, only results)](https://youtu.be/v6ms6g2eOB8), [Narrated Video (5min)](https://youtu.be/Ev52n8KgxIU?si=0_Jpy1p-cGulfBTx), [PDF](https://arxiv.org/pdf/2311.00434)
 
 
 <br><br>
