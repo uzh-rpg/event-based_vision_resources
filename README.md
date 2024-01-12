@@ -33,7 +33,7 @@
         - [Stereo](#depth-stereo)
         - [Stereoscopic panoramic imaging](#depth-stereo-pano)
     - [SLAM (Simultaneous Localization And Mapping)](#slam)
-        - [Localization, Ego-motion estimation](#slam-localization)
+        - [Localization, Pose estimation](#slam-localization)
         - [Visual Odometry](#visual-odometry)
         - [Visual-Inertial Odometry](#visual-inertial)
     - [Segmentation](#segmentation)
@@ -1371,7 +1371,7 @@ IEEE Trans. Ind. Electron., 63(1):418-428, 2016.
 ## SLAM (Simultaneous Localization And Mapping)
 
 <a name="slam-localization"></a>
-### Localization, Ego-Motion Estimation
+### Localization, Pose Estimation
 - <a name="Weikersdorfer12robio"></a>Weikersdorfer, D. and Conradt, J.,  
 *[Event-based particle filtering for robot self-localization](http://doi.org/10.1109/ROBIO.2012.6491077)*,  
 IEEE Int. Conf. Robotics and Biomimetics (ROBIO), 2012. [PDF](https://mediatum.ub.tum.de/doc/1215541/835468.pdf)
@@ -2561,13 +2561,13 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 
 ## Datasets (sorted by topic)
 - [Datasets from the Sensors group at INI](http://sensors.ini.uzh.ch/databases.html) (Institute of Neuroinformatics), Zurich:
-    - DVS09 - 	DVS128 Dynamic Vision Sensor Silicon Retina
-    - DVSFLOW16 - 	DVS/DAVIS Optical Flow Dataset
-    - DVSACT16 -	DVS Datasets for Object Tracking, Action Recognition and Object Recognition
-    - PRED18 - 	VISUALISE Predator/Prey Dataset
-    - DDD17 - 	DAVIS Driving Dataset 2017
-    - ROSHAMBO17 - 	RoShamBo Rock Scissors Paper game DVS dataset
-    - DHP19 - 	DAVIS Human Pose Estimation and Action Recognition
+    - DVS09 - DVS128 Dynamic Vision Sensor Silicon Retina
+    - DVSFLOW16 - DVS/DAVIS Optical Flow Dataset
+    - DVSACT16 - DVS Datasets for Object Tracking, Action Recognition and Object Recognition
+    - PRED18 - VISUALISE Predator/Prey Dataset
+    - DDD17 - DAVIS Driving Dataset 2017
+    - ROSHAMBO17 - RoShamBo Rock Scissors Paper game DVS dataset
+    - DHP19 - DAVIS Human Pose Estimation and Action Recognition
     - DDD20 - End-to-End Event Camera Driving Dataset
     - DND21 - DeNoising Dynamic vision sensors dataset
     - EDFLOW21 - Event Driven Flow dataset
@@ -2811,7 +2811,7 @@ Arxiv, 2023.
     - [E2VID code](https://github.com/uzh-rpg/rpg_e2vid) associated to the paper [Rebecq et al., TPAMI 2020](#Rebecq20tpami).
     - [EVREAL code](https://github.com/ercanburak/EVREAL) associated to the paper [Ercan et al., CVPRW 2023](#Ercan23cvprw).
     - [HyperE2VID code](https://github.com/ercanburak/HyperE2VID) associated to the paper [Ercan et al., arXiv 2023](#Ercan23arxiv).
-- **Localization and Ego-Motion Estimation**
+- **Localization, Pose Estimation**
     - [Panoramic tracking code](https://github.com/VLOGroup/dvs-panotracking) associated to the paper [Reinbacher et al., ICCP 2017](#Reinbacher17iccp).
 - **Pattern Recognition**
     - [A simple spiking neural network for recognition](http://www.garrickorchard.com/code/hfirst) associated to the paper [Orchard et al., TPAMI 2015](#Orchard15tpami).
