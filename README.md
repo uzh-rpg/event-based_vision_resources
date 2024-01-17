@@ -2303,10 +2303,10 @@ Science Robotics, 5(40):eaaz9712, 2020. [YouTube](https://youtu.be/BzykucxFddI)
 IEEE Sensors 2020. [PDF](https://arxiv.org/pdf/2010.15509).
 - <a name="Bisulco21icra"></a>Bisulco, A., Cladera Ojeda, F., Isler, V., Lee, D. D.,  
 *[Fast Motion Understanding with Spatiotemporal Neural Networks and Dynamic Vision Sensors
-](https://doi.org/10.1109/SEDEP.1998.730709)*,  
+](https://ieeexplore.ieee.org/document/9561290)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2021. [PDF](https://arxiv.org/pdf/2011.09427).
 - <a name="walters21iros"></a>Walters, C., Hadfield, S.,  
-*[EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance](https://doi.org/10.1109/IROS51168.2021.9636448)*,  
+*[EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance](https://ieeexplore.ieee.org/document/9636327)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 - <a name="he21iros"></a>He, B., Li, H., Wu, S., Wang, D., Zhang, Z., Dong, Q., Xu, C., Gao, F.,  
 *[FAST-Dynamic-Vision: Detection and Tracking Dynamic Objects with Event and Depth Sensing](https://ieeexplore.ieee.org/abstract/document/9636448)*,  
