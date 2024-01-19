@@ -920,6 +920,9 @@ arXiv, 2023.
 - <a name="Liu23tpami"></a>Liu, S., Dragotti, P.L.,    
 *[Sensing Diversity and Sparsity Models for Event Generation and Video Reconstruction from Events](https://doi.org/10.1109/TPAMI.2023.3278940)*,    
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Code](https://github.com/pld-group/V2E2V)
+- <a name="Qu24aaai"></a>Qu, Q., Shen, Y., Chen, X., Chung, Y.Y., Liu, T.,    
+*[E2HQV: High-Quality Video Generation from Event Camera via Theory-Inspired Model-Aided Deep Learning](https://arxiv.org/abs/2401.08117)*,    
+AAAI Conf. Artificial Intelligence (AAAI), 2024. [Code](https://github.com/VincentQQu/E2HQV)
 
 <a name="video-synthesis"></a>
 ### Video Synthesis
@@ -1007,6 +1010,10 @@ IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.co
 *[Event-based Continuous Color Video Decompression from Single Frames](https://arxiv.org/pdf/2312.00113.pdf)*,  
 arxiv, 2023. [Project page](https://www.cis.upenn.edu/~ziyunw/continuity_cam/)
 <a name="super-resolution"></a>
+- <a name="Chen23IROS"></a>Chen, J., Zhu, Y., Lian, D., Yang, J., Wang, Y., Zhang, R., Liu, X., Qian, S., Kneip, L., Gao, S.,  
+*[Revisiting Event-Based Video Frame Interpolation](https://ieeexplore.ieee.org/abstract/document/10341804)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023. [PDF](https://arxiv.org/pdf/2307.12558.pdf), [Project](https://jiabenchen.github.io/revisit_event)
+
 ### Image super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
 *[Super-resolution of spatiotemporal event-stream image](https://doi.org/10.1016/j.neucom.2018.12.048)*,  
@@ -1475,7 +1482,9 @@ Advanced Intelligent Systems, 2022.  [PDF](https://arxiv.org/pdf/2212.07350), [Y
 - <a name="Chamorro22ral"></a>Chamorro, W. O., Solà, J., Andrade-Cetto, J.,  
 *[Event-based SLAM in real-time](https://doi.org/10.1109/LRA.2022.3187266)*,  
 IEEE Robotics and Automation Letters, 7(3):8146-8153, 2022. [PDF](https://www.iri.upc.edu/download/scidoc/2608), [Video](http://www.iri.upc.edu/people/cetto/ral22_slam/22-0927_02_VI.mp4)
-
+- <a name="Ji23arxiv"></a>Ji, X., Wei, J., Wang, Y., Shang, H., Kneip, L.,  
+*[Cross-modal Place Recognition in Image Databases using Event-based Sensors](https://arxiv.org/abs/2307.01047)*,  
+arXiv, 2023.
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
@@ -1559,7 +1568,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Poster](https:
 - <a name="Gao23iccv"></a>Gao, L., Su, H., Gehrig, D., Cannici, M., Scaramuzza, D., Kneip, L.,  
 *[A 5-Point Minimal Solver for Event Camera Relative Motion Estimation](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_A_5-Point_Minimal_Solver_for_Event_Camera_Relative_Motion_Estimation_ICCV_2023_paper.pdf)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2023. [Project Webpage](https://mgaoling.github.io/eventail/), [PDF](https://arxiv.org/abs/2309.17054), [Oral Presentation](https://www.youtube.com/watch?v=hyfGGzZQZh4)
-
+- <a name="Zuo24TRO"></a>Zuo, Y., Xu, W., Wang, X., Wang, Y., Kneip, L.,  
+*[Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions](https://ieeexplore.ieee.org/document/10401990)*,  
+IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2401.08043.pdf), [Code](https://github.com/zyfff/Canny-EVT/)
 
 #### Stereo
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
@@ -2310,13 +2321,13 @@ Science Robotics, 5(40):eaaz9712, 2020. [YouTube](https://youtu.be/BzykucxFddI)
 IEEE Sensors 2020. [PDF](https://arxiv.org/pdf/2010.15509).
 - <a name="Bisulco21icra"></a>Bisulco, A., Cladera Ojeda, F., Isler, V., Lee, D. D.,  
 *[Fast Motion Understanding with Spatiotemporal Neural Networks and Dynamic Vision Sensors
-](https://doi.org/10.1109/SEDEP.1998.730709)*,  
+](https://doi.org/10.1109/ICRA48506.2021.9561290)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2021. [PDF](https://arxiv.org/pdf/2011.09427).
 - <a name="walters21iros"></a>Walters, C., Hadfield, S.,  
-*[EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance](https://doi.org/10.1109/IROS51168.2021.9636448)*,  
+*[EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance](https://doi.org/10.1109/IROS51168.2021.9636327)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 - <a name="he21iros"></a>He, B., Li, H., Wu, S., Wang, D., Zhang, Z., Dong, Q., Xu, C., Gao, F.,  
-*[FAST-Dynamic-Vision: Detection and Tracking Dynamic Objects with Event and Depth Sensing](https://ieeexplore.ieee.org/abstract/document/9636448)*,  
+*[FAST-Dynamic-Vision: Detection and Tracking Dynamic Objects with Event and Depth Sensing](https://doi.org/10.1109/IROS51168.2021.9636448)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [PDF](https://arxiv.org/pdf/2103.05903.pdf), [YouTube](https://www.youtube.com/watch?v=QPpwppeE_x0).
 - <a name="Rodriguez22ral"></a>Rodriguez-Gomez, J.P., Tapia, R., Guzman, M.M., Martinez-de Dios, J.R., Ollero, A.,  
 *[Free as a Bird: Event-Based Dynamic Sense-and-Avoid for Ornithopter Robot Flight](https://doi.org/10.1109/LRA.2022.3153904)*,  
@@ -2610,7 +2621,7 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 - [EV-IMO Event based Independently Moving Objects dataset](https://better-flow.github.io/evimo/) associated to the paper [EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](#Mitrokhin19iros) ([motion vector flow](https://github.com/better-flow/evimo/blob/master/tools/evimo_flow.py) added Jan 2022)
 - [Chaney et al., CVPRW 2023](#Chaney23cvprw), *M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset*
 
-### Intensity-Image Reconstruction from events
+### Intensity-Image Reconstruction from Events
 - [Bardow et al., CVPR2016](#Bardow16cvpr), [Four sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
 - [Scheerlinck et al., ACCV2018](#Scheerlinck18accv), *Continuous-time Intensity Estimation Using Event Cameras*. [Website](https://cedric-scheerlinck.github.io/continuous-time-intensity-estimation)
 - <a name="Scheerlinck19cvprw"></a>Scheerlinck, C., Rebecq, H., Stoffregen, T., Barnes, N., Mahony, R., Scaramuzza, D.,  
