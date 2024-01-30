@@ -2200,7 +2200,7 @@ IEEE Trans. Pattern Anal. Mach. Intell., 45(1)785:795, 2022. [Full PDF incl. Sup
 IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/pdf/2205.08090.pdf), [Code and Data](https://github.com/ziweiWWANG/EFR), [Youtube](https://www.youtube.com/watch?v=1XgOknDIV00).
 - <a name="Zhang23tci"></a>Zhang, P., Ge, Z., Song, L., Lam, E. Y.,   
 *[Neuromorphic Imaging with Density-based Spatiotemporal Denoising](https://doi.org/10.1109/TCI.2023.3281202)*,  
-IEEE Trans. Comput. Imaging (TCI), 2023. [Code](https://github.com/pz-even/ni-denoising).
+IEEE Trans. Comput. Imaging (TCI), 2023. [Code](https://github.com/pz-even/ni-denoising)
 <a name="compression"></a>
 
 ### Compression
