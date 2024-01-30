@@ -1823,7 +1823,7 @@ IEEE Int. Conf. Image Processing (ICIP), 2022. [PDF](https://arxiv.org/pdf/2202.
  IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_mgehrig.pdf), [Code](https://github.com/uzh-rpg/RVT).
 - <a name="Zhang23neurocomputing"></a>Zhang, P., Wang, C., Lam, E. Y.,  
 *[Neuromorphic Imaging and Classification with Graph Learning](https://doi.org/10.1016/j.neucom.2023.127010)*,  
-Neurocomputing, 2023.  
+Neurocomputing, 2023. [Code](https://github.com/pz-even/ni-graph)
 
 <a name="gesture-recognition"></a>
 ### Gesture Recognition
@@ -2200,7 +2200,7 @@ IEEE Trans. Pattern Anal. Mach. Intell., 45(1)785:795, 2022. [Full PDF incl. Sup
 IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/pdf/2205.08090.pdf), [Code and Data](https://github.com/ziweiWWANG/EFR), [Youtube](https://www.youtube.com/watch?v=1XgOknDIV00).
 - <a name="Zhang23tci"></a>Zhang, P., Ge, Z., Song, L., Lam, E. Y.,   
 *[Neuromorphic Imaging with Density-based Spatiotemporal Denoising](https://doi.org/10.1109/TCI.2023.3281202)*,  
-IEEE Trans. Comput. Imaging (TCI), 2023. [Project Page](https://discriminative.github.io/NeuroDenoising/).
+IEEE Trans. Comput. Imaging (TCI), 2023. [Code](https://github.com/pz-even/ni-denoising).
 <a name="compression"></a>
 
 ### Compression
@@ -2454,9 +2454,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Suppl.](https:
 - <a name="Du21aensors"></a>Du, B., Li, W., Wang, Z., Xu, M., Gao, T., Li, J., Wen, H.,  
 *[Event Encryption for Neuromorphic Vision Sensors: Framework, Algorithm, and Evaluation](https://doi.org/10.3390/s21134320)*,  
 Sensors, 2021.
-- <a name="Zhang23arxiv"></a>Zhang, P., Zhu, S., Lam, E. Y.,   
-*[Event Encryption: Rethinking Privacy Exposure for Neuromorphic Imaging](https://arxiv.org/abs/2306.03369)*,  
-arXiv, 2023.
+- <a name="Zhang24nce"></a>Zhang, P., Zhu, S., Lam, E. Y.,   
+*[Event Encryption: Rethinking Privacy Exposure for Neuromorphic Imaging](https://doi.org/10.1088/2634-4386/ad207b)*,  
+Neuromorphic Computing and Engineering, 2024.
 
 <a name="nuclear_verification"></a>
 ## Nuclear Verification
