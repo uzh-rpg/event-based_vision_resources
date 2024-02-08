@@ -567,7 +567,7 @@ arXiv preprint arXiv, 2021.
 55th Annual Conf. on Information Sciences and Systems (CISS), 2021.
 - [Alzugaray, I., Ph.D. Thesis, 2022](#Alzugaray22PhD),  
 *Event-driven Feature Detection and Tracking for Visual SLAM*.
-- <a name="Freeman23arxiv"></a>Freeman, A., Mayer-Patel, K., Singh, M.,  
+- <a name="Freeman23mmsys"></a>Freeman, A., Mayer-Patel, K., Singh, M.,  
 *[Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems](https://arxiv.org/pdf/2312.08213.pdf)*,  
 ACM Multimedia Systems (MMSys), 2024. [Code](https://github.com/ac-freeman/adder-codec-rs)
 
@@ -2236,7 +2236,7 @@ IEEE Signal Process. Lett. (SPL), 29:1779-1783, 2022.
 - <a name="Schiopu22sensors"></a>Schiopu, I., Bilcu, R. C.,  
 *[Low-Complexity Lossless Coding of Asynchronous Event Sequences for Low-Power Chip Integration](https://doi.org/10.3390/s222410014)*,  
 Sensors, 2022.
-- [Freeman et al., arXiv](#Freeman23arxiv), _Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems_
+- [Freeman et al., MMSys](#Freeman23mmsys), _Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems_
 
 
 <a name="control"></a>
@@ -2885,7 +2885,7 @@ Front. Neurosci. (2020), 13:1338. [Code](https://github.com/neuromorphic-paris/t
   - <a name="Freeman23mmsys"></a>Freeman, A.,  
     *[The ADΔER Framework: Tools for Event Video Representations](https://doi.org/10.1145/3587819.3593028)*,  
     ACM Multimedia Systems (MMSys) Doctoral Symposium, 2023. [PDF](https://dl.acm.org/doi/pdf/10.1145/3587819.3593028), [Code](https://github.com/ac-freeman/adder-codec-rs/).
-  - <a name="FreemanOpenSource"></a>Freeman, A.,  
+  - <a name="Freeman24arxiv"></a>Freeman, A.,  
     *[An Open Software Suite for Event-Based Video](https://arxiv.org/abs/2401.17151)*,  
     arXiv, 2024.
 
