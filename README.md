@@ -559,6 +559,9 @@ J. Imaging, 2021.
 - <a name="Chiberre21cvprw"></a>Chiberre, P., Perot, E., Sironi, A., Lepetit, V.,  
 *[Detecting Stable Keypoints From Events Through Image Gradient Prediction](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Chiberre_Detecting_Stable_Keypoints_From_Events_Through_Image_Gradient_Prediction_CVPRW_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [YouTube](https://youtu.be/Rrkwxp8J18c).
+- <a name="Chui21arxiv"></a>Chui, J., Klenk, S., Cremers, D.,  
+*[Event-Based Feature Tracking in Continuous Time with Sliding Window Optimization](https://arxiv.org/abs/2107.04536)*,  
+arXiv preprint arXiv:2107.04536, 2021. [PDF](https://arxiv.org/pdf/2107.04536.pdf)
 - <a name="Sengupta21ciss0"></a>Sengupta, J. P., Villemur, M., Andreou, A. G.,  
 *[Efficient, event-driven feature extraction and unsupervised object tracking for embedded applications](https://doi.org/10.1109/CISS50987.2021.9400234)*,  
 55th Annual Conf. on Information Sciences and Systems (CISS), 2021.
@@ -1112,6 +1115,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://r
 - <a name="Brebion23scia"></a>Brebion, V., Moreau, J., Davoine, F.,  
 *[Learning to Estimate Two Dense Depths from LiDAR and Event Data](https://doi.org/10.1007/978-3-031-31438-4_34)*,  
 22nd Scandinavian Conference on Image Analysis (SCIA 2023), 2023. [PDF](https://arxiv.org/pdf/2302.14444.pdf), [Project Page (suppl. mat., poster, code, dataset, videos)](https://vbrebion.github.io/ALED).
+- <a name="Klenk23ral"></a>Klenk, S., Koestler, L., Scaramuzza, D., Cremers, D.,  
+*[E-NeRF: Neural Radiance Fields from a Moving Event Camera](https://ieeexplore.ieee.org/document/10028738)*,  
+IEEE Robotics and Automation Letters (RA-L) 8, no. 3 (2023): 1587-1594. [PDF](https://arxiv.org/pdf/2208.11300.pdf), [code](https://github.com/knelk/enerf)
 
 <a name="depth-mono-active"></a>
 ### Monocular Depth Estimation using Structured Light
@@ -1574,6 +1580,10 @@ IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2401.08043.pdf), [Co
 - <a name="Xu243DV"></a>Xu, W., Zhang, S., Cui, L., Peng, X., Kneip, L.,  
 *[Event-Based Visual Odometry on Non-Holonomic Ground Vehicles](https://arxiv.org/abs/2401.09331)*,  
 IEEE Int. Conf. 3D Vision (3DV), 2024. [PDF](https://arxiv.org/pdf/2401.09331.pdf), [Code](https://github.com/gowanting/NHEVO), [YouTube](https://www.youtube.com/watch?v=gw5iJBQkk0M)
+- <a name="Klenk233dv"></a>Klenk, S., Motzet, M., Koestler, L., Cremers, D.,  
+*[Deep Event Visual Odometry](https://arxiv.org/abs/2312.09800)*,  
+IEEE Int. Conf. 3D Vision (3DV), 2024. [PDF](https://arxiv.org/pdf/2312.09800.pdf), [code](https://github.com/tum-vision/DEVO), [video](https://youtu.be/rP_OuOE-O34)
+
 
 #### Stereo
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
@@ -1621,6 +1631,7 @@ CVPR 2023 Workshop on Event-based Vision. [PDF](https://tub-rip.github.io/eventv
 - <a name="Xu23TRO"></a>Xu, W., Peng, X., Kneip, L.,  
 *[Tight Fusion of Events and Inertial Measurements for Direct Velocity Estimation](https://ieeexplore.ieee.org/abstract/document/10319103/)*,  
 IEEE Trans. Robot. (TRO), 2023. [PDF](https://arxiv.org/pdf/2401.09296v1.pdf)
+
 
 
 #### Stereo
@@ -2126,6 +2137,9 @@ arXiv, 2022.
 - <a name="Aydin23arxiv"></a>Aydin, A., Gehrig, M., Gehrig, D., Scaramuzza, D.,  
 *[A Hybrid ANN-SNN Architecture for Low-Power and Low-Latency Visual Perception](https://arxiv.org/abs/2303.14176)*,  
 arXiv, 2023. [PDF](https://rpg.ifi.uzh.ch/docs/arxiv23_aydin.pdf).  
+- <a name="Klenk24wacv"></a>Klenk, S., Bonello, D., Koestler, L., Araslanov, N., Cremers, D.,  
+*[Masked Event Modeling: Self-Supervised Pretraining for Event Cameras](https://www.doi.org/10.1109/LRA.2023.3240646)*,  
+In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 2378-2388, 2024. [PDF](https://arxiv.org/abs/2212.10368), [code](https://github.com/tum-vision/mem).
 
 
 <a name="signal_processing"></a>
