@@ -569,7 +569,7 @@ arXiv preprint arXiv, 2021.
 *Event-driven Feature Detection and Tracking for Visual SLAM*.
 - <a name="Freeman23arxiv"></a>Freeman, A., Mayer-Patel, K., Singh, M.,  
 *[Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems](https://arxiv.org/pdf/2312.08213.pdf)*,  
-ACM Multimedia Systems (MMSys), 2023. [Code](https://github.com/ac-freeman/adder-codec-rs)
+ACM Multimedia Systems (MMSys), 2024. [Code](https://github.com/ac-freeman/adder-codec-rs)
 
 <a name="particle-detection"></a>
 ### Particle Detection and Tracking
