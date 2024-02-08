@@ -2886,7 +2886,8 @@ Front. Neurosci. (2020), 13:1338. [Code](https://github.com/neuromorphic-paris/t
     *[The ADΔER Framework: Tools for Event Video Representations](https://doi.org/10.1145/3587819.3593028)*,  
     ACM Multimedia Systems (MMSys) Doctoral Symposium, 2023. [PDF](https://dl.acm.org/doi/pdf/10.1145/3587819.3593028), [Code](https://github.com/ac-freeman/adder-codec-rs/).
   - <a name="FreemanOpenSource"></a>Freeman, A.,  
-    *[An Open Software Suite for Event-Based Video](https://arxiv.org/abs/2401.17151)*.
+    *[An Open Software Suite for Event-Based Video](https://arxiv.org/abs/2401.17151)*,  
+    arXiv, 2024.
 
 
 <a name="processors-platforms"></a>
