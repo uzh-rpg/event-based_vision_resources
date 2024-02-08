@@ -1584,7 +1584,6 @@ IEEE Int. Conf. 3D Vision (3DV), 2024. [PDF](https://arxiv.org/pdf/2401.09331.pd
 *[Deep Event Visual Odometry](https://arxiv.org/abs/2312.09800)*,  
 IEEE Int. Conf. 3D Vision (3DV), 2024. [PDF](https://arxiv.org/pdf/2312.09800.pdf), [code](https://github.com/tum-vision/DEVO), [video](https://youtu.be/rP_OuOE-O34)
 
-
 #### Stereo
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
 *[ESVO: Event-based Stereo Visual Odometry](https://doi.org/10.1109/TRO.2021.3062252)*,  
@@ -1631,7 +1630,6 @@ CVPR 2023 Workshop on Event-based Vision. [PDF](https://tub-rip.github.io/eventv
 - <a name="Xu23TRO"></a>Xu, W., Peng, X., Kneip, L.,  
 *[Tight Fusion of Events and Inertial Measurements for Direct Velocity Estimation](https://ieeexplore.ieee.org/abstract/document/10319103/)*,  
 IEEE Trans. Robot. (TRO), 2023. [PDF](https://arxiv.org/pdf/2401.09296v1.pdf)
-
 
 
 #### Stereo
