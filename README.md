@@ -2701,7 +2701,12 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023.
 [PDF](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chaney_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset_CVPRW_2023_paper.pdf),
 [Dataset](https://m3ed.io/sequences/),
 [Code](https://github.com/daniilidis-group/m3ed),
-
+- <a name="Mollica24tits"></a>Mollica, G., Felicioni, S., Legittimo, M., Meli, L., Costante, G. and Valigi, P.,  
+*[MA-VIED: A Multisensor Automotive Visual Inertial Event Dataset](http://doi.org/10.1109/TITS.2023.3312355)*,  
+IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024.
+[Dataset](http://sira.diei.unipg.it/supplementary/public/Datasets/MA-VIED),
+[GitHub Page](https://github.com/isarlab-department-engineering/MA-VIED),
+[Project Page](https://isar.unipg.it/datasets/)
 
 ### Segmentation
 - [Mitrokhin et al., IROS 2018](#Mitrokhin18iros), Extreme Event Dataset (EED). [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
