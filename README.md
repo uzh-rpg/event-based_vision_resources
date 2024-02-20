@@ -1583,6 +1583,8 @@ IEEE Int. Conf. 3D Vision (3DV), 2024. [PDF](https://arxiv.org/pdf/2401.09331.pd
 - <a name="Klenk23threedv"></a>Klenk, S., Motzet, M., Koestler, L., Cremers, D.,  
 *[Deep Event Visual Odometry](https://arxiv.org/pdf/2312.09800)*,  
 IEEE Int. Conf. 3D Vision (3DV), 2024. [Code](https://github.com/tum-vision/DEVO), [YouTube](https://youtu.be/rP_OuOE-O34)
+- [Mollica et al., T-ITS 2024](#Mollica24tits),  
+*MA-VIED: A Multisensor Automotive Visual Inertial Event Dataset.*
 
 #### Stereo
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
@@ -1630,7 +1632,8 @@ CVPR 2023 Workshop on Event-based Vision. [PDF](https://tub-rip.github.io/eventv
 - <a name="Xu23TRO"></a>Xu, W., Peng, X., Kneip, L.,  
 *[Tight Fusion of Events and Inertial Measurements for Direct Velocity Estimation](https://ieeexplore.ieee.org/abstract/document/10319103/)*,  
 IEEE Trans. Robot. (TRO), 2023. [PDF](https://arxiv.org/pdf/2401.09296v1.pdf)
-
+- [Mollica et al., T-ITS 2024](#Mollica24tits),  
+*MA-VIED: A Multisensor Automotive Visual Inertial Event Dataset.*
 
 #### Stereo
 - <a name="Chen22arxiv"></a>Chen, P., Guan, W., Lu, P.,  
@@ -2703,7 +2706,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023.
 [Code](https://github.com/daniilidis-group/m3ed),
 - <a name="Mollica24tits"></a>Mollica, G., Felicioni, S., Legittimo, M., Meli, L., Costante, G. and Valigi, P.,  
 *[MA-VIED: A Multisensor Automotive Visual Inertial Event Dataset](http://doi.org/10.1109/TITS.2023.3312355)*,  
-IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024.
+IEEE Trans. Intell. Transp. Syst. (T-ITS), vol. 25, no. 1, pp. 214-224, Jan. 2024.
 [Dataset](http://sira.diei.unipg.it/supplementary/public/Datasets/MA-VIED),
 [GitHub Page](https://github.com/isarlab-department-engineering/MA-VIED),
 [Project Page](https://isar.unipg.it/datasets/)
