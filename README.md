@@ -2487,7 +2487,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 
 
 ## Datasets (sorted by topic)
-- [Datasets from the Sensors group at INI](http://sensors.ini.uzh.ch/databases.html) (Institute of Neuroinformatics), Zurich:
+- [Datasets from the Sensors group at INI](http://sensors.ini.ch/datasets) (Institute of Neuroinformatics), Zurich:
     - DVS09 - 	DVS128 Dynamic Vision Sensor Silicon Retina
     - DVSFLOW16 - 	DVS/DAVIS Optical Flow Dataset
     - DVSACT16 -	DVS Datasets for Object Tracking, Action Recognition and Object Recognition
