@@ -128,22 +128,28 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2020.
     - Son, B., et al., *[A 640×480 dynamic vision sensor with a 9µm pixel and 300Meps address-event representation](https://doi.org/10.1109/ISSCC.2017.7870263)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), 2017, pp. 66-67.
     - [SmartThings Vision](https://www.samsung.com/se/smartthings/smartthings-vision-u999/) commercial product for home monitoring. [in Australia](https://www.samsung.com/au/smart-home/smartthings-vision-u999/)
     - [Paper at IEDM 2019](#Park19iedm), about low-latency applications using Samsung's VGA DVS.
-- **DAVIS (Dynamic and Active Pixel Vision Sensor)** :
-Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333-2341, 2014. [PDF](https://drive.google.com/file/d/0BzvXOhBHjRhea3RrelA1V0RKVWM/view)
+- **HVS** (Hybrid Vision Sensors) like **ATIS**, **DAVIS**, **CDAVIS**, and others that have brightness change events and intensity samples
+  - **ATIS** (Asynchronous Time-based Image Sensor): Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011. [PDF](https://www.neuromorphic-vision.com/public/publications/2/publication.pdf), [YouTube](https://youtu.be/YQ8rT9Harb4), [YouTube](https://youtu.be/3Wiw8LA8hLs)
+  - **DAVIS (Dynamic and Active Pixel Vision Sensor)**: Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333-2341, 2014. [PDF](https://drive.google.com/file/d/0BzvXOhBHjRhea3RrelA1V0RKVWM/view)
     - [Product page at iniVation](https://inivation.com/dvs/).  [**Buy a DAVIS**](https://inivation.com/buy/)
     - [Product specifications](https://inivation.com/support/product-specifications/)
     - [User guide](https://inivation.github.io/inivation-docs/Hardware%20user%20guides/User_guide_-_DAVIS240.html)
-    - **CDAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[An RGBW color VGA rolling and global shutter dynamic and active-pixel vision sensor](https://www.imagesensors.org/Past%20Workshops/2015%20Workshop/2015%20Papers/Sessions/Session_13/13-05_Li_Delbruck.pdf)*, 2015 Intl. Image Sensors Worskhop.
-    - **SDAVIS192**: Moeys, D. P., Corradi, F., Li, C., Bamford, S. A., Longinotti, L., Voigt, F. F., Berry, S., Taverni, G., Helmchen, F., Delbruck, T., *[A Sensitive Dynamic and Active Pixel Vision Sensor for Color or Neural Imaging Applications](https://doi.org/10.1109/TBCAS.2017.2759783)*, IEEE Trans. Biomed. Circuits Syst. 12(1):123-136 2018.
     - **DAVIS346**: Taverni, G; Paul Moeys, D; Li, C; Cavaco, C; Motsnyi, V; San Segundo Bello, D; Delbruck, T.,  
 [Front and Back Illuminated Dynamic and Active Pixel Vision Sensors Comparison](http://dx.doi.org/10.1109/TCSII.2018.2824899),  
 IEEE Trans. Circuits Syst. Express Briefs, 2018
+  - **CDAVIS HVS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[An RGBW color VGA rolling and global shutter dynamic and active-pixel vision sensor](https://www.imagesensors.org/Past%20Workshops/2015%20Workshop/2015%20Papers/Sessions/Session_13/13-05_Li_Delbruck.pdf)*, 2015 Intl. Image Sensors Worskhop.
+    - Prototype only 
+  - **SDAVIS192**: Moeys, D. P., Corradi, F., Li, C., Bamford, S. A., Longinotti, L., Voigt, F. F., Berry, S., Taverni, G., Helmchen, F., Delbruck, T., *[A Sensitive Dynamic and Active Pixel Vision Sensor for Color or Neural Imaging Applications](https://doi.org/10.1109/TBCAS.2017.2759783)*, IEEE Trans. Biomed. Circuits Syst. 12(1):123-136 2018.
+    - Prototype only
+  - **Onmivision HVS**: Guo et al, [A 3-Wafer-Stacked Hybrid 15MPixel CIS + 1 MPixel EVS with 4.6GEvent/s Readout, In-Pixel TDC and On-Chip ISP and ESP Function](http://dx.doi.org/10.1109/isscc42615.2023.10067476), ISSCC, (2023).
+    - Prototype only 
+  - **Sony HVS**: Kodama et al., [1.22μm 35.6Mpixel RGB Hybrid Event-Based Vision Sensor with 4.88μm-Pitch Event Pixels and up to 10K Event Frame Rate by Adaptive Control on Event Sparsity](http://dx.doi.org/10.1109/ISSCC42615.2023.10067520), ISSCC (2023)
+    - Prototype only
 - [**Insightness's Silicon Eye**](https://youtu.be/Y0mIb_MehK8) QVGA event sensor.
     - [The Silicon Eye Technology](http://www.insightness.com/?p=361)
     - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Insightness.pdf) and [Video](https://youtu.be/9IJwF9xYEoU) by [Stefan Isler](http://www.insightness.com/#team) (2019).
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Insightness.pdf) and [Video](https://youtu.be/6YyOW6DDGKw) by [Christian Brandli](http://www.insightness.com/#team), CEO and co-founder of Insightness (2017).
 - [**PROPHESEE’s Metavision Sensor**](https://www.prophesee.ai/event-based-sensor-packaged/) and [**Software**](https://www.prophesee.ai/metavision-intelligence/)
-    - ATIS (Asynchronous Time-based Image Sensor): Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011. [PDF](https://www.neuromorphic-vision.com/public/publications/2/publication.pdf), [YouTube](https://youtu.be/YQ8rT9Harb4), [YouTube](https://youtu.be/3Wiw8LA8hLs)
     - Prophesee Gen4 is described in: Finateu et al., *[A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86μm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline](https://doi.org/10.1109/ISSCC19947.2020.9063149)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), 2020, pp. 112-114.
     - [**Buy a Prophesee packaged sensor VGA**](https://www.prophesee.ai/event-based-sensor-packaged)
     - [Prophesee Cameras Specifications](https://www.prophesee.ai/event-based-evaluation-kits/)
