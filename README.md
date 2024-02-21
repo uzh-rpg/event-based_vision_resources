@@ -2498,6 +2498,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
     - DDD20 - End-to-End Event Camera Driving Dataset
     - DND21 - DeNoising Dynamic vision sensors dataset
     - EDFLOW21 - Event Driven Flow dataset
+    - MVSEC-NIGHT21 - MVSEC Nighttime Driving Labeled Cars
+    - DVSD22 - Dynamic Vision Sensor Disdrometer
+    - DAVIS24 - DAVIS Event Camera Sample Data
 
 ### Stereo Depth Estimation
 - [Andreopoulos et al., CVPR 2018](#Andreopoulos18cvpr), *A Low Power, High Throughput, Fully Event-Based Stereo System*.
