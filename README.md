@@ -133,7 +133,7 @@ Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 
     - [Product page at iniVation](https://inivation.com/dvs/).  [**Buy a DAVIS**](https://inivation.com/buy/)
     - [Product specifications](https://inivation.com/support/product-specifications/)
     - [User guide](https://inivation.github.io/inivation-docs/Hardware%20user%20guides/User_guide_-_DAVIS240.html)
-    - **Color-DAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[Design of an RGBW Color VGA Rolling and Global Shutter Dynamic and Active-Pixel Vision Sensor](https://doi.org/10.1109/ISCAS.2015.7168734)*, IEEE Int. Symp. Circuits and Systems (ISCAS), 2015, pp. 718-721.
+    - **CDAVIS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[An RGBW color VGA rolling and global shutter dynamic and active-pixel vision sensor](https://www.imagesensors.org/Past%20Workshops/2015%20Workshop/2015%20Papers/Sessions/Session_13/13-05_Li_Delbruck.pdf)*, 2015 Intl. Image Sensors Worskhop.
     - **SDAVIS192**: Moeys, D. P., Corradi, F., Li, C., Bamford, S. A., Longinotti, L., Voigt, F. F., Berry, S., Taverni, G., Helmchen, F., Delbruck, T., *[A Sensitive Dynamic and Active Pixel Vision Sensor for Color or Neural Imaging Applications](https://doi.org/10.1109/TBCAS.2017.2759783)*, IEEE Trans. Biomed. Circuits Syst. 12(1):123-136 2018.
     - **DAVIS346**: Taverni, G; Paul Moeys, D; Li, C; Cavaco, C; Motsnyi, V; San Segundo Bello, D; Delbruck, T.,  
 [Front and Back Illuminated Dynamic and Active Pixel Vision Sensors Comparison](http://dx.doi.org/10.1109/TCSII.2018.2824899),  
@@ -162,10 +162,10 @@ IEEE Trans. Circuits Syst. Express Briefs, 2018
     - Prototype, commercially n.a.
 - **Smart DVS (GAEP)**: Posch, C., Hoffstaetter, M., Schoen, P., *[A SPARC-compatible general purpose Address-Event processor with 20-bit 10ns-resolution asynchronous sensor data interface in 0.18um CMOS](https://doi.org/10.1109/ISCAS.2010.5537575)*, IEEE Int. Symp. Circuits and Systems (ISCAS), 2010.
     - Prototype, commercially n.a.
-- **PDAVIS**: Haessig, G. et al.,
-[Bio-inspired Polarization Event Camera](http://arxiv.org/abs/2112.01933),  
-arXiv [cs.CV] (2021) [PDAVIS video](https://drive.google.com/file/d/157mT8960m_QCm15i8HlB5SVyf45X_NUo/view?usp=sharing)
+- **PDAVIS (Polarization Event Camera)**:
   - Prototype, commercially n.a.
+  - [Bio-inspired Polarization Event Camera](http://arxiv.org/abs/2112.01933), arXiv [cs.CV] (2021) [PDAVIS video](https://drive.google.com/file/d/157mT8960m_QCm15i8HlB5SVyf45X_NUo/view?usp=sharing).
+  - [PDAVIS: Bio-inspired Polarization Event Camera](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/html/Haessig_PDAVIS_Bio-Inspired_Polarization_Event_Camera_CVPRW_2023_paper.html). CVPR-W Proceedings (2023)
 - **Center Surround Event Camera (CSDVS)**: Delbruck, T., Li, C., Graca, R. & Mcreynolds, B.,  
 *[Utility and Feasibility of a Center Surround Event Camera](http://arxiv.org/abs/2202.13076)*  
 arXiv [cs.CV] (2022) [CSDVS videos](https://sites.google.com/view/csdvs/home)
@@ -2598,7 +2598,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 
 
 ## Datasets (sorted by topic)
-- [Datasets from the Sensors group at INI](http://sensors.ini.uzh.ch/databases.html) (Institute of Neuroinformatics), Zurich:
+- [Datasets from the Sensors group at INI](http://sensors.ini.ch/datasets) (Institute of Neuroinformatics), Zurich:
     - DVS09 - 	DVS128 Dynamic Vision Sensor Silicon Retina
     - DVSFLOW16 - 	DVS/DAVIS Optical Flow Dataset
     - DVSACT16 -	DVS Datasets for Object Tracking, Action Recognition and Object Recognition
@@ -2609,6 +2609,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
     - DDD20 - End-to-End Event Camera Driving Dataset
     - DND21 - DeNoising Dynamic vision sensors dataset
     - EDFLOW21 - Event Driven Flow dataset
+    - MVSEC-NIGHT21 - MVSEC Nighttime Driving Labeled Cars
+    - DVSD22 - Dynamic Vision Sensor Disdrometer
+    - DAVIS24 - DAVIS Event Camera Sample Data
 
 ### Human Pose Estimation
 - [Calabrese et al., CVPRW 2019](#Calabrese19cvprw),  
@@ -3131,9 +3134,8 @@ MSc. Thesis, Université Laval, Canada, 2022.
 <a name="people"></a>
 # People / Organizations
 - [Institute of NeuroInformatics](https://www.ini.uzh.ch/) (INI) of the University of Zurich (UZH) and ETH Zurich, Switzerland.
-    - [INI Sensors Group Videos](https://www.youtube.com/playlist?list=PLVtZ8f-q0U5iROmshCSqzzBNlqpUGbSkS)
+    - [INI Sensors Group](https://sensors.ini.ch)
 - [iniVation AG](https://www.inivation.com/) (commercialization of neuromorphic vision technology from INI), Switzerland.
-- [Dynamic Vision Sensor (DVS) - asynchronous temporal contrast silicon retina](http://siliconretina.ini.uzh.ch/wiki/index.php)
 - [Western Sydney University’s International Centre for Neuromorphic Systems (ICNS)](https://www.westernsydney.edu.au/icns), Australia.
 - [GRASP Lab](https://www.grasp.upenn.edu/) at University of Pennsylvania, [Kostas Daniilidis](http://www.cis.upenn.edu/~kostas/).
 - [Robotics and Perception Group](http://rpg.ifi.uzh.ch/research_dvs.html) of the University of Zurich (UZH) and ETH Zurich, Switzerland.
