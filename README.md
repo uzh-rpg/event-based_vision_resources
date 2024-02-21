@@ -2989,7 +2989,7 @@ MSc. Thesis, Université Laval, Canada, 2022.
 <a name="people"></a>
 # People / Organizations
 - [Institute of NeuroInformatics](https://www.ini.uzh.ch/) (INI) of the University of Zurich (UZH) and ETH Zurich, Switzerland.
-    - [INI Sensors Group Videos](https://www.youtube.com/playlist?list=PLVtZ8f-q0U5iROmshCSqzzBNlqpUGbSkS)
+    - [INI Sensors Group](https://sensors.ini.ch)
 - [iniVation AG](https://www.inivation.com/) (commercialization of neuromorphic vision technology from INI), Switzerland.
 - [Dynamic Vision Sensor (DVS) - asynchronous temporal contrast silicon retina](http://siliconretina.ini.uzh.ch/wiki/index.php)
 - [Western Sydney University’s International Centre for Neuromorphic Systems (ICNS)](https://www.westernsydney.edu.au/icns), Australia.
