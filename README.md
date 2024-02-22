@@ -140,7 +140,7 @@ IEEE Trans. Circuits Syst. Express Briefs, 2018
     - Prototype only 
   - **SDAVIS192**: Moeys, D. P., Corradi, F., Li, C., Bamford, S. A., Longinotti, L., Voigt, F. F., Berry, S., Taverni, G., Helmchen, F., Delbruck, T., *[A Sensitive Dynamic and Active Pixel Vision Sensor for Color or Neural Imaging Applications](https://doi.org/10.1109/TBCAS.2017.2759783)*, IEEE Trans. Biomed. Circuits Syst. 12(1):123-136 2018.
     - Prototype only
-  - **Onmivision HVS**: Guo et al, [A 3-Wafer-Stacked Hybrid 15MPixel CIS + 1 MPixel EVS with 4.6GEvent/s Readout, In-Pixel TDC and On-Chip ISP and ESP Function](http://dx.doi.org/10.1109/isscc42615.2023.10067476), ISSCC, (2023).
+  - **Omnivision HVS**: Guo et al, [A 3-Wafer-Stacked Hybrid 15MPixel CIS + 1 MPixel EVS with 4.6GEvent/s Readout, In-Pixel TDC and On-Chip ISP and ESP Function](http://dx.doi.org/10.1109/isscc42615.2023.10067476), ISSCC, (2023).
     - Prototype, commercially n.a. 
   - **Sony HVS**: Kodama et al., [1.22μm 35.6Mpixel RGB Hybrid Event-Based Vision Sensor with 4.88μm-Pitch Event Pixels and up to 10K Event Frame Rate by Adaptive Control on Event Sparsity](http://dx.doi.org/10.1109/ISSCC42615.2023.10067520), ISSCC (2023)
     - Prototype only, commercially n.a. 
