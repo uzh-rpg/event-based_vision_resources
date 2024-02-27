@@ -2598,8 +2598,6 @@ IEEE Access, vol. 11, pp. 96363-96373, 2023, doi: 10.1109/ACCESS.2023.3312190.
 - <a name="Shariff23IEEEAcess"></a>Shariff W, Dilmaghani MS, Kielty P, Lemley J, Farooq MA, Khan F, Corcoran P.,  
 *[Neuromorphic Driver Monitoring Systems: A Computationally Efficient Proof-of-Concept for Driver Distraction Detection](https://ieeexplore.ieee.org/abstract/document/10287603)*,  
  in IEEE Open Journal of Vehicular Technology, vol. 4, pp. 836-848, 2023, doi: 10.1109/OJVT.2023.3325656.
-- <a name="Bao23oe"></a>Bao, Y., Sun, L., Ma, Y., Gu, D. & Wang, K.,  
-*[Improving Fast Auto-Focus with Event Polarity](https://doi.org/10.1364/OE.489717)*,  
 
 <br><br>
 <a name="datasets"></a>
