@@ -67,6 +67,11 @@
       - [Wavefront sensing](#wavefront_sensing)
       - [Optical super-resolution](#super_resolution_imaging)
       - [Schlieren imaging](#schlieren_imaging)
+    - [Driver Monitoring System](#driver_monitoring_system)
+      - [Face, Hed Pose & Eye Gaze estimation](#DMS)
+      - [Drowsiness or Yawn](#Drwosiness_or_yawn)
+      - [Distraction](#distraction_detecton)
+
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
     - [Drivers](#drivers)
@@ -2565,6 +2570,25 @@ Nat. Nanotechnol., 2023.
 *[Event-based Background-Oriented Schlieren](https://doi.org/10.1109/TPAMI.2023.3328188)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Project page](https://github.com/tub-rip/event_based_bos), [Video](https://youtu.be/Ev52n8KgxIU), [PDF](https://arxiv.org/pdf/2311.00434)
 
+
+
+<a name="driver_monitoring_system"></a>
+## Driver Monitoring System
+<a name="DMS"></a>
+### Face, Head-Pose and Eye-gaze Estomation
+- <a name="Ryan23IEEEAccess"></a>Ryan, Cian and Elrasad, Amr and Shariff, Waseem and Lemley, Joe and Kielty, Paul and Hurney, Patrick and Corcoran, Peter.,  
+*[Real-Time Multi-Task Facial Analytics With Event Cameras]([https://openaccess.thecvf.com/content/CVPR2022/html/Lin_Autofocus_for_Event_Cameras_CVPR_2022_paper.html](https://ieeexplore.ieee.org/abstract/document/10188686))*,  
+ IEEE Access, vol. 11, pp. 76964-76976, 2023, doi: 10.1109/ACCESS.2023.3297500.
+- <a name="Keilty23IEEEAccess"></a>P. Kielty, M. S. Dilmaghani, W. Shariff, C. Ryan, J. Lemley and P. Corcoran,  
+*[Neuromorphic Driver Monitoring Systems: A Proof-of-Concept for Yawn Detection and Seatbelt State Detection Using an Event Camera]([https://doi.org/10.1016/j.optlaseng.2022.107247](https://ieeexplore.ieee.org/abstract/document/10239362))*,  
+IEEE Access, vol. 11, pp. 96363-96373, 2023, doi: 10.1109/ACCESS.2023.3312190.
+- [Bao et al., Arxiv 2023](#Bao23arxiv),  
+*Improving Fast Auto-Focus with Event Polarity*.
+- <a name="Shariff23IEEEAcess"></a>Shariff W, Dilmaghani MS, Kielty P, Lemley J, Farooq MA, Khan F, Corcoran P.,  
+*[Neuromorphic Driver Monitoring Systems: A Computationally Efficient Proof-of-Concept for Driver Distraction Detection](https://ieeexplore.ieee.org/abstract/document/10287603)*,  
+ in IEEE Open Journal of Vehicular Technology, vol. 4, pp. 836-848, 2023, doi: 10.1109/OJVT.2023.3325656.
+- <a name="Bao23oe"></a>Bao, Y., Sun, L., Ma, Y., Gu, D. & Wang, K.,  
+*[Improving Fast Auto-Focus with Event Polarity](https://doi.org/10.1364/OE.489717)*,  
 
 <br><br>
 <a name="datasets"></a>
