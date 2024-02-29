@@ -68,7 +68,7 @@
       - [Optical super-resolution](#super_resolution_imaging)
       - [Schlieren imaging](#schlieren_imaging)
     - [Driver Monitoring System](#driver_monitoring_system)
-      - [Face, Head Pose & Eye Gaze estimation](#DMS)
+      - [Multi-tasking networks: Face, Head Pose & Eye Gaze estimation](#DMS)
       - [Drowsiness or Yawn](#Drwosiness_or_yawn)
       - [Distraction](#distraction_detecton)
 
@@ -2575,29 +2575,30 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Project page](https://
 <a name="driver_monitoring_system"></a>
 ## Driver Monitoring System
 <a name="DMS"></a>
-### Face, Head-Pose and Eye-gaze Estimation
-- <a name="Ryan23IEEEAccess"></a>Ryan, Cian and Elrasad, Amr and Shariff, Waseem and Lemley, Joe and Kielty, Paul and Hurney, Patrick and Corcoran, Peter.,  
-*[Real-Time Multi-Task Facial Analytics With Event Cameras](https://openaccess.thecvf.com/content/CVPR2022/html/Lin_Autofocus_for_Event_Cameras_CVPR_2022_paper.html](https://ieeexplore.ieee.org/abstract/document/10188686))*,  
- IEEE Access, vol. 11, pp. 76964-76976, 2023, doi: 10.1109/ACCESS.2023.3297500.
+### Multi-tasking networks: Face, Head-Pose and Eye-gaze Estimation
+
+- <a name="Ryan23access"></a>Ryan, C., Elrasad, A., Shariff, W., Lemley, J., Kielty, P., Hurney, P. and Corcoran, P.,  
+*[Real-Time Multi-Task Facial Analytics With Event Cameras](https://doi.org/10.1109/ACCESS.2023.3297500)*,  
+ IEEE Access, vol. 11, pp. 76964-76976, 2023.
 
 <a name="Drwosiness_or_yawn"></a>
 ### Driver Drowsiness or Yawn
-- <a name="chen20IEEEsensors"></a>G. Chen, L. Hong, J. Dong, P. Liu, J. Conradt and A. Knoll, 
-*[EDDD: Event-Based Drowsiness Driving Detection Through Facial Motion Analysis With Neuromorphic Vision Sensor](https://ieeexplore.ieee.org/document/8990081)*,  
-in IEEE Sensors Journal, vol. 20, no. 11, pp. 6170-6181, 1 June1, 2020, doi: 10.1109/JSEN.2020.2973049.
-- <a name="Keilty23IEEEAccess"></a>P. Kielty, M. S. Dilmaghani, W. Shariff, C. Ryan, J. Lemley and P. Corcoran,  
-*[Neuromorphic Driver Monitoring Systems: A Proof-of-Concept for Yawn Detection and Seatbelt State Detection Using an Event Camera](https://doi.org/10.1016/j.optlaseng.2022.107247](https://ieeexplore.ieee.org/abstract/document/10239362))*,  
-IEEE Access, vol. 11, pp. 96363-96373, 2023, doi: 10.1109/ACCESS.2023.3312190.
+- <a name="chen20jsen"></a>Chen, G., Hong, L., Dong, J., Liu, P., Conradt, J. and Knoll, A.,
+*[EDDD: Event-Based Drowsiness Driving Detection Through Facial Motion Analysis With Neuromorphic Vision Sensor](https://doi.org/10.1109/JSEN.2020.2973049)*,  
+in IEEE Sensors Journal, vol. 20, no. 11, pp. 6170-6181, 1 June1, 2020.
+- <a name="Keilty23access"></a>Kielty, P., Dilmaghani, M.S., Shariff, W., Ryan, C., Lemley, J. and Corcoran, P.,  
+*[Neuromorphic Driver Monitoring Systems: A Proof-of-Concept for Yawn Detection and Seatbelt State Detection Using an Event Camera](https://doi.org/10.1109/ACCESS.2023.3312190)*,  
+IEEE Access, vol. 11, pp. 96363-96373, 2023.
 
 <a name="distraction_detecton"></a>
 ### Driver Distraction
 
-- <a name="Yang22MFI"></a>C. Yang, P. Liu, G. Chen, Z. Liu, Y. Wu and A. Knoll, 
-*[Event-based Driver Distraction Detection and Action Recognition](https://ieeexplore.ieee.org/document/9913871)*,  
- 2022 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI), Bedford, United Kingdom, 2022, pp. 1-7, doi: 10.1109/MFI55806.2022.9913871.
-- <a name="Shariff23IEEEAcess"></a>Shariff W, Dilmaghani MS, Kielty P, Lemley J, Farooq MA, Khan F, Corcoran P.,  
-*[Neuromorphic Driver Monitoring Systems: A Computationally Efficient Proof-of-Concept for Driver Distraction Detection](https://ieeexplore.ieee.org/abstract/document/10287603)*,  
- in IEEE Open Journal of Vehicular Technology, vol. 4, pp. 836-848, 2023, doi: 10.1109/OJVT.2023.3325656.
+- <a name="Yang22mfi"></a>Yang, C., Liu, P., Chen, G., Liu, Z., Wu, Y. and Knoll, A.,
+*[Event-based Driver Distraction Detection and Action Recognition](https://doi.org/10.1109/MFI55806.2022.9913871)*,  
+IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI), Bedford, United Kingdom, pp. 1-7, 2022.
+- <a name="Shariff23ojvt"></a>Shariff, W., Dilmaghani, M.S., Kielty, P., Lemley, J., Farooq, M.A., Khan, F. and Corcoran, P.,
+*[Neuromorphic Driver Monitoring Systems: A Computationally Efficient Proof-of-Concept for Driver Distraction Detection](https://doi.org/10.1109/OJVT.2023.3325656)*,  
+  IEEE Open Journal of Vehicular Technology, vol. 4, pp. 836-848, 2023.
 
 <br><br>
 <a name="datasets"></a>
