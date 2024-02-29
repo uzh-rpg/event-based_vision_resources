@@ -34,7 +34,7 @@
         - [Stereoscopic panoramic imaging](#depth-stereo-pano)
     - [SLAM (Simultaneous Localization And Mapping)](#slam)
         - [Localization, Ego-motion estimation](#slam-localization)
-        - [Visual Odometry](#visual-odometry)
+        - [Visual Odometry](#visual-odometry) 
         - [Visual-Inertial Odometry](#visual-inertial)
     - [Segmentation](#segmentation)
         - [Object Segmentation](#object-segmentation)
