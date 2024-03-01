@@ -2835,6 +2835,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 <a name="synchronization"></a>
 ## Synchronization
 - [Sync Toolbox](https://github.com/sjtuyuxuan/sync_toolbox). This open-source toolbox provides a QT-based GUI to allow easy access for hardware-level multi-sensor synchronization (Prophesee Gen 3.1 included and tested). After proper configuration of the software, users can seamlessly record new ROS bags.
+- <a name="Li23icira"></a>Li, W.X., Dong, Y., Qiu, S.Q., Han, B.,  
+*[Hardware-Free Event Cameras Temporal Synchronization Based on Event Density Alignment](https://link.springer.com/chapter/10.1007/978-981-99-6498-7_6)*,  
+Int. Conf. Intell. Robotics and Applications (ICIRA), 2023. 
 
 <a name="calibration"></a>
 ## Lens Calibration
