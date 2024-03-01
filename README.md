@@ -26,7 +26,7 @@
         - [Image super-resolution](#super-resolution)
         - [Joint/guided filtering](#joint-filtering)
         - [Tone mapping](#tone-mapping)
-        - [Visual Stabilization](#visual-stabilization)
+        - [Visual Stabilization](#visual-stabilization) 
         - [Polarization Reconstruction](@polarization-reconstruction)
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
         - [Monocular](#depth-mono)
@@ -34,7 +34,7 @@
         - [Stereoscopic panoramic imaging](#depth-stereo-pano)
     - [SLAM (Simultaneous Localization And Mapping)](#slam)
         - [Localization, Ego-motion estimation](#slam-localization)
-        - [Visual Odometry](#visual-odometry)
+        - [Visual Odometry](#visual-odometry) 
         - [Visual-Inertial Odometry](#visual-inertial)
     - [Segmentation](#segmentation)
         - [Object Segmentation](#object-segmentation)
@@ -67,6 +67,11 @@
       - [Wavefront sensing](#wavefront_sensing)
       - [Optical super-resolution](#super_resolution_imaging)
       - [Schlieren imaging](#schlieren_imaging)
+    - [Driver Monitoring System](#driver_monitoring_system)
+      - [Multi-tasking networks: Face, Head Pose & Eye Gaze estimation](#DMS)
+      - [Drowsiness or Yawn](#Drwosiness_or_yawn)
+      - [Distraction](#distraction_detecton)
+
 - [Datasets and Simulators](#datasets)
 - [Software](#software)
     - [Drivers](#drivers)
@@ -2558,13 +2563,37 @@ bioArxiv, 2022.
 *[Achieving nanoscale precision using neuromorphic localization microscopy](https://doi.org/10.1101/2022.07.22.501162)*,  
 Nat. Nanotechnol., 2023.
 
-
 <a name="schlieren_imaging"></a>
 ### Schlieren imaging
 - <a name="Shiba23tpami"></a>Shiba, S., Hamann, F., Aoki, Y., Gallego, G.,  
 *[Event-based Background-Oriented Schlieren](https://doi.org/10.1109/TPAMI.2023.3328188)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Project page](https://github.com/tub-rip/event_based_bos), [Video](https://youtu.be/Ev52n8KgxIU), [PDF](https://arxiv.org/pdf/2311.00434)
 
+<a name="driver_monitoring_system"></a>
+## Driver Monitoring System
+<a name="DMS"></a>
+### Multi-tasking networks: Face, Head-Pose and Eye-gaze Estimation
+- <a name="Ryan23access"></a>Ryan, C., Elrasad, A., Shariff, W., Lemley, J., Kielty, P., Hurney, P. and Corcoran, P.,  
+*[Real-Time Multi-Task Facial Analytics With Event Cameras](https://doi.org/10.1109/ACCESS.2023.3297500)*,  
+IEEE Access, vol. 11, pp. 76964-76976, 2023.
+
+<a name="Drwosiness_or_yawn"></a>
+### Driver Drowsiness or Yawn
+- <a name="Chen20jsen"></a>Chen, G., Hong, L., Dong, J., Liu, P., Conradt, J. and Knoll, A.,  
+  *[EDDD: Event-Based Drowsiness Driving Detection Through Facial Motion Analysis With Neuromorphic Vision Sensor](https://doi.org/10.1109/JSEN.2020.2973049)*,  
+IEEE Sensors Journal, vol. 20, no. 11, pp. 6170-6181, 1 June1, 2020.
+- <a name="Keilty23access"></a>Kielty, P., Dilmaghani, M.S., Shariff, W., Ryan, C., Lemley, J. and Corcoran, P.,  
+ *[Neuromorphic Driver Monitoring Systems: A Proof-of-Concept for Yawn Detection and Seatbelt State Detection Using an Event Camera](https://doi.org/10.1109/ACCESS.2023.3312190)*,  
+IEEE Access, vol. 11, pp. 96363-96373, 2023.
+
+<a name="distraction_detecton"></a>
+### Driver Distraction
+- <a name="Yang22mfi"></a>Yang, C., Liu, P., Chen, G., Liu, Z., Wu, Y. and Knoll, A.,  
+  *[Event-based Driver Distraction Detection and Action Recognition](https://doi.org/10.1109/MFI55806.2022.9913871)*,  
+IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI), Bedford, United Kingdom, pp. 1-7, 2022.
+- <a name="Shariff23ojvt"></a>Shariff, W., Dilmaghani, M.S., Kielty, P., Lemley, J., Farooq, M.A., Khan, F. and Corcoran, P.,  
+  *[Neuromorphic Driver Monitoring Systems: A Computationally Efficient Proof-of-Concept for Driver Distraction Detection](https://doi.org/10.1109/OJVT.2023.3325656)*,  
+  IEEE Open Journal of Vehicular Technology, vol. 4, pp. 836-848, 2023.
 
 <br><br>
 <a name="datasets"></a>
