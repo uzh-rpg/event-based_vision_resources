@@ -1680,6 +1680,9 @@ European Conf. Computer Vision (ECCV), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/E
 - <a name="Biswas23wacv"></a>Biswas, S.D., Kosta, A.,  Liyanagedera, C., Apolinario, M., Roy, K.,  
 *[HALSIE: Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities](https://arxiv.org/abs/2211.10754)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2024.  
+- <a name="Chen24cvpr"></a>Chen, Z., Zhu, Z., Hou, J., Shi, G., Wu, J.,  
+*[Segment Any Event Stream via Weighted Adaptation of Pivotal Tokens](https://arxiv.org/abs/2312.16222)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Code](https://github.com/happychenpipi/EventSAM).
 
 <a name="motion-segmentation"></a>
 ### Motion Segmentation
