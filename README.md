@@ -26,7 +26,7 @@
         - [Image super-resolution](#super-resolution)
         - [Joint/guided filtering](#joint-filtering)
         - [Tone mapping](#tone-mapping)
-        - [Visual Stabilization](#visual-stabilization) 
+        - [Visual Stabilization](#visual-stabilization)
         - [Polarization Reconstruction](@polarization-reconstruction)
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
         - [Monocular](#depth-mono)
@@ -34,7 +34,7 @@
         - [Stereoscopic panoramic imaging](#depth-stereo-pano)
     - [SLAM (Simultaneous Localization And Mapping)](#slam)
         - [Localization, Ego-motion estimation](#slam-localization)
-        - [Visual Odometry](#visual-odometry) 
+        - [Visual Odometry](#visual-odometry)
         - [Visual-Inertial Odometry](#visual-inertial)
     - [Segmentation](#segmentation)
         - [Object Segmentation](#object-segmentation)
@@ -72,7 +72,8 @@
       - [Drowsiness or Yawn](#Drwosiness_or_yawn)
       - [Distraction](#distraction_detecton)
 
-- [Datasets and Simulators](#datasets)
+- [Simulators and Emulators](#simulators-emulators)
+- [Datasets](#datasets)
 - [Software](#software)
     - [Drivers](#drivers)
     - [Synchronization](#synchronization)
@@ -2599,10 +2600,8 @@ IEEE International Conference on Multisensor Fusion and Integration for Intellig
   IEEE Open Journal of Vehicular Technology, vol. 4, pp. 836-848, 2023.
 
 <br><br>
-<a name="datasets"></a>
-# Datasets and Simulators (sorted by topic)
-
-## Emulators and Simulators
+<a name="simulators-emulators"></a>
+# Simulators and Emulators
 - <a name="Katz12iscas"></a>Katz, M. L., Nikolic, K., Delbruck, T. (2012),  
 *[Live demonstration: Behavioural emulation of event-based vision sensors](https://doi.org/10.1109/ISCAS.2012.6272143)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2012. [PDF](https://drive.google.com/open?id=1asyMIQIAtsl3_KqgfPuZagr_gjKZhbYm)
@@ -2638,10 +2637,8 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 [DVS-Voltmeter: Stochastic process-based event simulator for dynamic vision sensors](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/267_ECCV_2022_paper.php)  
   European Conf. Computer Vision (ECCV), 2022, [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571.pdf), [Suppl.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571-supp.pdf), [Code](https://github.com/Lynn0306/DVS-Voltmeter).
 
-
-
-
-## Datasets (sorted by topic)
+<a name="datasets"></a>
+# Datasets (sorted by topic)
 - [Datasets from the Sensors group at INI](http://sensors.ini.ch/datasets) (Institute of Neuroinformatics), Zurich:
     - [DVS09](https://docs.google.com/document/d/16b4H78f4vG_QvYDK2Tq0sNBA-y7UFnRbNnsGbD1jJOg/edit?usp=sharing) - 	DVS128 Dynamic Vision Sensor Silicon Retina
     - [DVSFLOW16](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/edit?usp=sharing) - 	DVS/DAVIS Optical Flow Dataset
@@ -2657,13 +2654,13 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
     - [DVSD22](https://sites.google.com/view/dvs-disdrometer/home) - Dynamic Vision Sensor Disdrometer
     - [DAVIS24](https://sites.google.com/view/davis24-davis-sample-data/home) - DAVIS Event Camera Sample Data
 
-### Human Pose Estimation
+## Human Pose Estimation
 - [Calabrese et al., CVPRW 2019](#Calabrese19cvprw),  
 *DHP19: Dynamic Vision Sensor 3D Human Pose Dataset*.
 - [Zhang et al., Neurocomputing 2023](#Zhang23neurocomp),  
 *Neuromorphic high-frequency 3D dancing pose estimation in dynamic environment*.
 
-### Stereo Depth Estimation
+## Stereo Depth Estimation
 - [Andreopoulos et al., CVPR 2018](#Andreopoulos18cvpr), *A Low Power, High Throughput, Fully Event-Based Stereo System*.
 - [Zhu et al., RAL 2018](#Zhu18mvsec): *MVSEC The Multi Vehicle Stereo Event Camera Dataset*.
 - [Zhou et al., ECCV 2018](#Zhou18eccv): *Semi-Dense 3D Reconstruction with a Stereo Event Camera*.
@@ -2675,10 +2672,10 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 - [Gao et al., RAL 2022](#Gao22ral), *VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM*.
 - [Chaney et al., CVPRW 2023](#Chaney23cvprw), *M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset*
 
-### Monocular Object Reconstruction
+## Monocular Object Reconstruction
 - [Chen et al., ICVR 2023](#Chen23icvr), *Dense Voxel 3D Reconstruction Using a Monocular Event Camera*.
 
-### Optical Flow
+## Optical Flow
 - [DVS/DAVIS Optical Flow Dataset](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) associated to the paper [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
 - [Bardow et al., CVPR2016](#Bardow16cvpr), [Four sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
 - [Zhu et al., RAL2018](#Zhu18mvsec): *MVSEC The Multi Vehicle Stereo Event Camera Dataset*.
@@ -2688,7 +2685,7 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 - [EV-IMO Event based Independently Moving Objects dataset](https://better-flow.github.io/evimo/) associated to the paper [EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](#Mitrokhin19iros) ([motion vector flow](https://github.com/better-flow/evimo/blob/master/tools/evimo_flow.py) added Jan 2022)
 - [Chaney et al., CVPRW 2023](#Chaney23cvprw), *M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset*
 
-### Intensity-Image Reconstruction from Events
+## Intensity-Image Reconstruction from Events
 - [Bardow et al., CVPR2016](#Bardow16cvpr), [Four sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
 - [Scheerlinck et al., ACCV2018](#Scheerlinck18accv), *Continuous-time Intensity Estimation Using Event Cameras*. [Website](https://cedric-scheerlinck.github.io/continuous-time-intensity-estimation)
 - <a name="Scheerlinck19cvprw"></a>Scheerlinck, C., Rebecq, H., Stoffregen, T., Barnes, N., Mahony, R., Scaramuzza, D.,  
@@ -2703,7 +2700,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Sli
 *An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras*. [Project page](https://github.com/ziweiWWANG/Event-Asynchronous-Filter)
 
 
-### Visual Odometry and SLAM
+## Visual Odometry and SLAM
 - [Combined Dynamic Vision / RGB-D Dataset](http://ebvds.neurocomputing.systems/EBSLAM3D/index.html) associated to the paper [Weikersdorfer et al., ICRA 2014](#Weikersdorfer14icra).
 - Barranco, F., Fermüller, C., Aloimonos, Y.,  
 *[A Dataset for Visual Navigation with Neuromorphic Methods](https://dx.doi.org/10.3389%2Ffnins.2016.00049),*  
@@ -2758,13 +2755,13 @@ IEEE Trans. Intell. Transp. Syst. (T-ITS), vol. 25, no. 1, pp. 214-224, Jan. 202
 [GitHub Page](https://github.com/isarlab-department-engineering/MA-VIED),
 [Project Page](https://isar.unipg.it/datasets/)
 
-### Segmentation
+## Segmentation
 - [Mitrokhin et al., IROS 2018](#Mitrokhin18iros), Extreme Event Dataset (EED). [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
 - <a name="Mitrokhin19iros"></a>Mitrokhin, A., Ye, C., Fermüller, C., Aloimonos, Y., Delbrück, T.,  
 *[EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](https://doi.org/10.1109/IROS40897.2019.8968520)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019. [PDF](https://arxiv.org/pdf/1903.07520.pdf), [Dataset](https://better-flow.github.io/evimo), [Project page](http://prg.cs.umd.edu/EV-IMO.html)
 
-### Recognition
+## Recognition
 - <a name="Orchard15fnins"></a>Orchard, G., Jayawant, A., Cohen, G.K., Thakor, N.,  
 *[Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades](https://doi.org/10.3389/fnins.2015.00437),*  
 Front. Neurosci. (2015), 9:437. [YouTube](https://youtu.be/2RBKNhxHvdw)
@@ -2805,15 +2802,16 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - [N-EPIC-Kitchens Dataset of Plizzari et al., CVPR 2022](#Plizzari22cvpr). [Project page](https://github.com/EgocentricVision/N-EPIC-Kitchens)
 - [THU<sup>E-ACT</sup>-50 Dataset](https://github.com/lujiaxuan0520/THU-EACT-50) associated to the paper [Gao et al., TPAMI 2023](#Gao23tpami).
 
-### Event Denoising
+## Event Denoising
 - [DVSNOISE20](https://sites.google.com/a/udayton.edu/issl/software/dataset) associated to the paper [Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](#Baldwin20cvpr).
 - [DND21 DeNoising Dynamic vision sensors dataset](https://sites.google.com/view/dnd21/datasets?authuser=0) associated to the paper [Low Cost and Latency Event Camera Background Activity Denoising](#GuoDelbruck22pami)
 - [Event Flicker Removal Dataset](https://drive.google.com/drive/u/1/folders/1S2LiKrteh4N23SOghA0xU7rC1Q8trNCR) associated to the paper [Wang et al., ICRA 2022](#Wang22icra). [PDF](https://arxiv.org/pdf/2205.08090.pdf), [Project Page](https://github.com/ziweiWWANG/EFR).
-### Space Situational Awareness
+
+## Space Situational Awareness
 - [The Event-Based Space Situational Awareness (EBSSA) Dataset](https://www.westernsydney.edu.au/icns/reproducible_research/publication_support_materials/space_imaging) associated to the paper [Event-based Object Detection and Tracking for Space Situational Awareness](#Afshar19arxiv).
 - [The Event Based Space Imaging Slew Speed Star Dataset](https://github.com/NicRalph213/ICNS_NORALPH_Event_Based-Space_Imaging-Speed_Dataset) associated to the paper [Astrometric Calibration and Source Characterisation of the Latest Generation Neuromorphic Event-based Cameras for Space Imaging](#Ralph22arxiv).
 
-### Outdoor Monitoring / Surveillance
+## Outdoor Monitoring / Surveillance
 - <a name="Bolten21cvprw"></a>Bolten, T., Pohle-Frohlich, R., Tonnies, K. D.,  
 *[DVS-OUTLAB: A Neuromorphic Event-Based Long Time Monitoring Dataset for Real-World Outdoor Scenarios](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Bolten_DVS-OUTLAB_A_Neuromorphic_Event-Based_Long_Time_Monitoring_Dataset_for_Real-World_CVPRW_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](http://dnt.kr.hsnr.de/DVS-OUTLAB/), [YouTube](https://youtu.be/4wV0ejrcDo0)
@@ -2834,6 +2832,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - [Prophesee ROS Wrapper](https://github.com/prophesee-ai/prophesee_ros_wrapper) ROS driver and messages for Prophesee event-based sensors
 - [Prophesee camera plugins](https://docs.prophesee.ai/stable/installation/camera_plugins.html)
 - [CeleX5 ROS Wrapper](https://github.com/kehanXue/CeleX5-ROS) A ROS driver and some other tools for [CeleX5_MP](http://www.celepixel.com/#/Samples) event-based sensor (which has a high resolution at 1280×800)
+- [PyAER](https://github.com/duguyue100/pyaer) A lightweight python wrapper of libcaer; used for e.g. [Dextra](https://github.com/SensorsINI/dextra-roshambo-python) and [Trixsy](https://github.com/SensorsINI/joker-network) robots and [PDAVIS e2p demo](https://github.com/SensorsINI/e2p).
 
 <a name="synchronization"></a>
 ## Synchronization
