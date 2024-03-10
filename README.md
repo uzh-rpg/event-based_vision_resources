@@ -2600,9 +2600,6 @@ IEEE International Conference on Multisensor Fusion and Integration for Intellig
   *[Neuromorphic Driver Monitoring Systems: A Computationally Efficient Proof-of-Concept for Driver Distraction Detection](https://doi.org/10.1109/OJVT.2023.3325656)*,  
   IEEE Open Journal of Vehicular Technology, vol. 4, pp. 836-848, 2023.
 
-
-
-<br><br>
 <a name="simulators-emulators"></a>
 # Simulators and Emulators
 - <a name="Katz12iscas"></a>Katz, M. L., Nikolic, K., Delbruck, T. (2012),  
