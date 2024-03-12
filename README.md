@@ -1973,6 +1973,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project page](
 - <a name="Gao23tpami"></a>Gao, Y., Lu, J., Li, S., Ma, N., Du, S., Li, Y., Dai, Q.,  
 [Action Recognition and Benchmark Using Event Cameras](https://ieeexplore.ieee.org/document/10198747),  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Dataset](https://github.com/lujiaxuan0520/THU-EACT-50)
+- <a name="Duarte23jmsy"></a>Duarte, L., Neto, P.,  
+*[Classification of primitive manufacturing tasks from filtered event data](https://doi.org/10.1016/j.jmsy.2023.03.001)*,  
+Journal of Manufacturing Systems, 2023. [Dataset](https://doi.org/10.5281/zenodo.7625961)
 
 <a name="learning-representation-features"></a>
 ### Representation / Feature Extraction
@@ -2475,6 +2478,9 @@ Neurocomputing, 547, 2023. [Code](https://github.com/miracleyoo/yelan-dynamic-dv
 - <a name="Naeini20sensors"></a>Rudnev, V., Golyanik, V., Wang, J., Seidel, H.-P., Mueller, F., Elgharib, M., Theobalt, C.,  
 *[EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream](https://arxiv.org/pdf/2012.06475)*,  
 arXiv, 2020. [Project page](https://gvv.mpi-inf.mpg.de/projects/EventHands/)
+- <a name="Duarte21sensrev"></a>Duarte, L., Safeea, M., Neto, P.,  
+*[Event-based tracking of human hands](https://doi.org/10.1108/SR-03-2021-0095)*,  
+Sensor Review, 2021. [Dataset](https://doi.org/10.5281/zenodo.4918319)
 - <a name="Xue22bmvc"></a>Xue, Y., Li, H., Leutenegger, S., Stueckler, J.,  
 *[Event-based Non-Rigid Reconstruction from Contours](https://bmvc2022.mpi-inf.mpg.de/0078.pdf)*,  
 British Machine Vision Conf. (BMVC), 2022. [Project page](https://bmvc2022.mpi-inf.mpg.de/78/)
