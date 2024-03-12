@@ -928,9 +928,6 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022. [PDF](https://arxiv.org
 - <a name="Zhu2022cvpr"></a>Zhu, L., Wang, X., Chang, Y., Li, J., Huang T., Tian Y,  
 *[Event-based Video Reconstruction via Potential-assisted Spiking Neural Network](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project page](https://sites.google.com/view/evsnn), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.pdf), [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhu_Event-Based_Video_Reconstruction_CVPR_2022_supplemental.pdf), [Code](https://github.com/LinZhu111/EVSNN).
-- <a name="Ercan23arxiv"></a>Ercan, B., Eker, O., Saglam, C., Erdem, A., Erdem, E.  
-*[HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks](https://arxiv.org/abs/2305.06382)*,  
-arXiv, 2023. [PDF](https://arxiv.org/pdf/2305.06382), [Project Page](https://ercanburak.github.io/HyperE2VID.html), [Code](https://github.com/ercanburak/HyperE2VID), [YouTube](https://www.youtube.com/watch?v=BWEV56-E0mE).
 - <a name="Zhang23arxiv2"></a>Zhang, P., Liu, H., Ge, Z., Wang, C., Lam, E. Y.,   
 *[Neuromorphic Imaging with Joint Image Deblurring and Event Denoising](https://arxiv.org/abs/2309.16106)*,  
 arXiv, 2023.
@@ -940,6 +937,9 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Code](https://github.c
 - <a name="Qu24aaai"></a>Qu, Q., Shen, Y., Chen, X., Chung, Y.Y., Liu, T.,    
 *[E2HQV: High-Quality Video Generation from Event Camera via Theory-Inspired Model-Aided Deep Learning](https://arxiv.org/abs/2401.08117)*,    
 AAAI Conf. Artificial Intelligence (AAAI), 2024. [Code](https://github.com/VincentQQu/E2HQV)
+- <a name="Ercan23arxiv"></a>Ercan, B., Eker, O., Saglam, C., Erdem, A., Erdem, E.  
+*[HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks](https://doi.org/10.1109/TIP.2024.3372460)*,  
+IEEE Trans. Image Process. (TIP), Early Access, 2024. [PDF](https://arxiv.org/pdf/2305.06382), [Project Page](https://ercanburak.github.io/HyperE2VID.html), [Code](https://github.com/ercanburak/HyperE2VID), [YouTube](https://www.youtube.com/watch?v=BWEV56-E0mE).
 
 <a name="video-synthesis"></a>
 ### Video Synthesis
