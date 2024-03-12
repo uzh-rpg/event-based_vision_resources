@@ -2477,7 +2477,7 @@ Neurocomputing, 547, 2023. [Code](https://github.com/miracleyoo/yelan-dynamic-dv
 arXiv, 2020. [Project page](https://gvv.mpi-inf.mpg.de/projects/EventHands/)
 - <a name="Duarte21sensrev"></a>Duarte, L., Safeea, M., Neto, P.,  
 *[Event-based tracking of human hands](https://doi.org/10.1108/SR-03-2021-0095)*,  
-Sensor Review, 2021.
+Sensor Review, 2021. [Dataset](https://doi.org/10.5281/zenodo.4918319)
 - <a name="Xue22bmvc"></a>Xue, Y., Li, H., Leutenegger, S., Stueckler, J.,  
 *[Event-based Non-Rigid Reconstruction from Contours](https://bmvc2022.mpi-inf.mpg.de/0078.pdf)*,  
 British Machine Vision Conf. (BMVC), 2022. [Project page](https://bmvc2022.mpi-inf.mpg.de/78/)
