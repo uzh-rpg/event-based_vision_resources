@@ -937,7 +937,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Code](https://github.c
 - <a name="Qu24aaai"></a>Qu, Q., Shen, Y., Chen, X., Chung, Y.Y., Liu, T.,    
 *[E2HQV: High-Quality Video Generation from Event Camera via Theory-Inspired Model-Aided Deep Learning](https://arxiv.org/abs/2401.08117)*,    
 AAAI Conf. Artificial Intelligence (AAAI), 2024. [Code](https://github.com/VincentQQu/E2HQV)
-- <a name="Ercan23arxiv"></a>Ercan, B., Eker, O., Saglam, C., Erdem, A., Erdem, E.  
+- <a name="Ercan24tip"></a>Ercan, B., Eker, O., Saglam, C., Erdem, A., Erdem, E.  
 *[HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks](https://doi.org/10.1109/TIP.2024.3372460)*,  
 IEEE Trans. Image Process. (TIP), Early Access, 2024. [PDF](https://arxiv.org/pdf/2305.06382), [Project Page](https://ercanburak.github.io/HyperE2VID.html), [Code](https://github.com/ercanburak/HyperE2VID), [YouTube](https://www.youtube.com/watch?v=BWEV56-E0mE).
 
