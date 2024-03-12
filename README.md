@@ -1973,6 +1973,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project page](
 - <a name="Gao23tpami"></a>Gao, Y., Lu, J., Li, S., Ma, N., Du, S., Li, Y., Dai, Q.,  
 [Action Recognition and Benchmark Using Event Cameras](https://ieeexplore.ieee.org/document/10198747),  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Dataset](https://github.com/lujiaxuan0520/THU-EACT-50)
+- <a name="Duarte23jmsy"></a>Duarte, L., Neto, P.,
+*[Classification of primitive manufacturing tasks from filtered event data](https://doi.org/10.1016/j.jmsy.2023.03.001)*,  
+Journal of Manufacturing Systems, 2023. [Dataset](https://doi.org/10.5281/zenodo.7625961)
 
 <a name="learning-representation-features"></a>
 ### Representation / Feature Extraction
