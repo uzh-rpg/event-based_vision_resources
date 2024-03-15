@@ -704,14 +704,18 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 *Focus Is All You Need: Loss Functions For Event-based Vision*.
     - [Stoffregen et al., ICCV 2019](#Stoffregen19iccv),  
 *Event-Based Motion Segmentation by Motion Compensation*.
+    - [Ghosh et al., AISY 2022](#Ghosh22aisy),  
+*Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion (MCEMVS)*.
     - [Shiba et al., Sensors 2022](#Shiba22sensors),  
 *Event Collapse in Contrast Maximization Frameworks*.
     - [Shiba et al., AISY 2022](#Shiba22aisy),  
 *A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework*.
     - [Shiba et al., ECCV 2022](#Shiba22eccv),  
 *Secrets of Event-based Optical Flow*.
-    - [Zhang et al., arXiv 2021](#Zhang22tpami),  
-*Formulating Event-based Image Reconstruction as a Linear Inverse Problem using Optical Flow*.
+    - [Zhang et al., TPAMI 2023](#Zhang22tpami),  
+*Formulating Event-based Image Reconstruction as a Linear Inverse Problem with Deep Regularization using Optical Flow*.
+    - [Guo et al. TRO 2024](#Guo24tro),
+*CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization*.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
 Robotics: Science and Systems (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE), [Code](https://github.com/daniilidis-group/EV-FlowNet)
