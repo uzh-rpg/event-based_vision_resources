@@ -1599,6 +1599,9 @@ IEEE Int. Conf. 3D Vision (3DV), 2024. [PDF](https://arxiv.org/pdf/2401.09331.pd
 IEEE Int. Conf. 3D Vision (3DV), 2024. [Code](https://github.com/tum-vision/DEVO), [YouTube](https://youtu.be/rP_OuOE-O34)
 - [Mollica et al., T-ITS 2024](#Mollica24tits),  
 *MA-VIED: A Multisensor Automotive Visual Inertial Event Dataset.*
+- <a name="Guo24tro"></a>Guo, S. and Gallego, G.,  
+*[CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization](https://arxiv.org/pdf/2403.08119)*,  
+IEEE Trans. Robot. (TRO), 2024. [Project page](https://github.com/tub-rip/cmax_slam), [YouTube](https://youtu.be/17VWTuSkgPs), [ECRot Dataset](https://github.com/tub-rip/ECRot)
 
 #### Stereo
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
@@ -2759,6 +2762,9 @@ IEEE Trans. Intell. Transp. Syst. (T-ITS), vol. 25, no. 1, pp. 214-224, Jan. 202
 [Dataset](http://sira.diei.unipg.it/supplementary/public/Datasets/MA-VIED),
 [GitHub Page](https://github.com/isarlab-department-engineering/MA-VIED),
 [Project Page](https://isar.unipg.it/datasets/)
+- <a name="Guo24ecrot"></a>Guo, S., and Gallego, G.,  
+*[Event Camera Rotation Dataset (ECRot)](https://github.com/tub-rip/ECRot)* introduced with the paper *[CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization](https://github.com/tub-rip/cmax_slam)*,  
+IEEE Trans. Robot. (TRO), 2024.
 
 ## Segmentation
 - [Mitrokhin et al., IROS 2018](#Mitrokhin18iros), Extreme Event Dataset (EED). [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
