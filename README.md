@@ -932,9 +932,6 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022. [PDF](https://arxiv.org
 - <a name="Zhu2022cvpr"></a>Zhu, L., Wang, X., Chang, Y., Li, J., Huang T., Tian Y,  
 *[Event-based Video Reconstruction via Potential-assisted Spiking Neural Network](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project page](https://sites.google.com/view/evsnn), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.pdf), [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhu_Event-Based_Video_Reconstruction_CVPR_2022_supplemental.pdf), [Code](https://github.com/LinZhu111/EVSNN).
-- <a name="Zhang23arxiv2"></a>Zhang, P., Liu, H., Ge, Z., Wang, C., Lam, E. Y.,   
-*[Neuromorphic Imaging with Joint Image Deblurring and Event Denoising](https://arxiv.org/abs/2309.16106)*,  
-arXiv, 2023.
 - <a name="Liu23tpami"></a>Liu, S., Dragotti, P.L.,    
 *[Sensing Diversity and Sparsity Models for Event Generation and Video Reconstruction from Events](https://doi.org/10.1109/TPAMI.2023.3278940)*,    
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Code](https://github.com/pld-group/V2E2V)
@@ -944,6 +941,9 @@ AAAI Conf. Artificial Intelligence (AAAI), 2024. [Code](https://github.com/Vince
 - <a name="Ercan24tip"></a>Ercan, B., Eker, O., Saglam, C., Erdem, A., Erdem, E.,  
 *[HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks](https://doi.org/10.1109/TIP.2024.3372460)*,  
 IEEE Trans. Image Process. (TIP), 33:1826-1837, 2024. [PDF](https://arxiv.org/pdf/2305.06382), [Project Page](https://ercanburak.github.io/HyperE2VID.html), [Code](https://github.com/ercanburak/HyperE2VID), [YouTube](https://www.youtube.com/watch?v=BWEV56-E0mE).
+- <a name="Zhang24tip"></a>Zhang, P., Liu, H., Ge, Z., Wang, C., Lam, E. Y.,   
+*[Neuromorphic Imaging with Joint Image Deblurring and Event Denoising](https://doi.org/10.1109/TIP.2024.3374074)*,  
+IEEE Trans. Image Process. (TIP), 2024. [PDF](https://arxiv.org/pdf/2309.16106.pdf), [Code](https://github.com/pz-even/ni-joint)
 
 <a name="video-synthesis"></a>
 ### Video Synthesis
@@ -1862,9 +1862,9 @@ IEEE Int. Conf. Image Processing (ICIP), 2022. [PDF](https://arxiv.org/pdf/2202.
 - <a name="Gehrig23cvpr"></a>Gehrig, M., Scaramuzza, D.,  
 *[Recurrent Vision Transformers for Object Detection with Event Cameras](https://arxiv.org/abs/2212.05598)*,  
  IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_mgehrig.pdf), [Code](https://github.com/uzh-rpg/RVT).
-- <a name="Zhang23neurocomputing"></a>Zhang, P., Wang, C., Lam, E. Y.,  
+- <a name="Zhang24neurocomputing"></a>Zhang, P., Wang, C., Lam, E. Y.,  
 *[Neuromorphic Imaging and Classification with Graph Learning](https://doi.org/10.1016/j.neucom.2023.127010)*,  
-Neurocomputing, 2023. [Code](https://github.com/pz-even/ni-graph)
+Neurocomputing, 2024. [PDF](https://arxiv.org/pdf/2309.15627.pdf), [Code](https://github.com/pz-even/ni-graph)
 
 <a name="gesture-recognition"></a>
 ### Gesture Recognition
@@ -2506,7 +2506,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Suppl.](https:
 Sensors, 2021.
 - <a name="Zhang24nce"></a>Zhang, P., Zhu, S., Lam, E. Y.,   
 *[Event Encryption: Rethinking Privacy Exposure for Neuromorphic Imaging](https://doi.org/10.1088/2634-4386/ad207b)*,  
-Neuromorphic Computing and Engineering, 2024.
+Neuromorphic Computing and Engineering, 2024. [PDF](https://arxiv.org/pdf/2306.03369.pdf)
 
 <a name="nuclear_verification"></a>
 ## Nuclear Verification
