@@ -3141,6 +3141,10 @@ Ph.D. Thesis, Universitat Politècnica de Catalunya, Barcelona, Spain, 2023. [PD
 - <a name="Shiba23Phd"></a>Shiba, S.,  
 *[Estimating motion with an event camera](https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO50002002-20236069-0003)*,  
 Ph.D. Thesis, Keio University, Tokyo, Japan, 2023. [PDF](https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/KO50002002-20236069-0003.pdf?file_id=174804)
+- <a name="Elshair24Phd"></a>El Shair, Z., 
+*[Advancing Neuromorphic Event-Based Vision Methods for Robotic Perception Tasks
+](https://dx.doi.org/10.7302/8116)*,  
+Ph.D. Thesis, University of Michigan-Dearborn, USA, 2024. [PDF](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/177658/El_Shair_dissertation_Advanced_Neuromorphic_Event_Based_Vision_Methods.pdf?sequence=1&isAllowed=y)
 
 
 <a name="theses-master"></a>
