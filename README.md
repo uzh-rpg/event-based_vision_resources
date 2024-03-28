@@ -514,6 +514,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022. [YouTube](https
 - <a name="zhu2022learning"></a>Zhu, Z., Hou, J., Lyu, X.,  
 *[Learning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds](https://openreview.net/pdf?id=hTxYJAKY85)*,  
 Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022. [PDF](https://openreview.net/pdf?id=hTxYJAKY85), [code](https://github.com/ZHU-Zhiyu/Event-tracking).
+- <a name="Elshair22opteng"></a>El Shair, Z., Rawashdeh, S.A.,  
+*[High-temporal-resolution event-based vehicle detection and tracking](https://doi.org/10.1117/1.OE.62.3.031209)*,  
+Optical Engineering, 2022. [PDF](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-62/issue-3/031209/High-temporal-resolution-event-based-vehicle-detection-and-tracking/10.1117/1.OE.62.3.031209.full), [dataset](http://sar-lab.net/event-based-vehicle-detection-and-tracking-dataset/).
 - <a name="Messikommer23cvpr"></a>Messikommer, N., Fang, C., Gehrig, M., Scaramuzza, D.,  
 *[Data-driven Feature Tracking for Event Cameras](https://arxiv.org/abs/2211.12826)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_Messikommer.pdf), [YouTube](https://youtu.be/dtkXvNXcWRY), [code](https://github.com/uzh-rpg/deep_ev_tracker).  
