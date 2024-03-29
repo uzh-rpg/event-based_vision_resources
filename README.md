@@ -3138,17 +3138,17 @@ Ph.D. Thesis, ETH Zurich, Zurich, Switzerland, 2022. [PDF](https://doi.org/10.39
 - <a name="Liu22Phd"></a>Liu, D.,  
 *[Motion Estimation Using an Event Camera](https://hdl.handle.net/2440/136406)*,   
 Ph.D. Thesis, University of Adelaide, Adelaide, Australia, 2022.
-- See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 - <a name="Chamorro22Phd"></a>Chamorro, W. O.,  
 *[Event-based Simultaneous Localization and Mapping](https://www.iri.upc.edu/thesis/show/136)*,  
 Ph.D. Thesis, Universitat Politècnica de Catalunya, Barcelona, Spain, 2023. [PDF](http://www.iri.upc.edu/people/cetto/William_thesis/Chamorro_phdthesis.pdf)
 - <a name="Shiba23Phd"></a>Shiba, S.,  
 *[Estimating motion with an event camera](https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO50002002-20236069-0003)*,  
 Ph.D. Thesis, Keio University, Tokyo, Japan, 2023. [PDF](https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/KO50002002-20236069-0003.pdf?file_id=174804)
-- <a name="Elshair24Phd"></a>El Shair, Z., 
-*[Advancing Neuromorphic Event-Based Vision Methods for Robotic Perception Tasks
-](https://dx.doi.org/10.7302/8116)*,  
+- <a name="Elshair24Phd"></a>El Shair, Z.,    
+*[Advancing Neuromorphic Event-Based Vision Methods for Robotic Perception Tasks](https://dx.doi.org/10.7302/8116)*,    
 Ph.D. Thesis, University of Michigan-Dearborn, USA, 2024. [PDF](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/177658/El_Shair_dissertation_Advanced_Neuromorphic_Event_Based_Vision_Methods.pdf?sequence=1&isAllowed=y)
+- See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
+
 
 
 <a name="theses-master"></a>
