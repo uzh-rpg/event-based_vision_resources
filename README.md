@@ -2097,7 +2097,9 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 45(2)2519:2532, 2022. [PDF](h
 - <a name="Chen22tcsvt"></a>Chen, Z., Wu, J., Hou, J., Li, L., Dong, W., Shi, G.,  
 *[ECSNet: Spatio-Temporal Feature Learning for Event Camera](https://doi.org/10.1109/TCSVT.2022.3202659)*,  
 IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 2022.
-
+- <a name="Elshair23access"></a>El Shair, Z., Hassani, A., Rawashdeh, S.,   
+*[CSTR: A Compact Spatio-Temporal Representation for Event-Based Vision](https://doi.org/10.1109/ACCESS.2023.3316143)*,   
+IEEE Access, 2023. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10254219), [Code](https://github.com/Zelshair/cstr-event-vision)
 
 <a name="learning-regression"></a>
 ### Regression Tasks
