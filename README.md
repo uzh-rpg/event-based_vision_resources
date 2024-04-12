@@ -2830,6 +2830,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - [N-EPIC-Kitchens Dataset of Plizzari et al., CVPR 2022](#Plizzari22cvpr). [Project page](https://github.com/EgocentricVision/N-EPIC-Kitchens)
 - [THU<sup>E-ACT</sup>-50 Dataset](https://github.com/lujiaxuan0520/THU-EACT-50) associated to the paper [Gao et al., TPAMI 2023](#Gao23tpami).
 - [THU<sup>MV-EACT</sup>-50 Dataset](https://github.com/lujiaxuan0520/THU-MV-EACT-50) associated to the paper [Gao et al., TPAMI 2024](#Gao24tpami).
+- <a name="Duarte24dib"></a>Duarte, L., Neto, P.,  
+*[Event-based dataset for the detection and classification of manufacturing assembly tasks](https://doi.org/10.1016/j.dib.2024.110340),*  
+Data in Brief, 2024. [Dataset](https://doi.org/10.5281/zenodo.10562563), [Code](https://github.com/Robotics-and-AI/DAVIS-data-capture-system).
 
 ## Event Denoising
 - [DVSNOISE20](https://sites.google.com/a/udayton.edu/issl/software/dataset) associated to the paper [Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](#Baldwin20cvpr).
