@@ -2847,6 +2847,9 @@ Data in Brief, 2024. [Dataset](https://doi.org/10.5281/zenodo.10562563), [Code](
 - <a name="Bolten21cvprw"></a>Bolten, T., Pohle-Frohlich, R., Tonnies, K. D.,  
 *[DVS-OUTLAB: A Neuromorphic Event-Based Long Time Monitoring Dataset for Real-World Outdoor Scenarios](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Bolten_DVS-OUTLAB_A_Neuromorphic_Event-Based_Long_Time_Monitoring_Dataset_for_Real-World_CVPRW_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](http://dnt.kr.hsnr.de/DVS-OUTLAB/), [YouTube](https://youtu.be/4wV0ejrcDo0)
+- <a name="Verma24cvpr"></a>Verma, A.A., Chakravarthi, B., Vaghela, A., Wei, H., Yang, Y.,  
+*[eTraM: Event-based Traffic Monitoring Dataset](https://arxiv.org/abs/2403.19976)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Project page and Dataset](https://eventbasedvision.github.io/eTraM/).
 
 
 <br><br>
