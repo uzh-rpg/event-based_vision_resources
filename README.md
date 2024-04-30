@@ -1878,6 +1878,9 @@ IEEE Int. Conf. Image Processing (ICIP), 2022. [PDF](https://arxiv.org/pdf/2202.
 - <a name="Zhang24neurocomputing"></a>Zhang, P., Wang, C., Lam, E. Y.,  
 *[Neuromorphic Imaging and Classification with Graph Learning](https://doi.org/10.1016/j.neucom.2023.127010)*,  
 Neurocomputing, 2024. [PDF](https://arxiv.org/pdf/2309.15627.pdf), [Code](https://github.com/pz-even/ni-graph)
+- <a name="Zubic24cvpr"></a>Zubić, N., Gehrig, M., Scaramuzza, D.,  
+*[State Space Models for Event Cameras](https://arxiv.org/abs/2402.15584)*,  
+ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR2024_Zubic.pdf), [Code](https://github.com/uzh-rpg/ssms_event_cameras).
 
 <a name="gesture-recognition"></a>
 ### Gesture Recognition
