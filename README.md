@@ -929,8 +929,8 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022. [PDF](https://arxiv.org
     - <a name="Zhang21cvpr"></a>Zhang, X., Liao, W., Yu, L., Yang, W., Xia, G.-S.,  
 *[Event-Based Synthetic Aperture Imaging With a Hybrid Network](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Event-Based_Synthetic_Aperture_Imaging_With_a_Hybrid_Network_CVPR_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Suppl.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Zhang_Event-Based_Synthetic_Aperture_CVPR_2021_supplemental.pdf), [PDF](http://arxiv.org/abs/2103.02376), [YouTube](https://youtu.be/vom7qcZ7t9Y), [Slides](https://v.youku.com/v_show/id_XNTE3MzczMzc2MA==.html)
-- <a name="Li22mir"></a>Li, S., Gao, Y., Dai, Q.,
-*[Image De-occlusion via Event-enhanced Multi-modal Fusion Hybrid Network,](https://link.springer.com/article/10.1007/s11633-022-1350-3)*
+- <a name="Li22mir"></a>Li, S., Gao, Y., Dai, Q.,  
+*[Image De-occlusion via Event-enhanced Multi-modal Fusion Hybrid Network](https://link.springer.com/article/10.1007/s11633-022-1350-3)*,  
 Machine Intelligence Research, 2022. [Code](https://github.com/lisiqi19971013/Event_Enhanced_DeOcc), [Dataset](https://github.com/lisiqi19971013/event-based-datasets).
 - <a name="CohenDuwek21cvprw"></a>Cohen Duwek, H., Shalumov, A., Ezra Tsur, E.,  
 *[Image Reconstruction From Neuromorphic Event Cameras Using Laplacian-Prediction and Poisson Integration With Spiking and Artificial Neural Networks](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Duwek_Image_Reconstruction_From_Neuromorphic_Event_Cameras_Using_Laplacian-Prediction_and_Poisson_CVPRW_2021_paper.pdf)*,  
@@ -1063,8 +1063,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Project page](
 - <a name="Han21iccv"></a>Han, J., Yang, Y., Zhou, C., Xu, C., Shi, B.,  
 *[EvIntSR-Net: Event Guided Multiple Latent Frames Reconstruction and Super-resolution](https://openaccess.thecvf.com/content/ICCV2021/papers/Han_EvIntSR-Net_Event_Guided_Multiple_Latent_Frames_Reconstruction_and_Super-Resolution_ICCV_2021_paper.pdf)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Han_EvIntSR-Net_Event_Guided_Multiple_Latent_Frames_Reconstruction_and_Super-Resolution_ICCV_2021_paper.pdf), [Suppl.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Han_EvIntSR-Net_Event_Guided_ICCV_2021_supplemental.pdf)
-- <a name="Li21iccv"></a>Li, S., Feng, Y., Li, Y., Jiang, Y., Zou, C., Gao, Y.,
-*[Event Stream Super-Resolution via Spatiotemporal Constraint Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Event_Stream_Super-Resolution_via_Spatiotemporal_Constraint_Learning_ICCV_2021_paper.pdf)*,
+- <a name="Li21iccv"></a>Li, S., Feng, Y., Li, Y., Jiang, Y., Zou, C., Gao, Y.,  
+*[Event Stream Super-Resolution via Spatiotemporal Constraint Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Event_Stream_Super-Resolution_via_Spatiotemporal_Constraint_Learning_ICCV_2021_paper.pdf)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2021. [Code](https://github.com/lisiqi19971013/EventStream-SR), [Dataset](https://github.com/lisiqi19971013/event-based-datasets).
 
 <a name="joint-filtering"></a>
