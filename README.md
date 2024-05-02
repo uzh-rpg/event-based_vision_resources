@@ -618,7 +618,7 @@ IEEE Trans. Vis. Comput. Graphics (Proc. VR), 2021. [YouTube](https://youtu.be/-
 - <a name="Chen23biocas"></a>Chen, Q., Wang, Z., Liu, S.-C., Gao, C.,  
 *[3ET: Efficient Event-based Eye Tracking using a Change-Based ConvLSTM Network](https://arxiv.org/abs/2308.11771)*,  
 IEEE BioCAS Conf., 2023. [YouTube](https://www.youtube.com/watch?v=aRB5mDNfrHM), [Code](https://github.com/qinche106/cb-convlstm-eyetracking)
-- <a name="Wang24cvprw"></a>Wang, Z., Gao, C., Wu, Z., Conde, M., Timofte, R., Liu, S.-C., Chen, Q., et al. 
+- <a name="Wang24cvprw"></a>Wang, Z., Gao, C., Wu, Z., Conde, M., Timofte, R., Liu, S.-C., Chen, Q., et al.  
 *[Event-based Eye Tracking. AIS 2024 Challenge Survey](https://arxiv.org/abs/2404.11770)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024. [Challenge page](https://eetchallenge.github.io/EET.github.io/), [Code](https://github.com/EETChallenge/challenge_demo_code), [Kaggle page](https://www.kaggle.com/competitions/event-based-eye-tracking-ais2024)
  
