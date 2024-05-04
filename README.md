@@ -619,9 +619,12 @@ IEEE Trans. Vis. Comput. Graphics (Proc. VR), 2021. [YouTube](https://youtu.be/-
 *[3ET: Efficient Event-based Eye Tracking using a Change-Based ConvLSTM Network](https://arxiv.org/abs/2308.11771)*,  
 IEEE BioCAS Conf., 2023. [YouTube](https://www.youtube.com/watch?v=aRB5mDNfrHM), [Code](https://github.com/qinche106/cb-convlstm-eyetracking)
 - <a name="Wang24cvprw"></a>Wang, Z., Gao, C., Wu, Z., Conde, M., Timofte, R., Liu, S.-C., Chen, Q., et al.  
-*[Event-based Eye Tracking. AIS 2024 Challenge Survey](https://arxiv.org/abs/2404.11770)*,  
+*[Event-based Eye Tracking. AIS 2024 Challenge Survey](https://arxiv.org/abs/2404.11770)*,
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024. [Challenge page](https://eetchallenge.github.io/EET.github.io/), [Code](https://github.com/EETChallenge/challenge_demo_code), [Kaggle page](https://www.kaggle.com/competitions/event-based-eye-tracking-ais2024)
- 
+- <a name="Bonazzi24cvprw"></a>Bonazzi, P., Bian, S., Lippolis, G., Sheik, S., Magno, M.  
+*[Retina: Low-Power Eye Tracking with Event Camera and Spiking Hardware](https://arxiv.org/pdf/2312.00425)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024. [Dataset](https://pietrobonazzi.com/projects/retina), [Code](https://github.com/pbonazzi/retina), [PDF](https://arxiv.org/pdf/2312.00425).
+
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
 - <a name="Benosman12neunet"></a>Delbruck, T.,  
