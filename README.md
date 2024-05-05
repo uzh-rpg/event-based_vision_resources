@@ -2723,18 +2723,12 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 - [EV-IMO Event based Independently Moving Objects dataset](https://better-flow.github.io/evimo/) associated to the paper [EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](#Mitrokhin19iros) ([motion vector flow](https://github.com/better-flow/evimo/blob/master/tools/evimo_flow.py) added Jan 2022)
 - [Chaney et al., CVPRW 2023](#Chaney23cvprw), *M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset*
 
-# Eye Tracking
-- <a name="Chen23biocas"></a>Chen, Q., Wang, Z., Liu, S.-C., Gao, C.,  
-*[3ET: Efficient Event-based Eye Tracking using a Change-Based ConvLSTM Network](https://arxiv.org/abs/2308.11771)*,  
-IEEE BioCAS Conf., 2023. [YouTube](https://www.youtube.com/watch?v=aRB5mDNfrHM), [Code](https://github.com/qinche106/cb-convlstm-eyetracking)
-- <a name="Bonazzi24cvprw"></a>Bonazzi, P., Bian, S., Lippolis, G., Sheik, S., Magno, M.  
-*[Retina: Low-Power Eye Tracking with Event Camera and Spiking Hardware](https://arxiv.org/pdf/2312.00425)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024. [Dataset](https://pietrobonazzi.com/projects/retina), [Code](https://github.com/pbonazzi/retina), [PDF](https://arxiv.org/pdf/2312.00425).
+## Eye Tracking
+- [Chen et al., CVPRW 2024](#Chen23biocas), *3ET: Efficient Event-based Eye Tracking using a Change-Based ConvLSTM Network*
+- [Bonazzi et al., CVPRW 2024](#Bonazzi24cvprw), *Retina: Low-Power Eye Tracking with Event Camera and Spiking Hardware*
 
-# Gaze Estimation
-- <a name="Angelopoulos20arxiv"></a>Angelopoulos, A.N., Martel, J.N.P., Kohli, A.P.S., Conradt, J., Wetzstein, G.,  
-*[Event Based, Near-Eye Gaze Tracking Beyond 10,000Hz](https://arxiv.org/pdf/2004.03577)*,  
-IEEE Trans. Vis. Comput. Graphics (Proc. VR), 2021. [YouTube](https://youtu.be/-7EneYIfinM), [Dataset](https://github.com/aangelopoulos/event_based_gaze_tracking), [Project page](http://www.computationalimaging.org/publications/event-based-eye-tracking/)
+## Gaze Estimation
+- [Angelopoulos et al., IEEE Trans. Vis. Comput. Graphics 2021](#Angelopoulos20arxiv), *Event Based, Near-Eye Gaze Tracking Beyond 10,000Hz*
 
 ## Intensity-Image Reconstruction from Events
 - [Bardow et al., CVPR2016](#Bardow16cvpr), [Four sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
