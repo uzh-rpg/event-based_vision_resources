@@ -729,6 +729,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 *Formulating Event-based Image Reconstruction as a Linear Inverse Problem with Deep Regularization using Optical Flow*.
     - [Guo et al. TRO 2024](#Guo24tro),
 *CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization*.
+    - [Shiba et al. TPAMI 2024](#Shiba24tpami),  
+*Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
 Robotics: Science and Systems (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE), [Code](https://github.com/daniilidis-group/EV-FlowNet)
@@ -810,7 +812,10 @@ IEEE Int. Conf. 3D Vision (3DV), 2021. [Code](https://github.com/uzh-rpg/E-RAFT)
 - <a name="Shiba22sensors"></a>Shiba, S., Aoki, Y., Gallego, G.,  
 *[Event Collapse in Contrast Maximization Frameworks](https://www.mdpi.com/1424-8220/22/14/5190/htm)*,  
 Sensors, 2022. [PDF](https://arxiv.org/pdf/2207.04007),  [Project page](https://github.com/tub-rip/event_collapse)
-- <a name="Shiba22eccv"></a>Shiba, S., Aoki, Y., Gallego, G.,  
+- <a name="Shiba24tpami"></a>Shiba, S., Klose, Y., Aoki, Y., Gallego, G.,  
+*[Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization](https://doi.org/10.1109/TPAMI.2024.3396116)*,  
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024. [Project page and Code](https://github.com/tub-rip/event_based_optical_flow)
+    - <a name="Shiba22eccv"></a>Shiba, S., Aoki, Y., Gallego, G.,  
 *[Secrets of Event-based Optical Flow](https://arxiv.org/pdf/2207.10022)*,  
 Europen Conf. Computer Vision (ECCV), 2022. [YouTube](https://youtu.be/nUb2ZRPdbWk), [Poster](https://drive.google.com/file/d/1mF-mM4teb8A9bKJJiQwN7IFsGsRIsRaX/view?usp=sharing), [Presentation at  the  PRG  Seminar Series  U. Maryland (Video)](https://vid.umd.edu/detsmediasite/Play/d31926745bdd446e8f6ce165ae4811591d), [Presentation at the GRASP Laboratory (UPenn) seminar](https://youtu.be/8v-bYCVL9hw),
 [Project page and Code](https://github.com/tub-rip/event_based_optical_flow)
@@ -1624,6 +1629,8 @@ IEEE Int. Conf. 3D Vision (3DV), 2024. [Code](https://github.com/tum-vision/DEVO
 - <a name="Guo24tro"></a>Guo, S. and Gallego, G.,  
 *[CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization](https://arxiv.org/pdf/2403.08119)*,  
 IEEE Trans. Robot. (TRO), 2024. [Project page](https://github.com/tub-rip/cmax_slam), [YouTube](https://youtu.be/17VWTuSkgPs), [ECRot Dataset](https://github.com/tub-rip/ECRot)
+- [Shiba et al. TPAMI 2024](#Shiba24tpami),  
+*Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
 
 #### Stereo
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
@@ -1631,6 +1638,8 @@ IEEE Trans. Robot. (TRO), 2024. [Project page](https://github.com/tub-rip/cmax_s
 IEEE Trans. Robot. (TRO), 2021. [Project page](https://sites.google.com/view/esvo-project-page/home), [PDF](https://arxiv.org/pdf/2007.15548), [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git).
 - [Xiao et al., arXiv 2021](#Xiao22icrmv),  
 *Research on Event Accumulator Settings for Event-Based SLAM*.
+- [Shiba et al. TPAMI 2024](#Shiba24tpami),  
+*Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
 
 <a name="visual-inertial"></a>
 ### Visual-Inertial Odometry
@@ -1745,6 +1754,8 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2021.  [Project page](https://sit
 - <a name="Wang23arxiva"></a>Wang, Z., Guo, J., Daniilidis, K.,  
 *[Un-EvMoSeg: Unsupervised Event-based Independent Motion Segmentation](https://arxiv.org/pdf/2312.00114.pdf)*,  
 arxiv, 2023.  [Project page](https://www.cis.upenn.edu/~ziyunw/un_evmoseg/).
+- [Shiba et al. TPAMI 2024](#Shiba24tpami),  
+*Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
 
 <a name="pattern-recognition"></a>
 ## Pattern Recognition
@@ -2277,6 +2288,8 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/pd
 *[Neuromorphic Imaging with Density-based Spatiotemporal Denoising](https://doi.org/10.1109/TCI.2023.3281202)*,  
 IEEE Trans. Comput. Imaging (TCI), 2023. [Code](https://github.com/pz-even/ni-denoising)
 <a name="compression"></a>
+- [Shiba et al. TPAMI 2024](#Shiba24tpami),  
+*Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
 
 ### Compression
 - <a name="Khan20access"></a>Khan, N., Iqbal, K., Martini, M. G.,  
