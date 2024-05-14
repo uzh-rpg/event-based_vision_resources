@@ -2535,6 +2535,9 @@ Sensor Review, 2021. [Dataset](https://doi.org/10.5281/zenodo.4918319)
 - <a name="Xue22bmvc"></a>Xue, Y., Li, H., Leutenegger, S., Stueckler, J.,  
 *[Event-based Non-Rigid Reconstruction from Contours](https://bmvc2022.mpi-inf.mpg.de/0078.pdf)*,  
 British Machine Vision Conf. (BMVC), 2022. [Project page](https://bmvc2022.mpi-inf.mpg.de/78/)
+- <a name="lan23arxiv"></a>Lan, C.,Yin Z.,Basu A.,Chan R.,  
+*[Tracking Fast by Learning Slow: An Event-based Speed Adaptive Hand Tracker Leveraging Knowledge in RGB Domain](https://arxiv.org/pdf/2302.14430)*,  
+arXiv, 2023. 
 
 <a name="indoor_lighting_estimation"></a>
 ## Indoor Lighting Estimation
