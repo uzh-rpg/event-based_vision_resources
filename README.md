@@ -955,13 +955,13 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022. [PDF](https://arxiv.org
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project page](https://sites.google.com/view/evsnn), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.pdf), [Suppl. Mat.](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Zhu_Event-Based_Video_Reconstruction_CVPR_2022_supplemental.pdf), [Code](https://github.com/LinZhu111/EVSNN).
 - <a name="Liu23tpami"></a>Liu, S., Dragotti, P.L.,    
 *[Sensing Diversity and Sparsity Models for Event Generation and Video Reconstruction from Events](https://doi.org/10.1109/TPAMI.2023.3278940)*,    
-IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Code](https://github.com/pld-group/V2E2V), [Code for data generation](https://github.com/lsying009/V2E_Generation)
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Code](https://github.com/pld-group/V2E2V), [Code for data generation](https://github.com/lsying009/V2E_Generation),  [Code for evaluation](https://github.com/lsying009/CISTA-EVREAL)
     - <a name="Liu22icassp"></a>Liu, S., Alexandru, R., Dragotti, P.L., 
-    *[Convolutional ISTA Network with Temporal Consistency Constraints for Video Reconstruction from Event Cameras](https://ieeexplore.ieee.org/abstract/document/9746331)*,    
+    *[Convolutional ISTA Network with Temporal Consistency Constraints for Video Reconstruction from Event Cameras](https://doi.org/10.1109/ICASSP43922.2022.9746331)*,    
     IEEE Int. Conf. Acoust., Speech, Signal Proc. (ICASSP), 2022. [Code](https://github.com/pld-group/V2E2V)
     - <a name="Liu24arxiv"></a>Liu, S., Dragotti, P.L.,    
-    *[Enhanced Event-Based Video Reconstruction with Motion Compensation](https://doi.org/10.1109/TPAMI.2023.3278940)*,    
-    arxiv, 2024. [Code](https://github.com/lsying009/CISTA-Flow), [Code for evaluation](https://github.com/lsying009/CISTA-EVREAL)
+    *[Enhanced Event-Based Video Reconstruction with Motion Compensation](https://arxiv.org/pdf/2403.11961)*,    
+    arxiv, 2024. [Code](https://github.com/lsying009/CISTA-Flow)
 - <a name="Qu24aaai"></a>Qu, Q., Shen, Y., Chen, X., Chung, Y.Y., Liu, T.,    
 *[E2HQV: High-Quality Video Generation from Event Camera via Theory-Inspired Model-Aided Deep Learning](https://arxiv.org/abs/2401.08117)*,    
 AAAI Conf. Artificial Intelligence (AAAI), 2024. [Code](https://github.com/VincentQQu/E2HQV)
