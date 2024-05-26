@@ -1061,6 +1061,8 @@ arxiv, 2023. [Project page](https://www.cis.upenn.edu/~ziyunw/continuity_cam/)
 - <a name="Chen23IROS"></a>Chen, J., Zhu, Y., Lian, D., Yang, J., Wang, Y., Zhang, R., Liu, X., Qian, S., Kneip, L., Gao, S.,  
 *[Revisiting Event-Based Video Frame Interpolation](https://ieeexplore.ieee.org/abstract/document/10341804)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023. [PDF](https://arxiv.org/pdf/2307.12558.pdf), [Project](https://jiabenchen.github.io/revisit_event)
+- [Qi et al., ICCV 2023](#Qi23iccv),  
+*E<sup>2</sup>NeRF: Event Enhanced Neural Radiance Fields from Blurry Images*.
 
 ### Image super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
