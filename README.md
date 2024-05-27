@@ -1061,6 +1061,8 @@ arxiv, 2023. [Project page](https://www.cis.upenn.edu/~ziyunw/continuity_cam/)
 - <a name="Chen23IROS"></a>Chen, J., Zhu, Y., Lian, D., Yang, J., Wang, Y., Zhang, R., Liu, X., Qian, S., Kneip, L., Gao, S.,  
 *[Revisiting Event-Based Video Frame Interpolation](https://ieeexplore.ieee.org/abstract/document/10341804)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023. [PDF](https://arxiv.org/pdf/2307.12558.pdf), [Project](https://jiabenchen.github.io/revisit_event)
+- [Qi et al., ICCV 2023](#Qi23iccv),  
+*E<sup>2</sup>NeRF: Event Enhanced Neural Radiance Fields from Blurry Images*.
 
 ### Image super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
@@ -1209,6 +1211,9 @@ European Conference on Computer Vision (ECCV), 2022. [PDF](https://arxiv.org/pdf
 - <a name="Chen23icvr"></a>Chen, H., Chung, V., Tan, L., Chen, X.,  
 *[Dense Voxel 3D Reconstruction Using a Monocular Event Camera](https://doi.org/10.1109/ICVR57957.2023.10169359)*,  
 Int. Conf. Virtual Reality (ICVR), 2023. [PDF](https://arxiv.org/pdf/2309.00385), [Dataset](https://www.kaggle.com/datasets/hche8927/synthevox3d).
+- <a name="Qi23iccv"></a>Qi, Y., Zhu, L., Zhang, Y., Li, J.,  
+*[E<sup>2</sup>NeRF: Event Enhanced Neural Radiance Fields from Blurry Images](https://doi.org/10.1109/ICCV51070.2023.01219)*,  
+IEEE Int. Conf. Computer Vision (ICCV), 2023. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10376624), [Project Page](https://icvteam.github.io/E2NeRF.html), [Code](https://github.com/iCVTEAM/E2NeRF). [Dataset](https://drive.google.com/drive/folders/1XhOEp4UdLL7EnDNyWdxxX8aRvzF53fWo).
 
 <a name="depth-stereo"></a>
 ### Stereo Depth Estimation
