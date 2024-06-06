@@ -2701,7 +2701,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 [Event Camera Simulator Improvements via Characterized Parameters](https://www.frontiersin.org/articles/10.3389/fnins.2021.702765/full)  
   Front. Neurosci., 2021, [IEBCS simulator](https://github.com/neuromorphicsystems/IEBCS)
 - <a name="Gu24mm"></a>Gu, D., Li, J., Zhang, Y., Tian, Y.,   
-*[Reliable Event Generation With Invertible Conditional Normalizing Flow](http://dx.doi.org/10.1109/TPAMI.2023.3326538)*,  
+*[How to Learn a Domain-Adaptive Event Simulator](http://dx.doi.org/10.1109/TPAMI.2023.3326538)*,  
 ACM Int. Conf. on Multimedia (MM), 2021. [PDF](https://doi.org/10.1145/3474085.3475229), [Code](https://github.com/iCVTEAM/LETGAN).
 - <a name="Lin22eccv"></a>Lin, S., Ma, Y., Guo, Z., Wen, B.,   
 [DVS-Voltmeter: Stochastic process-based event simulator for dynamic vision sensors](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/267_ECCV_2022_paper.php)  
