@@ -1626,6 +1626,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Poster](https:
 - <a name="Gao23iccv"></a>Gao, L., Su, H., Gehrig, D., Cannici, M., Scaramuzza, D., Kneip, L.,  
 *[A 5-Point Minimal Solver for Event Camera Relative Motion Estimation](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_A_5-Point_Minimal_Solver_for_Event_Camera_Relative_Motion_Estimation_ICCV_2023_paper.pdf)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2023. [Project Webpage](https://mgaoling.github.io/eventail_iccv23/), [PDF](https://arxiv.org/abs/2309.17054), [Oral Presentation](https://www.youtube.com/watch?v=hyfGGzZQZh4), [Code](https://github.com/mgaoling/eventail_simulation_open)
+    - <a name="Gao24cvpr"></a>Gao, L., Gehrig, D., Su, H., Scaramuzza, D., Kneip, L., 
+*[An N-Point Linear Solver for Line and Motion Estimation with Event Cameras](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_An_N-Point_Linear_Solver_for_Line_and_Motion_Estimation_with_CVPR_2024_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Project Webpage](https://mgaoling.github.io/eventail/), [PDF](https://arxiv.org/abs/2404.00842), [Oral Presentation](https://www.youtube.com/watch?v=iHug6VjwPsw), [Code](https://github.com/mgaoling/eventail_simulation_open)
 - <a name="Zuo24TRO"></a>Zuo, Y., Xu, W., Wang, X., Wang, Y., Kneip, L.,  
 *[Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions](https://ieeexplore.ieee.org/document/10401990)*,  
 IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2401.08043.pdf), [Code](https://github.com/zyfff/Canny-EVT/)
