@@ -535,6 +535,7 @@ arXiv:2307.10593, 2023. [PDF](https://arxiv.org/pdf/2307.10593.pdf), [Video](htt
 *[DOTIE - Detecting Objects through Temporal Isolation of Events using a Spiking Architecture](https://ieeexplore.ieee.org/abstract/document/10161164).*,<br/>
 IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [Arxiv](https://arxiv.org/abs/2210.00975), [CVPR 2023 workshop](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_Live_Demonstration_Real-time_Event-based_Speed_Detection_using_Spiking_Neural_Networks.pdf), [Code](https://github.com/manishnagaraj/DOTIE).
 - [Gao et al., ICCV 2023](#Gao23iccv), *A 5-Point Minimal Solver for Event Camera Relative Motion Estimation*.
+    - [Gao et al., CVPR 2024](#Gao24cvpr), *An N-Point Linear Solver for Line and Motion Estimation with Event Cameras*.
 - <a name="Li24cvpr"></a>Li, S., Zhou, Z., Xue, Z., Li, Y., Du, S., Gao, Y.,<br/>
   *3D Feature Tracking via Event Camera*,<br/>
   IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Code](https://github.com/lisiqi19971013/E-3DTrack), [Dataset](https://github.com/lisiqi19971013/event-based-datasets).
@@ -1625,7 +1626,10 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/ab
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Poster](https://rpg.ifi.uzh.ch/docs/CVPR22_Hidalgo_poster.pdf),  [YouTube](https://youtu.be/Y97Sg4YTRh0),  [Project page and dataset](https://rpg.ifi.uzh.ch/eds.html), [Code](https://github.com/uzh-rpg/eds-buildconf)
 - <a name="Gao23iccv"></a>Gao, L., Su, H., Gehrig, D., Cannici, M., Scaramuzza, D., Kneip, L.,  
 *[A 5-Point Minimal Solver for Event Camera Relative Motion Estimation](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_A_5-Point_Minimal_Solver_for_Event_Camera_Relative_Motion_Estimation_ICCV_2023_paper.pdf)*,  
-IEEE Int. Conf. Computer Vision (ICCV), 2023. [Project Webpage](https://mgaoling.github.io/eventail/), [PDF](https://arxiv.org/abs/2309.17054), [Oral Presentation](https://www.youtube.com/watch?v=hyfGGzZQZh4)
+IEEE Int. Conf. Computer Vision (ICCV), 2023. [Project Webpage](https://mgaoling.github.io/eventail_iccv23/), [PDF](https://arxiv.org/abs/2309.17054), [Poster](https://mgaoling.github.io/eventail_iccv23/files/poster.pdf), [Oral Presentation](https://www.youtube.com/watch?v=hyfGGzZQZh4), [Code](https://github.com/mgaoling/eventail_simulation_open)
+    - <a name="Gao24cvpr"></a>Gao, L., Gehrig, D., Su, H., Scaramuzza, D., Kneip, L.,  
+*[An N-Point Linear Solver for Line and Motion Estimation with Event Cameras](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_An_N-Point_Linear_Solver_for_Line_and_Motion_Estimation_with_CVPR_2024_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Project Webpage](https://mgaoling.github.io/eventail/), [PDF](https://arxiv.org/abs/2404.00842), [Poster](https://mgaoling.github.io/eventail/files/poster.pdf), [Oral Presentation](https://www.youtube.com/watch?v=iHug6VjwPsw), [Code](https://github.com/mgaoling/eventail_simulation_open)
 - <a name="Zuo24TRO"></a>Zuo, Y., Xu, W., Wang, X., Wang, Y., Kneip, L.,  
 *[Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions](https://ieeexplore.ieee.org/document/10401990)*,  
 IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2401.08043.pdf), [Code](https://github.com/zyfff/Canny-EVT/)
