@@ -1091,7 +1091,7 @@ IEEE Int. Conf. Computer Vision (ICCV), 2021. [Code](https://github.com/lisiqi19
 *[Video Super-Resolution Via Event-Driven Temporal Alignment,](https://doi.org/10.1109/ICIP49359.2023.10222922)*,  
 IEEE Int. Conf. on Image Processing (ICIP), 2023. [Code](https://github.com/DachunKai/EBVSR).
 - <a name="Kai24icml"></a>Kai, D., Lu, J., Zhang, Y., Sun, X.,  
-*[EvTexture: Event-driven Texture Enhancement for Video Super-Resolution,](https://arxiv.org/pdf/2406.13457v1)*,  
+*[EvTexture: Event-driven Texture Enhancement for Video Super-Resolution,](https://arxiv.org/pdf/2406.13457)*,  
 Int. Conf. on Machine Learning (ICML), 2024. [Project](https://dachunkai.github.io/evtexture.github.io/), [Code](https://github.com/DachunKai/EvTexture).
 
 <a name="joint-filtering"></a>
