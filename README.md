@@ -1088,11 +1088,11 @@ IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.co
 *[Event Stream Super-Resolution via Spatiotemporal Constraint Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Event_Stream_Super-Resolution_via_Spatiotemporal_Constraint_Learning_ICCV_2021_paper.pdf)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2021. [Code](https://github.com/lisiqi19971013/EventStream-SR), [Dataset](https://github.com/lisiqi19971013/event-based-datasets).
 - <a name="Kai23icip"></a>Kai, D., Zhang, Y., Sun, X.,  
-*[Video Super-Resolution Via Event-Driven Temporal Alignment,](https://ieeexplore.ieee.org/abstract/document/10222922/)*,  
-IEEE International Conf. on Image Processing (ICIP), 2023. [Code](https://github.com/DachunKai/EBVSR), [PDF](https://ieeexplore.ieee.org/abstract/document/10222922/).
+*[Video Super-Resolution Via Event-Driven Temporal Alignment,](https://doi.org/10.1109/ICIP49359.2023.10222922)*,  
+IEEE Int. Conf. on Image Processing (ICIP), 2023. [Code](https://github.com/DachunKai/EBVSR).
 - <a name="Kai24icml"></a>Kai, D., Lu, J., Zhang, Y., Sun, X.,  
 *[EvTexture: Event-driven Texture Enhancement for Video Super-Resolution,](https://arxiv.org/pdf/2406.13457v1)*,  
-International Conf. on Machine Learning (ICML), 2024. [Project](https://dachunkai.github.io/evtexture.github.io/), [Code](https://github.com/DachunKai/EvTexture), [PDF](https://arxiv.org/pdf/2406.13457v1).
+Int. Conf. on Machine Learning (ICML), 2024. [Project](https://dachunkai.github.io/evtexture.github.io/), [Code](https://github.com/DachunKai/EvTexture).
 
 <a name="joint-filtering"></a>
 ### Joint/guided filtering
