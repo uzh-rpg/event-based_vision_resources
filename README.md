@@ -539,6 +539,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [Arxiv](https://arxiv.org/
 - <a name="Li24cvpr"></a>Li, S., Zhou, Z., Xue, Z., Li, Y., Du, S., Gao, Y.,<br/>
   *3D Feature Tracking via Event Camera*,<br/>
   IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Code](https://github.com/lisiqi19971013/E-3DTrack), [Dataset](https://github.com/lisiqi19971013/event-based-datasets).
+- <a name="Kang24icra"></a>Kang, Y., Caron, G., Ishikawa, R., Escande, A., Chappellet, K., Sagawa, R., Oishi, T.,<br/>
+*[Direct 3D model-based object tracking with event camera by motion interpolation](https://www.cvl.iis.u-tokyo.ac.jp/~kyf/ICRA2024/BIAM.pdf).*,<br/>
+IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [Dataset](https://www.cvl.iis.u-tokyo.ac.jp/~kyf/ICRA2024/).
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
