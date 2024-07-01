@@ -528,6 +528,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://r
 - <a name="Zhu23iccv"></a>Zhu, Z., Hou, J., Wu DO.,<br/>
 *[Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers](https://arxiv.org/abs/2307.04129).*,<br/>
 IEEE Int. Conf. Computer Vision (ICCV), 2023., [code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker).
+- <a name="Kang24icra"></a>Kang, Y., Caron, G., Ishikawa, R., Escande, A., Chappellet, K., Sagawa, R., Oishi, T.,<br/>
+*[Direct 3D model-based object tracking with event camera by motion interpolation](https://www.cvl.iis.u-tokyo.ac.jp/~kyf/ICRA2024/BIAM.pdf).*,<br/>
+IEEE Int. Conf. Robotics and Automation (ICRA), 2024., [Dataset](https://www.cvl.iis.u-tokyo.ac.jp/~kyf/ICRA2024/).
 - <a name="Wang23arxiv"></a>Wang, Z., Molloy, T., van Goor, P., Mahony, R.,<br/>
 *[Event Blob Tracking: An Asynchronous Real-Time Algorithm](https://arxiv.org/abs/2307.10593).*,<br/>
 arXiv:2307.10593, 2023. [PDF](https://arxiv.org/pdf/2307.10593.pdf), [Video](https://www.youtube.com/watch?v=1W2DC7BI-uc), [Project page](https://github.com/ziweiWWANG/Event-Blob-Tracking).
