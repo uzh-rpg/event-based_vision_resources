@@ -1915,8 +1915,11 @@ IEEE Int. Conf. Image Processing (ICIP), 2022. [PDF](https://arxiv.org/pdf/2202.
 - <a name="Gehrig23cvpr"></a>Gehrig, M., Scaramuzza, D.,  
 *[Recurrent Vision Transformers for Object Detection with Event Cameras](https://arxiv.org/abs/2212.05598)*,  
  IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_mgehrig.pdf), [Code](https://github.com/uzh-rpg/RVT).
-- [El Shair et al., IEEE Access 2023](#Elshair23access).    
-*CSTR: A Compact Spatio-Temporal Representation for Event-Based Vision*.   
+- [El Shair et al., IEEE Access 2023](#Elshair23access).  
+*CSTR: A Compact Spatio-Temporal Representation for Event-Based Vision*.
+- <a name="Himmi24wacv"></a>Himmi, S., Parret, V., Chhatkuli , A., Van Gool, L.,  
+*[MS-EVS: Multispectral event-based vision for deep learning based face detection](https://openaccess.thecvf.com/content/WACV2024/papers/Himmi_MS-EVS_Multispectral_Event-Based_Vision_for_Deep_Learning_Based_Face_Detection_WACV_2024_paper.pdf)*,  
+ IEEE Winter Conf. Applications of Computer Vision (WACV), 2024. [Dataset](https://ms-evs.github.io/), [Poster](https://github.com/ms-evs/ms-evs.github.io/blob/40d657cce1f60f32b6745c5514daeeef5d18d1aa/wacv24-poster.pdf).
 - <a name="Zhang24neurocomputing"></a>Zhang, P., Wang, C., Lam, E. Y.,  
 *[Neuromorphic Imaging and Classification with Graph Learning](https://doi.org/10.1016/j.neucom.2023.127010)*,  
 Neurocomputing, 2024. [PDF](https://arxiv.org/pdf/2309.15627.pdf), [Code](https://github.com/pz-even/ni-graph)
@@ -2900,6 +2903,7 @@ arXiv, 2020. [Code](https://github.com/prophesee-ai/prophesee-automotive-dataset
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](https://n-rod-dataset.github.io/home/), [YouTube](https://youtu.be/IOZl8MxrfpQ), [Poster](https://tub-rip.github.io/eventvision2021/slides/CVPRW21_NROD_poster.pdf).
 - [N-EPIC-Kitchens Dataset of Plizzari et al., CVPR 2022](#Plizzari22cvpr). [Project page](https://github.com/EgocentricVision/N-EPIC-Kitchens)
 - [THU<sup>E-ACT</sup>-50 Dataset](https://github.com/lujiaxuan0520/THU-EACT-50) associated to the paper [Gao et al., TPAMI 2023](#Gao23tpami).
+- [MS-EVS (N-YoutubeFaces, N-MobiFace, N-SpectralFace or Real-SpectralFace)](https://ms-evs.github.io/) associated to the paper [Himmi et al., WACV 2024](#Himmi24wacv)
 - [THU<sup>MV-EACT</sup>-50 Dataset](https://github.com/lujiaxuan0520/THU-MV-EACT-50) associated to the paper [Gao et al., TPAMI 2024](#Gao24tpami).
 - <a name="Duarte24dib"></a>Duarte, L., Neto, P.,  
 *[Event-based dataset for the detection and classification of manufacturing assembly tasks](https://doi.org/10.1016/j.dib.2024.110340),*  
