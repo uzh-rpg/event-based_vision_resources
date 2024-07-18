@@ -1918,8 +1918,8 @@ IEEE Int. Conf. Image Processing (ICIP), 2022. [PDF](https://arxiv.org/pdf/2202.
 - [El Shair et al., IEEE Access 2023](#Elshair23access).  
 *CSTR: A Compact Spatio-Temporal Representation for Event-Based Vision*.
 - <a name="Himmi24wacv"></a>Himmi, S., Parret, V., Chhatkuli , A., Van Gool, L.,  
-*[MS-EVS: Multispectral event-based vision for deep learning based face detection](https://arxiv.org/abs/2402.15584)*,  
- IEEE Winter Conf. Applications of Computer Vision (WACV), 2024. [PDF](https://openaccess.thecvf.com/content/WACV2024/papers/Himmi_MS-EVS_Multispectral_Event-Based_Vision_for_Deep_Learning_Based_Face_Detection_WACV_2024_paper.pdf), [Dataset](https://ms-evs.github.io/), [Poster](https://github.com/ms-evs/ms-evs.github.io/blob/40d657cce1f60f32b6745c5514daeeef5d18d1aa/wacv24-poster.pdf).
+*[MS-EVS: Multispectral event-based vision for deep learning based face detection](https://openaccess.thecvf.com/content/WACV2024/papers/Himmi_MS-EVS_Multispectral_Event-Based_Vision_for_Deep_Learning_Based_Face_Detection_WACV_2024_paper.pdf)*,  
+ IEEE Winter Conf. Applications of Computer Vision (WACV), 2024. [Dataset](https://ms-evs.github.io/), [Poster](https://github.com/ms-evs/ms-evs.github.io/blob/40d657cce1f60f32b6745c5514daeeef5d18d1aa/wacv24-poster.pdf).
 - <a name="Zhang24neurocomputing"></a>Zhang, P., Wang, C., Lam, E. Y.,  
 *[Neuromorphic Imaging and Classification with Graph Learning](https://doi.org/10.1016/j.neucom.2023.127010)*,  
 Neurocomputing, 2024. [PDF](https://arxiv.org/pdf/2309.15627.pdf), [Code](https://github.com/pz-even/ni-graph)
