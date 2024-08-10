@@ -73,6 +73,8 @@
       - [Multi-tasking networks: Face, Head Pose & Eye Gaze estimation](#DMS)
       - [Drowsiness or Yawn](#Drwosiness_or_yawn)
       - [Distraction](#distraction_detecton)
+    - [Face Alignment and Landmark Detection](#face-alignment-landmarking)
+    - [Visual Voice Activity Detection](#voice-activity-detection)
 
 - [Simulators and Emulators](#simulators-emulators)
 - [Datasets](#datasets)
