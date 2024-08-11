@@ -2692,7 +2692,7 @@ IEEE International Conference on Multisensor Fusion and Integration for Intellig
 Sensors,  Vol. 20, Issue 24, Article 7079, 2020.
 - <a name="Savran23cviu"></a>Savran, A.,  
 *[Multi-timescale boosting for efficient and improved event camera face pose alignment](https://doi.org/10.1016/j.cviu.2023.103817)*,  
-Computer Vision and Image Understanding, Volume 236, 103817, November 2023.
+Computer Vision and Image Understanding, Vol. 236, 103817, November 2023.
 
 <a name="voice-activity-detection"></a>
 ## Visual Voice Activity Detection
