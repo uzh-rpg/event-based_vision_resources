@@ -2697,7 +2697,7 @@ Computer Vision and Image Understanding, Volume 236, 103817, November 2023.
 <a name="voice-activity-detection"></a>
 ## Visual Voice Activity Detection
 - <a name="Savran18fg"></a>Savran, A., Tavarone, R., Higy, B., Badino, L., Bartolozzi, C.,  
-*[Energy and Computation Efficient Audio-Visual Voice Activity Detection Driven by Event-Cameras](https://doi.org/10.1109/FG.2018.00055)*,  
+*[Energy and computation efficient audio-visual voice activity detection driven by event-cameras](https://doi.org/10.1109/FG.2018.00055)*,  
 IEEE Int. Conf. on Automatic Face and Gesture Recognition (FG), 2018.
 - <a name="Savran23asyu"></a>Savran, A.,  
 *[Fully convolutional event-camera voice activity detection based on event intensity'](https://doi.org/10.1109/ASYU58738.2023.10296754)*,  
