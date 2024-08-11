@@ -2687,6 +2687,12 @@ IEEE International Conference on Multisensor Fusion and Integration for Intellig
 
 <a name="face-alignment-landmarking"></a>
 ## Face Alignment and Landmark Detection
+- <a name="Savran20sensors"></a>Savran, A., Bartolozzi, C.,  
+*[Face pose alignment with event cameras](https://doi.org/10.3390/s20247079)*,  
+Sensors,  Vol. 20, Issue 24, Article 7079, 2020.
+- <a name="Savran23cviu"></a>Savran, A.,  
+*[Multi-timescale boosting for efficient and improved event camera face pose alignment](https://doi.org/10.1016/j.cviu.2023.103817)*,  
+Computer Vision and Image Understanding, Volume 236, 103817, November 2023.
 
 <a name="voice-activity-detection"></a>
 ## Visual Voice Activity Detection
