@@ -73,6 +73,8 @@
       - [Multi-tasking networks: Face, Head Pose & Eye Gaze estimation](#DMS)
       - [Drowsiness or Yawn](#Drwosiness_or_yawn)
       - [Distraction](#distraction_detecton)
+    - [Face Alignment and Landmark Detection](#face-alignment-landmarking)
+    - [Visual Voice Activity Detection](#voice-activity-detection)
 
 - [Simulators and Emulators](#simulators-emulators)
 - [Datasets](#datasets)
@@ -2682,6 +2684,24 @@ IEEE International Conference on Multisensor Fusion and Integration for Intellig
 - <a name="Shariff23ojvt"></a>Shariff, W., Dilmaghani, M.S., Kielty, P., Lemley, J., Farooq, M.A., Khan, F. and Corcoran, P.,  
   *[Neuromorphic Driver Monitoring Systems: A Computationally Efficient Proof-of-Concept for Driver Distraction Detection](https://doi.org/10.1109/OJVT.2023.3325656)*,  
   IEEE Open Journal of Vehicular Technology, vol. 4, pp. 836-848, 2023.
+
+<a name="face-alignment-landmarking"></a>
+## Face Alignment and Landmark Detection
+- <a name="Savran20sensors"></a>Savran, A., Bartolozzi, C.,  
+*[Face pose alignment with event cameras](https://doi.org/10.3390/s20247079)*,  
+Sensors, 20:24, Article 7079, 2020.
+- <a name="Savran23cviu"></a>Savran, A.,  
+*[Multi-timescale boosting for efficient and improved event camera face pose alignment](https://doi.org/10.1016/j.cviu.2023.103817)*,  
+Computer Vision and Image Understanding, Vol. 236, 103817, November 2023.
+
+<a name="voice-activity-detection"></a>
+## Visual Voice Activity Detection
+- <a name="Savran18fg"></a>Savran, A., Tavarone, R., Higy, B., Badino, L., Bartolozzi, C.,  
+*[Energy and computation efficient audio-visual voice activity detection driven by event-cameras](https://doi.org/10.1109/FG.2018.00055)*,  
+IEEE Int. Conf. on Automatic Face and Gesture Recognition (FG), 2018.
+- <a name="Savran23asyu"></a>Savran, A.,  
+*[Fully convolutional event-camera voice activity detection based on event intensity'](https://doi.org/10.1109/ASYU58738.2023.10296754)*,  
+IEEE Innovations Intell. Syst. Appl. Conf. (ASYU), 2023.
 
 <a name="simulators-emulators"></a>
 # Simulators and Emulators
