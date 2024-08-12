@@ -2689,7 +2689,7 @@ IEEE International Conference on Multisensor Fusion and Integration for Intellig
 ## Face Alignment and Landmark Detection
 - <a name="Savran20sensors"></a>Savran, A., Bartolozzi, C.,  
 *[Face pose alignment with event cameras](https://doi.org/10.3390/s20247079)*,  
-Sensors,  Vol. 20, Issue 24, Article 7079, 2020.
+Sensors, 20:24, Article 7079, 2020.
 - <a name="Savran23cviu"></a>Savran, A.,  
 *[Multi-timescale boosting for efficient and improved event camera face pose alignment](https://doi.org/10.1016/j.cviu.2023.103817)*,  
 Computer Vision and Image Understanding, Vol. 236, 103817, November 2023.
@@ -2701,7 +2701,7 @@ Computer Vision and Image Understanding, Vol. 236, 103817, November 2023.
 IEEE Int. Conf. on Automatic Face and Gesture Recognition (FG), 2018.
 - <a name="Savran23asyu"></a>Savran, A.,  
 *[Fully convolutional event-camera voice activity detection based on event intensity'](https://doi.org/10.1109/ASYU58738.2023.10296754)*,  
-IEEE Innovations in Intelligent Systems and Applications Conference (ASYU), 2023.
+IEEE Innovations Intell. Syst. Appl. Conf. (ASYU), 2023.
 
 <a name="simulators-emulators"></a>
 # Simulators and Emulators
