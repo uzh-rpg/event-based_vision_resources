@@ -1555,6 +1555,9 @@ IEEE Robotics and Automation Letters, 7(3):8146-8153, 2022. [PDF](https://www.ir
 - <a name="Ji23arxiv"></a>Ji, X., Wei, J., Wang, Y., Shang, H., Kneip, L.,  
 *[Cross-modal Place Recognition in Image Databases using Event-based Sensors](https://arxiv.org/abs/2307.01047)*,  
 arXiv, 2023.
+- <a name="Fischer22ral"></a>Fischer, T., Milford, M.,  
+*[How Many Events Do You Need? Event-Based Visual Place Recognition Using Sparse But Varying Pixels](https://doi.org/10.1109/LRA.2022.3216226)*,    
+IEEE Robotics and Automation Letters (RA-L), 7(4):12275-12282, 2022. [PDF](https://arxiv.org/pdf/2206.13673), [Code](https://github.com/Tobias-Fischer/sparse-event-vpr)
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
