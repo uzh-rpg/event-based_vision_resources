@@ -3255,6 +3255,9 @@ Ph.D. Thesis, Keio University, Tokyo, Japan, 2023. [PDF](https://koara.lib.keio.
 - <a name="Elshair24Phd"></a>El Shair, Z.,    
 *[Advancing Neuromorphic Event-Based Vision Methods for Robotic Perception Tasks](https://dx.doi.org/10.7302/8116)*,    
 Ph.D. Thesis, University of Michigan-Dearborn, USA, 2024. [PDF](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/177658/El_Shair_dissertation_Advanced_Neuromorphic_Event_Based_Vision_Methods.pdf?sequence=1&isAllowed=y)
+- <a name="Freeman24Phd"></a>Freeman, A.,  
+*[Rethinking Video with a Universal Event-Based Representation](https://www.proquest.com/docview/3094169931)*,    
+Ph.D. Thesis, University of North Carolina, Chapel Hill, North Carolina, USA, 2024. [PDF](https://arxiv.org/pdf/2408.06248)
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
 
