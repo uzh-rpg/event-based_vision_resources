@@ -1129,7 +1129,7 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2014. [YouTube](https://youtu.be/T
 - <a name="Rodriguez22icraw"></a>Rodriguez-Gomez, J.P., Gallego, G., Martinez-de Dios, J.R., Ollero, A.,  
 *[Stabilizing Event Data on Flapping-wing Robots for Simpler Perception](https://zenodo.org/record/6602940/files/Workshop_Flapping_Wing_Challenges.pdf)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA) Workshop on Challenges of Flapping-wing Aerial Robots, 2022. [Slides](https://grvc.us.es/newweb/wp-content/uploads/2022/06/icra2022_flappingwingworkshop.pdf)
-- <a name="Rodriguez24ral"></a>Rodrıguez-Gomez, J.P., Martınez-de Dios, J.R., Ollero, A, Gallego, G.,  
+- <a name="Rodriguez24ral"></a>Rodrıguez-Gomez, J.P., Martınez-de Dios, J.R., Ollero, A., Gallego, G.,  
 *[On the Benefits of Visual Stabilization for Frame- and Event-based Perception](https://ieeexplore.ieee.org/document/10648753/)*,  
 IEEE Robotics and Automation Letters (RA-L) 2024. [PDF](https://arxiv.org/pdf/2408.15602), [YouTube](https://www.youtube.com/watch?v=LAOztE-8FfY), [Code](https://github.com/tub-rip/visual_stabilization).
 
