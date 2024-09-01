@@ -301,6 +301,9 @@ arXiv, 2022. [YouTube](https://youtu.be/HV9_FhS-f88), [code](https://uzh-rpg.git
 - <a name="Ercan23cvprw"></a>Ercan, B., Eker, O., Erdem, A., Erdem, E.,  
 *[EVREAL: Towards a Comprehensive Benchmark and Analysis Suite for Event-based Video Reconstruction](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Ercan_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-Based_CVPRW_2023_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [PDF](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Ercan_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-Based_CVPRW_2023_paper.pdf), [Project Page](https://ercanburak.github.io/evreal.html), [Suppl.](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/supplemental/Ercan_EVREAL_Towards_a_CVPRW_2023_supplemental.zip), [Code](https://github.com/ercanburak/EVREAL).
+- <a name="Tapia23iros"></a>Tapia, R., Rodríguez-Gómez, J.P., Sanchez-Diaz, J.A., Gañán, F.J., Rodríguez, I.G., Luna-Santamaria, J., Martínez-De Dios, J.R., Ollero, A.,  
+*[A Comparison Between Framed-Based and Event-Based Cameras for Flapping-Wing Robot Perception](https://doi.org/10.1109/IROS55552.2023.10342500)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023, pp. 3025-3032. [PDF](https://arxiv.org/pdf/2309.05450), [YouTube](https://www.youtube.com/watch?v=a0X2NGPtY8w).  
 
 <a name="algorithms"></a>
 # Algorithms
@@ -1126,6 +1129,9 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2014. [YouTube](https://youtu.be/T
 - <a name="Rodriguez22icraw"></a>Rodriguez-Gomez, J.P., Gallego, G., Martinez-de Dios, J.R., Ollero, A.,  
 *[Stabilizing Event Data on Flapping-wing Robots for Simpler Perception](https://zenodo.org/record/6602940/files/Workshop_Flapping_Wing_Challenges.pdf)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA) Workshop on Challenges of Flapping-wing Aerial Robots, 2022. [Slides](https://grvc.us.es/newweb/wp-content/uploads/2022/06/icra2022_flappingwingworkshop.pdf)
+- <a name="Rodriguez24ral"></a>Rodrıguez-Gomez, J.P., Martınez-de Dios, J.R., Ollero, A., Gallego, G.,  
+*[On the Benefits of Visual Stabilization for Frame- and Event-based Perception](https://doi.org/10.1109/LRA.2024.3450290)*,  
+IEEE Robotics and Automation Letters (RA-L) 2024. [PDF](https://arxiv.org/pdf/2408.15602), [YouTube](https://www.youtube.com/watch?v=LAOztE-8FfY), [Code](https://github.com/tub-rip/visual_stabilization).
 
 <a name="polarization-reconstruction"></a>
 ### Polarization Reconstruction
@@ -3252,6 +3258,9 @@ Ph.D. Thesis, University of Adelaide, Adelaide, Australia, 2022.
 - <a name="Chamorro22Phd"></a>Chamorro, W. O.,  
 *[Event-based Simultaneous Localization and Mapping](https://www.iri.upc.edu/thesis/show/136)*,  
 Ph.D. Thesis, Universitat Politècnica de Catalunya, Barcelona, Spain, 2023. [PDF](http://www.iri.upc.edu/people/cetto/William_thesis/Chamorro_phdthesis.pdf)
+- <a name="Rodriguez23Phd"></a>Rodríguez-Gómez, J.P.,  
+*[Event-based Perception for Aerial Robots: From Multirotors to Ornithopters](https://idus.us.es/handle/11441/147735)*,  
+Ph.D. Thesis, University of Seville, Seville, Spain, 2023. [PDF](https://grvc.us.es/newweb/wp-content/uploads/2023/06/Thesis_JPRG.pdf)
 - <a name="Shiba23Phd"></a>Shiba, S.,  
 *[Estimating motion with an event camera](https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO50002002-20236069-0003)*,  
 Ph.D. Thesis, Keio University, Tokyo, Japan, 2023. [PDF](https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/KO50002002-20236069-0003.pdf?file_id=174804)
