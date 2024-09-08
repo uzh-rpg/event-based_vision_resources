@@ -533,8 +533,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://r
 - <a name="Zhu23iccv"></a>Zhu, Z., Hou, J., Wu DO.,<br/>
 *[Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers](https://arxiv.org/abs/2307.04129).*,<br/>
 IEEE Int. Conf. Computer Vision (ICCV), 2023., [code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker).
-- <a name="Wang23arxiv"></a>Wang, Z., Molloy, T., van Goor, P., Mahony, R.,<br/>
-*[Asynchronous Blob Tracker for Event Cameras](https://arxiv.org/abs/2307.10593).*,<br/>
+- <a name="Wang24tro"></a>Wang, Z., Molloy, T., van Goor, P., Mahony, R.,<br/>
+*[Asynchronous Blob Tracker for Event Cameras](https://doi.org/10.1109/TRO.2024.3454410).*,<br/>
 IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2307.10593.pdf), [Video](https://www.youtube.com/watch?v=L_wJjhcToOU), [Project page](https://github.com/ziweiWWANG/AEB-Tracker).
 - <a name="Nagaraj23icra"></a>Nagaraj, M., Liyanagedera, C.M., Roy, K.,<br/>
 *[DOTIE - Detecting Objects through Temporal Isolation of Events using a Spiking Architecture](https://ieeexplore.ieee.org/abstract/document/10161164).*,<br/>
