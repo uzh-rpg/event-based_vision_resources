@@ -1790,6 +1790,9 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2021.  [Project page](https://sit
 - <a name="Wang23arxiva"></a>Wang, Z., Guo, J., Daniilidis, K.,  
 *[Un-EvMoSeg: Unsupervised Event-based Independent Motion Segmentation](https://arxiv.org/pdf/2312.00114.pdf)*,  
 arxiv, 2023.  [Project page](https://www.cis.upenn.edu/~ziyunw/un_evmoseg/).
+- <a name="Jiang24visapp"></a>Jiang, C., Moreau, J., Davoine, F.,  
+*[Event-based Semantic-aided Motion Segmentation](https://doi.org/10.5220/0012308100003660)*,  
+Int. Joint Conf. on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP), 2024.
 - [Shiba et al. TPAMI 2024](#Shiba24tpami),  
 *Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
 
@@ -3022,6 +3025,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [Video](https:/
 - <a name="Bao23arxiv"></a>Bao, Y., Sun, L., Ma, Y., Gu, D., Wang, K.,  
 *[Improving Fast Auto-Focus with Event Polarity](https://arxiv.org/abs/2303.08611)*,  
 Arxiv, 2023.
+- <a name="Cocheteux24cvprw"></a>Cocheteux, M., Moreau, J., Davoine, F.,  
+*[MULi-Ev: Maintaining Unperturbed LiDAR-Event Calibration](https://openaccess.thecvf.com/content/CVPR2024W/WAD/html/Cocheteux_MULi-Ev_Maintaining_Unperturbed_LiDAR-Event_Calibration_CVPRW_2024_paper.html)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024.
 
 
 <a name="software-algorithms"></a>
