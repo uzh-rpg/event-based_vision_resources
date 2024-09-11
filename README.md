@@ -3027,7 +3027,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [Video](https:/
 Arxiv, 2023.
 - <a name="Cocheteux24cvprw"></a>Cocheteux, M., Moreau, J., Davoine, F.,  
 *[MULi-Ev: Maintaining Unperturbed LiDAR-Event Calibration](https://openaccess.thecvf.com/content/CVPR2024W/WAD/html/Cocheteux_MULi-Ev_Maintaining_Unperturbed_LiDAR-Event_Calibration_CVPRW_2024_paper.html)*,  
-CVPR Workshop on Autonomous Driving, 2024.
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024.
 
 
 <a name="software-algorithms"></a>
