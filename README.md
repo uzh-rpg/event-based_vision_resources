@@ -305,6 +305,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [PDF
 - <a name="Tapia23iros"></a>Tapia, R., Rodríguez-Gómez, J.P., Sanchez-Diaz, J.A., Gañán, F.J., Rodríguez, I.G., Luna-Santamaria, J., Martínez-De Dios, J.R., Ollero, A.,  
 *[A Comparison Between Framed-Based and Event-Based Cameras for Flapping-Wing Robot Perception](https://doi.org/10.1109/IROS55552.2023.10342500)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023, pp. 3025-3032. [PDF](https://arxiv.org/pdf/2309.05450), [YouTube](https://www.youtube.com/watch?v=a0X2NGPtY8w).  
+- <a name="Ghosh24stereo"></a>Ghosh, S., Gallego, G.,  
+*[Event-based Stereo Depth Estimation: A Survey](https://arxiv.org/abs/2409.17680)*,  
+arXiv 2024.
 
 <a name="algorithms"></a>
 # Algorithms
@@ -1421,6 +1424,8 @@ IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 32(11):7489-7504, 2022.
 - <a name="Gu23eistereo"></a>Gu, J., Zhou, J., Chu, R.S.W., Chen, Y., Zhang, J., Cheng, X., Zhang, S., Ren, J.S.,  
 *[Self-Supervised Intensity-Event Stereo Matching](https://arxiv.org/abs/2211.00509)*,  
 J. Imaging Sci. Technol. 2023. [Project page and Code](https://ringoswchu.com/Research/iestereo/).
+- [Ghosh and Gallego, arxiv 2024](#Ghosh24stereo),  
+*Event-based Stereo Depth Estimation: A Survey*.
 
 
 <a name="depth-stereo-active"></a>
