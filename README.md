@@ -307,7 +307,11 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [PDF
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023, pp. 3025-3032. [PDF](https://arxiv.org/pdf/2309.05450), [YouTube](https://www.youtube.com/watch?v=a0X2NGPtY8w).  
 - <a name="Ghosh24stereo"></a>Ghosh, S., Gallego, G.,  
 *[Event-based Stereo Depth Estimation: A Survey](https://arxiv.org/abs/2409.17680)*,  
-arXiv 2024.
+arXiv 2024,
+- <a name="Cazzato2024application"></a>Cazzato, D., Bono, F.,  
+*[An Application-Driven Survey on Event-Based Neuromorphic Computer Vision](https://www.mdpi.com/2078-2489/15/8/472)*,  
+Information 15.8 (2024): 472.
+
 
 <a name="algorithms"></a>
 # Algorithms
