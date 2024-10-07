@@ -36,6 +36,7 @@
         - [Stereo](#depth-stereo)
         - [Stereo Depth Estimation using Structured Light](#depth-stereo-active)
         - [Stereoscopic panoramic imaging](#depth-stereo-pano)
+        - [LiDAR Guided Stereo Depth Estimation](#depth-stereo-fusion)
     - [SLAM (Simultaneous Localization And Mapping)](#slam)
         - [Localization, Ego-motion estimation](#slam-localization)
         - [Visual Odometry](#visual-odometry)
@@ -1466,6 +1467,11 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2015, pp. 466-474. [P
 *[An Event-Driven Stereo System for Real-Time 3-D 360° Panoramic Vision](https://doi.org/10.1109/TIE.2015.2477265)*,  
 IEEE Trans. Ind. Electron., 63(1):418-428, 2016.
 
+<a name="depth-stereo-fusion"></a>
+### LiDAR Guided Stereo Depth Estimation
+- <a name="Bartolomei24eccv"></a>Bartolomei, L., Poggi, M., Conti, A., Mattoccia, S.,
+*[LiDAR-Event Stereo Fusion with Hallucinations](https://doi.org/10.1007/978-3-031-72658-3_8)*,
+European Conf. Computer Vision (ECCV), 2024, pp. 125-145. [PDF](https://arxiv.org/pdf/2408.04633). [Project page](https://eventvppstereo.github.io/).
 
 <a name="slam"></a>
 ## SLAM (Simultaneous Localization And Mapping)
