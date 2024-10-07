@@ -1469,8 +1469,8 @@ IEEE Trans. Ind. Electron., 63(1):418-428, 2016.
 - <a name="Brebion23scia"></a>Brebion, V., Moreau, J., Davoine, F.,  
 *[Learning to Estimate Two Dense Depths from LiDAR and Event Data](https://doi.org/10.1007/978-3-031-31438-4_34)*,  
 22nd Scandinavian Conference on Image Analysis (SCIA 2023), 2023. [PDF](https://arxiv.org/pdf/2302.14444.pdf), [Project Page (suppl. mat., poster, code, dataset, videos)](https://vbrebion.github.io/ALED).
-- <a name="Bartolomei24eccv"></a>Bartolomei, L., Poggi, M., Conti, A., Mattoccia, S.,
-*[LiDAR-Event Stereo Fusion with Hallucinations](https://doi.org/10.1007/978-3-031-72658-3_8)*,
+- <a name="Bartolomei24eccv"></a>Bartolomei, L., Poggi, M., Conti, A., Mattoccia, S.,  
+*[LiDAR-Event Stereo Fusion with Hallucinations](https://doi.org/10.1007/978-3-031-72658-3_8)*,  
 European Conf. Computer Vision (ECCV), 2024, pp. 125-145. [PDF](https://arxiv.org/pdf/2408.04633). [Project page](https://eventvppstereo.github.io/).
 
 <a name="slam"></a>
