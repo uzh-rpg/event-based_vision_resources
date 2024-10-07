@@ -36,6 +36,7 @@
         - [Stereo](#depth-stereo)
         - [Stereo Depth Estimation using Structured Light](#depth-stereo-active)
         - [Stereoscopic panoramic imaging](#depth-stereo-pano)
+        - [Events and LiDAR](#event-lidar-fusion)
     - [SLAM (Simultaneous Localization And Mapping)](#slam)
         - [Localization, Ego-motion estimation](#slam-localization)
         - [Visual Odometry](#visual-odometry)
@@ -1188,9 +1189,6 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [PDF](http://rpg.ifi.uzh.ch/d
 - <a name="Muglikar23cvpr"></a>Muglikar, M., Bauersfeld, L., Moeys, D., Scaramuzza, D.,  
 *[Event-based Shape from Polarization](https://arxiv.org/abs/2301.06855)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_Muglikar.pdf), [YouTube](https://youtu.be/sF3Ue2Zkpec), [code](https://github.com/uzh-rpg/ESfP).  
-- <a name="Brebion23scia"></a>Brebion, V., Moreau, J., Davoine, F.,  
-*[Learning to Estimate Two Dense Depths from LiDAR and Event Data](https://doi.org/10.1007/978-3-031-31438-4_34)*,  
-22nd Scandinavian Conference on Image Analysis (SCIA 2023), 2023. [PDF](https://arxiv.org/pdf/2302.14444.pdf), [Project Page (suppl. mat., poster, code, dataset, videos)](https://vbrebion.github.io/ALED).
 - <a name="Klenk23ral"></a>Klenk, S., Koestler, L., Scaramuzza, D., Cremers, D.,  
 *[E-NeRF: Neural Radiance Fields from a Moving Event Camera](https://doi.org/10.1109/LRA.2023.3240646)*,  
 IEEE Robotics and Automation Letters (RA-L) 8(3):1587-1594, 2023. [PDF](https://arxiv.org/pdf/2208.11300.pdf), [Code](https://github.com/knelk/enerf)
@@ -1466,6 +1464,14 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2015, pp. 466-474. [P
 *[An Event-Driven Stereo System for Real-Time 3-D 360° Panoramic Vision](https://doi.org/10.1109/TIE.2015.2477265)*,  
 IEEE Trans. Ind. Electron., 63(1):418-428, 2016.
 
+<a name="event-lidar-fusion"></a>
+### Events and LiDAR
+- <a name="Brebion23scia"></a>Brebion, V., Moreau, J., Davoine, F.,  
+*[Learning to Estimate Two Dense Depths from LiDAR and Event Data](https://doi.org/10.1007/978-3-031-31438-4_34)*,  
+22nd Scandinavian Conference on Image Analysis (SCIA 2023), 2023. [PDF](https://arxiv.org/pdf/2302.14444.pdf), [Project Page (suppl. mat., poster, code, dataset, videos)](https://vbrebion.github.io/ALED).
+- <a name="Bartolomei24eccv"></a>Bartolomei, L., Poggi, M., Conti, A., Mattoccia, S.,
+*[LiDAR-Event Stereo Fusion with Hallucinations](https://doi.org/10.1007/978-3-031-72658-3_8)*,
+European Conf. Computer Vision (ECCV), 2024, pp. 125-145. [PDF](https://arxiv.org/pdf/2408.04633). [Project page](https://eventvppstereo.github.io/).
 
 <a name="slam"></a>
 ## SLAM (Simultaneous Localization And Mapping)
