@@ -991,7 +991,7 @@ IEEE Trans. Image Process. (TIP), 33:1826-1837, 2024. [PDF](https://arxiv.org/pd
 *[Neuromorphic Imaging with Joint Image Deblurring and Event Denoising](https://doi.org/10.1109/TIP.2024.3374074)*,  
 IEEE Trans. Image Process. (TIP), 2024. [PDF](https://arxiv.org/pdf/2309.16106.pdf), [Code](https://github.com/pz-even/ni-joint)
 - <a name="Muglikar23arxiv"></a>Zou, R., Muglikar, M., Messikommer, N., Scaramuzza, D.,   
-*[Seeing behind Dynamic Occlusions with Event Cameras]((https://arxiv.org/abs/2307.15829))*,  
+*[Seeing behind Dynamic Occlusions with Event Cameras](https://arxiv.org/abs/2307.15829)*,  
 Arxiv, 2024.
 - <a name="Muglikar24arxiv"></a>Muglikar, M., Somasundaram, S., Dave, A., Charbon, E., Raskar, R., Scaramuzza, D.,   
 *[Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging](https://arxiv.org/abs/2404.11511)*,  
