@@ -995,7 +995,7 @@ IEEE Trans. Image Process. (TIP), 2024. [PDF](https://arxiv.org/pdf/2309.16106.p
 Arxiv, 2024.
 - <a name="Muglikar24arxiv"></a>Muglikar, M., Somasundaram, S., Dave, A., Charbon, E., Raskar, R., Scaramuzza, D.,   
 *[Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging](https://arxiv.org/abs/2404.11511)*,  
-Arxiv, 2024. [PDF](https://arxiv.org/pdf/2404.11511)
+Arxiv, 2024.
 
 <a name="video-synthesis"></a>
 ### Video Synthesis
