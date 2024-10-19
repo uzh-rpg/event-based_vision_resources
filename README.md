@@ -1,9 +1,6 @@
 # Event-based Vision Resources
 
-## <a href="https://sites.google.com/view/iros-2024-workshop">IROS 2024. Workshop on Embodied Neuromorphic AI for Robotic Perception and Control, Oct 14 (PM), 2024.</a>
-## <a href="https://neural-fields-beyond-cams.github.io/">ECCV 2024. 1st Workshop on Neural Fields Beyond Conventional Cameras, Sep 30 (AM), 2024.</a>
-## <a href="https://sites.google.com/view/nevi2024">ECCV 2024. Workshop on Neuromorphic Vision (NeVi), Sep 29 (PM), 2024.</a>
-## <a href="https://tub-rip.github.io/eventvision2023/">CVPR 2023 Workshop on Event-based Vision, June 19, 2023.</a>
+<!-- ## <a href="https://tub-rip.github.io/eventvision2023/">CVPR 2023 Workshop on Event-based Vision, June 19, 2023.</a> -->
 ## <a href="https://www.neuropac.info/">NeuroPAC</a>
 
 ## Table of Contents:
@@ -109,6 +106,9 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
 
 <a name="workshops"></a>
 # Workshops
+- [IROS 2024 Workshop on Embodied Neuromorphic AI for Robotic Perception and Control](https://sites.google.com/view/iros-2024-workshop)
+- [ECCV 2024 Workshop on Neuromorphic Vision (NeVi)](https://sites.google.com/view/nevi2024), **[Slides](https://sites.google.com/view/nevi2024/program)**
+- [ECCV 2024 1st Workshop on Neural Fields Beyond Conventional Cameras](https://neural-fields-beyond-cams.github.io/)
 - [CVPR 2023 Fourth International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2023), **[Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK)**
 - [IEEE Embedded Vision Workshop Series](https://embeddedvisionworkshop.wordpress.com), with focus on Biologically-inspired vision and embedded systems.
 - [IISW 2023 Int. Image Sensor Workshop](https://imagesensors.org/2023-international-image-sensor-workshop/)
