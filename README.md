@@ -30,7 +30,7 @@
         - [Joint/guided filtering](#joint-filtering)
         - [Tone mapping](#tone-mapping)
         - [Visual Stabilization](#visual-stabilization)
-        - [Polarization Reconstruction](@polarization-reconstruction)
+        - [Polarization Reconstruction](#polarization-reconstruction)
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
         - [Monocular](#depth-mono)
         - [Stereo](#depth-stereo)
