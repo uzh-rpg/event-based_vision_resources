@@ -853,9 +853,9 @@ IEEE Trans. Image Process. (TIP), 31:7237-7251, 2022. [PDF](https://arxiv.org/ab
 - <a name="Zheng22tip"></a>Zheng, Y., Yu, Z., Wang, S., Huang, T.,  
 *[Spike-Based Motion Estimation for Object Tracking Through Bio-Inspired Unsupervised Learning](https://doi.org/10.1109/TIP.2022.3228168)*,  
 IEEE Trans. Image Process. (TIP), 32:335-349, 2022.
-- <a name="Gehrig23pami_flow"></a>Gehrig, M., Muglikar, M., Scaramuzza, D.,  
+- <a name="Gehrig24pami"></a>Gehrig, M., Muglikar, M., Scaramuzza, D.,  
 *[Dense Continuous-Time Optical Flow from Events and Frames](https://doi.org/10.1109/TPAMI.2024.3361671)*,  
-IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023., 2022., [PDF] (https://arxiv.org/abs/2203.13674), [Code and Dataset] (https://github.com/uzh-rpg/bflow)
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024., [PDF](https://arxiv.org/abs/2203.13674), [Code and Dataset] (https://github.com/uzh-rpg/bflow)
 - <a name="Tian22bmvc"></a>Tian, Y., Andrade-Cetto, J.,  
 *[Event transformer FlowNet for optical flow estimation](https://bmvc2022.mpi-inf.mpg.de/577/)*,  
 British Mach. Vis. Conf., 2022, [PDF](https://bmvc2022.mpi-inf.mpg.de/0577.pdf), [Poster](https://bmvc2022.mpi-inf.mpg.de/0577_poster.pdf), [Video](https://bmvc2022.mpi-inf.mpg.de/0577_video.mp4), [Supplementary](https://bmvc2022.mpi-inf.mpg.de/0577_supp.zip).
@@ -990,8 +990,8 @@ IEEE Trans. Image Process. (TIP), 33:1826-1837, 2024. [PDF](https://arxiv.org/pd
 - <a name="Zhang24tip"></a>Zhang, P., Liu, H., Ge, Z., Wang, C., Lam, E. Y.,   
 *[Neuromorphic Imaging with Joint Image Deblurring and Event Denoising](https://doi.org/10.1109/TIP.2024.3374074)*,  
 IEEE Trans. Image Process. (TIP), 2024. [PDF](https://arxiv.org/pdf/2309.16106.pdf), [Code](https://github.com/pz-even/ni-joint)
-- <a name="Muglikar23arxiv"></a>Zou.R, Muglikar.M, Messikommer.N, Scaramuzza. D,   
-*[Seeing behind Dynamic Occlusions with Event Cameras](https://arxiv.org/abs/2307.15829)*,  
+- <a name="Muglikar23arxiv"></a>Zou, R., Muglikar, M., Messikommer, N., Scaramuzza, D.,   
+*[Seeing behind Dynamic Occlusions with Event Cameras]*,  
 Arxiv, 2024. [PDF](https://arxiv.org/abs/2307.15829)
 - <a name="Muglikar24arxiv"></a>Muglikar.M, Somasundaram.S, Dave.A, Charbon.E, Raskar.R, Scaramuzza. D,   
 *[Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging](https://arxiv.org/abs/2404.11511)*,  
@@ -1155,9 +1155,9 @@ IEEE Robotics and Automation Letters (RA-L) 2024. [PDF](https://arxiv.org/pdf/24
 *[Deep Polarization Reconstruction with PDAVIS Events](https://openaccess.thecvf.com/content/CVPR2023/html/Mei_Deep_Polarization_Reconstruction_With_PDAVIS_Events_CVPR_2023_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Mei_Deep_Polarization_Reconstruction_With_PDAVIS_Events_CVPR_2023_paper.pdf), [code](https://github.com/SensorsINI/e2p).
 
-- <a name="Muglikar23cvpr"></a>Muglikar, M., Bauersfeld, L., Moeys, D., Scaramuzza, D.,  
-*[Event-based Shape from Polarization](https://arxiv.org/abs/2301.06855)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_Muglikar.pdf), [YouTube](https://youtu.be/sF3Ue2Zkpec), [code](https://github.com/uzh-rpg/ESfP), [Project Page and Dataset](https://rpg.ifi.uzh.ch/esfp.html).  
+- [Muglikar et al., CVPR 2023](#Muglikar23CVPR),  
+*Event-based Shape from Polarization*.
+
 <a name="depth-estimation"></a>
 ## Depth Estimation (3D Reconstruction)
 
@@ -1196,8 +1196,8 @@ arXiv, 2020. [Code](https://github.com/alexisbdr/e3d).
 *[Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction](https://doi.org/10.1109/LRA.2021.3060707)*,  
 IEEE Robotics and Automation Letters (RA-L), 2021. [PDF](http://rpg.ifi.uzh.ch/docs/RAL21_Gehrig.pdf), [Code](http://rpg.ifi.uzh.ch/rpg_ramnet), [Project Page](http://rpg.ifi.uzh.ch/RAMNet.html).
 - <a name="Muglikar23cvpr"></a>Muglikar, M., Bauersfeld, L., Moeys, D., Scaramuzza, D.,  
-*[Event-based Shape from Polarization](https://arxiv.org/abs/2301.06855)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_Muglikar.pdf), [YouTube](https://youtu.be/sF3Ue2Zkpec), [code](https://github.com/uzh-rpg/ESfP), [Project Page and Dataset](https://rpg.ifi.uzh.ch/esfp.html).  
+*[Event-based Shape from Polarization](https://doi.org/10.1109/CVPR52729.2023.00155)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Muglikar_Event-Based_Shape_From_Polarization_CVPR_2023_paper.pdf), [YouTube](https://youtu.be/sF3Ue2Zkpec), [code](https://github.com/uzh-rpg/ESfP), [Project Page and Dataset](https://rpg.ifi.uzh.ch/esfp.html).  
 - <a name="Klenk23ral"></a>Klenk, S., Koestler, L., Scaramuzza, D., Cremers, D.,  
 *[E-NeRF: Neural Radiance Fields from a Moving Event Camera](https://doi.org/10.1109/LRA.2023.3240646)*,  
 IEEE Robotics and Automation Letters (RA-L) 8(3):1587-1594, 2023. [PDF](https://arxiv.org/pdf/2208.11300.pdf), [Code](https://github.com/knelk/enerf)
