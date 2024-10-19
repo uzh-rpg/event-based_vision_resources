@@ -855,7 +855,7 @@ IEEE Trans. Image Process. (TIP), 31:7237-7251, 2022. [PDF](https://arxiv.org/ab
 IEEE Trans. Image Process. (TIP), 32:335-349, 2022.
 - <a name="Gehrig24pami"></a>Gehrig, M., Muglikar, M., Scaramuzza, D.,  
 *[Dense Continuous-Time Optical Flow from Events and Frames](https://doi.org/10.1109/TPAMI.2024.3361671)*,  
-IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024., [PDF](https://arxiv.org/abs/2203.13674), [Code and Dataset] (https://github.com/uzh-rpg/bflow)
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024., [PDF](https://arxiv.org/abs/2203.13674), [Code and Dataset](https://github.com/uzh-rpg/bflow)
 - <a name="Tian22bmvc"></a>Tian, Y., Andrade-Cetto, J.,  
 *[Event transformer FlowNet for optical flow estimation](https://bmvc2022.mpi-inf.mpg.de/577/)*,  
 British Mach. Vis. Conf., 2022, [PDF](https://bmvc2022.mpi-inf.mpg.de/0577.pdf), [Poster](https://bmvc2022.mpi-inf.mpg.de/0577_poster.pdf), [Video](https://bmvc2022.mpi-inf.mpg.de/0577_video.mp4), [Supplementary](https://bmvc2022.mpi-inf.mpg.de/0577_supp.zip).
@@ -991,9 +991,9 @@ IEEE Trans. Image Process. (TIP), 33:1826-1837, 2024. [PDF](https://arxiv.org/pd
 *[Neuromorphic Imaging with Joint Image Deblurring and Event Denoising](https://doi.org/10.1109/TIP.2024.3374074)*,  
 IEEE Trans. Image Process. (TIP), 2024. [PDF](https://arxiv.org/pdf/2309.16106.pdf), [Code](https://github.com/pz-even/ni-joint)
 - <a name="Muglikar23arxiv"></a>Zou, R., Muglikar, M., Messikommer, N., Scaramuzza, D.,   
-*[Seeing behind Dynamic Occlusions with Event Cameras]*,  
-Arxiv, 2024. [PDF](https://arxiv.org/abs/2307.15829)
-- <a name="Muglikar24arxiv"></a>Muglikar.M, Somasundaram.S, Dave.A, Charbon.E, Raskar.R, Scaramuzza. D,   
+*[Seeing behind Dynamic Occlusions with Event Cameras]((https://arxiv.org/abs/2307.15829))*,  
+Arxiv, 2024.
+- <a name="Muglikar24arxiv"></a>Muglikar, M., Somasundaram, S., Dave, A., Charbon, E., Raskar, R., Scaramuzza, D.,   
 *[Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging](https://arxiv.org/abs/2404.11511)*,  
 Arxiv, 2024. [PDF](https://arxiv.org/pdf/2404.11511)
 
