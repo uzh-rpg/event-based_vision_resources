@@ -1119,6 +1119,9 @@ IEEE Int. Conf. on Image Processing (ICIP), 2023. [Code](https://github.com/Dach
 - <a name="Kai24icml"></a>Kai, D., Lu, J., Zhang, Y., Sun, X.,  
 *[EvTexture: Event-driven Texture Enhancement for Video Super-Resolution](https://arxiv.org/pdf/2406.13457)*,  
 Int. Conf. on Machine Learning (ICML), 2024. [Project](https://dachunkai.github.io/evtexture.github.io/), [Code](https://github.com/DachunKai/EvTexture).
+- <a name="Zhang24tcsvt"></a>Zhang, P., Zhu, S., Wang, C., Zhao, Y., Lam, E. Y.,   
+*[Neuromorphic Imaging with Super-Resolution](https://doi.org/10.1109/TCSVT.2024.3482436)*,  
+IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 2024. [PDF](https://arxiv.org/pdf/2407.05764).
 
 <a name="joint-filtering"></a>
 ### Joint/guided filtering
