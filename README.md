@@ -2464,7 +2464,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 <a name="obstacle_avoidance"></a>
 - <a name="Ayyad21arxiv"></a>Nair, G.B., Milford, M., Fischer, T.,   
 *[Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras](https://arxiv.org/pdf/2403.16425)*,  
-arXiv, 2024. [Video](https://youtu.be/8D9gtHqteEQ), [Webpage](https://gokulbnr.github.io/publication/dvs-biasing-vpr).
+arXiv, 2024. [Video](https://youtu.be/8D9gtHqteEQ), [Webpage](https://gokulbnr.github.io/publication/dvs-biasing-vpr), [Code](https://github.com/gokulbnr/fast-slow-biased-event-vpr), [Dataset](https://huggingface.co/datasets/gokulbnr/QCR-Fast-Slow-Event-Dataset).
 ## Obstacle Avoidance
 - <a name="Clady14fnins"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
 *[Asynchronous visual event-based time-to-contact](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
