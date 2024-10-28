@@ -559,6 +559,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [Arxiv](https://arxiv.org/
 - <a name="Kang24icra"></a>Kang, Y., Caron, G., Ishikawa, R., Escande, A., Chappellet, K., Sagawa, R., Oishi, T.,<br/>
 *[Direct 3D model-based object tracking with event camera by motion interpolation](https://www.cvl.iis.u-tokyo.ac.jp/~kyf/ICRA2024/BIAM.pdf).*,<br/>
 IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [Dataset](https://www.cvl.iis.u-tokyo.ac.jp/~kyf/ICRA2024/).
+- <a name="Ikura24iros"></a>Ikura, M., Gentil, L. C., Müller, G. M., Schuler, F., Yamashita, A., Stürzl, W.,<br/>
+*[RATE: Real-time Asynchronous Feature Tracking with Event Cameras](https://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/B/B320Final.pdf).*,<br/>
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [code](https://github.com/mikihiroikura/RATE).
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
