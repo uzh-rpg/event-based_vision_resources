@@ -2108,7 +2108,7 @@ IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(9):1963-1978, 2015.
 Neural Computation (2015), 27(3):561–593.
 - <a name="Lagorce17tpami"></a>Lagorce, X., Orchard, G., Gallupi, F., Shi, B., Benosman, R.,  
 *[HOTS: A Hierarchy Of event-based Time-Surfaces for pattern recognition](https://doi.org/10.1109/TPAMI.2016.2574707)*,  
-IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 39(7):1346-1359, 2017. [PDF](https://www.neuromorphic-vision.com/public/publications/1/publication.pdf)
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 39(7):1346-1359, 2017. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508476)
     - <a name="Tapiador20sensors"></a>Tapiador-Morales, R., Maro, J.-M., Jimenez-Fernandez, A., Jimenez-Moreno, G., Benosman, R., Linares-Barranco, A.,  
     [Event-Based Gesture Recognition through a Hierarchy of Time-Surfaces for FPGA](https://doi.org/10.3390/s20123404),  
     Sensors 2020, 20(12), 3404.
