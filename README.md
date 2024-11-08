@@ -610,7 +610,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [You
 arXiv preprint arXiv, 2021.
 - <a name="glover21tpami"></a>Glover A, Dinale A, De Souza Rosa L, Bamford S, Bartolozzi C   
 *[luvharris: A practical corner detector for event-cameras](https://doi.org/10.1109/TPAMI.2021.3135635)*,  
-TPAMI, 2021. [Code](https://github.com/robotology/event-driven)
+IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI), 2021. [Code](https://github.com/robotology/event-driven)
 - <a name="Sengupta21ciss0"></a>Sengupta, J. P., Villemur, M., Andreou, A. G.,  
 *[Efficient, event-driven feature extraction and unsupervised object tracking for embedded applications](https://doi.org/10.1109/CISS50987.2021.9400234)*,  
 55th Annual Conf. on Information Sciences and Systems (CISS), 2021.
@@ -618,13 +618,13 @@ TPAMI, 2021. [Code](https://github.com/robotology/event-driven)
 *Event-driven Feature Detection and Tracking for Visual SLAM*.
 - <a name="gava2022arxiv"></a>Gava L, Monforte M, Iacono M, Bartolozzi C, Glover A   
 *[Puck: Parallel surface and convolution-kernel tracking for event-based cameras](https://arxiv.org/pdf/2205.07657)*,  
-arxiv, 2022. [Code](https://github.com/lunagava/study-air-hockey/tree/master)
+arXiv preprint arXiv, 2022. [Code](https://github.com/lunagava/study-air-hockey/tree/master)
 - <a name="Freeman23mmsys"></a>Freeman, A., Mayer-Patel, K., Singh, M.,  
 *[Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems](https://doi.org/10.1145/3625468.3647618)*,  
 ACM Multimedia Systems (MMSys), 2024. [PDF](https://arxiv.org/pdf/2312.08213.pdf), [Code](https://github.com/ac-freeman/adder-codec-rs).
 - <a name="Sun24icassp"></a>Sun PSV, Glover A, Bartolozzi C, Basu A   
 *[Memory Efficient Corner Detection for Event-Driven Dynamic Vision Sensors](https://ieeexplore.ieee.org/abstract/document/10445937)*,  
-ICASSP, 2024.
+Int. Conf. on Acoustics, Speech and Signal Proc. (ICASSP), 2024.
 
 <a name="particle-detection"></a>
 ### Particle Detection and Tracking
@@ -661,7 +661,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024. [Cha
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024. [Dataset](https://pietrobonazzi.com/projects/retina), [Code](https://github.com/pbonazzi/retina), [PDF](https://arxiv.org/pdf/2312.00425).
 - <a name="Vullers24icvse"></a>Vullers Y, Gava L, Glover A, Bartolozzi C   
 *[Towards Low-power, High-frequency Gaze Direction Tracking with an Event-camera](https://github.com/event-driven-robotics/workbook_yvonne-vullers)*,  
-ECCV Workshop on Eyes of the Future: Integrating Computer Vision in Smart Eyewear (ICVSE), 2024. [Code](https://github.com/event-driven-robotics/workbook_yvonne-vullers)
+European Conf. Comp. Vision (ECCV) Workshop on Eyes of the Future: Integrating Computer Vision in Smart Eyewear (ICVSE), 2024. [Code](https://github.com/event-driven-robotics/workbook_yvonne-vullers)
 
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
@@ -1979,7 +1979,7 @@ IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.co
 IEEE Int. Conf. Image Processing (ICIP), 2022. [PDF](https://arxiv.org/pdf/2202.05054.pdf).
 - <a name="hajizada2022icons"></a>Hajizada E, Berggol P, Iacono M, Glover A, Sandamirskaya Y    
 *[Interactive continual learning for robots: a neuromorphic approach](https://doi.org/10.1145/3546790.3546791)*,  
-ICONS, 2022.
+ACM Int. Conf. on Neuromorphic Systems (ICONS), 2022.
 - <a name="Gehrig23cvpr"></a>Gehrig, M., Scaramuzza, D.,  
 *[Recurrent Vision Transformers for Object Detection with Event Cameras](https://arxiv.org/abs/2212.05598)*,  
  IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_mgehrig.pdf), [Code](https://github.com/uzh-rpg/RVT).
@@ -2228,7 +2228,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 45(2)2519:2532, 2022. [PDF](h
 IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 2022.
 - <a name="desouzaroza22ebccsp"></a>De Souza Rosa L, Dinale A, Bamford S, Bartolozzi C, Glover A   
 *[High-throughput asynchronous convolutions for high-resolution event-cameras](https://doi.org/10.1109/EBCCSP56922.2022.9845500)*,  
-EBCCSP, 2022. [Code](https://github.com/event-driven-robotics/high-throughput-convolutions)
+8th International Conference on Event-Based Control, Communication, and Signal Processing (EBCCSP), 2022. [Code](https://github.com/event-driven-robotics/high-throughput-convolutions)
 - <a name="Elshair23access"></a>El Shair, Z., Hassani, A., Rawashdeh, S.,   
 *[CSTR: A Compact Spatio-Temporal Representation for Event-Based Vision](https://doi.org/10.1109/ACCESS.2023.3316143)*,   
 IEEE Access, 2023. [Code](https://github.com/Zelshair/cstr-event-vision).
@@ -2301,7 +2301,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://r
 arXiv, 2022.  
 - <a name="Carissimi22ebccsp"></a>Carissimi N, Goyal G, Di Pietro F, Bartolozzi C, Glover A   
 *[Unlocking Static Images for Training Event-driven Neural Networks](https://doi.org/10.1109/EBCCSP56922.2022.9845526)*,  
-EBCCSP, 2022. [Code](https://github.com/event-driven-robotics/hpe-core)
+8th International Conference on Event-Based Control, Communication, and Signal Processing (EBCCSP), 2022. [Code](https://github.com/event-driven-robotics/hpe-core)
 - <a name="Aydin23arxiv"></a>Aydin, A., Gehrig, M., Gehrig, D., Scaramuzza, D.,  
 *[A Hybrid ANN-SNN Architecture for Low-Power and Low-Latency Visual Perception](https://arxiv.org/abs/2303.14176)*,  
 arXiv, 2023. [PDF](https://rpg.ifi.uzh.ch/docs/arxiv23_aydin.pdf).  
@@ -2529,7 +2529,7 @@ IEEE Robotics and Automation Letters (RA-L), 2022. [PDF](https://zenodo.org/reco
 IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/ICRA23_Forrai.pdf), [YouTube](https://youtu.be/FpsVB8EO54M), [code](https://github.com/uzh-rpg/event-based_object_catching_anymal/).  
 - <a name="Monforte23cvpr"></a>Monforte M, Gava L, Iacono M, Glover A, Bartolozzi C   
 *[Fast trajectory end-point prediction with event cameras for reactive robot control](https://doi.org/10.1109/CVPRW59228.2023.00422)*,  
-CVPR Workshop on Event-based Vision, 2023. [Code](https://github.com/event-driven-robotics/LSTM-trajectory-forecasting)
+2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) on Event-based Vision, 2023. [Code](https://github.com/event-driven-robotics/LSTM-trajectory-forecasting)
 
 
 <a name="space"></a>
@@ -2610,10 +2610,10 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2020.
 
 - <a name="Li23iros"></a>Li Z, Piga NA, Di Pietro F, Iacono M, Glover A, Natale L, Bartolozzi C   
 *[Hybrid Object Tracking with Events and Frames](https://doi.org/10.1109/IROS55552.2023.10342300)*,  
-IROS, 2023. [Code](https://github.com/event-driven-robotics/Hybrid-object-tracking-with-events-and-frames)
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023. [Code](https://github.com/event-driven-robotics/Hybrid-object-tracking-with-events-and-frames)
 - <a name="Glover24icra"></a>Glover A, Gava L, Li Z, Bartolozzi C   
 *[EDOPT: Event-camera 6-DoF Dynamic Object Pose Tracking](https://doi.org/10.1109/ICRA57147.2024.10611511)*,  
-ICRA, 2024. [Code](https://github.com/event-driven-robotics/EDOPT)
+IEEE International Conference on Robotics and Automation (ICRA), 2024. [Code](https://github.com/event-driven-robotics/EDOPT)
 
 <a name="human_pose_estimation"></a>
 ### Human Pose Estimation
@@ -2636,7 +2636,7 @@ IEEE Int. Conf. 3D Vision (3DV), 2022. [Project page](https://bestchen97.github.
 Neurocomputing, 547, 2023. [Code](https://github.com/miracleyoo/yelan-dynamic-dvs-hpe)
 - <a name="Goyal23cvpr"></a>Goyal G, Di Pietro F, Carissimi N, Glover A, Bartozzi C   
 *[MoveEnet: Online high-frequency human pose estimation with an event camera](https://doi.org/10.1109/CVPRW59228.2023.00420)*,  
-CVPR Workshop on Event-based Vision, 2023. [Code](https://github.com/event-driven-robotics/hpe-core)
+IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) on Event-based Vision, 2023. [Code](https://github.com/event-driven-robotics/hpe-core)
 
 <a name="hand_pose_estimation"></a>
 ### Hand Pose Estimation
@@ -2832,7 +2832,7 @@ ACM Int. Conf. on Multimedia (MM), 2021. [PDF](https://cvteam.buaa.edu.cn/papers
   European Conf. Computer Vision (ECCV), 2022, [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571.pdf), [Suppl.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571-supp.pdf), [Code](https://github.com/Lynn0306/DVS-Voltmeter).
 - <a name="Gava22ebccsp"></a>Gava L, Monforte M, Bartolozzi C, Glover A   
 *[How late is too late? a preliminary event-based latency evaluation](https://doi.org/10.1109/EBCCSP56922.2022.9845622)*,  
-EBCCSP, 2022. [code](https://github.com/lunagava/study-air-hockey/tree/vel_control)
+8th International Conference on Event-Based Control, Communication, and Signal Processing (EBCCSP), 2022. [code](https://github.com/lunagava/study-air-hockey/tree/vel_control)
 - <a name="Zhang24icra"></a>Zhang, Z., Cui, S., Chai, K., Yu, H., Dasgupta, S., Mahbub, U., Rahman, T.,   
 [V2CE: Video to Continuous Events Simulator](https://arxiv.org/abs/2309.08891)   
   IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [Code](https://github.com/ucsd-hdsi-dvs/V2CE-Toolbox).
