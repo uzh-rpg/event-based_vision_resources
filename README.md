@@ -2748,7 +2748,7 @@ Nat. Nanotechnol., 2023.
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Project page](https://github.com/tub-rip/event_based_bos), [Video](https://youtu.be/Ev52n8KgxIU), [PDF](https://arxiv.org/pdf/2311.00434)
 
 <a name="driver_monitoring_system"></a>
-## Driver Monitoring System
+## Driver and Safety Monitoring Systems
 <a name="DMS"></a>
 ### Multi-tasking networks: Face, Head-Pose and Eye-gaze Estimation
 - <a name="Ryan23access"></a>Ryan, C., Elrasad, A., Shariff, W., Lemley, J., Kielty, P., Hurney, P. and Corcoran, P.,  
@@ -2772,6 +2772,13 @@ IEEE International Conference on Multisensor Fusion and Integration for Intellig
 - <a name="Shariff23ojvt"></a>Shariff, W., Dilmaghani, M.S., Kielty, P., Lemley, J., Farooq, M.A., Khan, F. and Corcoran, P.,  
   *[Neuromorphic Driver Monitoring Systems: A Computationally Efficient Proof-of-Concept for Driver Distraction Detection](https://doi.org/10.1109/OJVT.2023.3325656)*,  
   IEEE Open Journal of Vehicular Technology, vol. 4, pp. 836-848, 2023.
+
+<a name="industrial workplace safety"></a>
+### Industrial Workplace Safety
+- <a name="Shariff23ojvt"></a>Chiavazza, S., Bartolozzi, C., and Glover., A.   
+*[Millisecond-latency Visual Fault-buttons using Event-cameras](https://github.com/event-driven-robotics/visual-fault-button)*,  
+European Conference on Computer Vision (ECCV) Workshop on Neuromorphic Vision:
+Advantages and Applications of Event Cameras (NeVi), 2024. [Code](https://github.com/event-driven-robotics/visual-fault-button)
 
 <a name="face-alignment-landmarking"></a>
 ## Face Alignment and Landmark Detection
