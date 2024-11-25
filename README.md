@@ -763,10 +763,12 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 *Secrets of Event-based Optical Flow*.
     - [Zhang et al., TPAMI 2023](#Zhang22tpami),  
 *Formulating Event-based Image Reconstruction as a Linear Inverse Problem with Deep Regularization using Optical Flow*.
-    - [Guo et al. TRO 2024](#Guo24tro),
+    - [Guo et al. TRO 2024](#Guo24tro),  
 *CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization*.
     - [Shiba et al. TPAMI 2024](#Shiba24tpami),  
 *Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
+    - [Hamann et al. ECCV 2024](#Hamann24eccv),  
+*Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation*.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
 Robotics: Science and Systems (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE), [Code](https://github.com/daniilidis-group/EV-FlowNet)
@@ -879,7 +881,7 @@ British Mach. Vis. Conf., 2022, [PDF](https://bmvc2022.mpi-inf.mpg.de/0577.pdf),
 - [Shiba et al., TPAMI 2023](#Shiba23tpami),  
 *Event-based Background-Oriented Schlieren*.
 - <a name="Hamann24eccv"></a>Hamann, F., Wang, Z., Asmanis, I., Chaney, K., Gallego, G., Daniilidis, K.   
-*[Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation](https://arxiv.org/pdf/2407.10802)*,  
+*[Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation](https://doi.org/10.1007/978-3-031-72646-0_2)*,  
 European Conf. Computer Vision (ECCV), 2024., [PDF](https://arxiv.org/pdf/2407.10802), [Code](https://github.com/tub-rip/MotionPriorCMax)
 
 
@@ -1410,7 +1412,7 @@ Front. Neurosci. (2018), 12:442.
 European Conf. Computer Vision (ECCV), 2018. [YouTube](https://youtu.be/4oa7e4hsrYo)
 - <a name="Zhou18eccv"></a>Zhou, Y., Gallego, G., Rebecq, H., Kneip, L., Li, H., Scaramuzza, D.,  
 *[Semi-Dense 3D Reconstruction with a Stereo Event Camera](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou.pdf)*,  
-European Conf. Computer Vision (ECCV), 2018. [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou_poster.pdf),  [YouTube](https://youtu.be/Qrnpj2FD1e4).
+European Conf. Computer Vision (ECCV), 2018. [Project Page and Data](https://rpg.ifi.uzh.ch/ECCV18_stereo_davis.html), [PDF](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou.pdf)*, [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou_poster.pdf), [YouTube](https://youtu.be/Qrnpj2FD1e4).
     - [Zhou et al., TRO 2021](#Zhou21tro),  
 *ESVO: Event-based Stereo Visual Odometry*.
 - <a name="DominguezMorales19electr"></a>Dominguez-Morales, M., Dominguez-Morales, J. P., Jimenez-Fernandez, A., Linares-Barranco, A., Jimenez-Moreno, G.,  
@@ -1605,7 +1607,7 @@ British Machine Vision Conf. (BMVC), 2021, [PDF](https://www.bmvc2021-virtualcon
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021, [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9635907)
 - <a name="Shiba22aisy"></a>Shiba, S., Aoki, Y., Gallego, G.,  
 *[A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200251)*,  
-Advanced Intelligent Systems, 2022.  [PDF](https://arxiv.org/pdf/2212.07350), [YouTube](https://youtu.be/IwqA57yaBTo), [Project page](https://github.com/tub-rip/event_collapse)
+Advanced Intelligent Systems (AISY), 2022.  [PDF](https://arxiv.org/pdf/2212.07350), [YouTube](https://youtu.be/IwqA57yaBTo), [Project page](https://github.com/tub-rip/event_collapse)
 - <a name="Chamorro22ral"></a>Chamorro, W. O., Solà, J., Andrade-Cetto, J.,  
 *[Event-based SLAM in real-time](https://doi.org/10.1109/LRA.2022.3187266)*,  
 IEEE Robotics and Automation Letters, 7(3):8146-8153, 2022. [PDF](https://www.iri.upc.edu/download/scidoc/2608), [Video](http://www.iri.upc.edu/people/cetto/ral22_slam/22-0927_02_VI.mp4)
@@ -2692,12 +2694,18 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022.
 *[Stereo Co-capture System for Recording and Tracking Fish with Frame- and Event Cameras](https://arxiv.org/pdf/2207.07332)*,  
 26th Int. Conf. Pattern Recognition (ICPR), Visual observation and analysis of Vertebrate And Insect Behavior (VAIB) Workshop, Montreal, Canada, 2022.
 - <a name="Hamann24cvpr"></a>Hamann, F., Ghosh, S., Martinez, I., Hart, T., Kacelnik, A., Gallego, G.   
-*[Low-power, Continuous Remote Behavioral Localization with Event Cameras](https://arxiv.org/pdf/2312.03799)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 20224. [Page](https://tub-rip.github.io/eventpenguins/), [PDF](https://arxiv.org/pdf/2207.07332), [Code and Data](https://github.com/tub-rip/event_penguins)
+*[Low-power, Continuous Remote Behavioral Localization with Event Cameras](https://openaccess.thecvf.com/content/CVPR2024/html/Hamann_Low-power_Continuous_Remote_Behavioral_Localization_with_Event_Cameras_CVPR_2024_paper.html)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Page](https://tub-rip.github.io/eventpenguins/), [PDF](https://arxiv.org/pdf/2207.07332), [Code and Data](https://github.com/tub-rip/event_penguins)
+- <a name="Takatsuka24ece"></a>Takatsuka, S., Miyamoto, N., Sato, H., Morino, Y., Kurita, Y., Yabuki, A., Chen, C., Kawagucci, S.,  
+*[Millisecond-scale behaviours of plankton quantified in vitro and in situ using the Event-based Vision Sensor](https://doi.org/10.1002/ece3.70150)*,  
+Ecology and Evolution, 14, e70150, 2024.
+- <a name="Hamann24aisy"></a>Hamann, F., Ghosh, S., Martinez, I., Hart, T., Kacelnik, A., Gallego, G.   
+*[Fourier-based Action Recognition for Wildlife Behavior Quantification with Event Cameras](http://doi.org/10.1002/aisy.202400353)*,  
+Advanced Intelligent Systems (AISY), 2024. [PDF](https://arxiv.org/pdf/2410.06698), [Data](https://github.com/tub-rip/event_penguins)
 - <a name="Hamann24eccvw"></a>Hamann, F., Li, H., Mieske, P., Lewejohann, L., Gallego, G.  
 *[MouseSIS: A Frames-and-Events Dataset for Space-Time Instance Segmentation of Mice](https://arxiv.org/pdf/2409.03358)*,  
-European Conference on Computer Vision (ECCV) Workshop on Neuromorphic Vision:
-Advantages and Applications of Event Cameras (NeVi), 2024. [PDF](https://arxiv.org/pdf/2409.03358), [Code and Data](https://github.com/tub-rip/MouseSIS)
+European Conf. Computer Vision Workshops (ECCVW), 2024. [Code and Data](https://github.com/tub-rip/MouseSIS)
+
 
 <a name="optical_applications"></a>
 ## Optical Applications
