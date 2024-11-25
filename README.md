@@ -878,6 +878,9 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024., [PDF](https://arxiv.or
 British Mach. Vis. Conf., 2022, [PDF](https://bmvc2022.mpi-inf.mpg.de/0577.pdf), [Poster](https://bmvc2022.mpi-inf.mpg.de/0577_poster.pdf), [Video](https://bmvc2022.mpi-inf.mpg.de/0577_video.mp4), [Supplementary](https://bmvc2022.mpi-inf.mpg.de/0577_supp.zip).
 - [Shiba et al., TPAMI 2023](#Shiba23tpami),  
 *Event-based Background-Oriented Schlieren*.
+- <a name="Hamann24cvpr"></a>Hamann, F., Wang, Z., Asmanis, I., Chaney, K., Gallego, G., Daniilidis, K.   
+*[Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation](https://arxiv.org/pdf/2407.10802)*,  
+European Conf. Computer Vision (ECCV), 2024., [PDF](https://arxiv.org/pdf/2407.10802), [Code](https://github.com/tub-rip/MotionPriorCMax)
 
 
 <a name="scene-flow-estimation"></a>
@@ -2688,6 +2691,13 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022.
 - <a name="Hamann22icprw"></a>Hamann, F., Gallego, G.,   
 *[Stereo Co-capture System for Recording and Tracking Fish with Frame- and Event Cameras](https://arxiv.org/pdf/2207.07332)*,  
 26th Int. Conf. Pattern Recognition (ICPR), Visual observation and analysis of Vertebrate And Insect Behavior (VAIB) Workshop, Montreal, Canada, 2022.
+- <a name="Hamann24cvpr"></a>Hamann, F., Ghosh, S., Martinez, I., Hart, T., Kacelnik, A., Gallego, G.   
+*[Low-power, Continuous Remote Behavioral Localization with Event Cameras](https://arxiv.org/pdf/2312.03799)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 20224. [Page](https://tub-rip.github.io/eventpenguins/), [PDF](https://arxiv.org/pdf/2207.07332), [Code and Data](https://github.com/tub-rip/event_penguins)
+- <a name="Hamann24cvpr"></a>Hamann, F., Li, H., Mieske, P., Lewejohann, L., Gallego, G.  
+*[MouseSIS: A Frames-and-Events Dataset for Space-Time Instance Segmentation of Mice](https://arxiv.org/pdf/2409.03358)*,  
+European Conference on Computer Vision (ECCV) Workshop on Neuromorphic Vision:
+Advantages and Applications of Event Cameras (NeVi), 2024. [PDF](https://arxiv.org/pdf/2409.03358), [Code and Data](https://github.com/tub-rip/MouseSIS)
 
 <a name="optical_applications"></a>
 ## Optical Applications
