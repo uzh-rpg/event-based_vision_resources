@@ -1110,6 +1110,8 @@ arxiv, 2023. [Project page](https://www.cis.upenn.edu/~ziyunw/continuity_cam/)
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023. [PDF](https://arxiv.org/pdf/2307.12558.pdf), [Project](https://jiabenchen.github.io/revisit_event)
 - [Qi et al., ICCV 2023](#Qi23iccv),  
 *E<sup>2</sup>NeRF: Event Enhanced Neural Radiance Fields from Blurry Images*.
+- [Qi et al., ACM MM 2024](#Qi24ACMMM),  
+*Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment*.
 
 ### Image super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
@@ -1272,6 +1274,9 @@ Int. Conf. Virtual Reality (ICVR), 2023. [PDF](https://arxiv.org/pdf/2309.00385)
 - <a name="Qi23iccv"></a>Qi, Y., Zhu, L., Zhang, Y., Li, J.,  
 *[E<sup>2</sup>NeRF: Event Enhanced Neural Radiance Fields from Blurry Images](https://doi.org/10.1109/ICCV51070.2023.01219)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2023. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10376624), [Project Page](https://icvteam.github.io/E2NeRF.html), [Code](https://github.com/iCVTEAM/E2NeRF). [Dataset](https://drive.google.com/drive/folders/1XhOEp4UdLL7EnDNyWdxxX8aRvzF53fWo).
+- <a name="Qi24ACMMM"></a>Qi, Y., Zhu, L., Zhao, Y., Bao, N., Li, J.,  
+*[Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment](https://doi.org/10.1145/3664647.3680569)*,  
+ACM Int. Conf. on Multimedia (MM), 2021. [PDF](https://arxiv.org/abs/2406.14360), [Project Page](https://icvteam.github.io/EBAD-NeRF.html), [Code](https://github.com/iCVTEAM/EBAD-NeRF). [Dataset](https://drive.google.com/drive/folders/1SAcnqPgx1xY2C3kVIy81OJnk6YZWbIhz?usp=sharing).
 
 <a name="depth-stereo"></a>
 ### Stereo Depth Estimation
