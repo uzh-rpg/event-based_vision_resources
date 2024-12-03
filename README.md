@@ -2242,8 +2242,8 @@ IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 2022.
 - <a name="Elshair23access"></a>El Shair, Z., Hassani, A., Rawashdeh, S.,   
 *[CSTR: A Compact Spatio-Temporal Representation for Event-Based Vision](https://doi.org/10.1109/ACCESS.2023.3316143)*,   
 IEEE Access, 2023. [Code](https://github.com/Zelshair/cstr-event-vision).
-- <a name="qu2024evrepsl"></a>Qu, Q., Chen, X., Chung, Y. Y., Shen, Y.,   
-*[EvRepSL: Event-Stream Representation via Self-Supervised Learning for Event-Based Vision](https://ieeexplore.ieee.org/document/10758409)*,   
+- <a name="Qu24tip"></a>Qu, Q., Chen, X., Chung, Y. Y., Shen, Y.,   
+*[EvRepSL: Event-Stream Representation via Self-Supervised Learning for Event-Based Vision](https://doi.org/10.1109/TIP.2024.3497795)*,   
 IEEE Trans. Image Process. (TIP), 2024. [Code](https://github.com/VincentQQu/EvRepSL).
 
 <a name="learning-regression"></a>
