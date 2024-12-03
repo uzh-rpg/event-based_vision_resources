@@ -1112,6 +1112,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023. [PDF](https://a
 *E<sup>2</sup>NeRF: Event Enhanced Neural Radiance Fields from Blurry Images*.
 - [Qi et al., ACM MM 2024](#Qi24acmmm),  
 *Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment*.
+- <a name="li2024benerf"></a>Li, W., Wan, P., Wang, P., Li, J., Zhou, Y., Liu, P.,  
+*[BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04596.pdf)*,  
+European Conf. Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/abs/2407.02174), [Project Page](https://akawincent.github.io/BeNeRF/), [Code](https://github.com/WU-CVGL/BeNeRF). [Dataset](https://westlakeu-my.sharepoint.com/:f:/g/personal/cvgl_westlake_edu_cn/EjZNs8MwoXBDqT61v_j5V3EBIoKb8dG9KlYtYmLxcNJG_Q?e=AFXeUB).
 
 ### Image super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
@@ -1277,6 +1280,8 @@ IEEE Int. Conf. Computer Vision (ICCV), 2023. [PDF](https://ieeexplore.ieee.org/
 - <a name="Qi24acmmm"></a>Qi, Y., Zhu, L., Zhao, Y., Bao, N., Li, J.,  
 *[Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment](https://doi.org/10.1145/3664647.3680569)*,  
 ACM Int. Conf. on Multimedia (MM), 2024. [PDF](https://arxiv.org/abs/2406.14360), [Project Page](https://icvteam.github.io/EBAD-NeRF.html), [Code](https://github.com/iCVTEAM/EBAD-NeRF). [Dataset](https://drive.google.com/drive/folders/1SAcnqPgx1xY2C3kVIy81OJnk6YZWbIhz?usp=sharing).
+- [Li et al., ECCV 2024](#li2024benerf),  
+*BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream*.
 
 <a name="depth-stereo"></a>
 ### Stereo Depth Estimation
@@ -1625,6 +1630,8 @@ IEEE Robotics and Automation Letters (RA-L), 7(4):12275-12282, 2022. [PDF](https
 - <a name="Valerdi24sensors"></a>Valeri JL, Bartolozzi C, Glover A   
 *[Insights into Batch Selection for Event-Camera Motion Estimation](https://www.mdpi.com/1424-8220/23/7/3699)*,  
 Sensors, 2024.
+- [Li et al., ECCV 2024](#li2024benerf),  
+*BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream*.
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
