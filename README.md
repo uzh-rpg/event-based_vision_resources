@@ -662,6 +662,12 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024. [Dat
 - <a name="Vullers24icvse"></a>Vullers Y, Gava L, Glover A, Bartolozzi C   
 *[Towards Low-power, High-frequency Gaze Direction Tracking with an Event-camera](https://github.com/event-driven-robotics/workbook_yvonne-vullers)*,  
 European Conf. Comp. Vision (ECCV) Workshop on Eyes of the Future: Integrating Computer Vision in Smart Eyewear (ICVSE), 2024. [Code](https://github.com/event-driven-robotics/workbook_yvonne-vullers)
+- <a name="Sen24imwut"></a>Sen, A., Bandara, N.S., Gokarn, I., Kandappu, T., Misra, A.  
+*[EyeTrAES: Fine-grained, Low-Latency Eye Tracking via Adaptive Event Slicing](https://dl.acm.org/doi/abs/10.1145/3699745)*,  
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024. [Code](https://github.com/arghasen10/EyeTrAES), [PDF](https://dl.acm.org/doi/pdf/10.1145/3699745).
+- <a name="Bandara24neurips"></a>Bandara, N., Kandappu, T., Sen, A., Gokarn, I., Misra, A.  
+*[EyeGraph: Modularity-aware Spatio Temporal Graph Clustering for Continuous Event-based Eye Tracking](https://openreview.net/forum?id=YxuuzyplFZ)*,  
+Advances in Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2024. [Project Page](https://eye-tracking-for-physiological-sensing.github.io/eyegraph/), [PDF](https://openreview.net/pdf?id=YxuuzyplFZ), [Supplementary Materials](https://openreview.net/attachment?id=YxuuzyplFZ&name=supplementary_material).
 
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
