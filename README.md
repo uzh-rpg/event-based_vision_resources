@@ -538,7 +538,7 @@ Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022
 Optical Engineering, 2022. [dataset](http://sar-lab.net/event-based-vehicle-detection-and-tracking-dataset/).
 - <a name="Guillen-Garcia22"></a>Guillen-Garcia, J., Palacios-Alonso, D., Cabello, E., Conde, C.,  
 *[Unsupervised adaptive multi-object tracking-by-clustering algorithm with a bio-inspired system](https://doi.org/10.1109/ACCESS.2022.3154895)*,  
-IEEE Access, 2022. PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721918)
+IEEE Access, 2022. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9721918)
 - <a name="Messikommer23cvpr"></a>Messikommer, N., Fang, C., Gehrig, M., Scaramuzza, D.,  
 *[Data-driven Feature Tracking for Event Cameras](https://arxiv.org/abs/2211.12826)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_Messikommer.pdf), [YouTube](https://youtu.be/dtkXvNXcWRY), [code](https://github.com/uzh-rpg/deep_ev_tracker).  
