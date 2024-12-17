@@ -2,8 +2,8 @@
 
 <!-- ## <a href="https://tub-rip.github.io/eventvision2023/">CVPR 2023 Workshop on Event-based Vision, June 19, 2023.</a> -->
 
-## <span style="color:tomato;"><a href="https://www.ieee-ras.org/publications/t-ro/special-issues/event-based-vision-for-robotics">IEEE T-RO Special Collection on Event-based Vision for Robotics. Submission of papers: from Jan 1st to May 1st 2025.</a></span>
-## <a href="https://2025.ic-dsp.org/special-session-4/">DSP2025 Special Session on Event-based Vision: “Processing the Neuromorphic Signal: Event-based Vision and Applications”. Submission of papers until: Feb 25, 2025 </a>
+## ${\color{red}\text{IEEE T-RO}}$ <a href="https://www.ieee-ras.org/publications/t-ro/special-issues/event-based-vision-for-robotics"> Special Collection on Event-based Vision for Robotics.</a> Submission of papers: from Jan 1st to May 1st 2025.
+## <a href="https://2025.ic-dsp.org/special-session-4/">DSP2025 Special Session on Event-based Vision: “Processing the Neuromorphic Signal: Event-based Vision and Applications”.</a> Submission of papers until: Feb 25, 2025.  
 ## <a href="https://eventbasedvision.github.io/EVGEN2025/">WACV 2025. EVGEN: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation, 28 February or 4 March 2025.</a>
 ## <a href="https://www.neuropac.info/">NeuroPAC</a>
 
