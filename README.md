@@ -2420,6 +2420,9 @@ IEEE Trans. Comput. Imaging (TCI), 2023. [Code](https://github.com/pz-even/ni-de
 <a name="compression"></a>
 - [Shiba et al. TPAMI 2024](#Shiba24tpami),  
 *Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
+- <a name="Zhao24arxiv"></a>Zhao, Q., Wang, J., Ji, Y., Wu, J., Shi, G.,  
+*[An O(m+n)-Space Spatiotemporal Denoising Filter with Cache-Like Memories for Dynamic Vision Sensors](https://arxiv.org/abs/2410.12423)*,  
+arXiv, 2024.
 
 ### Compression
 - <a name="Khan20access"></a>Khan, N., Iqbal, K., Martini, M. G.,  
