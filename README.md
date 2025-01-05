@@ -2291,7 +2291,9 @@ Int. Symp. Low Power Electronics and Design (ISLPED), 2020. [PDF](https://www.re
 *Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction*
 - [Hagenaars et al., NeurIPS 2021](#Hagenaars21neurips),  
 *Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks.*
-
+- <a name="Wu24neurips"></a>Wu, S., Zhu, Z., Hou, J., Shi, G., Wu, J.,  
+*[E-Motion: Future Motion Simulation via Event Sequence Diffusion](https://openreview.net/forum?id=pWowK7jqok)*,  
+The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. [PDF](https://openreview.net/pdf?id=pWowK7jqok), [Code](https://github.com/p4r4mount/E-Motion).
 
 <a name="learning-methods-frameworks"></a>
 ### Learning Methods / Frameworks
