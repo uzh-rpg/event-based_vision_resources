@@ -1641,6 +1641,8 @@ IEEE Robotics and Automation Letters (RA-L), 7(4):12275-12282, 2022. [PDF](https
 Sensors, 2024.
 - [Li et al., ECCV 2024](#Li24eccv),  
 *BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream*.
+- [Su et al., RAL 2025](#Su25ral),  
+*Motion-Aware Optical Camera Communication with Event Cameras*.
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
@@ -2715,6 +2717,9 @@ Distinguished Lecture, Cyber Security in the Age of Large-Scale Adversaries (CAS
 *[Smart Visual Beacons with Asynchronous Optical Communications using Event Cameras](https://arxiv.org/abs/2208.01710)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022.
 [PDF](https://arxiv.org/pdf/2208.01710.pdf), [Code and Data](https://github.com/ziweiWWANG/Event-Beacon-Communication).
+- <a name="Su25ral"></a>Su, H., Gao, L., Liu, T., Kneip, L.,  
+*[Motion-Aware Optical Camera Communication with Event Cameras](https://doi.org/10.1109/LRA.2024.3517292)*,  
+IEEE Robotics and Automation Letters (RA-L), 10(2):1385-1392, 2025. [PDF](https://arxiv.org/abs/2412.00816), [Code and Data](https://github.com/suhang99/EventOCC)
 
 
 <a name="animal_monitoring"></a>
