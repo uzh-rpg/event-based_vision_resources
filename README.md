@@ -114,11 +114,13 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
 - [IROS 2024 Workshop on Embodied Neuromorphic AI for Robotic Perception and Control](https://sites.google.com/view/iros-2024-workshop)  
 - [ECCV 2024 Workshop on Neuromorphic Vision (NeVi)](https://sites.google.com/view/nevi2024), **[Slides](https://sites.google.com/view/nevi2024/program)**
 - [ECCV 2024 1st Workshop on Neural Fields Beyond Conventional Cameras](https://neural-fields-beyond-cams.github.io/)
+- [Caméra à événements appliquée à la robotique, Sorbonne University, Paris (Nov. 16th, 2023)](https://tub-rip.github.io/eventvision2023/slides/2023-11_Workshop_event_cameras_Sorbonne.pdf)
 - [CVPR 2023 Fourth International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2023), **[Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK)**
 - [IEEE Embedded Vision Workshop Series](https://embeddedvisionworkshop.wordpress.com), with focus on Biologically-inspired vision and embedded systems.
 - [IISW 2023 Int. Image Sensor Workshop](https://imagesensors.org/2023-international-image-sensor-workshop/)
 - [MFI 2022 First Neuromorphic Event Sensor Fusion Workshop](https://sites.google.com/view/eventsensorfusion2022/home) with videos incl. _Event Sensor Fusion Jeopardy_ game - Virtual. **[Videos](https://youtube.com/playlist?list=PLVtZ8f-q0U5gXhjN4inwWZi66bp5vp-lN)**
 - [tinyML Neuromorphic Engineering Forum](https://www.tinyml.org/event/tinyml-neuromorphic-engineering-forum/) - Virtual, 2022. **[Videos](https://www.youtube.com/playlist?list=PLeisuBi-nfBM5HayCqF4KMBaJciV5UkLX)**
+- [ICCV 2021 Tutorial. Introduction to Event Detection Cameras](https://tub-rip.github.io/eventvision2021/slides/ICCV2021Tutorial.pdf)
 - [CVPR 2021 Third International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2021) - Virtual. **[Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7)**
 - [ICRA 2020 Workshop on Unconventional Sensors in Robotics](https://sites.google.com/view/unconventional-sensors) - Virtual. **[Videos](https://www.youtube.com/playlist?list=PLtW5yHT6tQuD4sLzkldzZEyQ4hz77K64-)**
 - [Neuro-Inspired Computational Elements (NICE) Workshop Series](https://niceworkshop.org/nice-2019/). **[Videos](https://www.youtube.com/channel/UCKTLpjY9e8cMK12d2-Z-usA)**
