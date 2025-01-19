@@ -550,9 +550,6 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://r
 - <a name="Zhu23iccv"></a>Zhu, Z., Hou, J., Wu DO.,<br/>
 *[Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers](https://arxiv.org/abs/2307.04129).*,<br/>
 IEEE Int. Conf. Computer Vision (ICCV), 2023., [code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker).
-- <a name="Wang24tro"></a>Wang, Z., Molloy, T., van Goor, P., Mahony, R.,<br/>
-*[Asynchronous Blob Tracker for Event Cameras](https://doi.org/10.1109/TRO.2024.3454410).*,<br/>
-IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2307.10593.pdf), [Video](https://www.youtube.com/watch?v=L_wJjhcToOU), [Project page](https://github.com/ziweiWWANG/AEB-Tracker).
 - <a name="Nagaraj23icra"></a>Nagaraj, M., Liyanagedera, C.M., Roy, K.,<br/>
 *[DOTIE - Detecting Objects through Temporal Isolation of Events using a Spiking Architecture](https://ieeexplore.ieee.org/abstract/document/10161164).*,<br/>
 IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [Arxiv](https://arxiv.org/abs/2210.00975), [CVPR 2023 workshop](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_Live_Demonstration_Real-time_Event-based_Speed_Detection_using_Spiking_Neural_Networks.pdf), [Code](https://github.com/manishnagaraj/DOTIE).
@@ -564,6 +561,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [Arxiv](https://arxiv.org/
 - <a name="Kang24icra"></a>Kang, Y., Caron, G., Ishikawa, R., Escande, A., Chappellet, K., Sagawa, R., Oishi, T.,<br/>
 *[Direct 3D model-based object tracking with event camera by motion interpolation](https://www.cvl.iis.u-tokyo.ac.jp/~kyf/ICRA2024/BIAM.pdf).*,<br/>
 IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [Dataset](https://www.cvl.iis.u-tokyo.ac.jp/~kyf/ICRA2024/).
+- <a name="Wang24tro"></a>Wang, Z., Molloy, T., van Goor, P., Mahony, R.,<br/>
+*[Asynchronous Blob Tracker for Event Cameras](https://doi.org/10.1109/TRO.2024.3454410).*,<br/>
+IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2307.10593.pdf), [Video](https://www.youtube.com/watch?v=L_wJjhcToOU), [Project page](https://github.com/ziweiWWANG/AEB-Tracker).
 - <a name="Ikura24iros"></a>Ikura, M., Gentil, L. C., Müller, G. M., Schuler, F., Yamashita, A., Stürzl, W.,<br/>
 *[RATE: Real-time Asynchronous Feature Tracking with Event Cameras](https://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/B/B320Final.pdf).*,<br/>
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [code](https://github.com/mikihiroikura/RATE).
