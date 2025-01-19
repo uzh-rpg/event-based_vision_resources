@@ -2765,7 +2765,7 @@ Opt. Express, 2023.
 <a name="auto_exposure"></a>
 ### Auto-exposure
 - <a name="Lin24nc"></a>Lin, S., Zheng, G., Wang, Z., Han, R., Xing, W., Zhang, Z., Peng, Y., Pan, J.,  
-*[Embodied neuromorphic synergy for lighting-robust machine vision to see in extreme bright](https://www.nature.com/articles/s41467-024-54789-8)*,  
+*[Embodied neuromorphic synergy for lighting-robust machine vision to see in extreme bright](https://doi.org/10.1038/s41467-024-54789-8)*,  
 Nature Communications, 2024.
 
 <a name="speckle_analysis"></a>
