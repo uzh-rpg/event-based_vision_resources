@@ -67,6 +67,7 @@
     - [Animal Behavior Monitoring](#animal_monitoring)
     - [Optical Applications](#optical_applications)
       - [Auto-focus](#auto_focus)
+      - [Auto-exposure](#auto_exposure)
       - [Speckle Analysis](#speckle_analysis)
       - [Interferometry or Holography](#interferometry_or_holography)
       - [Wavefront sensing](#wavefront_sensing)
@@ -2759,7 +2760,13 @@ Optics and Lasers in Engineering, 2023.
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjU-oPEn7P_AhUVBt4KHW68DiQQFnoECA8QAQ&url=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FCVPR2023%2Fpapers%2FLou_All-in-Focus_Imaging_From_Event_Focal_Stack_CVPR_2023_paper.pdf&usg=AOvVaw2SxXp7z29FqyHFlGpNosXx)
 - <a name="Bao23oe"></a>Bao, Y., Sun, L., Ma, Y., Gu, D. & Wang, K.,  
 *[Improving Fast Auto-Focus with Event Polarity](https://doi.org/10.1364/OE.489717)*,  
-Opt. Express, 2023. 
+Opt. Express, 2023.
+
+<a name="auto_exposure"></a>
+### Auto-exposure
+- <a name="Lin24nc"></a>Lin, S., Zheng, G., Wang, Z., Han, R., Xing, W., Zhang, Z., Peng, Y., Pan, J.,  
+*[Embodied neuromorphic synergy for lighting-robust machine vision to see in extreme bright](https://www.nature.com/articles/s41467-024-54789-8)*,  
+Nature Communications, 2024.
 
 <a name="speckle_analysis"></a>
 ### Speckle Analysis
