@@ -67,6 +67,7 @@
     - [Animal Behavior Monitoring](#animal_monitoring)
     - [Optical Applications](#optical_applications)
       - [Auto-focus](#auto_focus)
+      - [Auto-exposure](#auto_exposure)
       - [Speckle Analysis](#speckle_analysis)
       - [Interferometry or Holography](#interferometry_or_holography)
       - [Wavefront sensing](#wavefront_sensing)
@@ -549,9 +550,6 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://r
 - <a name="Zhu23iccv"></a>Zhu, Z., Hou, J., Wu DO.,<br/>
 *[Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers](https://arxiv.org/abs/2307.04129).*,<br/>
 IEEE Int. Conf. Computer Vision (ICCV), 2023., [code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker).
-- <a name="Wang24tro"></a>Wang, Z., Molloy, T., van Goor, P., Mahony, R.,<br/>
-*[Asynchronous Blob Tracker for Event Cameras](https://doi.org/10.1109/TRO.2024.3454410).*,<br/>
-IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2307.10593.pdf), [Video](https://www.youtube.com/watch?v=L_wJjhcToOU), [Project page](https://github.com/ziweiWWANG/AEB-Tracker).
 - <a name="Nagaraj23icra"></a>Nagaraj, M., Liyanagedera, C.M., Roy, K.,<br/>
 *[DOTIE - Detecting Objects through Temporal Isolation of Events using a Spiking Architecture](https://ieeexplore.ieee.org/abstract/document/10161164).*,<br/>
 IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [Arxiv](https://arxiv.org/abs/2210.00975), [CVPR 2023 workshop](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_Live_Demonstration_Real-time_Event-based_Speed_Detection_using_Spiking_Neural_Networks.pdf), [Code](https://github.com/manishnagaraj/DOTIE).
@@ -563,6 +561,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [Arxiv](https://arxiv.org/
 - <a name="Kang24icra"></a>Kang, Y., Caron, G., Ishikawa, R., Escande, A., Chappellet, K., Sagawa, R., Oishi, T.,<br/>
 *[Direct 3D model-based object tracking with event camera by motion interpolation](https://www.cvl.iis.u-tokyo.ac.jp/~kyf/ICRA2024/BIAM.pdf).*,<br/>
 IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [Dataset](https://www.cvl.iis.u-tokyo.ac.jp/~kyf/ICRA2024/).
+- <a name="Wang24tro"></a>Wang, Z., Molloy, T., van Goor, P., Mahony, R.,<br/>
+*[Asynchronous Blob Tracker for Event Cameras](https://doi.org/10.1109/TRO.2024.3454410).*,<br/>
+IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2307.10593.pdf), [Video](https://www.youtube.com/watch?v=L_wJjhcToOU), [Project page](https://github.com/ziweiWWANG/AEB-Tracker).
 - <a name="Ikura24iros"></a>Ikura, M., Gentil, L. C., Müller, G. M., Schuler, F., Yamashita, A., Stürzl, W.,<br/>
 *[RATE: Real-time Asynchronous Feature Tracking with Event Cameras](https://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/B/B320Final.pdf).*,<br/>
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [code](https://github.com/mikihiroikura/RATE).
@@ -2759,7 +2760,13 @@ Optics and Lasers in Engineering, 2023.
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjU-oPEn7P_AhUVBt4KHW68DiQQFnoECA8QAQ&url=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FCVPR2023%2Fpapers%2FLou_All-in-Focus_Imaging_From_Event_Focal_Stack_CVPR_2023_paper.pdf&usg=AOvVaw2SxXp7z29FqyHFlGpNosXx)
 - <a name="Bao23oe"></a>Bao, Y., Sun, L., Ma, Y., Gu, D. & Wang, K.,  
 *[Improving Fast Auto-Focus with Event Polarity](https://doi.org/10.1364/OE.489717)*,  
-Opt. Express, 2023. 
+Opt. Express, 2023.
+
+<a name="auto_exposure"></a>
+### Auto-exposure
+- <a name="Lin24nc"></a>Lin, S., Zheng, G., Wang, Z., Han, R., Xing, W., Zhang, Z., Peng, Y., Pan, J.,  
+*[Embodied neuromorphic synergy for lighting-robust machine vision to see in extreme bright](https://doi.org/10.1038/s41467-024-54789-8)*,  
+Nature Communications, 2024.
 
 <a name="speckle_analysis"></a>
 ### Speckle Analysis
