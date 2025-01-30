@@ -2941,7 +2941,6 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 - [Wang et al., IROS 2021 (SHEF)](#Wang21iros), *Stereo Hybrid Event-Frame (SHEF) Cameras for 3D Perception*, [Project Page](https://github.com/ziweiWWANG/SHEF).
 - [Gao et al., RAL 2022](#Gao22ral), *VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM*.
 - [Chaney et al., CVPRW 2023](#Chaney23cvprw), *M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset*
-- [Li et al., ECCV 2024](#Li24eccv), *BlinkVision: A Benchmark for Optical Flow, Scene Flow and Point Tracking Estimation using RGB Frames and Events*, [Dataset Download](https://www.blinkvision.net/match/download.html).
 
 ## Monocular Object Reconstruction
 - [Chen et al., ICVR 2023](#Chen23icvr), *Dense Voxel 3D Reconstruction Using a Monocular Event Camera*.
@@ -2955,6 +2954,7 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 - [Gehrig et al., RAL 2021](#MGehrig21ral): *DSEC: A Stereo Event Camera Dataset for Driving Scenarios*.  
 - [EV-IMO Event based Independently Moving Objects dataset](https://better-flow.github.io/evimo/) associated to the paper [EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](#Mitrokhin19iros) ([motion vector flow](https://github.com/better-flow/evimo/blob/master/tools/evimo_flow.py) added Jan 2022)
 - [Chaney et al., CVPRW 2023](#Chaney23cvprw), *M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset*
+- [Li et al., ECCV 2024](#Li24eccv), *BlinkVision: A Benchmark for Optical Flow, Scene Flow and Point Tracking Estimation using RGB Frames and Events*, [Dataset Download](https://www.blinkvision.net/match/download.html).
 
 ## Eye Tracking
 - [Chen et al., CVPRW 2024](#Chen23biocas), *3ET: Efficient Event-based Eye Tracking using a Change-Based ConvLSTM Network*
