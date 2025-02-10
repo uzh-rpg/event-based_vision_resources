@@ -923,8 +923,8 @@ Int. Joint Conf. on Neural Networks (IJCNN), San Jose, CA, 2011, pp. 770-776. [P
 - [Belbachir et al., CVPRW 2014](#Belbachir14cvprw),  
 *A Novel HDR Depth Camera for Real-time 3D 360-degree Panoramic Vision*.
 - <a name="Kim14bmvc"></a>Kim, H., Handa, A., Benosman, R., Ieng, S.-H., Davison, A. J.,  
-*[Simultaneous Mosaicing and Tracking with an Event Camera](http://www.bmva.org/bmvc/2014/papers/paper066/)*,  
-British Machine Vision Conf. (BMVC), 2014. [PDF](http://www.bmva.org/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU), [YouTube 2](https://youtu.be/z72lNV7idUs)
+  *[Simultaneous Mosaicing and Tracking with an Event Camera](https://bmva-archive.org.uk/bmvc/2014/papers/paper066/index.html)*,  
+British Machine Vision Conf. (BMVC), 2014. [PDF](https://bmva-archive.org.uk/bmvc/2014/files/paper066.pdf), [YouTube](https://youtu.be/l6qxeM1DbXU), [YouTube 2](https://youtu.be/z72lNV7idUs)
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events).
     - [YouTube TU Graz](https://youtu.be/igsJHem8sFM) <!-- https://youtu.be/Ao6IoEqaBKc -->
 - <a name="Barua16wacv"></a>Barua, S., Miyatani, Y., Veeraraghavan, A.,  
