@@ -2911,8 +2911,8 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024. [PDF](https://cvteam.bu
 
 <a name="synthetic-data-generators"></a>
 # Synthetic Data Generators
-- <a name="ott2024text"></a>Ott, J., Wang, Z. and Liu, S.C.,   
-  *[Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input](https://ieeexplore.ieee.org/abstract/document/10549580)*,    
+- <a name="ott24nice"></a>Ott, J., Wang, Z. and Liu, S.C.,   
+  *[Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input](https://doi.org/10.1109/NICE61972.2024.10549580)*,    
   IEEE Neuro Inspired Computational Elements Conference (NICE) (pp. 1-10), 2024. [PDF](https://arxiv.org/pdf/2406.03439).
 
 <a name="datasets"></a>
