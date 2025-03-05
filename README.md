@@ -81,6 +81,7 @@
     - [Visual Voice Activity Detection](#voice-activity-detection)
 
 - [Simulators and Emulators](#simulators-emulators)
+- [Sythetic Data Generators](#synthetic-data-generators)
 - [Datasets](#datasets)
 - [Software](#software)
     - [Drivers](#drivers)
@@ -2907,6 +2908,12 @@ ACM Int. Conf. on Multimedia (MM), 2021. [PDF](https://cvteam.buaa.edu.cn/papers
 - <a name="Gu24tpami"></a>Gu, D., Li, J., Zhu, L., Zhang, Y., Jimmy, S.R.,   
 *[Reliable Event Generation With Invertible Conditional Normalizing Flow](http://dx.doi.org/10.1109/TPAMI.2023.3326538)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024. [PDF](https://cvteam.buaa.edu.cn/papers/2024-TPAMI-Daxin.pdf).
+
+<a name="synthetic-data-generators"></a>
+# Synthetic Data Generators
+- <a name="ott2024text"></a>Ott, J., Wang, Z. and Liu, S.C.,   
+  *[Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input](https://ieeexplore.ieee.org/abstract/document/10549580)*,    
+  IEEE Neuro Inspired Computational Elements Conference (NICE) (pp. 1-10), 2024. [PDF](https://arxiv.org/pdf/2406.03439).
 
 <a name="datasets"></a>
 # Datasets (sorted by topic)
