@@ -81,7 +81,7 @@
     - [Visual Voice Activity Detection](#voice-activity-detection)
 
 - [Simulators and Emulators](#simulators-emulators)
-- [Sythetic Data Generators](#synthetic-data-generators)
+- [Synthetic Data Generators](#synthetic-data-generators)
 - [Datasets](#datasets)
 - [Software](#software)
     - [Drivers](#drivers)
@@ -1128,6 +1128,8 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023. [PDF](https://a
 - <a name="Li24eccv"></a>Li, W., Wan, P., Wang, P., Li, J., Zhou, Y., Liu, P.,  
 *[BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04596.pdf)*,  
 European Conf. Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/abs/2407.02174), [Project Page](https://akawincent.github.io/BeNeRF/), [Code](https://github.com/WU-CVGL/BeNeRF). [Dataset](https://westlakeu-my.sharepoint.com/:f:/g/personal/cvgl_westlake_edu_cn/EjZNs8MwoXBDqT61v_j5V3EBIoKb8dG9KlYtYmLxcNJG_Q?e=AFXeUB).
+- [Ott et al., NICE 2024](#ott24nice),  
+*Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input*.
 
 ### Image super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
