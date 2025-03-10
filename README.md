@@ -1,9 +1,8 @@
 # Event-based Vision Resources
 
-## <a href="https://tub-rip.github.io/eventvision2025/">CVPR 2025 Workshop on Event-based Vision.</a> Submission of papers until: March 12th, 2025.
+## <a href="https://tub-rip.github.io/eventvision2025/">CVPR 2025 Workshop on Event-based Vision.</a> Submission of papers until: ~March 12th~ March 19th, 2025.
 ## ${\color{red}\text{IEEE T-RO}}$ <a href="https://www.ieee-ras.org/publications/t-ro/special-issues/event-based-vision-for-robotics"> Special Collection on Event-based Vision for Robotics.</a> Submission of papers until: May 1st, 2025.
-## <a href="https://2025.ic-dsp.org/special-session-4/">DSP2025 Special Session on Event-based Vision: “Processing the Neuromorphic Signal: Event-based Vision and Applications”.</a> Submission of papers until: Feb 25, 2025.  
-## <a href="https://eventbasedvision.github.io/EVGEN2025/">WACV 2025. EVGEN: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation, 28 February or 4 March 2025.</a>
+## <a href="https://2025.ic-dsp.org/special-session-4/">DSP2025 Special Session on Event-based Vision: “Processing the Neuromorphic Signal: Event-based Vision and Applications”.</a> 25-27 June 2025.  
 ## <a href="https://www.neuropac.info/">NeuroPAC</a>
 
 ## Table of Contents:
@@ -111,7 +110,8 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
 
 <a name="workshops"></a>
 # Workshops
-- [WACV 2025 EVGEN: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation](https://eventbasedvision.github.io/EVGEN2025/)  
+- [CVPR 2025 Fifth International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2025)
+- [WACV 2025 EVGEN: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation](https://eventbasedvision.github.io/EVGEN2025/)
 - [IROS 2024 Workshop on Embodied Neuromorphic AI for Robotic Perception and Control](https://sites.google.com/view/iros-2024-workshop)  
 - [ECCV 2024 Workshop on Neuromorphic Vision (NeVi)](https://sites.google.com/view/nevi2024), **[Slides](https://sites.google.com/view/nevi2024/program)**
 - [ECCV 2024 1st Workshop on Neural Fields Beyond Conventional Cameras](https://neural-fields-beyond-cams.github.io/)
