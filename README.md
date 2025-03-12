@@ -1760,7 +1760,6 @@ IEEE Trans. Robot. (TRO), 2021. [Project page](https://sites.google.com/view/esv
 *Research on Event Accumulator Settings for Event-Based SLAM*.
 - [Shiba et al. TPAMI 2024](#Shiba24tpami),  
 *Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
-
 - <a name="Xiong25ArXiv"></a>Xiong, C., Wei, L., Ma, K., Sun, Z., Xiang, Y., Nan, Z., Truong, T, Pei, L.,  
 *[THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks](https://arxiv.org/abs/2503.05112)*,
 arXiv, 2025. [PDF](https://arxiv.org/pdf/2503.05112), [Video](https://www.bilibili.com/video/BV127RAY8EuD/?vd_source=e79fc1d978b3209557faab5cb2ea763a), [Code](https://github.com/Franky-X/THE-SEAN).
