@@ -1761,6 +1761,10 @@ IEEE Trans. Robot. (TRO), 2021. [Project page](https://sites.google.com/view/esv
 - [Shiba et al. TPAMI 2024](#Shiba24tpami),  
 *Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
 
+- <a name="Xiong25ArXiv"></a>[Xiong et al., arXiv, 2025.](https://arxiv.org/abs/2503.05112)  
+*THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks*,  
+[PDF](https://arxiv.org/pdf/2503.05112), [Video](https://www.bilibili.com/video/BV127RAY8EuD/?vd_source=e79fc1d978b3209557faab5cb2ea763a), [Code](https://github.com/Franky-X/THE-SEAN).
+
 <a name="visual-inertial"></a>
 ### Visual-Inertial Odometry
 - <a name="Mueggler18tro"></a>Mueggler, E., Gallego, G., Rebecq, H., Scaramuzza, D.,  
