@@ -1841,6 +1841,9 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2024.
 - <a name="Chen24cvpr"></a>Chen, Z., Zhu, Z., Hou, J., Shi, G., Wu, J.,  
 *[Segment Any Event Stream via Weighted Adaptation of Pivotal Tokens](https://arxiv.org/abs/2312.16222)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Code](https://github.com/happychenpipi/EventSAM).
+- <a name="Yao25wacv"></a>Yao, Z., Chuah, M.C.,  
+*[Event-Guided Low-Light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/papers/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.pdf)*,  
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2025. [PDF](https://arxiv.org/pdf/2411.00639)
 
 <a name="motion-segmentation"></a>
 ### Motion Segmentation
