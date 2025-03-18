@@ -170,7 +170,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
     - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Insightness.pdf) and [Video](https://youtu.be/9IJwF9xYEoU) by [Stefan Isler](http://www.insightness.com/#team) (2019).
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Insightness.pdf) and [Video](https://youtu.be/6YyOW6DDGKw) by [Christian Brandli](http://www.insightness.com/#team), CEO and co-founder of Insightness (2017).
 - [**PROPHESEE’s Metavision Sensor**](https://www.prophesee.ai/event-based-sensor-packaged/) and [**Software**](https://www.prophesee.ai/metavision-intelligence/)
-    - **ATIS** <a name="Posch11jssc"></a> (Asynchronous Time-based Image Sensor): Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011. [PDF](https://www.neuromorphic-vision.com/public/publications/2/publication.pdf), [YouTube](https://youtu.be/YQ8rT9Harb4), [YouTube](https://youtu.be/3Wiw8LA8hLs)
+    - **ATIS** <a name="Posch11jssc"></a> (Asynchronous Time-based Image Sensor): Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011. [YouTube](https://youtu.be/YQ8rT9Harb4), [YouTube](https://youtu.be/3Wiw8LA8hLs)
     - Prophesee Gen4 is described in: Finateu et al., *[A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86μm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline](https://doi.org/10.1109/ISSCC19947.2020.9063149)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), 2020, pp. 112-114.
     - [**Buy a Prophesee packaged sensor VGA**](https://www.prophesee.ai/event-based-sensor-packaged)
     - [Prophesee Cameras Specifications](https://www.prophesee.ai/event-based-evaluation-kits/)
@@ -257,16 +257,16 @@ SPIE vol 11540, Emerging Imaging and Sensing Technologies for Security and Defen
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2010. [PDF](https://e-lab.github.io/data/papers/ISCAS2010actsens.pdf).
 - <a name="Posch12jinst"></a>Posch, C.,  
 *[Bio-inspired vision](https://doi.org/10.1088/1748-0221/7/01/C01054)*,  
-J. of Instrumentation, 7 C01054, 2012.  Bio-inspired explanation of the DVS and the ATIS. [PDF](https://www.neuromorphic-vision.com/public/publications/17/publication.pdf)
+J. of Instrumentation, 7 C01054, 2012.  Bio-inspired explanation of the DVS and the ATIS.  
 - Posch, C., Serrano-Gotarredona, T., Linares-Barranco, B., Delbruck, T.,  
 *[Retinomorphic Event-Based Vision Sensors: Bioinspired Cameras With Spiking Output](https://doi.org/10.1109/JPROC.2014.2346153),*  
-Proc. IEEE (2014), 102(10):1470-1484. [PDF](https://www.neuromorphic-vision.com/public/publications/21/publication.pdf)
+Proc. IEEE (2014), 102(10):1470-1484. 
 - <a name="Posch15bicv"></a>Posch, C.,  
 *[Bioinspired vision sensing](https://doi.org/10.1002/9783527680863.ch2)*,  
 Biologically Inspired Computer Vision, Wiley-Blackwell, pp. 11-28, 2015. [book index](http://bicv.github.io/toc/index.html)
 - <a name="Posch15ieee"></a>Posch, C., Benosman, R., Etienne-Cummings, R.,  
 *[How Neuromorphic Image Sensors Steal Tricks From the Human Eye](https://spectrum.ieee.org/biomedical/devices/how-neuromorphic-image-sensors-steal-tricks-from-the-human-eye)*, also published as *[Giving Machines Humanlike Eyes](https://doi.org/10.1109/MSPEC.2015.7335800)*,  
-IEEE Spectrum, 52(12):44-49, 2015. [PDF](https://www.neuromorphic-vision.com/public/publications/33/publication.pdf)
+IEEE Spectrum, 52(12):44-49, 2015.  
 - <a name="Cho15sam"></a>Cho, D., Lee, T.-J.,  
 *[A Review of Bioinspired Vision Sensors and Their Applications](https://doi.org/10.18494/SAM.2015.1133)*,  
 Sensors and Materials, 27(6):447-463, 2015. [PDF](https://myukk.org/SM2017/sm_pdf/SM1083.pdf)
@@ -343,12 +343,12 @@ EURASIP J. Embedded Systems, 2007:082174. [PDF](http://citeseerx.ist.psu.edu/vie
 ACM/IEEE Int. Conf. on Distributed Smart Cameras, 2007. [PDF](http://belbachir.info/PDF/icdsc2007.pdf)
 - <a name="Ni12tro"></a>Ni, Z., Bolopion, A., Agnus, J., Benosman, R., Regnier, S.,  
 *[Asynchronous event-based visual shape tracking for stable haptic feedback in microrobotics](https://doi.org/10.1109/TRO.2012.2198930)*,  
-IEEE Trans. Robot. (TRO), 28(5):1081-1089, 2012. [PDF](https://www.neuromorphic-vision.com/public/publications/15/publication.pdf)
+IEEE Trans. Robot. (TRO), 28(5):1081-1089, 2012.  
     - [Ni, Ph.D. Thesis, 2013](#Ni13PhD),  
 *Asynchronous Event Based Vision:  Algorithms and Applications to Microrobotics*.
     - <a name="Ni15neco"></a>Ni, Z., Ieng, S. H., Posch, C., Regnier, S., Benosman, R.,  
 *[Visual Tracking Using Neuromorphic Asynchronous Event-Based Cameras](https://doi.org/10.1162/NECO_a_00720)*,  
-Neural Computation (2015), 27(4):925-953. [PDF](https://www.neuromorphic-vision.com/public/publications/40/publication.pdf), [YouTube](https://youtu.be/eQ7reEN9PrA)
+Neural Computation (2015), 27(4):925-953. [YouTube](https://youtu.be/eQ7reEN9PrA)
 - <a name="Piatkowska12cvprw"></a>Piatkowska, E., Belbachir, A. N., Schraml, S., Gelautz, M.,  
 *[Spatiotemporal multiple persons tracking using Dynamic Vision Sensor](https://doi.org/10.1109/CVPRW.2012.6238892)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2012, pp. 35-40. [PDF](https://publik.tuwien.ac.at/files/PubDat_209369.pdf)
@@ -363,13 +363,13 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2013, pp. 4214-4219.
 Int. Symp. Vision, Modeling and Visualization (VMV), 2014. [PDF](http://ahornung.net/files/pub/2014-vmv-siliconretina-saner.pdf)
 - <a name="Lagorce15tnnls"></a>Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R.,  
 *[Asynchronous Event-Based Multikernel Algorithm for High-Speed Visual Features Tracking](https://doi.org/10.1109/TNNLS.2014.2352401)*,  
-IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(8):1710-1720, 2015. [PDF](https://www.neuromorphic-vision.com/public/publications/28/publication.pdf), [YouTube](https://youtu.be/ze8Wgou9yA4)
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(8):1710-1720, 2015. [YouTube](https://youtu.be/ze8Wgou9yA4)
     - <a name="Lagorce14biocas"></a>Lagorce, X., Meyer, C., Ieng, S. H., Filliat, D., Benosman, R.,  
 *[Live demonstration: Neuromorphic event-based multi-kernel algorithm for high speed visual features tracking](https://doi.org/10.1109/BioCAS.2014.6981681)*,  
 IEEE Biomedical Circuits and Systems Conference (BioCAS), 2014, pp. 178.
 - <a name="Reverter15tnnls"></a>Reverter Valeiras, D., Lagorce, X., Clady, X., Bartolozzi, C., Ieng, S., Benosman, R.,  
 *[An Asynchronous Neuromorphic Event-Driven Visual Part-Based Shape Tracking](https://doi.org/10.1109/TNNLS.2015.2401834)*,  
-IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(12):3045-3059, 2015. [PDF](https://www.neuromorphic-vision.com/public/publications/23/publication.pdf), [YouTube](https://youtu.be/XeQYNYESJtQ)
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 26(12):3045-3059, 2015. [YouTube](https://youtu.be/XeQYNYESJtQ)
 - <a name="LinaresBarranco15iscas"></a>Linares-Barranco, A., Gómez-Rodríguez, F., Villanueva, V., Longinotti, L., Delbrück, T.,    
 *[A USB3.0 FPGA event-based filtering and tracking framework for dynamic vision sensors](https://doi.org/10.1109/ISCAS.2015.7169172)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
@@ -398,7 +398,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2017. [YouTube](https
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems Workshops (IROSW), 2018. Workshop on Unconventional Sensing and Processing for Robotic Visual Perception.
 - <a name="Clady17fnins"></a>Clady, X., Maro, J.-M., Barré, S., Benosman, R. B.,  
 *[A Motion-Based Feature for Event-Based Pattern Recognition](https://doi.org/10.3389/fnins.2016.00594)*.  
-Front. Neurosci. (2017), 10:594. [PDF](https://www.neuromorphic-vision.com/public/publications/49/publication.pdf)
+Front. Neurosci. (2017), 10:594. 
 - <a name="Zhu17icra"></a>Zhu, A., Atanasov, N., Daniilidis, K.,  
 *[Event-based Feature Tracking with Probabilistic Data Association](https://doi.org/10.1109/ICRA.2017.7989517)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2017. [PDF](https://fling.seas.upenn.edu/~alexzhu/dynamic/wp-content/uploads/2017/07/EventBasedFeatureTrackingICRA2017.pdf), [YouTube](https://youtu.be/m93XCqAS6Fc), [Code](https://github.com/daniilidis-group/event_feature_tracking)
@@ -470,7 +470,7 @@ Int. Conf. Computational Science (ICCS) 2019. [PDF](https://www.hs-niederrhein.d
 ACM Int. Conf. on Multimedia (MM), 2019.
 - <a name="Reverter19tnnls"></a>Reverter Valeiras, D., Clady, X., Ieng, S.-H., Benosman, R.,  
 *[Event-Based Line Fitting and Segment Detection Using a Neuromorphic Visual Sensor](https://doi.org/10.1109/TNNLS.2018.2807983)*,  
-IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 30(4):1218-1230, 2019. [PDF](https://www.neuromorphic-vision.com/public/publications/51/publication.pdf)
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 30(4):1218-1230, 2019. 
 - <a name="Li19fnbot"></a>Li, H., Shi, L., 
 *[Robust Event-Based Object Tracking Combining Correlation Filter and CNN Representation](https://doi.org/10.3389/fnbot.2019.00082)*,  
 Front. Neurorobot. 13:82, 2019. [Dataset](https://figshare.com/s/70565903453eef7c3965)
@@ -574,7 +574,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [code](https://
 ### Corner Detection and Tracking
 - <a name="Clady15neunet"></a>Clady, X., Ieng, S.-H., Benosman, R.,  
 *[Asynchronous event-based corner detection and matching](https://doi.org/10.1016/j.neunet.2015.02.013)*,  
-Neural Networks (2015), 66:91-106. [PDF](https://www.neuromorphic-vision.com/public/publications/38/publication.pdf)
+Neural Networks (2015), 66:91-106. 
 - <a name="Vasco16iros"></a>Vasco, V., Glover, A., Bartolozzi, C.,  
 *[Fast event-based Harris corner detection exploiting the advantages of event-driven cameras](https://doi.org/10.1109/IROS.2016.7759610)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2016, pp. 4144-4149. [YouTube](https://youtu.be/YkI7AfBDBKE), [Code](https://github.com/robotology/event-driven)
@@ -640,7 +640,7 @@ Int. Conf. on Acoustics, Speech and Signal Proc. (ICASSP), 2024.
 Experiments in Fluids (2011), 51(1):1465-1469. [PDF](http://www.zora.uzh.ch/60624/1/Drazen_EIF_2011.pdf)
 - <a name="Ni11jmcro"></a>Ni, Z., Pacoret, C., Benosman, R., Ieng, S., Regnier, S.,  
 *[Asynchronous event-based high speed vision for microparticle tracking](http://doi.org/10.1111/j.1365-2818.2011.03565.x)*,  
-J. Microscopy (2011), 245(3):236-244. [PDF](https://www.neuromorphic-vision.com/public/publications/14/publication.pdf)
+J. Microscopy (2011), 245(3):236-244. 
 - <a name="Borer14isfv"></a>Borer, D., Roesgen, T.,  
 *[Large-scale Particle Tracking with Dynamic Vision Sensors](https://www.research-collection.ethz.ch/handle/20.500.11850/86729)*,  
 ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http://www.ifd.mavt.ethz.ch/research/group-roesgen/dynamic-vision-sensors.html), [Poster](http://www.ifd.mavt.ethz.ch/content/dam/ethz/special-interest/mavt/fluid-dynamics/ifd-dam/research/documents/posters/experimental-methods/daniel_borer_dynamic_vision_sensor.pdf)
@@ -685,13 +685,13 @@ Int. Symp. on Secure-Life Electronics, Advanced Electronics for Quality Life and
 *Interacting maps for fast visual interpretation*.  (Joint estimation of optical flow, image intensity and angular velocity with a rotating event camera).
 - <a name="Benosman12neunet"></a>Benosman, R., Ieng, S.-H., Clercq, C., Bartolozzi, C., Srinivasan, M.,  
 *[Asynchronous Frameless Event-Based Optical Flow](https://doi.org/10.1016/j.neunet.2011.11.001),*  
-Neural Networks (2012), 27:32-37. [PDF](https://www.neuromorphic-vision.com/public/publications/12/publication.pdf), [Suppl. Mat.](https://www.neuromorphic-vision.com/public/publications/12/supplementaryMaterial.zip)
+Neural Networks (2012), 27:32-37. 
 - <a name="Orchard13biocas"></a>Orchard, G., Benosman, R., Etienne-Cummings, R., Thakor, N,  
 *[A Spiking Neural Network Architecture for Visual Motion Estimation](https://doi.org/10.1109/BioCAS.2013.6679698)*,  
 IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2013. [PDF](https://www.researchgate.net/publication/261075772_A_spiking_neural_network_architecture_for_visual_motion_estimation), [Code](https://github.com/gorchard/Spiking_Motion)
 - <a name="Benosman14tnnls"></a>Benosman, R., Clercq, C., Lagorce, X., Ieng, S.-H., Bartolozzi, C.,  
 *[Event-Based Visual Flow](https://doi.org/10.1109/TNNLS.2013.2273537),*  
-IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 25(2):407-417, 2014. [PDF](https://www.neuromorphic-vision.com/public/publications/3/publication.pdf), [Code (jAER): LocalPlanesFlow](https://github.com/SensorsINI/jaer/blob/master/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java)
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 25(2):407-417, 2014. [Code (jAER): LocalPlanesFlow](https://github.com/SensorsINI/jaer/blob/master/src/ch/unizh/ini/jaer/projects/rbodo/opticalflow/LocalPlanesFlow.java)
     - [Clady et al., Front. Neurosci. 2014](#Clady14fnins),  
     *Asynchronous visual event-based time-to-contact*.
     - <a name="Mueggler15icra"></a>E. Mueggler, C. Forster, N. Baumli, G. Gallego, D. Scaramuzza,  
@@ -740,7 +740,7 @@ Tech. Rep. TU Munich, 2015.
 *Bioinspired event-driven collision avoidance algorithm based on optic flow*.
 - <a name="Giulioni16fnins"></a>Giulioni, M., Lagorce, X., Galluppi, F., Benosman, R.,  
 *[Event-Based Computation of Motion Flow on a Neuromorphic Analog Neural Platform](https://doi.org/10.3389/fnins.2016.00035)*,  
-Front. Neurosci. (2016), 10:35. [PDF](https://www.neuromorphic-vision.com/public/publications/46/publication.pdf)
+Front. Neurosci. (2016), 10:35. 
     - <a name="Haessig19aicas"></a>Haessig, G., Galluppi, F., Lagorce, X., Benosman, R.,  
 *[Neuromorphic networks on the SpiNNaker platform](https://doi.org/10.1109/AICAS.2019.8771512)*,  
 IEEE Int. Conf. Artificial Intelligence Circuits and Systems (AICAS), 2019.
@@ -812,7 +812,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF](https://a
 European Conf. Computer Vision Workshops (ECCVW), 2018. [PDF](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Zhu_Unsupervised_Event-based_Optical_Flow_using_Motion_Compensation_ECCVW_2018_paper.pdf)
 - <a name="Khoei19neco"></a>Khoei, M.A., Benosman, R.,  
 *[Asynchronous Event-Based Motion Processing: From Visual Events to Probabilistic Sensory Representation](https://doi.org/10.1162/neco_a_01191)*,  
-Neural Computation (2019), 31(6):1114-1138. [PDF](https://www.neuromorphic-vision.com/public/publications/56/publication.pdf)
+Neural Computation (2019), 31(6):1114-1138. 
 - <a name="Almatrafi19davis"></a>Almatrafi, M. M., Hirakawa, K.,  
 *[DAViS Camera Optical Flow](http://doi.org/10.1109/TCI.2019.2948787)*,  
 IEEE Trans. Comput. Imag. (TCI), 6:396-407, 2019.
@@ -1174,7 +1174,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https
 ### Tone Mapping
 - <a name="SimonChane16fnins"></a>Simon Chane, C., Ieng, S.-H., Posch, C., Benosman, R.,  
 *[Event-Based Tone Mapping for Asynchronous Time-Based Image Sensor](https://doi.org/10.3389/fnins.2016.00391)*,  
-Front. Neurosci. (2016), 10:391. [PDF](https://www.neuromorphic-vision.com/public/publications/43/publication.pdf)
+Front. Neurosci. (2016), 10:391.  
 - <a name="Han20cvpr"></a>Han, J., Zhou, C., Duan, P., Tang, Y., Xu, C., Xu, C., Huang, T., Shi, B.,  
 *[Neuromorphic Camera Guided High Dynamic Range Imaging](http://openaccess.thecvf.com/content_CVPR_2020/html/Han_Neuromorphic_Camera_Guided_High_Dynamic_Range_Imaging_CVPR_2020_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Han_Neuromorphic_Camera_Guided_High_Dynamic_Range_Imaging_CVPR_2020_paper.pdf), [Suppl. Mat.](http://openaccess.thecvf.com/content_CVPR_2020/supplemental/Han_Neuromorphic_Camera_Guided_CVPR_2020_supplemental.pdf)
@@ -1220,7 +1220,7 @@ British Machine Vision Conf. (BMVC), 2016. [PDF](http://rpg.ifi.uzh.ch/docs/BMVC
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CVPR18_Gallego.pdf),  [Poster](http://rpg.ifi.uzh.ch/docs/CVPR18_Gallego_poster.pdf),  [YouTube](https://youtu.be/KFMZFhi-9Aw),  [Spotlight presentation](https://youtu.be/IOntXI5iRzA).
 - <a name="Haessig19srep"></a>Haessig, G., Berthelon, X., Ieng, S.-H., Benosman, R.,  
 [A Spiking Neural Network Model of Depth from Defocus for Event-based Neuromorphic Vision](https://doi.org/10.1038/s41598-019-40064-0),  
-Scientific Reports 9, Article number: 3744 (2019). [PDF](https://www.neuromorphic-vision.com/public/publications/55/publication.pdf)
+Scientific Reports 9, Article number: 3744 (2019).  
 - <a name="Gallego19cvpr"></a>Gallego, G., Gehrig, M., Scaramuzza, D.,  
 *[Focus Is All You Need: Loss Functions For Event-based Vision](http://rpg.ifi.uzh.ch/docs/CVPR19_Gallego.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019. [PDF arXiv](https://arxiv.org/pdf/1904.07235), [Poster](http://rpg.ifi.uzh.ch/docs/CVPR19_Gallego_poster.pdf), [YouTube](https://youtu.be/SU_Fp4xS_g4?t=1059)
@@ -1361,13 +1361,13 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2012.
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2012.
 - <a name="Benosman11tnn"></a>Benosman, R., Ieng, S. H., Rogister, P., Posch, C.,  
 *[Asynchronous Event-Based Hebbian Epipolar Geometry](https://doi.org/10.1109/TNN.2011.2167239)*,  
-IEEE Trans. Neural Netw., 22(11):1723-1734, 2011. [PDF](https://www.neuromorphic-vision.com/public/publications/10/publication.pdf)
+IEEE Trans. Neural Netw., 22(11):1723-1734, 2011.  
 - <a name="Rogister12tnnls"></a>Rogister, P. , Benosman, R., Ieng, S.-H., Lichtsteiner, P., Delbruck, T.,  
 *[Asynchronous Event-Based Binocular Stereo Matching](https://doi.org/10.1109/TNNLS.2011.2180025)*,  
-IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 23(2):347-353, 2012. [PDF](https://www.neuromorphic-vision.com/public/publications/16/publication.pdf)
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 23(2):347-353, 2012.  
 - <a name="Carneiro13neunet"></a>Carneiro, J., Ieng, S.-H., Posch, C., Benosman, R.,  
 *[Event-based 3D reconstruction from neuromorphic retinas](https://doi.org/10.1016/j.neunet.2013.03.006)*,  
-Neural Networks (2013), 45:27-38. [PDF](https://www.neuromorphic-vision.com/public/publications/5/publication.pdf), [YouTube](https://youtu.be/XLMhTbNoHR0), [YouTube](https://youtu.be/XLMhTbNoHR0), [YouTube](https://youtu.be/KqIRza6dB4E), [YouTube](https://youtu.be/WKLWCaOxhp8), [YouTube](https://youtu.be/5DK6TlMyDxQ), [YouTube](https://youtu.be/neKsSMsaYNI)
+Neural Networks (2013), 45:27-38. [YouTube](https://youtu.be/XLMhTbNoHR0), [YouTube](https://youtu.be/XLMhTbNoHR0), [YouTube](https://youtu.be/KqIRza6dB4E), [YouTube](https://youtu.be/WKLWCaOxhp8), [YouTube](https://youtu.be/5DK6TlMyDxQ), [YouTube](https://youtu.be/neKsSMsaYNI)
     - [Carneiro, Ph.D. Thesis, 2014](#Carneiro14PhD),  
 *Asynchronous Event-Based 3D Vision*.
 - [Lee et al., TNNLS 2014](#Lee14tnnls)
@@ -1382,7 +1382,7 @@ IEEE Int. Conf. Computer Vision Workshops (ICCVW), 2013.
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2017, pp. 370-377. [PDF](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w4/papers/Piatkowska_Improved_Cooperative_Stereo_CVPR_2017_paper.pdf).
 - <a name="Camunas14fnins"></a>Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Ieng, S. H., Benosman, R. B., Linares-Barranco, B.,  
 *[On the use of orientation filters for 3D reconstruction in event–driven stereo vision](https://doi.org/10.3389/fnins.2014.00048)*,  
-Front. Neurosci. (2014), 8:48. [PDF](https://www.neuromorphic-vision.com/public/publications/29/publication.pdf)
+Front. Neurosci. (2014), 8:48. 
     - <a name="Camunas14iscas"></a>Camuñas-Mesa, L. A., Serrano-Gotarredona, T., Linares-Barranco, B., Ieng, S., Benosman, R.,  
 *[Event-Driven Stereo Vision with Orientation Filters](https://doi.org/10.1109/ISCAS.2014.6865114)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2014.
@@ -1405,7 +1405,7 @@ Int. Conf. Artificial Neural Networks (ICANN), 2018.
 IEEE Int. Conf. Image Processing (ICIP), 2016.
 - <a name="Osswald17srep"></a>Osswald, M., Ieng, S.-H., Benosman, R., Indiveri, G.,  
 *[A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems](http://doi.org/10.1038/srep40703)*,  
-Scientific Reports 7, Article number: 40703 (2017). [PDF](https://www.neuromorphic-vision.com/public/publications/44/publication.pdf)
+Scientific Reports 7, Article number: 40703 (2017). 
     - [Haessig et al., AICAS 2019](#Haessig19aicas),  
 *Neuromorphic networks on the SpiNNaker platform*.
 - <a name="Zou17bmvc"></a>Zou, D., Shi, F., Liu, W., Li, J., Wang, Q., Park, P.K.J., Shi, C.-W., Roh, Y.J., Ryu, H.,  
@@ -1556,10 +1556,10 @@ arXiv:1510.01972, 2015.
 Robotics: Science and Systems (RSS), 2015. [PDF](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler.pdf), [PPT](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler.pptm),  [Poster](http://rpg.ifi.uzh.ch/docs/RSS15_Mueggler_poster.pdf)
 - <a name="Reverter16fnins"></a>Reverter Valeiras, D., Orchard, G., Ieng, S.-H., Benosman, R.,  
 *[Neuromorphic Event-Based 3D Pose Estimation](https://doi.org/10.3389/fnins.2015.00522)*.  
-Front. Neurosci. (2016), 9:522. [PDF](https://www.neuromorphic-vision.com/public/publications/24/publication.pdf), [Suppl. Mat.](https://www.neuromorphic-vision.com/public/publications/24/supplementaryMaterial.zip), [YouTube](https://youtu.be/feBozLYZhB8)
+Front. Neurosci. (2016), 9:522. [YouTube](https://youtu.be/feBozLYZhB8)
 - <a name="Reverter16fninsb"></a>Reverter Valeiras, D., Kime, S., Ieng, S.-H., Benosman, R.,  
 *[An Event-Based Solution to the Perspective-n-Point Problem](https://doi.org/10.3389/fnins.2016.00208)*,  
-Front. Neurosci. (2016), 10:208. [PDF](https://www.neuromorphic-vision.com/public/publications/25/publication.pdf), [Suppl. Mat.](https://www.neuromorphic-vision.com/public/publications/25/supplementaryMaterial.zip)
+Front. Neurosci. (2016), 10:208. 
 - <a name="Yuan16icra"></a>Yuan, W., Ramalingam, S.,  
 *[Fast Localization and Tracking using Event Sensors](https://doi.org/10.1109/ICRA.2016.7487657)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2016. [PDF](http://people.csail.mit.edu/yuan_wz/OtherProj/Event_ICRA16.pdf), [Video](http://people.csail.mit.edu/yuan_wz/OtherProj/EventLoc_demo.mp4)
@@ -1822,7 +1822,7 @@ arXiv, 2022.
 IEEE Int. Conf. Computer Vision (ICCV), 2015, pp. 486-494. [PDF](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Barranco_Contour_Detection_and_ICCV_2015_paper.pdf), [Project page](http://www.umiacs.umd.edu/research/POETICON/DVSContours/)
 - <a name="Marcireau18fnins"></a>Marcireau, A., Ieng, S.-H., Simon-Chane, C., Benosman, R.,  
 *[Event-Based Color Segmentation With a High Dynamic Range Sensor](https://doi.org/10.3389/fnins.2018.00135)*.  
-Front. Neurosci. (2018), 12:135. [PDF](https://www.neuromorphic-vision.com/public/publications/53/publication.pdf)
+Front. Neurosci. (2018), 12:135. 
 - <a name="Barranco18iros"></a>Barranco, F., Fermüller, C., Ros, E.,  
 *[Real-Time Clustering and Multi-Target Tracking Using Event-Based Sensors](https://doi.org/10.1109/IROS.2018.8593380)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018. [PDF](https://arxiv.org/pdf/1807.02851.pdf), [YouTube](https://youtu.be/p-eapPg5BuE)
@@ -1905,7 +1905,7 @@ IEEE Biomedical Circuits and Systems Conf. (BioCAS), 2014.
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
 - <a name="Cohen16fnins"></a>Cohen, G., Orchard, G., Ieng, S.-H., Tapson, J., Benosman, R., van Schaik, A.,  
 *[Skimming Digits: Neuromorphic Classification of Spike-Encoded Images](https://doi.org/10.3389/fnins.2016.00184)*,  
-Front. Neurosci. (2016), 10:184. [PDF](https://www.neuromorphic-vision.com/public/publications/45/publication.pdf)
+Front. Neurosci. (2016), 10:184. 
 - [Barua et al., WACV 2016](#Barua16wacv),  
 *Direct face detection and video reconstruction from event cameras*.
 - <a name="Moeys16ebccsp"></a>Moeys, D., Corradi F., Kerr, E., Vance, P., Das, G., Neil, D., Kerr, D., Delbruck, T.,  
@@ -2054,7 +2054,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2012.
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2012.
 - <a name="Orchard15tpami"></a>Orchard, G., Meyer, C., Etienne-Cummings, R., Posch, C., Thakor, N., Benosman, R.,  
 *[HFIRST: A Temporal Approach to Object Recognition](https://doi.org/10.1109/TPAMI.2015.2392947)*,  
-IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 37(10):2028-2040, 2015. [PDF](https://arxiv.org/pdf/1508.01176.pdf), [PDF](https://www.neuromorphic-vision.com/public/publications/36/publication.pdf)
+IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 37(10):2028-2040, 2015. [PDF](https://arxiv.org/pdf/1508.01176.pdf)  
     - [Code](https://github.com/gorchard/HFIRST): HFIRST: A simple spiking neural network for recognition based on the canonical frame-based HMAX model.
 - <a name="Park15icip"></a>Park, P.K.J., Lee, K., Lee, J.H., Kang, B., Shin, C.-W., Woo, J., Kim, J.-S., Suh, Y., Kim, S., Moradi, S., Gurel, O., Ryu, H.,  
 *[Computationally efficient, real-time motion recognition based on bio-inspired visual and cognitive processing](http://dx.doi.org/10.1109/ICIP.2015.7350936)*,  
@@ -2359,7 +2359,7 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2024. [PDF](https://ar
 ## Signal Processing
 - <a name="Ieng14ieee"></a>Ieng, S.-H., Posch, C., Benosman, R.,  
 *[Asynchronous Neuromorphic Event-Driven Image Filtering](https://doi.org/10.1109/JPROC.2014.2347355)*,  
-Proc. IEEE, 102(10):1485-1499, 2014. [PDF](http://neuromorphic-vision.com/public/publications/20/publication.pdf)
+Proc. IEEE, 102(10):1485-1499, 2014.  
 - <a name="Fillatre15eusipco"></a>Fillatre, L., Antonini, M.,   
 *[Uniformly minimum variance unbiased estimation for asynchronous event-based cameras](https://doi.org/10.1109/ICIP.2014.7025834)*,  
 IEEE Int. Conf. Image Processing (ICIP), 2014.
@@ -2373,7 +2373,7 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2015.
 European Signal Process. Conf. (EUSIPCO), 2015.
 - <a name="Sabatier17tip"></a>Sabatier, Q., Ieng, S.-H., Benosman, R.,  
 *[Asynchronous Event-Based Fourier Analysis](https://doi.org/10.1109/TIP.2017.2661702)*,  
-IEEE Trans. Image Process. (TIP) 26(5):2192-2202, 2017. [PDF](https://www.neuromorphic-vision.com/public/publications/7/publication.pdf), [Suppl. Mat.](https://www.neuromorphic-vision.com/public/publications/7/supplementaryMaterial.zip)
+IEEE Trans. Image Process. (TIP) 26(5):2192-2202, 2017.  
 - <a name="Ieng18fnins"></a>Ieng, S.-H., Lehtonen, E., Benosman, R.,  
 *[Complexity Analysis of Iterative Basis Transformations Applied to Event-Based Signals](https://doi.org/10.3389/fnins.2018.00373)*,  
 Front. Neurosci. (2018), 12:373.
@@ -2546,7 +2546,7 @@ arXiv, 2024. [Video](https://youtu.be/8D9gtHqteEQ), [Webpage](https://gokulbnr.g
 ## Obstacle Avoidance
 - <a name="Clady14fnins"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
 *[Asynchronous visual event-based time-to-contact](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
-Front. Neurosci. (2014). 8:9. [PDF](https://www.neuromorphic-vision.com/public/publications/30/publication.pdf)
+Front. Neurosci. (2014). 8:9.  
 - <a name="Milde15ebccsp"></a>Milde, M. B., Bertrand, O.J.N., Benosman, R., Egelhaaf, M., Chicca, E.,  
 *[Bioinspired event-driven collision avoidance algorithm based on optic flow](https://doi.org/10.1109/EBCCSP.2015.7300673)*,  
 IEEE Int. Conf. Event-Based Control Comm. and Signal Proc. (EBCCSP), 2015 [PDF](https://core.ac.uk/download/pdf/211842521.pdf).
