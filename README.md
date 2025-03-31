@@ -322,7 +322,7 @@ arXiv 2024,
 - <a name="Cazzato2024application"></a>Cazzato, D., Bono, F.,  
 *[An Application-Driven Survey on Event-Based Neuromorphic Computer Vision](https://www.mdpi.com/2078-2489/15/8/472)*,  
 Information 15.8 (2024): 472.
-- <a name="AliAkbarpour2024Emerging"></a>AliAkbarpour, H., Moori, A., Khorramdel, J., Blasch, E., Tahri, O.,
+- <a name="AliAkbarpour2024Emerging"></a>AliAkbarpour, H., Moori, A., Khorramdel, J., Blasch, E., Tahri, O.,  
 *[Emerging Trends and Applications of Neuromorphic Dynamic Vision Sensors: A Survey](https://doi.org/10.1109/SR.2024.3513952)*,  
 IEEE Sensors Reviews (2024), vol 1, pp. 14-63. [PDF](https://ieeexplore.ieee.org/iel8/10347229/10787061/10795229.pdf)
 
