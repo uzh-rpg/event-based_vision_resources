@@ -2582,6 +2582,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [PDF](https://rpg.ifi.uzh.
 - <a name="Monforte23cvpr"></a>Monforte M, Gava L, Iacono M, Glover A, Bartolozzi C   
 *[Fast trajectory end-point prediction with event cameras for reactive robot control](https://doi.org/10.1109/CVPRW59228.2023.00422)*,  
 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) on Event-based Vision, 2023. [Code](https://github.com/event-driven-robotics/LSTM-trajectory-forecasting)
+- <a name="Eva25cvpr"></a>Bonazzi P., Vogt C., Jost M., Khacef L., Paredes-Valles F., Magno M.,  
+*[Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone](https://arxiv.org/pdf/2504.10400)*,  
+2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) on Event-based Vision, 2025. [Code](https://github.com/pbonazzi/eva) [Dataset](https://zenodo.org/records/14711527)
 
 
 <a name="space"></a>
@@ -2961,6 +2964,9 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 - [Wang et al., IROS 2021 (SHEF)](#Wang21iros), *Stereo Hybrid Event-Frame (SHEF) Cameras for 3D Perception*, [Project Page](https://github.com/ziweiWWANG/SHEF).
 - [Gao et al., RAL 2022](#Gao22ral), *VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM*.
 - [Chaney et al., CVPRW 2023](#Chaney23cvprw), *M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset*
+
+## Obstacle Avoidance 
+- [Bonazzi et al., CVPRW 2025](#Eva25cvpr), *Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone*.
 
 ## Monocular Object Reconstruction
 - [Chen et al., ICVR 2023](#Chen23icvr), *Dense Voxel 3D Reconstruction Using a Monocular Event Camera*.
