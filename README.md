@@ -1,8 +1,9 @@
 # Event-based Vision Resources
 
-## <a href="https://tub-rip.github.io/eventvision2025/">CVPR 2025 Workshop on Event-based Vision.</a> Submission of papers until: ~March 12th~ March 19th, 2025.
-## ${\color{red}\text{IEEE T-RO}}$ <a href="https://www.ieee-ras.org/publications/t-ro/special-issues/event-based-vision-for-robotics"> Special Collection on Event-based Vision for Robotics.</a> Submission of papers until: May 1st, 2025.
+## <a href="https://www.ieee-ras.org/publications/t-ro/special-issues/event-based-vision-for-robotics"> IEEE T-RO Special Collection on Event-based Vision for Robotics.</a> Submission of papers until: May 1st, 2025.
+## <a href="https://tub-rip.github.io/eventvision2025/">CVPR 2025 Workshop on Event-based Vision.</a> Join us on June 12, Nashville (USA), 2025.
 ## <a href="https://2025.ic-dsp.org/special-session-4/">DSP2025 Special Session on Event-based Vision: “Processing the Neuromorphic Signal: Event-based Vision and Applications”.</a> 25-27 June 2025.  
+## <a href="https://sites.google.com/view/telluride-2025/home">2025 Telluride Neuromorphic Cognition Engineering Workshop.</a> June 29 -- July 19 2025.  
 ## <a href="https://www.neuropac.info/">NeuroPAC</a>
 
 ## Table of Contents:
@@ -1803,7 +1804,7 @@ arXiv, 2021. [PDF(Monocular VIO ony)](https://arxiv.org/abs/2112.00427), [Code (
 IEEE Robotics and Automation Letters (RA-L),2022. [PDF](https://rpg.ifi.uzh.ch/docs/RAL22_Mahlknecht.pdf), [code&dataset](https://uzh-rpg.github.io/eklt-vio/), [YouTube](https://youtu.be/GvKfJrMGNCs).  
 - <a name="Chamorro23cvprworkshop"></a>Chamorro, W. O., Solà, J., Andrade-Cetto, J.,  
 *[Event-IMU fusion strategies for faster-than-IMU estimation throughput](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput.pdf)*,  
-CVPR 2023 Workshop on Event-based Vision. [PDF](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput.pdf), [Video](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput_supp.zip).
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [PDF](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput.pdf), [Video](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput_supp.zip).
 - <a name="Xu23TRO"></a>Xu, W., Peng, X., Kneip, L.,  
 *[Tight Fusion of Events and Inertial Measurements for Direct Velocity Estimation](https://ieeexplore.ieee.org/abstract/document/10319103/)*,  
 IEEE Trans. Robot. (TRO), 2023. [PDF](https://arxiv.org/pdf/2401.09296v1.pdf)
@@ -2581,10 +2582,10 @@ IEEE Robotics and Automation Letters (RA-L), 2022. [PDF](https://zenodo.org/reco
 IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/ICRA23_Forrai.pdf), [YouTube](https://youtu.be/FpsVB8EO54M), [code](https://github.com/uzh-rpg/event-based_object_catching_anymal/).  
 - <a name="Monforte23cvpr"></a>Monforte M, Gava L, Iacono M, Glover A, Bartolozzi C   
 *[Fast trajectory end-point prediction with event cameras for reactive robot control](https://doi.org/10.1109/CVPRW59228.2023.00422)*,  
-2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) on Event-based Vision, 2023. [Code](https://github.com/event-driven-robotics/LSTM-trajectory-forecasting)
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [Code](https://github.com/event-driven-robotics/LSTM-trajectory-forecasting)
 - <a name="Eva25cvpr"></a>Bonazzi P., Vogt C., Jost M., Khacef L., Paredes-Valles F., Magno M.,  
 *[Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone](https://arxiv.org/pdf/2504.10400)*,  
-2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) on Event-based Vision, 2025. [Code](https://github.com/pbonazzi/eva) [Dataset](https://zenodo.org/records/14711527)
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [Code](https://github.com/pbonazzi/eva) [Dataset](https://zenodo.org/records/14711527)
 
 
 <a name="space"></a>
@@ -2691,7 +2692,7 @@ IEEE Int. Conf. 3D Vision (3DV), 2022. [Project page](https://bestchen97.github.
 Neurocomputing, 547, 2023. [Code](https://github.com/miracleyoo/yelan-dynamic-dvs-hpe)
 - <a name="Goyal23cvpr"></a>Goyal G, Di Pietro F, Carissimi N, Glover A, Bartozzi C   
 *[MoveEnet: Online high-frequency human pose estimation with an event camera](https://doi.org/10.1109/CVPRW59228.2023.00420)*,  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) on Event-based Vision, 2023. [Code](https://github.com/event-driven-robotics/hpe-core)
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [Code](https://github.com/event-driven-robotics/hpe-core)
 
 <a name="hand_pose_estimation"></a>
 ### Hand Pose Estimation
@@ -2854,8 +2855,7 @@ IEEE International Conference on Multisensor Fusion and Integration for Intellig
 ### Industrial Workplace Safety
 - <a name="Shariff23ojvt"></a>Chiavazza, S., Bartolozzi, C., and Glover., A.   
 *[Millisecond-latency Visual Fault-buttons using Event-cameras](https://github.com/event-driven-robotics/visual-fault-button)*,  
-European Conference on Computer Vision (ECCV) Workshop on Neuromorphic Vision:
-Advantages and Applications of Event Cameras (NeVi), 2024. [Code](https://github.com/event-driven-robotics/visual-fault-button)
+European Conf. Computer Vision Workshops (ECCVW), 2024. [Code](https://github.com/event-driven-robotics/visual-fault-button)
 
 <a name="face-alignment-landmarking"></a>
 ## Face Alignment and Landmark Detection
