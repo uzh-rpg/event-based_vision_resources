@@ -1654,6 +1654,9 @@ Sensors, 2024.
 *BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream*.
 - [Su et al., RAL 2025](#Su25ral),  
 *Motion-Aware Optical Camera Communication with Event Cameras*.
+- <a name="nkrumah2024ec"></a>Nkrumah, I., and Moshrefizadeh, M.,  Tahri, O., Blasch, E., Palaniappan, K., AliAkbarpour, H., 
+*[EC-WAMI: Event Camera-Based Pose Optimization in Remote Sensing and Wide-Area Motion Imagery](https://www.mdpi.com/1424-8220/24/23/7493)*,  
+Sensors, 2024.
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
@@ -3061,6 +3064,9 @@ IEEE Trans. Intell. Transp. Syst. (T-ITS), vol. 25, no. 1, pp. 214-224, Jan. 202
 - <a name="Guo24ecrot"></a>Guo, S., and Gallego, G.,  
 *[Event Camera Rotation Dataset (ECRot)](https://github.com/tub-rip/ECRot)* introduced with the paper *[CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization](https://github.com/tub-rip/cmax_slam)*,  
 IEEE Trans. Robot. (TRO), 2024.
+- <a name=""></a>Nkrumah, I., and Moshrefizadeh, M.,  Tahri, O., Blasch, E., Palaniappan, K., AliAkbarpour, H.,
+*[Aerial Imagery and Remote Sensing Dataset (EC-WAMI)](https://drive.google.com/drive/folders/1CKPIBZYMAyOgIsD9pp3pvewiikfQfXwE)* introduced with the paper *[EC-WAMI: Event Camera-Based Pose Optimization in Remote Sensing and Wide-Area Motion Imagery](https://www.mdpi.com/1424-8220/24/23/7493)*,  
+Sensors, 2024.
 
 ## Segmentation
 - [Mitrokhin et al., IROS 2018](#Mitrokhin18iros), Extreme Event Dataset (EED). [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
