@@ -1135,6 +1135,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023. [PDF](https://a
 European Conf. Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/abs/2407.02174), [Project Page](https://akawincent.github.io/BeNeRF/), [Code](https://github.com/WU-CVGL/BeNeRF). [Dataset](https://westlakeu-my.sharepoint.com/:f:/g/personal/cvgl_westlake_edu_cn/EjZNs8MwoXBDqT61v_j5V3EBIoKb8dG9KlYtYmLxcNJG_Q?e=AFXeUB).
 - [Ott et al., NICE 2024](#ott24nice),  
 *Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input*.
+- <a name="Xu25aaai"></a>Xu, S., Sun, Z., Zhong, M., Cao, C., Liu, Y., Fu, X., Chen, Y.,  
+*[Motion-adaptive Transformer for Event-based Image Deblurring](https://ojs.aaai.org/index.php/AAAI/article/view/32967)*,  
+AAAI Conf. Artificial Intelligence, 2025. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32967), [Code](https://github.com/QUEAHREN/MAT).
 
 ### Image super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
