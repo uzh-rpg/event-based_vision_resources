@@ -2449,7 +2449,7 @@ IEEE Trans. Comput. Imaging (TCI), 2023. [Code](https://github.com/pz-even/ni-de
 *Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
 - <a name="Zhao24iccad"></a>Zhao, Q., Wang, J., Ji, Y., Wu, J., Shi, G.,  
 *[An O(m+n)-Space Spatiotemporal Denoising Filter with Cache-Like Memories for Dynamic Vision Sensors](https://dl.acm.org/doi/10.1145/3676536.3676710)*,  
-IEEE/ACM International Conference on Computer-Aided Design (ICCAD ’24), 2024.
+IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024.
 
 ### Compression
 - <a name="Khan20access"></a>Khan, N., Iqbal, K., Martini, M. G.,  
