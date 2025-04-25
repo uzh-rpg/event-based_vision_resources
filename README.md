@@ -1,6 +1,6 @@
 # Event-based Vision Resources
 
-## <a href="https://www.ieee-ras.org/publications/t-ro/special-issues/event-based-vision-for-robotics"> IEEE T-RO Special Collection on Event-based Vision for Robotics.</a> Submission of papers until: May 1st, 2025.
+## <a href="https://www.ieee-ras.org/publications/t-ro/special-issues/event-based-vision-for-robotics"> IEEE T-RO Special Collection on Event-based Vision for Robotics.</a> Submission of papers until: June 30th, 2025.
 ## <a href="https://tub-rip.github.io/eventvision2025/">CVPR 2025 Workshop on Event-based Vision.</a> Join us on June 12, Nashville (USA), 2025.
 ## <a href="https://2025.ic-dsp.org/special-session-4/">DSP2025 Special Session on Event-based Vision: “Processing the Neuromorphic Signal: Event-based Vision and Applications”.</a> 25-27 June 2025.  
 ## <a href="https://sites.google.com/view/telluride-2025/home">2025 Telluride Neuromorphic Cognition Engineering Workshop.</a> June 29 -- July 19 2025.  
