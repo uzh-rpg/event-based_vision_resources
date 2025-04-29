@@ -2699,7 +2699,7 @@ Neurocomputing, 547, 2023. [Code](https://github.com/miracleyoo/yelan-dynamic-dv
 - <a name="Goyal23cvpr"></a>Goyal G, Di Pietro F, Carissimi N, Glover A, Bartozzi C   
 *[MoveEnet: Online high-frequency human pose estimation with an event camera](https://doi.org/10.1109/CVPRW59228.2023.00420)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [Code](https://github.com/event-driven-robotics/hpe-core)
-- <a name="Wang2024"></a>Wang, Z., Zhang, R., Liu, Z.Y., Wang, Y., Daniilidis, K.,  
+- <a name="Wang24arxiv"></a>Wang, Z., Zhang, R., Liu, Z.Y., Wang, Y., Daniilidis, K.,  
 *[Continuous-Time Human Motion Field from Events](https://arxiv.org/abs/2412.01747)*,  
 arXiv, 2024.
 
