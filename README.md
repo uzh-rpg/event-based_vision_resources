@@ -1888,7 +1888,7 @@ arXiv, 2020.
 - <a name="Zhou21tnnls"></a>Zhou, Y., Gallego, G., Lu, X., Liu, S., Shen, S.,  
 *[EMSGC: Event-based Motion Segmentation with Spatio-Temporal Graph Cuts](https://arxiv.org/pdf/2012.08730)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2021.  [Project page](https://sites.google.com/view/emsgc),  [YouTube](https://youtu.be/ztUyNlKUwcM), [Code](https://github.com/HKUST-Aerial-Robotics/EMSGC.git).
-- <a name="Wang23arxiva"></a>Wang, Z., Guo, J., Daniilidis, K.,  
+- <a name="Wang24eccv"></a>Wang, Z., Guo, J., Daniilidis, K.,  
 *[Un-EvMoSeg: Unsupervised Event-based Independent Motion Segmentation](https://arxiv.org/pdf/2312.00114.pdf)*,  
 European Conf. Computer Vision (ECCV), 2024.  [Project page](https://www.cis.upenn.edu/~ziyunw/un_evimo/).
 - <a name="Jiang24visapp"></a>Jiang, C., Moreau, J., Davoine, F.,  
