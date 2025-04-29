@@ -1119,9 +1119,6 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [PDF](https://arxiv.org
     - <a name="Wang21iccv"></a>Wang, Z., Ng, Y., Scheerlinck, C., Mahony., R.,  
 *[An Asynchronous Kalman Filter for Hybrid Event Cameras](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.html)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.pdf), [Code](https://github.com/ziweiWWANG/AKF), [YouTube](https://www.youtube.com/watch?v=XPz7laloKws), [Suppl](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_An_Asynchronous_Kalman_ICCV_2021_supplemental.pdf).
-- <a name="Wang23arxivb"></a>Wang, Z., Hamann, F., Chaney, K., Jiang, W., Gallego, G., Daniilidis, K.,  
-*[Event-based Continuous Color Video Decompression from Single Frames](https://arxiv.org/pdf/2312.00113.pdf)*,  
-arxiv, 2023. [Project page](https://www.cis.upenn.edu/~ziyunw/continuity_cam/)
 <a name="super-resolution"></a>
 - <a name="Chen23IROS"></a>Chen, J., Zhu, Y., Lian, D., Yang, J., Wang, Y., Zhang, R., Liu, X., Qian, S., Kneip, L., Gao, S.,  
 *[Revisiting Event-Based Video Frame Interpolation](https://ieeexplore.ieee.org/abstract/document/10341804)*,  
@@ -1138,6 +1135,9 @@ European Conf. Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/abs/2407.02
 - <a name="Xu25aaai"></a>Xu, S., Sun, Z., Zhong, M., Cao, C., Liu, Y., Fu, X., Chen, Y.,  
 *[Motion-adaptive Transformer for Event-based Image Deblurring](https://ojs.aaai.org/index.php/AAAI/article/view/32967)*,  
 AAAI Conf. Artificial Intelligence, 2025. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32967), [Code](https://github.com/QUEAHREN/MAT).
+- <a name="Wang25cvprw"></a>Wang, Z., Hamann, F., Chaney, K., Jiang, W., Gallego, G., Daniilidis, K.,  
+*[Event-based Continuous Color Video Decompression from Single Frames](https://arxiv.org/pdf/2312.00113.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [Project page](https://www.cis.upenn.edu/~ziyunw/continuity_cam/)
 
 ### Image super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
@@ -1888,9 +1888,9 @@ arXiv, 2020.
 - <a name="Zhou21tnnls"></a>Zhou, Y., Gallego, G., Lu, X., Liu, S., Shen, S.,  
 *[EMSGC: Event-based Motion Segmentation with Spatio-Temporal Graph Cuts](https://arxiv.org/pdf/2012.08730)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2021.  [Project page](https://sites.google.com/view/emsgc),  [YouTube](https://youtu.be/ztUyNlKUwcM), [Code](https://github.com/HKUST-Aerial-Robotics/EMSGC.git).
-- <a name="Wang23arxiva"></a>Wang, Z., Guo, J., Daniilidis, K.,  
+- <a name="Wang24eccv"></a>Wang, Z., Guo, J., Daniilidis, K.,  
 *[Un-EvMoSeg: Unsupervised Event-based Independent Motion Segmentation](https://arxiv.org/pdf/2312.00114.pdf)*,  
-arxiv, 2023.  [Project page](https://www.cis.upenn.edu/~ziyunw/un_evmoseg/).
+European Conf. Computer Vision (ECCV), 2024.  [Project page](https://www.cis.upenn.edu/~ziyunw/un_evimo/).
 - <a name="Jiang24visapp"></a>Jiang, C., Moreau, J., Davoine, F.,  
 *[Event-based Semantic-aided Motion Segmentation](https://doi.org/10.5220/0012308100003660)*,  
 Int. Joint Conf. on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP), 2024.
@@ -2699,6 +2699,9 @@ Neurocomputing, 547, 2023. [Code](https://github.com/miracleyoo/yelan-dynamic-dv
 - <a name="Goyal23cvpr"></a>Goyal G, Di Pietro F, Carissimi N, Glover A, Bartozzi C   
 *[MoveEnet: Online high-frequency human pose estimation with an event camera](https://doi.org/10.1109/CVPRW59228.2023.00420)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [Code](https://github.com/event-driven-robotics/hpe-core)
+- <a name="Wang24arxiv"></a>Wang, Z., Zhang, R., Liu, Z.Y., Wang, Y., Daniilidis, K.,  
+*[Continuous-Time Human Motion Field from Events](https://arxiv.org/abs/2412.01747)*,  
+arXiv, 2024.
 
 <a name="hand_pose_estimation"></a>
 ### Hand Pose Estimation
