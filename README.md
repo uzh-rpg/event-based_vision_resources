@@ -787,6 +787,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 *Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
     - [Hamann et al. ECCV 2024](#Hamann24eccv),  
 *Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation*.
+    - [Karmokar et al. WACV 2025](#Karmokar25wacv),  
+*Secrets of Edge-Informed Contrast Maximization for Event-Based Vision*.
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
 Robotics: Science and Systems (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE), [Code](https://github.com/daniilidis-group/EV-FlowNet)
@@ -901,6 +903,9 @@ British Mach. Vis. Conf., 2022, [PDF](https://bmvc2022.mpi-inf.mpg.de/0577.pdf),
 - <a name="Hamann24eccv"></a>Hamann, F., Wang, Z., Asmanis, I., Chaney, K., Gallego, G., Daniilidis, K.   
 *[Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation](https://doi.org/10.1007/978-3-031-72646-0_2)*,  
 European Conf. Computer Vision (ECCV), 2024., [PDF](https://arxiv.org/pdf/2407.10802), [Code](https://github.com/tub-rip/MotionPriorCMax)
+- <a name="Karmokar25wacv"></a>Karmokar, P. P., Nguyen, Q. H., Beksi, W. J.,   
+*[Secrets of Edge-Informed Contrast Maximization for Event-Based Vision](https://doi.org/10.1109/WACV61041.2025.00071)*,  
+IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025., [PDF](https://openaccess.thecvf.com/content/WACV2025/papers/Karmokar_Secrets_of_Edge-Informed_Contrast_Maximization_for_Event-Based_Vision_WACV_2025_paper.pdf), [Code](https://github.com/robotic-vision-lab/Edge-Informed-Contrast-Maximization)
 
 
 <a name="scene-flow-estimation"></a>
