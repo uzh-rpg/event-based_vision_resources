@@ -1130,11 +1130,17 @@ IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.co
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023. [PDF](https://arxiv.org/pdf/2307.12558.pdf), [Project](https://jiabenchen.github.io/revisit_event)
 - [Qi et al., ICCV 2023](#Qi23iccv),  
 *E<sup>2</sup>NeRF: Event Enhanced Neural Radiance Fields from Blurry Images*.
+- <a name="Xu24cvprw"></a>Xu, S., Sun, Z., Zhu, J., Zhu, Y., Fu, X., Zha, Z.,  
+*[DemosaicFormer: Coarse-to-Fine Demosaicing Network for HybridEVS Camera](https://openaccess.thecvf.com/content/CVPR2024W/MIPI/papers/Xu_DemosaicFormer_Coarse-to-Fine_Demosaicing_Network_for_HybridEVS_Camera_CVPRW_2024_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024. [Code](https://github.com/QUEAHREN/DemosaicFormer).
 - [Qi et al., ACM MM 2024](#Qi24acmmm),  
 *Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment*.
 - <a name="Li24eccv"></a>Li, W., Wan, P., Wang, P., Li, J., Zhou, Y., Liu, P.,  
 *[BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04596.pdf)*,  
 European Conf. Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/abs/2407.02174), [Project Page](https://akawincent.github.io/BeNeRF/), [Code](https://github.com/WU-CVGL/BeNeRF). [Dataset](https://westlakeu-my.sharepoint.com/:f:/g/personal/cvgl_westlake_edu_cn/EjZNs8MwoXBDqT61v_j5V3EBIoKb8dG9KlYtYmLxcNJG_Q?e=AFXeUB).
+- <a name="Sun24eccv"></a>Sun, Z., Fu, X., Huang, L., Liu, A., Zha, Z.,  
+*[Motion Aware Event Representation-driven Image Deblurring](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06299.pdf)*,  
+European Conf. Computer Vision (ECCV), 2024. [Code](https://github.com/ZhijingS/DA_event_deblur).
 - [Ott et al., NICE 2024](#ott24nice),  
 *Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input*.
 - <a name="Xu25aaai"></a>Xu, S., Sun, Z., Zhong, M., Cao, C., Liu, Y., Fu, X., Chen, Y.,  
