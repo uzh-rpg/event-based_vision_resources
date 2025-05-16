@@ -2330,8 +2330,7 @@ Int. Symp. Low Power Electronics and Design (ISLPED), 2020. [PDF](https://www.re
 - <a name="Wu24neurips"></a>Wu, S., Zhu, Z., Hou, J., Shi, G., Wu, J.,  
 *[E-Motion: Future Motion Simulation via Event Sequence Diffusion](https://openreview.net/forum?id=pWowK7jqok)*,  
 The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. [PDF](https://openreview.net/pdf?id=pWowK7jqok), [Code](https://github.com/p4r4mount/E-Motion).
-- [Bhattacharya A., et al., CoRL 2024](#Bhattacharya24corl).
-Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor.
+- [Bhattacharya et al., CoRL 2024](#Bhattacharya24corl). *Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor*.
 
 <a name="learning-methods-frameworks"></a>
 ### Learning Methods / Frameworks
@@ -2948,8 +2947,7 @@ ACM Int. Conf. on Multimedia (MM), 2021. [PDF](https://cvteam.buaa.edu.cn/papers
 - <a name="Gu24tpami"></a>Gu, D., Li, J., Zhu, L., Zhang, Y., Jimmy, S.R.,   
 *[Reliable Event Generation With Invertible Conditional Normalizing Flow](http://dx.doi.org/10.1109/TPAMI.2023.3326538)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024. [PDF](https://cvteam.buaa.edu.cn/papers/2024-TPAMI-Daxin.pdf).
-- [Bhattacharya A., et al., WACV 2024](#Bhattacharya24wacv).
-EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields.
+- [Bhattacharya et al., WACV 2024](#Bhattacharya24wacv). *EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields*.
 
 <a name="synthetic-data-generators"></a>
 # Synthetic Data Generators
