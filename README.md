@@ -2330,6 +2330,8 @@ Int. Symp. Low Power Electronics and Design (ISLPED), 2020. [PDF](https://www.re
 - <a name="Wu24neurips"></a>Wu, S., Zhu, Z., Hou, J., Shi, G., Wu, J.,  
 *[E-Motion: Future Motion Simulation via Event Sequence Diffusion](https://openreview.net/forum?id=pWowK7jqok)*,  
 The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. [PDF](https://openreview.net/pdf?id=pWowK7jqok), [Code](https://github.com/p4r4mount/E-Motion).
+- [Bhattacharya A., et al., CoRL 2024](#Bhattacharya24corl).
+Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor.
 
 <a name="learning-methods-frameworks"></a>
 ### Learning Methods / Frameworks
@@ -2600,6 +2602,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [PDF](https://rpg.ifi.uzh.
 - <a name="Monforte23cvpr"></a>Monforte M, Gava L, Iacono M, Glover A, Bartolozzi C   
 *[Fast trajectory end-point prediction with event cameras for reactive robot control](https://doi.org/10.1109/CVPRW59228.2023.00422)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [Code](https://github.com/event-driven-robotics/LSTM-trajectory-forecasting)
+- <a name="Bhattacharya24corl"></a>Bhattacharya A., Cannici M., Rao N., Tao Y., Kumar V., Matni N., Scaramuzza D.,  
+*[Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor](https://openreview.net/pdf?id=82bpTugrMt)*,  
+Conf. on Robot Learning (CoRL), 2024. [PDF](https://arxiv.org/pdf/2411.03303), [project](https://www.anishbhattacharya.com/research/evfly), [YouTube](https://www.youtube.com/watch?v=NI513KE9DYo), [code](https://github.com/anish-bhattacharya/evfly).
 - <a name="Eva25cvpr"></a>Bonazzi P., Vogt C., Jost M., Khacef L., Paredes-Valles F., Magno M.,  
 *[Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone](https://arxiv.org/pdf/2504.10400)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [Code](https://github.com/pbonazzi/eva) [Dataset](https://zenodo.org/records/14711527)
@@ -2943,12 +2948,17 @@ ACM Int. Conf. on Multimedia (MM), 2021. [PDF](https://cvteam.buaa.edu.cn/papers
 - <a name="Gu24tpami"></a>Gu, D., Li, J., Zhu, L., Zhang, Y., Jimmy, S.R.,   
 *[Reliable Event Generation With Invertible Conditional Normalizing Flow](http://dx.doi.org/10.1109/TPAMI.2023.3326538)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024. [PDF](https://cvteam.buaa.edu.cn/papers/2024-TPAMI-Daxin.pdf).
+- [Bhattacharya A., et al., WACV 2024](#Bhattacharya24wacv).
+EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields.
 
 <a name="synthetic-data-generators"></a>
 # Synthetic Data Generators
 - <a name="ott24nice"></a>Ott, J., Wang, Z. and Liu, S.C.,   
   *[Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input](https://doi.org/10.1109/NICE61972.2024.10549580)*,    
   IEEE Neuro Inspired Computational Elements Conference (NICE) (pp. 1-10), 2024. [PDF](https://arxiv.org/pdf/2406.03439).
+- <a name="Bhattacharya24wacv"></a>Bhattacharya A., Madaan R., Cladera F., Vemprala S., Bonatti R., Daniilidis K., Kapoor A., Kumar V., Matni N., Gupta J.,  
+*[EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields](https://openaccess.thecvf.com/content/WACV2024/papers/Bhattacharya_EvDNeRF_Reconstructing_Event_Data_With_Dynamic_Neural_Radiance_Fields_WACV_2024_paper.pdf)*,  
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2024. [PDF](https://arxiv.org/pdf/2310.02437), [project](https://www.anishbhattacharya.com/research/evdnerf), [code](https://github.com/anish-bhattacharya/EvDNeRF).
 
 <a name="datasets"></a>
 # Datasets (sorted by topic)
