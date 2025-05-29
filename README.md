@@ -33,6 +33,8 @@
         - [Polarization Reconstruction](#polarization-reconstruction)
     - [Depth Estimation (3D Reconstruction)](#depth-estimation)
         - [Monocular](#depth-mono)
+        - [Monocular Depth Estimation using Structured Light](#depth-mono-active)
+        - [Monocular Object Reconstruction](#object-mono)
         - [Stereo](#depth-stereo)
         - [Stereo Depth Estimation using Structured Light](#depth-stereo-active)
         - [Stereoscopic panoramic imaging](#depth-stereo-pano)
@@ -1832,6 +1834,12 @@ IEEE Trans. Robot. (TRO), 2023. [PDF](https://arxiv.org/pdf/2401.09296v1.pdf)
 - <a name="Chen22arxiv"></a>Chen, P., Guan, W., Lu, P.,  
 *[ESVIO: Event-based Stereo Visual Inertial Odometry](https://arxiv.org/abs/2212.13184)*,  
 arXiv, 2022.
+- <a name="Niu24icra"></a>Niu, J., Zhong. S., Zhou, Y.,  
+*[IMU-Aided Event-based Stereo Visual Odometry](https://doi.org/10.1109/ICRA57147.2024.10611439)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [Project page](https://github.com/NAIL-HNU/ESVIO_AA), [PDF](https://arxiv.org/pdf/2405.04071), [YouTube](https://youtu.be/hy25-nExD0E).
+- <a name="Niu25tro"></a>Niu, J., Zhong. S., Lu, X., Shen, S., Gallego, G., Zhou, Y.,  
+*[ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras](https://doi.org/10.1109/TRO.2025.3548523)*,  
+IEEE Trans. Robot. (TRO), 2025. [Project page](https://github.com/NAIL-HNU/ESVO2), [PDF](https://arxiv.org/pdf/2410.09374), [YouTube](https://youtu.be/gmAU32Oeiv8).
 
 
 <a name="segmentation"></a>
