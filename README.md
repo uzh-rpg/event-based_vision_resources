@@ -2200,9 +2200,9 @@ Neural Computation (2015), 27(3):561–593.
 - <a name="Lagorce17tpami"></a>Lagorce, X., Orchard, G., Gallupi, F., Shi, B., Benosman, R.,  
 *[HOTS: A Hierarchy Of event-based Time-Surfaces for pattern recognition](https://doi.org/10.1109/TPAMI.2016.2574707)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 39(7):1346-1359, 2017. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7508476)
-    - <a name="Tapiador20sensors"></a>Tapiador-Morales, R., Maro, J.-M., Jimenez-Fernandez, A., Jimenez-Moreno, G., Benosman, R., Linares-Barranco, A.,  
-    [Event-Based Gesture Recognition through a Hierarchy of Time-Surfaces for FPGA](https://doi.org/10.3390/s20123404),  
-    Sensors 2020, 20(12), 3404.
+- <a name="Tapiador20sensors"></a>Tapiador-Morales, R., Maro, J.-M., Jimenez-Fernandez, A., Jimenez-Moreno, G., Benosman, R., Linares-Barranco, A.,  
+[Event-Based Gesture Recognition through a Hierarchy of Time-Surfaces for FPGA](https://doi.org/10.3390/s20123404),  
+Sensors 2020, 20(12), 3404.
 - [Clady et al., FNINS](#Clady17fnins),  
 *A Motion-Based Feature for Event-Based Pattern Recognition*.
 - <a name="Yousefzadeh17iscas"></a>Yousefzadeh, A., Masquelier, T., Serrano-Gotarredona, T., Linares-Barranco, B.,  
@@ -2217,7 +2217,7 @@ Neurocomputing 299, 2018.
 - <a name="Sironi18cvpr"></a>Sironi, A., Brambilla, M., Bourdis, N., Lagorce, X., Benosman, R.,    
 *[HATS: Histograms of Averaged Time Surfaces for Robust Event-based Object Classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sironi_HATS_Histograms_of_CVPR_2018_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2018. [PDF](https://arxiv.org/abs/1803.07913).
-    - [N-CARS Dataset](#ncars_dataset): A large real-world event-based dataset for car classification.
+- [N-CARS Dataset](#ncars_dataset): A large real-world event-based dataset for car classification.
 - <a name="LiuW18arxiv"></a>Liu, W., Chen, H., Goel, R., Huang, Y., Veeraraghavan, A., Patel, A.,  
 *[Fast Retinomorphic Event-Driven Representations for Video Recognition and Reinforcement Learning](https://arxiv.org/pdf/1805.06374.pdf)*,  
 arXiv: 1805.06374, 2018.
@@ -2230,7 +2230,7 @@ Front. Neurosci. (2018), 12:1047.
 - <a name="Sekikawa183dv"></a>Sekikawa, Y., Ishikawa, K., Hara, K., Yoshida, Y., Suzuki, K., Sato, I., Saito, H.,  
 *[Constant Velocity 3D Convolution](https://doi.org/10.1109/3DV.2018.00047)*,  
 IEEE Int. Conf. 3D Vision (3DV), 2018.
-    - <a name="Sekikawa18access"></a>Sekikawa, Y., Ishikawa, K., Saito, H.,  
+- <a name="Sekikawa18access"></a>Sekikawa, Y., Ishikawa, K., Saito, H.,  
 *[Constant Velocity 3D Convolution](https://doi.org/10.1109/ACCESS.2018.2883340)*,  
 IEEE Access, 6:76490-76501, 2018.
 - <a name="Chen19fnins"></a>Chen, G., Chen, J., Lienen, M., Conradt, J., Roehrbein, F., Knoll, A.C.,  
@@ -2305,6 +2305,9 @@ IEEE Access, 2023. [Code](https://github.com/Zelshair/cstr-event-vision).
 - <a name="Qu24tip"></a>Qu, Q., Chen, X., Chung, Y. Y., Shen, Y.,   
 *[EvRepSL: Event-Stream Representation via Self-Supervised Learning for Event-Based Vision](https://doi.org/10.1109/TIP.2024.3497795)*,   
 IEEE Trans. Image Process. (TIP), 2024. [Code](https://github.com/VincentQQu/EvRepSL).
+- <a name="Garcia25eccvw"></a>Garcia-Rodriguez, L., Konrad, J., Drees, D., Risse, B.  
+*[S-ROPE: Spectral Frame Representation of Periodic Events](https://doi.org/10.1007/978-3-031-92460-6_19)*,   
+Computer Vision – ECCV 2024 Workshops. ECCV 2024. Lecture Notes in Computer Science, vol 15646. Springer, Cham
 
 <a name="learning-regression"></a>
 ### Regression Tasks
