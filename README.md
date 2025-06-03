@@ -2305,6 +2305,9 @@ IEEE Access, 2023. [Code](https://github.com/Zelshair/cstr-event-vision).
 - <a name="Qu24tip"></a>Qu, Q., Chen, X., Chung, Y. Y., Shen, Y.,   
 *[EvRepSL: Event-Stream Representation via Self-Supervised Learning for Event-Based Vision](https://doi.org/10.1109/TIP.2024.3497795)*,   
 IEEE Trans. Image Process. (TIP), 2024. [Code](https://github.com/VincentQQu/EvRepSL).
+- <a name="Garcia25eccvw"></a>Garcia-Rodriguez, L., Konrad, J., Drees, D., Risse, B.  
+*[S-ROPE: Spectral Frame Representation of Periodic Events](https://doi.org/10.1007/978-3-031-92460-6_19)*,   
+European Conf. Computer Vision Workshops (ECCVW), 2024
 
 <a name="learning-regression"></a>
 ### Regression Tasks
