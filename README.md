@@ -2848,7 +2848,7 @@ Optics Express, 2020.
 *[Event-based vision sensor enables fast and dense single-molecule localization microscopy](https://doi.org/10.1101/2022.07.22.501162)*,  
 bioArxiv, 2022.
 - <a name="Mangalwedhekar23natnano"></a>Mangalwedhekar, R., Singh, N., Thakur, C. S., Seelamantula, C. S., Jose, M., and Nair, D.,  
-*[Achieving nanoscale precision using neuromorphic localization microscopy](https://doi.org/10.1101/2022.07.22.501162)*,  
+*[Achieving nanoscale precision using neuromorphic localization microscopy](https://doi.org/10.1038/s41565-022-01291-1)*,  
 Nat. Nanotechnol., 2023.
 
 <a name="schlieren_imaging"></a>
