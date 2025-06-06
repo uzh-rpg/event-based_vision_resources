@@ -2493,7 +2493,9 @@ IEEE Signal Process. Lett. (SPL), 29:1779-1783, 2022.
 *[Low-Complexity Lossless Coding of Asynchronous Event Sequences for Low-Power Chip Integration](https://doi.org/10.3390/s222410014)*,  
 Sensors, 2022.
 - [Freeman et al., MMSys](#Freeman23mmsys), _Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems_
-
+- <a name="Zhao24date"></a>Zhao, Q., Ji, Y., Wang, J., Wu, J., Shi, G.,  
+*[Simultaneous Denoising and Compression for DVS with Partitioned Cache-Like Spatiotemporal Filter](https://doi.org/10.23919/DATE64628.2025.10992696)*,  
+Design, Automation & Test in Europe Conference (DATE), 2025.
 
 <a name="control"></a>
 ## Control
