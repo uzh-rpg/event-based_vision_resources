@@ -1,6 +1,6 @@
 # Event-based Vision Resources
 
-
+## <a href="https://sites.google.com/view/nevi-2025/home-page"> IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots 2025).</a> Submission of papers until: Aug 24th, 2025.
 ## <a href="https://sites.google.com/view/nevi-2025/home-page"> ICCV 2025 Workshop on Neuromorphic Vision (NeVi).</a> Submission of papers until: July 3rd, 2025.
 ## <a href="https://www.ieee-ras.org/publications/t-ro/special-issues/event-based-vision-for-robotics"> IEEE T-RO Special Collection on Event-based Vision for Robotics.</a> Submission of papers until: June 30th, 2025.
 ## <a href="https://tub-rip.github.io/eventvision2025/">CVPR 2025 Workshop on Event-based Vision.</a> Join us on June 12, 8am - 6pm, Nashville (USA), 2025.
