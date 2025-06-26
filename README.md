@@ -1761,6 +1761,9 @@ IEEE Int. Conf. Computer Vision (ICCV), 2023. [Project Webpage](https://mgaoling
     - <a name="Gao24cvpr"></a>Gao, L., Gehrig, D., Su, H., Scaramuzza, D., Kneip, L.,  
 *[An N-Point Linear Solver for Line and Motion Estimation with Event Cameras](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_An_N-Point_Linear_Solver_for_Line_and_Motion_Estimation_with_CVPR_2024_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Project Webpage](https://mgaoling.github.io/eventail/), [PDF](https://arxiv.org/abs/2404.00842), [Poster](https://mgaoling.github.io/eventail/files/poster.pdf), [Oral Presentation](https://www.youtube.com/watch?v=iHug6VjwPsw), [Code](https://github.com/mgaoling/eventail_simulation_open)
+- <a name="Zhu23IROS"></a>Zhu, S., Tang, Z., Yang, M., Learned-Miller, E., Kim, D.,  
+*[Event Camera-Based Visual Odometry for Dynamic Motion Tracking of a Legged Robot Using Adaptive Time Surface](https://ieeexplore.ieee.org/document/10342048)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023, pp. 3475-3482. [PDF](https://arxiv.org/pdf/2305.08962), [Youtube](https://www.youtube.com/watch?v=-5ieQSh0g3M)
 - <a name="Zuo24TRO"></a>Zuo, Y., Xu, W., Wang, X., Wang, Y., Kneip, L.,  
 *[Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions](https://ieeexplore.ieee.org/document/10401990)*,  
 IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2401.08043.pdf), [Code](https://github.com/zyfff/Canny-EVT/)
