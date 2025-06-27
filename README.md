@@ -1268,6 +1268,10 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://o
 - <a name="Klenk23ral"></a>Klenk, S., Koestler, L., Scaramuzza, D., Cremers, D.,  
 *[E-NeRF: Neural Radiance Fields from a Moving Event Camera](https://doi.org/10.1109/LRA.2023.3240646)*,  
 IEEE Robotics and Automation Letters (RA-L) 8(3):1587-1594, 2023. [PDF](https://arxiv.org/pdf/2208.11300.pdf), [Code](https://github.com/knelk/enerf)
+- <a name="Cai25wacv"></a>Cai, N., Bideau, P.,  
+*[Active Event Alignment for Monocular Distance Estimation](https://doi.org/10.1109/WACV61041.2025.00245)*,  
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2025. [PDF](https://arxiv.org/pdf/2410.22280), [Code](https://github.com/pbideau/AAEDepth)
+
 
 <a name="depth-mono-active"></a>
 ### Monocular Depth Estimation using Structured Light
