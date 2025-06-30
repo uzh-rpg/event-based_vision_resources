@@ -2629,7 +2629,9 @@ Conf. on Robot Learning (CoRL), 2024. [PDF](https://arxiv.org/pdf/2411.03303), [
 - <a name="Eva25cvpr"></a>Bonazzi P., Vogt C., Jost M., Khacef L., Paredes-Valles F., Magno M.,  
 *[Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone](https://arxiv.org/pdf/2504.10400)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [Code](https://github.com/pbonazzi/eva) [Dataset](https://zenodo.org/records/14711527)
-
+- <a name="Bisulco25RAL"></a> Bisulco A., Kumar V., Daniilidis K.,  
+*[EV-TTC: Event-Based Time to Collision under Low Light Conditions](https://doi.org/10.1109/LRA.2025.3565150)*,  
+IEEE Robotics and Automation Letters (RA-L), 10(6):1-8, 2025. [Code](https://github.com/anthonytec2/EV-TTC)
 
 <a name="space"></a>
 ## Space Applications
