@@ -1,7 +1,7 @@
 # Event-based Vision Resources
 
 ## <a href="https://eventvision-robotics.github.io/iros_workshop/"> IROS 2025 Workshop on Event-Based Vision.</a>
-## <a href="https://sites.google.com/view/neurobots2025"> IROS 2025 Event-based Stereo SLAM Challenge.</a> Submission until Sep 30th, 2025.
+## <a href="https://nail-hnu.github.io/EvSLAM/index.html"> IROS 2025 Event-based Stereo SLAM Challenge.</a> Submission until Sep 30th, 2025.
 ## <a href="https://sites.google.com/view/neurobots2025"> IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots 2025).</a> Submission of papers until: Aug 24th, 2025.
 ## <a href="https://sites.google.com/view/nevi-2025/home-page"> ICCV 2025 Workshop on Neuromorphic Vision (NeVi).</a> Submission of papers until: July 3rd, 2025.
 ## <a href="https://sites.google.com/view/telluride-2025/home">2025 Telluride Neuromorphic Cognition Engineering Workshop.</a> June 29 - July 19 2025.  
