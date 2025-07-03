@@ -2195,6 +2195,9 @@ Journal of Manufacturing Systems, 2023. [Dataset](https://doi.org/10.5281/zenodo
 - <a name="Gao24tpami"></a>Gao, Y., Lu, J., Li, S., Li, Y., Du, S.,  
 [Hypergraph-Based Multi-View Action Recognition Using Event Cameras](https://ieeexplore.ieee.org/abstract/document/10480584),  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024. [Dataset](https://github.com/lujiaxuan0520/THU-MV-EACT-50)
+- <a name="Vico24icarsc"></a> Vico, L., Polito, M., Duarte, L., Pastorelli, S., Gastaldi, L., Neto, P.,  
+*[Online Classification of Human Gestures Through Event Camera Data Using a 3DCNN](https://doi.org/10.1109/ICARSC65809.2025.10970178),*  
+IEEE Int. Conf. Autonomous Robot Systems and Competitions (ICARSC), pp. 52-57, 2025.
 
 <a name="learning-representation-features"></a>
 ### Representation / Feature Extraction
@@ -2589,6 +2592,10 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.
 - <a name="Ayyad21arxiv"></a>Nair, G.B., Milford, M., Fischer, T.,   
 *[Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras](https://arxiv.org/pdf/2403.16425)*,  
 arXiv, 2024. [Video](https://youtu.be/8D9gtHqteEQ), [Webpage](https://gokulbnr.github.io/publication/dvs-biasing-vpr), [Code](https://github.com/gokulbnr/fast-slow-biased-event-vpr), [Dataset](https://huggingface.co/datasets/gokulbnr/QCR-Fast-Slow-Event-Dataset).
+- <a name="Duarte24aims"></a>Duarte, L., Polito, M., Gastaldi, L., Neto, P., Pastorelli, S.,  
+*[Demonstration of Real-Time Event Camera to Collaborative Robot Communication](https://doi.org/10.1007/978-3-031-64553-2_41)*,  
+Advances in Italian Mechanism Science, IFToMM. Mechanisms and Machine Science, vol 163, pp. 351-358, 2024.
+
 ## Obstacle Avoidance
 - <a name="Clady14fnins"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
 *[Asynchronous visual event-based time-to-contact](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
