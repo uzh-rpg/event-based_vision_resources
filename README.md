@@ -1445,7 +1445,7 @@ European Conf. Computer Vision (ECCV), 2018. [YouTube](https://youtu.be/4oa7e4hs
 European Conf. Computer Vision (ECCV), 2018. [Project Page and Data](https://rpg.ifi.uzh.ch/ECCV18_stereo_davis.html), [PDF](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou.pdf)*, [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou_poster.pdf), [YouTube](https://youtu.be/Qrnpj2FD1e4).
     - [Zhou et al., TRO 2021](#Zhou21tro),  
 *ESVO: Event-based Stereo Visual Odometry*.
-    - [Niu et al., TRO 2025](#niu25tro),  
+    - [Niu et al., TRO 2025](#Niu25tro),  
 *ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras*.
 - <a name="DominguezMorales19electr"></a>Dominguez-Morales, M., Dominguez-Morales, J. P., Jimenez-Fernandez, A., Linares-Barranco, A., Jimenez-Moreno, G.,  
 *[Stereo Matching in Address-Event-Representation (AER) Bio-Inspired Binocular Systems in a Field-Programmable Gate Array (FPGA)](https://doi.org/10.3390/electronics8040410)*,  
@@ -1763,9 +1763,6 @@ IEEE Trans. Robot. (TRO), 2024. [Project page](https://github.com/tub-rip/cmax_s
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
 *[ESVO: Event-based Stereo Visual Odometry](https://doi.org/10.1109/TRO.2021.3062252)*,  
 IEEE Trans. Robot. (TRO), 2021. [Project page](https://sites.google.com/view/esvo-project-page/home), [PDF](https://arxiv.org/pdf/2007.15548), [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git).
-- <a name="niu25tro"></a>Niu, J., Zhong, S., Lu, X., Shen, S., Gallego, G. and Zhou, Y.,  
-*[ESVO2: Direct visual-inertial odometry with stereo event cameras](https://doi.org/10.1109/TRO.2025.3548523)*  
-IEEE Trans. Robot. (TRO), 2025. [PDF](https://arxiv.org/pdf/2410.09374), [YouTube](https://www.youtube.com/watch?v=gmAU32Oeiv8), [Code](https://github.com/NAIL-HNU/ESVO2) 
 - [Xiao et al., arXiv 2021](#Xiao22icrmv),  
 *Research on Event Accumulator Settings for Event-Based SLAM*.
 - [Shiba et al. TPAMI 2024](#Shiba24tpami),  
@@ -1816,10 +1813,13 @@ IEEE Trans. Robot. (TRO), 2023. [PDF](https://arxiv.org/pdf/2401.09296v1.pdf)
 - [Mollica et al., T-ITS 2024](#Mollica24tits),  
 *MA-VIED: A Multisensor Automotive Visual Inertial Event Dataset.*
 
-#### Stereo
+#### Stereo Visual-Inertial
 - <a name="Chen22arxiv"></a>Chen, P., Guan, W., Lu, P.,  
 *[ESVIO: Event-based Stereo Visual Inertial Odometry](https://arxiv.org/abs/2212.13184)*,  
 arXiv, 2022.
+- <a name="Niu25tro"></a>Niu, J., Zhong, S., Lu, X., Shen, S., Gallego, G. and Zhou, Y.,  
+*[ESVO2: Direct visual-inertial odometry with stereo event cameras](https://doi.org/10.1109/TRO.2025.3548523)*  
+IEEE Trans. Robot. (TRO), 2025. [PDF](https://arxiv.org/pdf/2410.09374), [YouTube](https://www.youtube.com/watch?v=gmAU32Oeiv8), [Code](https://github.com/NAIL-HNU/ESVO2) 
 
 
 <a name="segmentation"></a>
