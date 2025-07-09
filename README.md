@@ -1469,6 +1469,8 @@ European Conf. Computer Vision (ECCV), 2018. [YouTube](https://youtu.be/4oa7e4hs
 European Conf. Computer Vision (ECCV), 2018. [Project Page and Data](https://rpg.ifi.uzh.ch/ECCV18_stereo_davis.html), [PDF](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou.pdf)*, [Poster](http://rpg.ifi.uzh.ch/docs/ECCV18_Zhou_poster.pdf), [YouTube](https://youtu.be/Qrnpj2FD1e4).
     - [Zhou et al., TRO 2021](#Zhou21tro),  
 *ESVO: Event-based Stereo Visual Odometry*.
+    - [Niu et al., TRO 2025](#Niu25tro),  
+*ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras*.
 - <a name="DominguezMorales19electr"></a>Dominguez-Morales, M., Dominguez-Morales, J. P., Jimenez-Fernandez, A., Linares-Barranco, A., Jimenez-Moreno, G.,  
 *[Stereo Matching in Address-Event-Representation (AER) Bio-Inspired Binocular Systems in a Field-Programmable Gate Array (FPGA)](https://doi.org/10.3390/electronics8040410)*,  
 Electronics 2019, 8(4), 410.
@@ -1841,7 +1843,7 @@ IEEE Trans. Robot. (TRO), 2023. [PDF](https://arxiv.org/pdf/2401.09296v1.pdf)
 - [Mollica et al., T-ITS 2024](#Mollica24tits),  
 *MA-VIED: A Multisensor Automotive Visual Inertial Event Dataset.*
 
-#### Stereo
+#### Stereo Visual-Inertial
 - <a name="Chen22arxiv"></a>Chen, P., Guan, W., Lu, P.,  
 *[ESVIO: Event-based Stereo Visual Inertial Odometry](https://arxiv.org/abs/2212.13184)*,  
 arXiv, 2022.
