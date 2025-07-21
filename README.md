@@ -2600,8 +2600,8 @@ arXiv, 2021. [Video](https://drive.google.com/file/d/1q9QwPvkd7ZcEBcGMIxIVy2r_iR
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.  
 <a name="obstacle_avoidance"></a>
 - <a name="Ayyad21arxiv"></a>Nair, G.B., Milford, M., Fischer, T.,   
-*[Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras](https://arxiv.org/pdf/2403.16425)*,  
-arXiv, 2024. [Video](https://youtu.be/8D9gtHqteEQ), [Webpage](https://gokulbnr.github.io/publication/dvs-biasing-vpr), [Code](https://github.com/gokulbnr/fast-slow-biased-event-vpr), [Dataset](https://huggingface.co/datasets/gokulbnr/QCR-Fast-Slow-Event-Dataset).
+*[Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras](https://doi.org/10.1109/IROS58592.2024.10802384)*,  
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [Video](https://youtu.be/8D9gtHqteEQ), [Webpage](https://gokulbnr.github.io/publication/dvs-biasing-vpr), [Code](https://github.com/gokulbnr/fast-slow-biased-event-vpr), [Dataset](https://huggingface.co/datasets/gokulbnr/QCR-Fast-Slow-Event-Dataset), [Poster](https://gokulbnr.github.io/files/2024-Poster.pdf).
 - <a name="Duarte24aims"></a>Duarte, L., Polito, M., Gastaldi, L., Neto, P., Pastorelli, S.,  
 *[Demonstration of Real-Time Event Camera to Collaborative Robot Communication](https://doi.org/10.1007/978-3-031-64553-2_41)*,  
 Advances in Italian Mechanism Science, IFToMM. Mechanisms and Machine Science, vol 163, pp. 351-358, 2024.
