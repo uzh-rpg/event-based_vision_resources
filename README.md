@@ -1686,6 +1686,9 @@ Sensors, 2024.
 - <a name="nkrumah24sensors"></a>Nkrumah, I., and Moshrefizadeh, M.,  Tahri, O., Blasch, E., Palaniappan, K., AliAkbarpour, H.,  
 *[EC-WAMI: Event Camera-Based Pose Optimization in Remote Sensing and Wide-Area Motion Imagery](https://www.mdpi.com/1424-8220/24/23/7493)*,  
 Sensors, 2024.
+- <a name="Hines25SciRob"></a>Hines, AD., Milford, M., Fischer, T.,  
+*[A compact neuromorphic system for ultra–energy-efficient, on-device robot localization](https://www.science.org/doi/10.1126/scirobotics.ads3968)*, 
+Science Robotics, 10(103) eads3968, 2025. [PDF](https://adamdhines.github.io/static/papers/LENS.pdf), [Code](https://github.com/AdamDHines/LENS)
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
