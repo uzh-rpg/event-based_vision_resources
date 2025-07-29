@@ -57,6 +57,7 @@
     - [Signal Processing](#signal_processing)
         - [Event Denoising](#denoising)
         - [Compression](#compression)
+        - [Event Downsampling](#downsampling)
     - [Control](#control)
     - [Obstacle Avoidance](#obstacle_avoidance)
     - [Space Applications](#space)
@@ -1968,9 +1969,6 @@ Int. Conf. Brain Inspired Cognitive Systems (BICS), 2016.
 - <a name="Ghosh16icann"></a>Ghosh, R., Siyi, T., Rasouli, M., Thakor, N. V., Kukreja, S. L.,    
 *[Pose-Invariant Object Recognition for Event-Based Vision with Slow-ELM](https://doi.org/10.1007/978-3-319-44781-0_54)*,  
 Int. Conf. Artificial Neural Networks (ICANN), 2016. [PDF](https://arxiv.org/pdf/1903.07873)
-- <a name="Cohen18tnnls"></a>Cohen, G., Afshar, S., Orchard, G., Tapson, J., Benosman, R., van Schaik, A.,  
-*[Spatial and Temporal Downsampling in Event-Based Visual Classification](https://doi.org/10.1109/TNNLS.2017.2785272)*,  
-IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 29(10):5030-5044, Oct. 2018.
 - <a name="Lenz20fnins"></a>Lenz, G., Ieng, S.-H., Benosman, R.,  
 *[Event-Based Face Detection and Tracking Using the Dynamics of Eye Blinks](https://doi.org/10.3389/fnins.2020.00587)*,  
 Front. Neurosci., 2020. [PDF](http://arxiv.org/abs/1803.10106), [YouTube](https://www.youtube.com/watch?v=F5UzXQsr5Es)
@@ -2520,6 +2518,16 @@ Sensors, 2022.
 - <a name="Zhao24date"></a>Zhao, Q., Ji, Y., Wang, J., Wu, J., Shi, G.,  
 *[Simultaneous Denoising and Compression for DVS with Partitioned Cache-Like Spatiotemporal Filter](https://doi.org/10.23919/DATE64628.2025.10992696)*,  
 Design, Automation & Test in Europe Conference (DATE), 2025.
+
+<a name="downsampling"></a>
+### Event Downsampling
+- <a name="Cohen18tnnls"></a>Cohen, G., Afshar, S., Orchard, G., Tapson, J., Benosman, R., van Schaik, A.,  
+*[Spatial and Temporal Downsampling in Event-Based Visual Classification](https://doi.org/10.1109/TNNLS.2017.2785272)*,  
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 29(10):5030-5044, Oct. 2018.
+- <a name="Girbau25cvprw"></a>Girbau-Xalabarder, A., Nagata, J., Sumiyoshi, S., Marsan, R., Satoh, S., 
+*[Probabilistic Online Event Downsampling](https://arxiv.org/pdf/2506.02547)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025.
+
 
 <a name="control"></a>
 ## Control
