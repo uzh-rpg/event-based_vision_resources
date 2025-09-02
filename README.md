@@ -335,6 +335,12 @@ Information 15.8 (2024): 472.
 IEEE Sensors Reviews (2024), vol 1, pp. 14-63. [PDF](https://ieeexplore.ieee.org/iel8/10347229/10787061/10795229.pdf)
 
 
+- <a name="Iddrisu2025EventEyeSurvey"></a>Iddrisu, K., Shariff, W., Corcoran, P., O’Connor, N., Lemley, J., Little, S.,  
+*[Event Camera Based Eye Motion Analysis: A Survey]([https://ieeexplore.ieee.org/document/XXXXXXX](https://ieeexplore.ieee.org/abstract/document/10681084))*,  
+IEEE (2025). [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10681084)
+
+
+
 
 <a name="algorithms"></a>
 # Algorithms
@@ -690,6 +696,19 @@ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technolog
 - <a name="Bandara24neurips"></a>Bandara, N., Kandappu, T., Sen, A., Gokarn, I., Misra, A.  
 *[EyeGraph: Modularity-aware Spatio Temporal Graph Clustering for Continuous Event-based Eye Tracking](https://openreview.net/forum?id=YxuuzyplFZ)*,  
 Advances in Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2024. [Project Page](https://eye-tracking-for-physiological-sensing.github.io/eyegraph/), [PDF](https://openreview.net/pdf?id=YxuuzyplFZ), [Supplementary Materials](https://openreview.net/attachment?id=YxuuzyplFZ&name=supplementary_material).
+
+
+- <a name="Iddrisu2024EvaluatingEventTracking"></a>Iddrisu, K., Shariff, W., O’Connor, N. E., Lemley, J., Little, S.,  
+*[Evaluating Image-Based Face and Eye Tracking with Event Cameras](https://link.springer.com/chapter/10.1007/978-3-031-92460-6_14)*,
+[PDF](https://arxiv.org/pdf/2408.10395?).European Conference on Computer Vision (ECCV), 2024, pp. 224–240.
+
+- <a name="Iddrisu2024PupilTrackingFramework"></a>Iddrisu, K., Shariff, W., Little, S.,  
+*[A Framework for Pupil Tracking with Event Cameras](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.3288)*,[PDF](https://digital-library.theiet.org/doi/pdf/10.1049/icp.2024.3288)
+IET Conference Proceedings CP887, vol. 2024, no. 10, pp. 87–94,  
+The Institution of Engineering and Technology, 2024.
+
+
+
 
 <a name="optical-flow-estimation"></a>
 ## Optical Flow Estimation
