@@ -1,5 +1,6 @@
 # Event-based Vision Resources
 
+## <a href="https://edpr.iit.it/event-details/-/seminars/detail/1629"> EVS: Event Vision School 2026.</a> May 17-23th, Arenzano (Ittaly).
 ## <a href="https://eventvision-robotics.github.io/iros_workshop/"> IROS 2025 Workshop on Event-Based Vision.</a>
 ## <a href="https://nail-hnu.github.io/EvSLAM/index.html"> IROS 2025 Event-based Stereo SLAM Challenge.</a> Submission until Sep 30th, 2025.
 ## <a href="https://kelvins.esa.int/elope/"> ESA ELOPE: Event-based Lunar Optical Flow Egomotion Estimation Challenge.</a> Submission until Aug 31st, 2025.
