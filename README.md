@@ -6,8 +6,11 @@
 ## <a href="https://kelvins.esa.int/elope/"> ESA ELOPE: Event-based Lunar Optical Flow Egomotion Estimation Challenge.</a> Submission until Aug 31st, 2025.
 ## <a href="https://sites.google.com/view/neurobots2025"> IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots 2025).</a> Submission of papers until: Aug 24th, 2025.
 ## <a href="https://sites.google.com/view/nevi-2025/home-page"> ICCV 2025 Workshop on Neuromorphic Vision (NeVi).</a> Submission of papers until: July 3rd, 2025.
-## <a href="https://sites.google.com/view/telluride-2025/home">2025 Telluride Neuromorphic Cognition Engineering Workshop.</a> June 29 - July 19 2025.  
 ## <a href="https://www.neuropac.info/">NeuroPAC</a>
+## Map of event-based institutions (from papers)
+[![Neuro Vision Map](docs/img/map_of_event_based_institutions.jpg)](https://hylz-2019.github.io/Neuro_Vision_Map/map.html)
+
+- [Contribute to the map](https://github.com/HYLZ-2019/Neuro_Vision_Map)
 
 ## Table of Contents:
 - [Survey paper](#survey_paper)
@@ -116,11 +119,12 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
 
 <a name="workshops"></a>
 # Workshops
-- [DSP 2025 Special Session on Event-based Vision: “Processing the Neuromorphic Signal: Event-based Vision and Applications”](https://2025.ic-dsp.org/special-session-4/)  
+- [DSP 2025 Special Session on Event-based Vision: “Processing the Neuromorphic Signal: Event-based Vision and Applications”](https://2025.ic-dsp.org/special-session-4/)
+- [2025 Telluride Neuromorphic Cognition Engineering Workshop](https://sites.google.com/view/telluride-2025/home)
 - [IEEE T-RO Special Collection on Event-based Vision for Robotics, 2025](https://www.ieee-ras.org/publications/t-ro/special-issues/event-based-vision-for-robotics)
 - [CVPR 2025 Fifth International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2025)
 - [WACV 2025 EVGEN: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation](https://eventbasedvision.github.io/EVGEN2025/)
-- [IROS 2024 Workshop on Embodied Neuromorphic AI for Robotic Perception and Control](https://sites.google.com/view/iros-2024-workshop)  
+- [IROS 2024 Workshop on Embodied Neuromorphic AI for Robotic Perception and Control](https://sites.google.com/view/iros-2024-workshop)
 - [ECCV 2024 Workshop on Neuromorphic Vision (NeVi)](https://sites.google.com/view/nevi2024), **[Slides](https://sites.google.com/view/nevi2024/program)**
 - [ECCV 2024 1st Workshop on Neural Fields Beyond Conventional Cameras](https://neural-fields-beyond-cams.github.io/)
 - [Caméra à événements appliquée à la robotique, Sorbonne University, Paris (Nov. 16th, 2023)](https://tub-rip.github.io/eventvision2023/slides/2023-11_Workshop_event_cameras_Sorbonne.pdf)
