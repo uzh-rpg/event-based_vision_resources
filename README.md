@@ -61,6 +61,7 @@
     - [Signal Processing](#signal_processing)
         - [Event Denoising](#denoising)
         - [Compression](#compression)
+        - [Event Downsampling](#downsampling)
     - [Control](#control)
     - [Obstacle Avoidance](#obstacle_avoidance)
     - [Space Applications](#space)
@@ -2525,6 +2526,18 @@ Sensors, 2022.
 - <a name="Zhao24date"></a>Zhao, Q., Ji, Y., Wang, J., Wu, J., Shi, G.,  
 *[Simultaneous Denoising and Compression for DVS with Partitioned Cache-Like Spatiotemporal Filter](https://doi.org/10.23919/DATE64628.2025.10992696)*,  
 Design, Automation & Test in Europe Conference (DATE), 2025.
+
+<a name="downsampling"></a>
+### Event Downsampling
+- <a name="Cohen18tnnls"></a>Cohen, G., Afshar, S., Orchard, G., Tapson, J., Benosman, R., van Schaik, A.,  
+*[Spatial and Temporal Downsampling in Event-Based Visual Classification](https://doi.org/10.1109/TNNLS.2017.2785272)*,  
+IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 29(10):5030-5044, Oct. 2018.
+- <a name="Hesam25cvprw"></a>Hesam, A., van Gemert, J., Tomen, N.,  
+*[Making Every Event Count: Balancing Data Efficiency and Accuracy in Event Camera Subsampling](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/papers/Araghi_Making_Every_Event_Count_Balancing_Data_Efficiency_and_Accuracy_in_CVPRW_2025_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [PDF](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/papers/Araghi_Making_Every_Event_Count_Balancing_Data_Efficiency_and_Accuracy_in_CVPRW_2025_paper.pdf), [Code](https://github.com/hesamaraghi/event-camera-subsampling-methods)
+- <a name="Girbau25cvprw"></a>Girbau-Xalabarder, A., Nagata, J., Sumiyoshi, S., Marsan, R., Satoh, S.,  
+*[Probabilistic Online Event Downsampling](https://arxiv.org/abs/2506.02547)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [PDF](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/papers/Girbau-Xalabarder_Probabilistic_Online_Event_Downsampling_CVPRW_2025_paper.pdf), [Code](https://github.com/DensoITLab/POLED)
 
 <a name="control"></a>
 ## Control
