@@ -7,10 +7,10 @@
 ## <a href="https://sites.google.com/view/neurobots2025"> IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots 2025).</a> Submission of papers until: Aug 24th, 2025.
 ## <a href="https://sites.google.com/view/nevi-2025/home-page"> ICCV 2025 Workshop on Neuromorphic Vision (NeVi).</a> Submission of papers until: July 3rd, 2025.
 ## <a href="https://www.neuropac.info/">NeuroPAC</a>
-## Map of event-based institutions (from papers)
+## <a href="https://hylz-2019.github.io/Neuro_Vision_Map/map.html">Map of event-based institutions (from papers)</a>
 [![Neuro Vision Map](docs/img/map_of_event_based_institutions.jpg)](https://hylz-2019.github.io/Neuro_Vision_Map/map.html)
 
-- [Contribute to the map](https://github.com/HYLZ-2019/Neuro_Vision_Map)
+- [Contribute to the above map](https://github.com/HYLZ-2019/Neuro_Vision_Map)
 
 ## Table of Contents:
 - [Survey paper](#survey_paper)
