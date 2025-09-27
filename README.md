@@ -1949,7 +1949,7 @@ European Conf. Computer Vision (ECCV), 2024.  [Project page](https://www.cis.upe
 Int. Joint Conf. on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP), 2024.
 - [Shiba et al. TPAMI 2024](#Shiba24tpami),  
 *Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
-- <a name="Yamaki25cvprw"></a>Yamaki R., Shiba, S., Gallego, G., Aoki, Y.,   
+- <a name="Yamaki25cvprw"></a>Yamaki, R., Shiba, S., Gallego, G., Aoki, Y.,   
 *[Iterative Event-Based Motion Segmentation by Variational Contrast Maximization](https://doi.org/10.1109/CVPRW67362.2025.00484)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025.
 [PDF](https://arxiv.org/pdf/2504.18447).
@@ -2847,6 +2847,10 @@ IEEE Robotics and Automation Letters (RA-L), 10(2):1385-1392, 2025. [PDF](https:
 *[E-VLC: A Real-World Dataset for Event-based Visible Light Communication And Localization](https://doi.org/10.1109/CVPRW67362.2025.00479)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025.
 [PDF](https://arxiv.org/pdf/2504.18521), [Project and Dataset](https://woven-visionai.github.io/evlc-dataset/).
+    - <a name="Shiba25cvprw2"></a>Shiba, S., Kong, Q., Kobori, N.,   
+*[Augmented Reality Applications using Active Markers with an Event Camera](https://doi.org/10.1109/CVPRW67362.2025.00480)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025.
+[PDF](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/papers/Shiba_Augmented_Reality_Applications_Using_Active_Markers_With_An_Event_Camera_CVPRW_2025_paper.pdf).
 - <a name="Kobayashi25iv"></a>Kobayashi, M., Shiba, S., Kong, Q., Kobori, N., Shimizu, T., Lu, S., Yamazato, T.,   
 *[Distance Estimation in Outdoor Driving Environments Using Phase-Only Correlation Method with Event Cameras](https://doi.org/10.1109/IV64158.2025.11097775)*,  
 IEEE Intelligent Vehicles Symposium (IV), 2025.
