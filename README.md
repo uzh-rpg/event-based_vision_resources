@@ -2791,7 +2791,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [Cod
 - <a name="Wang24arxiv"></a>Wang, Z., Zhang, R., Liu, Z.Y., Wang, Y., Daniilidis, K.,  
 *[Continuous-Time Human Motion Field from Events](https://arxiv.org/abs/2412.01747)*,  
 arXiv, 2024.
-- <a name="Kai24cvprw"></a>Kai, K., Shiba, S., Aoki, Y.,   
+- <a name="Koyama24cvprw"></a>Koyama, K., Shiba, S., Aoki, Y.,   
 *[3D Human Scan With A Moving Event Camera](https://doi.org/10.1109/CVPRW63382.2024.00568)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024.
 [PDF](https://arxiv.org/pdf/2404.08504), [Project](https://florpeng.github.io/event-based-human-scan/).
