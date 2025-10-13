@@ -1,11 +1,10 @@
 # Event-based Vision Resources
 
-## <a href="https://edpr.iit.it/event-details/-/seminars/detail/1629"> EVS: Event Vision School 2026.</a> May 17-23th, Arenzano (Ittaly).
+## <a href="https://edpr.iit.it/event-details/-/seminars/detail/1629"> EVS: Event Vision School 2026.</a> May 17-23th, Arenzano (Italy).
 ## <a href="https://eventvision-robotics.github.io/iros_workshop/"> IROS 2025 Workshop on Event-Based Vision.</a>
-## <a href="https://nail-hnu.github.io/EvSLAM/index.html"> IROS 2025 Event-based Stereo SLAM Challenge.</a> Submission until Sep 30th, 2025.
-## <a href="https://kelvins.esa.int/elope/"> ESA ELOPE: Event-based Lunar Optical Flow Egomotion Estimation Challenge.</a> Submission until Aug 31st, 2025.
-## <a href="https://sites.google.com/view/neurobots2025"> IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots 2025).</a> Submission of papers until: Aug 24th, 2025.
-## <a href="https://sites.google.com/view/nevi-2025/home-page"> ICCV 2025 Workshop on Neuromorphic Vision (NeVi).</a> Submission of papers until: July 3rd, 2025.
+## <a href="https://nail-hnu.github.io/EvSLAM/index.html"> IROS 2025 Event-based Stereo SLAM Challenge.</a>
+## <a href="https://sites.google.com/view/neurobots2025"> IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots 2025).</a>
+## <a href="https://sites.google.com/view/nevi-2025/home-page"> ICCV 2025 Workshop on Neuromorphic Vision (NeVi).</a>
 ## <a href="https://www.neuropac.info/">NeuroPAC</a>
 ## <a href="https://hylz-2019.github.io/Neuro_Vision_Map/map.html">Map of event-based institutions (from papers)</a>
 [![Neuro Vision Map](docs/img/map_of_event_based_institutions.jpg)](https://hylz-2019.github.io/Neuro_Vision_Map/map.html)
@@ -3186,6 +3185,7 @@ IEEE Trans. Robot. (TRO), 2024.
 - <a name="nkrumah24sensors_data"></a>Nkrumah, I., and Moshrefizadeh, M.,  Tahri, O., Blasch, E., Palaniappan, K., AliAkbarpour, H.,  
 *[Aerial Imagery and Remote Sensing Dataset](https://drive.google.com/drive/folders/1CKPIBZYMAyOgIsD9pp3pvewiikfQfXwE)* introduced with the paper *[EC-WAMI: Event Camera-Based Pose Optimization in Remote Sensing and Wide-Area Motion Imagery](https://www.mdpi.com/1424-8220/24/23/7493)*,  
 Sensors, 2024.
+- <a href="https://kelvins.esa.int/elope/"> ESA ELOPE: Event-based Lunar Optical Flow Egomotion Estimation Challenge.</a>
 
 ## Segmentation
 - [Mitrokhin et al., IROS 2018](#Mitrokhin18iros), Extreme Event Dataset (EED). [Project page and Dataset](http://prg.cs.umd.edu/BetterFlow.html)
