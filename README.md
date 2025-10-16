@@ -1579,6 +1579,9 @@ IEEE Trans. Ind. Electron., 63(1):418-428, 2016.
 - <a name="Bartolomei24eccv"></a>Bartolomei, L., Poggi, M., Conti, A., Mattoccia, S.,  
 *[LiDAR-Event Stereo Fusion with Hallucinations](https://doi.org/10.1007/978-3-031-72658-3_8)*,  
 European Conf. Computer Vision (ECCV), 2024, pp. 125-145. [PDF](https://arxiv.org/pdf/2408.04633). [Project page](https://eventvppstereo.github.io/).
+- <a name="Brebion25cvprw"></a>Brebion, V., Moreau, J., Davoine, F.,  
+*[DELTA: Dense Depth from Events and LiDAR using Transformer's Attention](https://doi.org/10.1109/CVPRW67362.2025.00482)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [PDF](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/papers/Brebion_DELTA_Dense_Depth_from_Events_and_LiDAR_using_Transformers_Attention_CVPRW_2025_paper.pdf), [Project Page (suppl. mat., poster, code)](https://vbrebion.github.io/DELTA).
 
 <a name="slam"></a>
 ## SLAM (Simultaneous Localization And Mapping)
