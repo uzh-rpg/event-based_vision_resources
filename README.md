@@ -2430,6 +2430,9 @@ arXiv, 2023. [PDF](https://rpg.ifi.uzh.ch/docs/arxiv23_aydin.pdf).
 - <a name="Klenk24wacv"></a>Klenk, S., Bonello, D., Koestler, L., Araslanov, N., Cremers, D.,  
 *[Masked Event Modeling: Self-Supervised Pretraining for Event Cameras](https://www.doi.org/10.1109/LRA.2023.3240646)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2024. [PDF](https://arxiv.org/pdf/2212.10368), [Code](https://github.com/tum-vision/mem).
+- <a name="Mohammadi25ICCV"></a>Mohammadi, M., Wu, Z., Gilitschenski, I.,  
+*[TESPEC: Temporally-Enhanced Self-Supervised Pretarining for Event Cameras](https://arxiv.org/abs/2508.00913)*,  
+IEEE Int. Conf. Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/abs/2508.00913), [Project Page](https://mhdmohammadi.github.io/TESPEC_webpage/), [Code](https://github.com/MhdMohammadi/TESPEC).
 
 
 <a name="signal_processing"></a>
