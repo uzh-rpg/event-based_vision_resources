@@ -2351,6 +2351,9 @@ IEEE Trans. Image Process. (TIP), 2024. [Code](https://github.com/VincentQQu/EvR
 - <a name="Garcia25eccvw"></a>Garcia-Rodriguez, L., Konrad, J., Drees, D., Risse, B.  
 *[S-ROPE: Spectral Frame Representation of Periodic Events](https://doi.org/10.1007/978-3-031-92460-6_19)*,   
 European Conf. Computer Vision Workshops (ECCVW), 2024
+- <a name="das25arxiv"></a>Das, R., Daniilidis, K., Chaudhari, P.,   
+*[Fast Feature Field (F<sup>3</sup>): A Predictive Representation of Events](https://arxiv.org/pdf/2509.25146)*,  
+arXiv, 2025. [Video](https://www.youtube.com/watch?v=DFwz8JeqDk0), [Webpage](https://www.seas.upenn.edu/~richeek/f3), [Code](https://github.com/grasp-lyrl/fast-feature-fields).
 
 <a name="learning-regression"></a>
 ### Regression Tasks
