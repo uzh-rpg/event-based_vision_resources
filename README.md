@@ -1,6 +1,6 @@
 # Event-based Vision Resources
 
-## <a href="https://edpr.iit.it/event-details/-/seminars/detail/1629"> EVS: Event Vision School 2026.</a> May 17-23th, Arenzano (Italy). <span style="color:red">Apply now!</span>
+## <a href="https://edpr.iit.it/event-details/-/seminars/detail/1629"> EVS: Event Vision School 2026.</a> May 17-23th, Arenzano (Italy). $\color{red}{\textbf{Apply now!}}$
 ## <a href="https://eventbasedvision.github.io/EVGEN2026/"> WACV 2026 EVGEN: Event-based Vision in the Era of Generative AI.</a> March 2026, Tucosn (USA). Paper submission until Dec 7th 2025.
 ## <a href="https://eventvision-robotics.github.io/iros_workshop/"> IROS 2025 Workshop on Event-Based Vision.</a>
 ## <a href="https://nail-hnu.github.io/EvSLAM/index.html"> IROS 2025 Event-based Stereo SLAM Challenge.</a>
