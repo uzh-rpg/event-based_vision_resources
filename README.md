@@ -1,6 +1,7 @@
 # Event-based Vision Resources
 
-## <a href="https://edpr.iit.it/event-details/-/seminars/detail/1629"> EVS: Event Vision School 2026.</a> May 17-23th, Arenzano (Italy).
+## <a href="https://edpr.iit.it/event-details/-/seminars/detail/1629"> EVS: Event Vision School 2026.</a> May 17-23th, Arenzano (Italy). <span style="color:red">Apply now!</span>
+## <a href="https://eventbasedvision.github.io/EVGEN2026/"> WACV 2026 EVGEN: Event-based Vision in the Era of Generative AI.</a> March 2026, Tucosn (USA). Paper submission until Dec 7th 2025.
 ## <a href="https://eventvision-robotics.github.io/iros_workshop/"> IROS 2025 Workshop on Event-Based Vision.</a>
 ## <a href="https://nail-hnu.github.io/EvSLAM/index.html"> IROS 2025 Event-based Stereo SLAM Challenge.</a>
 ## <a href="https://sites.google.com/view/neurobots2025"> IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots 2025).</a>
@@ -119,6 +120,11 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
 
 <a name="workshops"></a>
 # Workshops
+- [EVS 2026: Event Vision School 2026](https://edpr.iit.it/events/2026-evs)
+- [WACV 2026 EVGEN: 2nd Worksgop on Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation](https://eventbasedvision.github.io/EVGEN2026/)
+- [IROS 2025 Workshop on Event-Based Vision. And Stereo SLAM Challenge](https://sites.google.com/view/neurobots2025)
+- [IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots 2025)](https://sites.google.com/view/iros-2024-workshop)
+- [ICCV 2025 2nd Workshop on Neuromorphic Vision (NeVi)](https://sites.google.com/view/nevi-2025/)
 - [DSP 2025 Special Session on Event-based Vision: “Processing the Neuromorphic Signal: Event-based Vision and Applications”](https://2025.ic-dsp.org/special-session-4/)
 - [2025 Telluride Neuromorphic Cognition Engineering Workshop](https://sites.google.com/view/telluride-2025/home)
 - [IEEE T-RO Special Collection on Event-based Vision for Robotics, 2025](https://www.ieee-ras.org/publications/t-ro/special-issues/event-based-vision-for-robotics)
