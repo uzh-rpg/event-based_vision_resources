@@ -594,8 +594,11 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [Dataset](https://www.cvl.
 *[Asynchronous Blob Tracker for Event Cameras](https://doi.org/10.1109/TRO.2024.3454410).*,<br/>
 IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2307.10593.pdf), [Video](https://www.youtube.com/watch?v=L_wJjhcToOU), [Project page](https://github.com/ziweiWWANG/AEB-Tracker).
 - <a name="Ikura24iros"></a>Ikura, M., Gentil, L. C., Müller, G. M., Schuler, F., Yamashita, A., Stürzl, W.,<br/>
-*[RATE: Real-time Asynchronous Feature Tracking with Event Cameras](https://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/B/B320Final.pdf).*,<br/>
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [code](https://github.com/mikihiroikura/RATE).
+*[RATE: Real-time Asynchronous Feature Tracking with Event Cameras](https://ieeexplore.ieee.org/document/10802050).*,<br/>
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [PDF](https://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/B/B320Final.pdf), [code](https://github.com/mikihiroikura/RATE).
+- <a name="Ikura25nevi"></a>Ikura, M., Glover, A., Mizuno, M., Bartolozzi, C.,<br/>
+*[Lattice-allocated Real-time Line Segment Feature Detection and Tracking Using Only an Event-based Camera](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/html/Ikura_Lattice-allocated_Real-time_Line_Segment_Feature_Detection_and_Tracking_Using_Only_ICCVW_2025_paper.html).*,<br/>
+IEEE/CVF Int. Conf. Computer Vision (ICCV) Workshop on Neuromorphic Vision (NeVi), 2025. [PDF](https://arxiv.org/pdf/2510.06829), [code](https://github.com/event-driven-robotics/RT-EvLDT), [dataset](https://zenodo.org/records/17299174)
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
@@ -1543,7 +1546,9 @@ IEEE Trans. Circuits Syst. Video Technol. (TCSVT), 32(11):7489-7504, 2022.
 J. Imaging Sci. Technol. 2023. [Project page and Code](https://ringoswchu.com/Research/iestereo/).
 - [Ghosh and Gallego, arxiv 2024](#Ghosh24stereo),  
 *Event-based Stereo Depth Estimation: A Survey*.
-
+- <a name="Wu25neurobots"></a>Wu, J., Ikura, M., Gava, L., Mizuno, M., Glover, A., Bartolozzi, C.,<br/>
+*[Depth Estimation from Moving Stereo Event Cameras without Motion Cues](https://openreview.net/forum?id=JxQeCNabIy).*,<br/>
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS) Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots), 2025.
 
 <a name="depth-stereo-active"></a>
 ### Stereo Depth Estimation using Structured Light
@@ -2361,6 +2366,9 @@ European Conf. Computer Vision Workshops (ECCVW), 2024
 - <a name="das25arxiv"></a>Das, R., Daniilidis, K., Chaudhari, P.,   
 *[Fast Feature Field (F<sup>3</sup>): A Predictive Representation of Events](https://arxiv.org/pdf/2509.25146)*,  
 arXiv, 2025. [Video](https://www.youtube.com/watch?v=DFwz8JeqDk0), [Webpage](https://www.seas.upenn.edu/~richeek/f3), [Code](https://github.com/grasp-lyrl/fast-feature-fields).
+- <a name="Gava25neurobots"></a>Gava, L., Ikura, M., Glover, A., Bartolozzi, C.,<br/>
+*[SCARF: A Set of Centre Active Receptive Fields for Velocity Invariant Event Representation](https://openreview.net/forum?id=Oc7PzozG2s).*,<br/>
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS) Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots), 2025.
 
 <a name="learning-regression"></a>
 ### Regression Tasks
