@@ -1712,8 +1712,8 @@ Sensors, 2024.
 *[A compact neuromorphic system for ultra–energy-efficient, on-device robot localization](https://www.science.org/doi/10.1126/scirobotics.ads3968)*, 
 Science Robotics, 10(103) eads3968, 2025. [PDF](https://adamdhines.github.io/static/papers/LENS.pdf), [Code](https://github.com/AdamDHines/LENS)
 - <a name="Su25iccv"></a>Su, H., Feng, Y., Gehrig, D., Jiang, P., Gao, L., Lagorce, X., Kneip, L.,  
-*[A linear n-point solver for structure and motion from asynchronous tracks](https://arxiv.org/pdf/2507.22733)*,  
-IEEE Int. Conf. Computer Vision (ICCV), 2025. [PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Su_A_Linear_N-Point_Solver_for_Structure_and_Motion_from_Asynchronous_ICCV_2025_paper.pdf), [Code](https://github.com/suhang99/AsyncTrack-Motion-Solver), [Video](https://www.youtube.com/watch?v=c3IQgIaVTFQ), [Poster](https://iccv.thecvf.com/media/PosterPDFs/ICCV%202025/222.png)
+*[A linear n-point solver for structure and motion from asynchronous tracks](https://openaccess.thecvf.com/content/ICCV2025/papers/Su_A_Linear_N-Point_Solver_for_Structure_and_Motion_from_Asynchronous_ICCV_2025_paper.pdf)*,  
+IEEE Int. Conf. Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2507.22733), [Code](https://github.com/suhang99/AsyncTrack-Motion-Solver), [Video](https://www.youtube.com/watch?v=c3IQgIaVTFQ), [Poster](https://iccv.thecvf.com/media/PosterPDFs/ICCV%202025/222.png)
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
