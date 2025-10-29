@@ -543,10 +543,10 @@ arXiv, 2021. [Code](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)
 The Visual Computer, 2021. [PDF](https://link.springer.com/article/10.1007/s00371-021-02237-9), [Project](https://zhangjiqing.com/publication/multi-domain-collaborative-feature-representation-for-robust-visual-object-tracking-the-visual-computer-2021-proc-cgi-2021-/).
 - <a name="Zhang2021iccv"></a>Zhang, J., Yang, X., Fu, Y., Wei, X., Yin, B., Dong, B.,  
 *[Object Tracking by Jointly Exploiting Frame and Event Domain](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Object_Tracking_by_Jointly_Exploiting_Frame_and_Event_Domain_ICCV_2021_paper.pdf)*,  
-IEEE Int. Conf. Computer Vision (ICCV), 2021. [Project](https://zhangjiqing.com/publication/iccv21_fe108_tracking/), [PDF](https://arxiv.org/abs/2109.09052), [Code](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking), [dataset](https://zhangjiqing.com/dataset/).
+IEEE Int. Conf. Computer Vision (ICCV), 2021. [Project](https://zhangjiqing.com/publication/iccv21_fe108_tracking/), [PDF](https://arxiv.org/abs/2109.09052), [Code](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking), [Dataset](https://zhangjiqing.com/dataset/).
 - <a name="Dietsche21iros"></a>Dietsche, A., Cioffi, G., Hidalgo-Carrio, J., Scaramuzza, D.,  
 *[Powerline Tracking with Event Cameras](http://dx.doi.org/10.1109/IROS51168.2021.9636824)*,  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [PDF](https://rpg.ifi.uzh.ch/docs/IROS21_Dietsche.pdf), [dataset](https://download.ifi.uzh.ch/rpg/powerline_tracking_dataset/), [YouTube](https://www.youtube.com/watch?v=KnBJqed5qDI), [Code](https://github.com/uzh-rpg/line_tracking_with_event_cameras).
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [PDF](https://rpg.ifi.uzh.ch/docs/IROS21_Dietsche.pdf), [Dataset](https://download.ifi.uzh.ch/rpg/powerline_tracking_dataset/), [YouTube](https://www.youtube.com/watch?v=KnBJqed5qDI), [Code](https://github.com/uzh-rpg/line_tracking_with_event_cameras).
 - <a name="Li21icra"></a>Li, H., Stueckler, J.,  
 *[Tracking 6-DoF Object Motion from Events and Frames](https://arxiv.org/pdf/2103.15568.pdf)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2021.
@@ -557,7 +557,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project](https
 *REMOT: A Hardware-Software Architecture for Attention-Guided Multi-Object Tracking with Dynamic Vision Sensors on FPGAs*.
 - <a name="el2022high"></a>El Shair, Z., Rawashdeh, S.A.,  
 *[High-Temporal-Resolution Object Detection and Tracking using Images and Events](https://doi.org/10.3390/jimaging8080210)*,  
-Journal of Imaging, 2022. [PDF](https://www.mdpi.com/2313-433X/8/8/210/pdf), [dataset](http://sar-lab.net/event-based-vehicle-detection-and-tracking-dataset/).
+Journal of Imaging, 2022. [PDF](https://www.mdpi.com/2313-433X/8/8/210/pdf), [Dataset](http://sar-lab.net/event-based-vehicle-detection-and-tracking-dataset/).
 - <a name="hu2022eCDT"></a> Hu, S., Kim, Y., Lim, H., Lee, A., Myung, H.,  
 [eCDT: Event Clustering for Simultaneous Feature Detection and Tracking](https://doi.org/10.1109/IROS47612.2022.9981451),  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022. [YouTube](https://www.youtube.com/watch?v=eS-3PP-8sek&ab_channel=KAISTUrbanRoboticsLab)
@@ -566,7 +566,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022. [YouTube](https
 Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022. [PDF](https://openreview.net/pdf?id=hTxYJAKY85), [Code](https://github.com/ZHU-Zhiyu/Event-tracking).
 - <a name="Elshair22opteng"></a>El Shair, Z., Rawashdeh, S.A.,  
 *[High-temporal-resolution event-based vehicle detection and tracking](https://doi.org/10.1117/1.OE.62.3.031209)*,  
-Optical Engineering, 2022. [dataset](http://sar-lab.net/event-based-vehicle-detection-and-tracking-dataset/).
+Optical Engineering, 2022. [Dataset](http://sar-lab.net/event-based-vehicle-detection-and-tracking-dataset/).
 - <a name="Guillen-Garcia22"></a>Guillen-Garcia, J., Palacios-Alonso, D., Cabello, E., Conde, C.,  
 *[Unsupervised adaptive multi-object tracking-by-clustering algorithm with a bio-inspired system](https://doi.org/10.1109/ACCESS.2022.3154895)*,  
 IEEE Access, 2022.
@@ -598,7 +598,7 @@ IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2307.10593.pdf), [Vi
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [PDF](https://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/B/B320Final.pdf), [Code](https://github.com/mikihiroikura/RATE).
 - <a name="Ikura25iccvw"></a>Ikura, M., Glover, A., Mizuno, M., Bartolozzi, C.,  
 *[Lattice-allocated Real-time Line Segment Feature Detection and Tracking Using Only an Event-based Camera](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/html/Ikura_Lattice-allocated_Real-time_Line_Segment_Feature_Detection_and_Tracking_Using_Only_ICCVW_2025_paper.html).*,  
-IEEE/CVF Int. Conf. Computer Vision (ICCV) Workshop on Neuromorphic Vision (NeVi), 2025. [PDF](https://arxiv.org/pdf/2510.06829), [Code](https://github.com/event-driven-robotics/RT-EvLDT), [dataset](https://zenodo.org/records/17299174)
+IEEE/CVF Int. Conf. Computer Vision (ICCV) Workshop on Neuromorphic Vision (NeVi), 2025. [PDF](https://arxiv.org/pdf/2510.06829), [Code](https://github.com/event-driven-robotics/RT-EvLDT), [Dataset](https://zenodo.org/records/17299174)
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
@@ -1142,7 +1142,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022. [Code](https://github.c
 *[EVA2: Event-Assisted Video Frame Interpolation via Cross-Modal Alignment and Aggregation](https://doi.org/10.1109/TCI.2022.3228747)*,  
 IEEE Trans. Comput. Imag. (TCI), 8:1145-1158, 2022.
 - <a name="Tulyakov22cvpr"></a>Tulyakov, S., Bochicchio, A., Gehrig, D., Georgoulis, S., Li, Y., Scaramuzza, D.,  
-*[Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion](http://dx.doi.org/10.1109/CVPR52688.2022.01723)*,  IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR22_Tulyakov.pdf), [dataset](https://github.com/uzh-rpg/timelens-pp/), [YouTube](https://youtu.be/bWJz_p8Y5Hc).  
+*[Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion](http://dx.doi.org/10.1109/CVPR52688.2022.01723)*,  IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR22_Tulyakov.pdf), [Dataset](https://github.com/uzh-rpg/timelens-pp/), [YouTube](https://youtu.be/bWJz_p8Y5Hc).  
 - <a name="Sun23cvpr"></a>Sun, L., Sakaridis, C., Liang, J., Sun, P., Cao, J., Zhang, K., Jiang, Q., Wang, K., Gool, L.,  
 *[Event-Based Frame Interpolation with Ad-hoc Deblurring](https://arxiv.org/abs/2301.05191)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [Code](https://github.com/AHupuJR/REFID), [Project page](https://ahupujr.github.io/REFID/)
@@ -1913,7 +1913,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Code](https://github.com/addisonwang2013/evdistill).
 - <a name="Sun22eccv"></a>Sun, Z., Messikommer, N., Gehrig, D., Scaramuzza, D.,  
 *[ESS: Learning Event-based Semantic Segmentation from Still Images](http://dx.doi.org/10.1007/978-3-031-19830-4_20)*,  
-European Conf. Computer Vision (ECCV), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/ECCV22_Sun.pdf), [dataset](https://dsec.ifi.uzh.ch/dsec-semantic/), [YouTube](https://youtu.be/Tby5c9IDsDc), [Code](https://github.com/uzh-rpg/ess).
+European Conf. Computer Vision (ECCV), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/ECCV22_Sun.pdf), [Dataset](https://dsec.ifi.uzh.ch/dsec-semantic/), [YouTube](https://youtu.be/Tby5c9IDsDc), [Code](https://github.com/uzh-rpg/ess).
 - [Guillen-Garcia et al., IEEE Access, 2022](#Guillen-Garcia22).
 *Unsupervised adaptive multi-object tracking-by-clustering algorithm with a bio-inspired system*.
 - <a name="Biswas23wacv"></a>Biswas, S.D., Kosta, A.,  Liyanagedera, C., Apolinario, M., Roy, K.,  
