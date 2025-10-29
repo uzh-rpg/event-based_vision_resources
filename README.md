@@ -328,7 +328,7 @@ Nat. Commun. 13:1024, 2022.
 Mach. Intell. Res., 19:412-424, 2022.
 - <a name="Gehrig22arxiv"></a>Gehrig, D., Scaramuzza, D.,  
 *[Are High-Resolution Cameras Really Needed?](https://arxiv.org/abs/2203.14672)*,  
-arXiv, 2022. [YouTube](https://youtu.be/HV9_FhS-f88), [code](https://uzh-rpg.github.io/eres/).  
+arXiv, 2022. [YouTube](https://youtu.be/HV9_FhS-f88), [Code](https://uzh-rpg.github.io/eres/).  
 - <a name="Ercan23cvprw"></a>Ercan, B., Eker, O., Erdem, A., Erdem, E.,  
 *[EVREAL: Towards a Comprehensive Benchmark and Analysis Suite for Event-based Video Reconstruction](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Ercan_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-Based_CVPRW_2023_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [PDF](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Ercan_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-Based_CVPRW_2023_paper.pdf), [Project Page](https://ercanburak.github.io/evreal.html), [Suppl.](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/supplemental/Ercan_EVREAL_Towards_a_CVPRW_2023_supplemental.zip), [Code](https://github.com/ercanburak/EVREAL).
@@ -543,42 +543,42 @@ arXiv, 2021. [Code](https://github.com/wangxiao5791509/VisEvent_SOT_Benchmark)
 The Visual Computer, 2021. [PDF](https://link.springer.com/article/10.1007/s00371-021-02237-9), [Project](https://zhangjiqing.com/publication/multi-domain-collaborative-feature-representation-for-robust-visual-object-tracking-the-visual-computer-2021-proc-cgi-2021-/).
 - <a name="Zhang2021iccv"></a>Zhang, J., Yang, X., Fu, Y., Wei, X., Yin, B., Dong, B.,  
 *[Object Tracking by Jointly Exploiting Frame and Event Domain](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Object_Tracking_by_Jointly_Exploiting_Frame_and_Event_Domain_ICCV_2021_paper.pdf)*,  
-IEEE Int. Conf. Computer Vision (ICCV), 2021. [Project](https://zhangjiqing.com/publication/iccv21_fe108_tracking/), [PDF](https://arxiv.org/abs/2109.09052), [code](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking), [dataset](https://zhangjiqing.com/dataset/).
+IEEE Int. Conf. Computer Vision (ICCV), 2021. [Project](https://zhangjiqing.com/publication/iccv21_fe108_tracking/), [PDF](https://arxiv.org/abs/2109.09052), [Code](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking), [Dataset](https://zhangjiqing.com/dataset/).
 - <a name="Dietsche21iros"></a>Dietsche, A., Cioffi, G., Hidalgo-Carrio, J., Scaramuzza, D.,  
 *[Powerline Tracking with Event Cameras](http://dx.doi.org/10.1109/IROS51168.2021.9636824)*,  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [PDF](https://rpg.ifi.uzh.ch/docs/IROS21_Dietsche.pdf), [dataset](https://download.ifi.uzh.ch/rpg/powerline_tracking_dataset/), [YouTube](https://www.youtube.com/watch?v=KnBJqed5qDI), [code](https://github.com/uzh-rpg/line_tracking_with_event_cameras).
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [PDF](https://rpg.ifi.uzh.ch/docs/IROS21_Dietsche.pdf), [Dataset](https://download.ifi.uzh.ch/rpg/powerline_tracking_dataset/), [YouTube](https://www.youtube.com/watch?v=KnBJqed5qDI), [Code](https://github.com/uzh-rpg/line_tracking_with_event_cameras).
 - <a name="Li21icra"></a>Li, H., Stueckler, J.,  
 *[Tracking 6-DoF Object Motion from Events and Frames](https://arxiv.org/pdf/2103.15568.pdf)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2021.
 - <a name="Zhang2022cvpr"></a>Zhang, J., Dong, B., Zhang, H., Ding, J., Heide, F., Yin, B., Yang, X.,  
 *[Spiking Transformers for Event-based Single Object Tracking](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project](https://zhangjiqing.com/publication/stnet/), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf), [code](https://github.com/Jee-King/CVPR2022_STNet).
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Project](https://zhangjiqing.com/publication/stnet/), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf), [Code](https://github.com/Jee-King/CVPR2022_STNet).
 - [Gao, et at., FPGA, 2022](#Gao22FPGA),  
 *REMOT: A Hardware-Software Architecture for Attention-Guided Multi-Object Tracking with Dynamic Vision Sensors on FPGAs*.
 - <a name="el2022high"></a>El Shair, Z., Rawashdeh, S.A.,  
 *[High-Temporal-Resolution Object Detection and Tracking using Images and Events](https://doi.org/10.3390/jimaging8080210)*,  
-Journal of Imaging, 2022. [PDF](https://www.mdpi.com/2313-433X/8/8/210/pdf), [dataset](http://sar-lab.net/event-based-vehicle-detection-and-tracking-dataset/).
+Journal of Imaging, 2022. [PDF](https://www.mdpi.com/2313-433X/8/8/210/pdf), [Dataset](http://sar-lab.net/event-based-vehicle-detection-and-tracking-dataset/).
 - <a name="hu2022eCDT"></a> Hu, S., Kim, Y., Lim, H., Lee, A., Myung, H.,  
 [eCDT: Event Clustering for Simultaneous Feature Detection and Tracking](https://doi.org/10.1109/IROS47612.2022.9981451),  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022. [YouTube](https://www.youtube.com/watch?v=eS-3PP-8sek&ab_channel=KAISTUrbanRoboticsLab)
 - <a name="zhu2022learning"></a>Zhu, Z., Hou, J., Lyu, X.,  
 *[Learning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds](https://openreview.net/pdf?id=hTxYJAKY85)*,  
-Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022. [PDF](https://openreview.net/pdf?id=hTxYJAKY85), [code](https://github.com/ZHU-Zhiyu/Event-tracking).
+Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022. [PDF](https://openreview.net/pdf?id=hTxYJAKY85), [Code](https://github.com/ZHU-Zhiyu/Event-tracking).
 - <a name="Elshair22opteng"></a>El Shair, Z., Rawashdeh, S.A.,  
 *[High-temporal-resolution event-based vehicle detection and tracking](https://doi.org/10.1117/1.OE.62.3.031209)*,  
-Optical Engineering, 2022. [dataset](http://sar-lab.net/event-based-vehicle-detection-and-tracking-dataset/).
+Optical Engineering, 2022. [Dataset](http://sar-lab.net/event-based-vehicle-detection-and-tracking-dataset/).
 - <a name="Guillen-Garcia22"></a>Guillen-Garcia, J., Palacios-Alonso, D., Cabello, E., Conde, C.,  
 *[Unsupervised adaptive multi-object tracking-by-clustering algorithm with a bio-inspired system](https://doi.org/10.1109/ACCESS.2022.3154895)*,  
 IEEE Access, 2022.
 - <a name="Messikommer23cvpr"></a>Messikommer, N., Fang, C., Gehrig, M., Scaramuzza, D.,  
 *[Data-driven Feature Tracking for Event Cameras](https://arxiv.org/abs/2211.12826)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_Messikommer.pdf), [YouTube](https://youtu.be/dtkXvNXcWRY), [code](https://github.com/uzh-rpg/deep_ev_tracker).  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR23_Messikommer.pdf), [YouTube](https://youtu.be/dtkXvNXcWRY), [Code](https://github.com/uzh-rpg/deep_ev_tracker).  
 - <a name="Pedersen23nice"></a>Pedersen, J., Singhal, R., Conradt, J.,<br/>
   [Translation and Scale Invariance for Event-Based Object tracking](https://dl.acm.org/doi/10.1145/3584954.3584996),<br/>
   Proc. Annual Neuro-Inspired Computational Elements Conf. (NICE), 2023, pp. 86-91. <a href="https://jepedersen.dk/202304_nice_object">Website</a>, <a href="https://github.com/jegp/coordinate-regression">code</a>, <a href="https://jepedersen.dk/slides/2304_NICE/2304_object_tracking.html">presentation</a>.
 - <a name="Zhu23iccv"></a>Zhu, Z., Hou, J., Wu DO.,<br/>
 *[Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers](https://arxiv.org/abs/2307.04129).*,<br/>
-IEEE Int. Conf. Computer Vision (ICCV), 2023., [code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker).
+IEEE Int. Conf. Computer Vision (ICCV), 2023., [Code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker).
 - <a name="Nagaraj23icra"></a>Nagaraj, M., Liyanagedera, C.M., Roy, K.,<br/>
 *[DOTIE - Detecting Objects through Temporal Isolation of Events using a Spiking Architecture](https://ieeexplore.ieee.org/abstract/document/10161164).*,<br/>
 IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [Arxiv](https://arxiv.org/abs/2210.00975), [CVPR 2023 workshop](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_Live_Demonstration_Real-time_Event-based_Speed_Detection_using_Spiking_Neural_Networks.pdf), [Code](https://github.com/manishnagaraj/DOTIE).
@@ -595,10 +595,10 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [Dataset](https://www.cvl.
 IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2307.10593.pdf), [Video](https://www.youtube.com/watch?v=L_wJjhcToOU), [Project page](https://github.com/ziweiWWANG/AEB-Tracker).
 - <a name="Ikura24iros"></a>Ikura, M., Gentil, L. C., Müller, G. M., Schuler, F., Yamashita, A., Stürzl, W.,  
 *[RATE: Real-time Asynchronous Feature Tracking with Event Cameras](https://doi.org/10.1109/IROS58592.2024.10802050).*,  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [PDF](https://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/B/B320Final.pdf), [code](https://github.com/mikihiroikura/RATE).
+IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [PDF](https://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/B/B320Final.pdf), [Code](https://github.com/mikihiroikura/RATE).
 - <a name="Ikura25iccvw"></a>Ikura, M., Glover, A., Mizuno, M., Bartolozzi, C.,  
 *[Lattice-allocated Real-time Line Segment Feature Detection and Tracking Using Only an Event-based Camera](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/html/Ikura_Lattice-allocated_Real-time_Line_Segment_Feature_Detection_and_Tracking_Using_Only_ICCVW_2025_paper.html).*,  
-IEEE/CVF Int. Conf. Computer Vision (ICCV) Workshop on Neuromorphic Vision (NeVi), 2025. [PDF](https://arxiv.org/pdf/2510.06829), [code](https://github.com/event-driven-robotics/RT-EvLDT), [dataset](https://zenodo.org/records/17299174)
+IEEE/CVF Int. Conf. Computer Vision (ICCV) Workshop on Neuromorphic Vision (NeVi), 2025. [PDF](https://arxiv.org/pdf/2510.06829), [Code](https://github.com/event-driven-robotics/RT-EvLDT), [Dataset](https://zenodo.org/records/17299174)
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
@@ -1142,7 +1142,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2022. [Code](https://github.c
 *[EVA2: Event-Assisted Video Frame Interpolation via Cross-Modal Alignment and Aggregation](https://doi.org/10.1109/TCI.2022.3228747)*,  
 IEEE Trans. Comput. Imag. (TCI), 8:1145-1158, 2022.
 - <a name="Tulyakov22cvpr"></a>Tulyakov, S., Bochicchio, A., Gehrig, D., Georgoulis, S., Li, Y., Scaramuzza, D.,  
-*[Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion](http://dx.doi.org/10.1109/CVPR52688.2022.01723)*,  IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR22_Tulyakov.pdf), [dataset](https://github.com/uzh-rpg/timelens-pp/), [YouTube](https://youtu.be/bWJz_p8Y5Hc).  
+*[Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion](http://dx.doi.org/10.1109/CVPR52688.2022.01723)*,  IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR22_Tulyakov.pdf), [Dataset](https://github.com/uzh-rpg/timelens-pp/), [YouTube](https://youtu.be/bWJz_p8Y5Hc).  
 - <a name="Sun23cvpr"></a>Sun, L., Sakaridis, C., Liang, J., Sun, P., Cao, J., Zhang, K., Jiang, Q., Wang, K., Gool, L.,  
 *[Event-Based Frame Interpolation with Ad-hoc Deblurring](https://arxiv.org/abs/2301.05191)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [Code](https://github.com/AHupuJR/REFID), [Project page](https://ahupujr.github.io/REFID/)
@@ -1248,7 +1248,7 @@ IEEE Robotics and Automation Letters (RA-L) 2024. [PDF](https://arxiv.org/pdf/24
 ### Polarization Reconstruction
 - <a name="Mei23cvpr"></a>Mei, H., Wang, Z., Yang, X., Wei, X., Delbruck, T.,  
 *[Deep Polarization Reconstruction with PDAVIS Events](https://openaccess.thecvf.com/content/CVPR2023/html/Mei_Deep_Polarization_Reconstruction_With_PDAVIS_Events_CVPR_2023_paper.html)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Mei_Deep_Polarization_Reconstruction_With_PDAVIS_Events_CVPR_2023_paper.pdf), [code](https://github.com/SensorsINI/e2p).
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2023. [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Mei_Deep_Polarization_Reconstruction_With_PDAVIS_Events_CVPR_2023_paper.pdf), [Code](https://github.com/SensorsINI/e2p).
 - [Muglikar et al., CVPR 2023](#Muglikar23cvpr),  
 *Event-based Shape from Polarization*.
 
@@ -1913,7 +1913,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Code](https://github.com/addisonwang2013/evdistill).
 - <a name="Sun22eccv"></a>Sun, Z., Messikommer, N., Gehrig, D., Scaramuzza, D.,  
 *[ESS: Learning Event-based Semantic Segmentation from Still Images](http://dx.doi.org/10.1007/978-3-031-19830-4_20)*,  
-European Conf. Computer Vision (ECCV), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/ECCV22_Sun.pdf), [dataset](https://dsec.ifi.uzh.ch/dsec-semantic/), [YouTube](https://youtu.be/Tby5c9IDsDc), [code](https://github.com/uzh-rpg/ess).
+European Conf. Computer Vision (ECCV), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/ECCV22_Sun.pdf), [Dataset](https://dsec.ifi.uzh.ch/dsec-semantic/), [YouTube](https://youtu.be/Tby5c9IDsDc), [Code](https://github.com/uzh-rpg/ess).
 - [Guillen-Garcia et al., IEEE Access, 2022](#Guillen-Garcia22).
 *Unsupervised adaptive multi-object tracking-by-clustering algorithm with a bio-inspired system*.
 - <a name="Biswas23wacv"></a>Biswas, S.D., Kosta, A.,  Liyanagedera, C., Apolinario, M., Roy, K.,  
@@ -2221,7 +2221,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2022. [PDF
   arXiv, 2022.
 - <a name="Messikommer22ral"></a>Messikommer, N., Gehrig, D., Gehrig, M., Scaramuzza, D.,  
 *[Bridging the Gap between Events and Frames through Unsupervised Domain Adaptation](http://dx.doi.org/10.1109/LRA.2022.3145053)*,  
-IEEE Robotics and Automation Letters (RA-L), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/RAL22_Messikommer.pdf), [YouTube](https://youtu.be/fZnBSqni6PY), [code](https://github.com/uzh-rpg/rpg_ev-transfer).  
+IEEE Robotics and Automation Letters (RA-L), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/RAL22_Messikommer.pdf), [YouTube](https://youtu.be/fZnBSqni6PY), [Code](https://github.com/uzh-rpg/rpg_ev-transfer).  
 - <a name="Chen22tcyb"></a>Chen, G., Qu, S., Li, Z., Zhu, H., Dong, J., Liu, M., Conradt, J.,  
 *[Neuromorphic Vision-Based Fall Localization in Event Streams With Temporal–Spatial Attention Weighted Network](https://doi.org/10.1109/TCYB.2022.3164882)*,  
 IEEE Trans. Cybern., 52(9):9251-9262, 2022.
@@ -2438,7 +2438,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2020. [YouTube](https
 IEEE Trans. Image Process. (TIP), 30:4919-4931, 2021. [Dataset](https://github.com/SuppDoc/EventKD)
 - <a name="Schaefer22cvpr"></a>Schaefer, S., Gehrig, D., Scaramuzza, D.,  
 *[AEGNN: Asynchronous Event-based Graph Neural Networks](http://dx.doi.org/10.1109/CVPR52688.2022.01205)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR22_Schaefer.pdf), [YouTube](https://youtu.be/opbFE6OsAeA), [code](https://github.com/uzh-rpg/aegnn/).  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR22_Schaefer.pdf), [YouTube](https://youtu.be/opbFE6OsAeA), [Code](https://github.com/uzh-rpg/aegnn/).  
 - <a name="Gehrig22arxiv_graph"></a>Gehrig D., Scaramuzza D.,  
 *[Pushing the Limits of Asynchronous Graph-based Object Detection with Event Cameras](https://arxiv.org/abs/2211.12324)*,  
 arXiv, 2022.  
@@ -2451,9 +2451,9 @@ arXiv, 2023. [PDF](https://rpg.ifi.uzh.ch/docs/arxiv23_aydin.pdf).
 - <a name="Klenk24wacv"></a>Klenk, S., Bonello, D., Koestler, L., Araslanov, N., Cremers, D.,  
 *[Masked Event Modeling: Self-Supervised Pretraining for Event Cameras](https://www.doi.org/10.1109/LRA.2023.3240646)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2024. [PDF](https://arxiv.org/pdf/2212.10368), [Code](https://github.com/tum-vision/mem).
-- <a name="Mohammadi25ICCV"></a>Mohammadi, M., Wu, Z., Gilitschenski, I.,  
-*[TESPEC: Temporally-Enhanced Self-Supervised Pretarining for Event Cameras](https://arxiv.org/abs/2508.00913)*,  
-IEEE Int. Conf. Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/abs/2508.00913), [Project Page](https://mhdmohammadi.github.io/TESPEC_webpage/), [Code](https://github.com/MhdMohammadi/TESPEC).
+- <a name="Mohammadi25iccv"></a>Mohammadi, M., Wu, Z., Gilitschenski, I.,  
+*[TESPEC: Temporally-Enhanced Self-Supervised Pretraining for Event Cameras](https://openaccess.thecvf.com/content/ICCV2025/html/Mohammadi_TESPEC_Temporally-Enhanced_Self-Supervised_Pretraining_for_Event_Cameras_ICCV_2025_paper.html)*,  
+IEEE Int. Conf. Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2508.00913), [Project Page](https://mhdmohammadi.github.io/TESPEC_webpage/), [Code](https://github.com/MhdMohammadi/TESPEC).
 
 
 <a name="signal_processing"></a>
@@ -2695,13 +2695,13 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021. [PDF](https://a
 IEEE Robotics and Automation Letters (RA-L), 2022. [PDF](https://zenodo.org/record/5924071#.YyyGC9JBxhE), [YouTube](https://www.youtube.com/watch?v=cBMcw5jRnfU&list=PL-Kzs2T7Hx3K-IDKsgUwPUnzHmk8Pcsek&index=5).
 - <a name="Forrai23icra"></a>Forrai, B., Miki, T., Gehrig, D., Hutter, M., Scaramuzza, D.,  
 *[Event-based Agile Object Catching with a Quadrupedal Robot](https://arxiv.org/abs/2303.17479)*,  
-IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/ICRA23_Forrai.pdf), [YouTube](https://youtu.be/FpsVB8EO54M), [code](https://github.com/uzh-rpg/event-based_object_catching_anymal/).  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [PDF](https://rpg.ifi.uzh.ch/docs/ICRA23_Forrai.pdf), [YouTube](https://youtu.be/FpsVB8EO54M), [Code](https://github.com/uzh-rpg/event-based_object_catching_anymal/).  
 - <a name="Monforte23cvpr"></a>Monforte M, Gava L, Iacono M, Glover A, Bartolozzi C   
 *[Fast trajectory end-point prediction with event cameras for reactive robot control](https://doi.org/10.1109/CVPRW59228.2023.00422)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [Code](https://github.com/event-driven-robotics/LSTM-trajectory-forecasting)
 - <a name="Bhattacharya24corl"></a>Bhattacharya A., Cannici M., Rao N., Tao Y., Kumar V., Matni N., Scaramuzza D.,  
 *[Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor](https://openreview.net/pdf?id=82bpTugrMt)*,  
-Conf. on Robot Learning (CoRL), 2024. [PDF](https://arxiv.org/pdf/2411.03303), [project](https://www.anishbhattacharya.com/research/evfly), [YouTube](https://www.youtube.com/watch?v=NI513KE9DYo), [code](https://github.com/anish-bhattacharya/evfly).
+Conf. on Robot Learning (CoRL), 2024. [PDF](https://arxiv.org/pdf/2411.03303), [project](https://www.anishbhattacharya.com/research/evfly), [YouTube](https://www.youtube.com/watch?v=NI513KE9DYo), [Code](https://github.com/anish-bhattacharya/evfly).
 - <a name="Eva25cvpr"></a>Bonazzi P., Vogt C., Jost M., Khacef L., Paredes-Valles F., Magno M.,  
 *[Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone](https://arxiv.org/pdf/2504.10400)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [Code](https://github.com/pbonazzi/eva) [Dataset](https://zenodo.org/records/14711527)
@@ -3060,7 +3060,7 @@ ACM Int. Conf. on Multimedia (MM), 2021. [PDF](https://cvteam.buaa.edu.cn/papers
   European Conf. Computer Vision (ECCV), 2022, [PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571.pdf), [Suppl.](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571-supp.pdf), [Code](https://github.com/Lynn0306/DVS-Voltmeter).
 - <a name="Gava22ebccsp"></a>Gava L, Monforte M, Bartolozzi C, Glover A   
 *[How late is too late? a preliminary event-based latency evaluation](https://doi.org/10.1109/EBCCSP56922.2022.9845622)*,  
-8th International Conference on Event-Based Control, Communication, and Signal Processing (EBCCSP), 2022. [code](https://github.com/lunagava/study-air-hockey/tree/vel_control)
+8th International Conference on Event-Based Control, Communication, and Signal Processing (EBCCSP), 2022. [Code](https://github.com/lunagava/study-air-hockey/tree/vel_control)
 - <a name="Zhang24icra"></a>Zhang, Z., Cui, S., Chai, K., Yu, H., Dasgupta, S., Mahbub, U., Rahman, T.,   
 [V2CE: Video to Continuous Events Simulator](https://arxiv.org/abs/2309.08891)   
   IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [Code](https://github.com/ucsd-hdsi-dvs/V2CE-Toolbox).
@@ -3076,7 +3076,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024. [PDF](https://cvteam.bu
   IEEE Neuro Inspired Computational Elements Conference (NICE) (pp. 1-10), 2024. [PDF](https://arxiv.org/pdf/2406.03439).
 - <a name="Bhattacharya24wacv"></a>Bhattacharya A., Madaan R., Cladera F., Vemprala S., Bonatti R., Daniilidis K., Kapoor A., Kumar V., Matni N., Gupta J.,  
 *[EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields](https://openaccess.thecvf.com/content/WACV2024/papers/Bhattacharya_EvDNeRF_Reconstructing_Event_Data_With_Dynamic_Neural_Radiance_Fields_WACV_2024_paper.pdf)*,  
-IEEE Winter Conf. Applications of Computer Vision (WACV), 2024. [PDF](https://arxiv.org/pdf/2310.02437), [project](https://www.anishbhattacharya.com/research/evdnerf), [code](https://github.com/anish-bhattacharya/EvDNeRF).
+IEEE Winter Conf. Applications of Computer Vision (WACV), 2024. [PDF](https://arxiv.org/pdf/2310.02437), [project](https://www.anishbhattacharya.com/research/evdnerf), [Code](https://github.com/anish-bhattacharya/EvDNeRF).
 
 <a name="datasets"></a>
 # Datasets (sorted by topic)
