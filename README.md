@@ -89,6 +89,8 @@
       - [Distraction](#distraction_detecton)
     - [Face Alignment and Landmark Detection](#face-alignment-landmarking)
     - [Visual Voice Activity Detection](#voice-activity-detection)
+    - [Event-Based Image Velocimetry (EBIV)](#event-based-image-velocimetry)
+      
 
 - [Simulators and Emulators](#simulators-emulators)
 - [Synthetic Data Generators](#synthetic-data-generators)
@@ -3018,6 +3020,12 @@ IEEE Int. Conf. on Automatic Face and Gesture Recognition (FG), 2018.
 - <a name="Savran23asyu"></a>Savran, A.,  
 *[Fully convolutional event-camera voice activity detection based on event intensity'](https://doi.org/10.1109/ASYU58738.2023.10296754)*,  
 IEEE Innovations Intell. Syst. Appl. Conf. (ASYU), 2023.
+
+<a name="event-based-image-velocimetry"></a>
+## Event-Based Image Velocimetry (EBIV)
+- <a name="Maya25expfluids"></a>Maya, L., Fan, L., Durocher, A., Savard, B., Vena, P.,  
+*[An evaluation of event‑based cameras for particle image velocimetry](https://doi.org/10.1007/s00348-025-04127-5)*,  
+Experiments in Fluids, vol. 66, no. 204, 2025.
 
 <a name="simulators-emulators"></a>
 # Simulators and Emulators
