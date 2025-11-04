@@ -601,7 +601,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [PDF](https://w
 IEEE/CVF Int. Conf. Computer Vision (ICCV) Workshop on Neuromorphic Vision (NeVi), 2025. [PDF](https://arxiv.org/pdf/2510.06829), [Code](https://github.com/event-driven-robotics/RT-EvLDT), [Dataset](https://zenodo.org/records/17299174)
 - <a name="Burkhardt25iccv"></a>Burkhardt, Y., Schaefer, S., Leutenegger, S.  
 *[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](https://openaccess.thecvf.com/content/ICCV2025/html/Burkhardt_SuperEvent_Cross-Modal_Learning_of_Event-based_Keypoint_Detection_for_SLAM_ICCV_2025_paper.html).*,  
-IEEE/CVF Int. Conf. Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2504.00139), [YouTube](https://youtu.be/YWBr8oChfDE?si=DnR1gnQ-MSbFl7Ru), [Code](https://github.com/ethz-mrl/SuperEvent), [Project page](https://ethz-mrl.github.io/SuperEvent/)  
+IEEE/CVF Int. Conf. Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2504.00139), [YouTube](https://youtu.be/YWBr8oChfDE?si=DnR1gnQ-MSbFl7Ru), [Code](https://github.com/ethz-mrl/SuperEvent), [Project page](https://ethz-mrl.github.io/SuperEvent/)
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
