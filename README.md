@@ -1,5 +1,6 @@
 # Event-based Vision Resources
 
+## <a href="https://ieee-cas.org/files/ieeecass/2025-08/JETCAS_CFP_2026Q3.pdf"> Neuromorphic Computing and Sensing Meets Extended Reality — IEEE JETCAS Special Issue "Circuits and Systems for Extended Reality" Call for Papers. </a> Paper submission until March 2nd 2026.
 ## <a href="https://edpr.iit.it/events/2026-evs"> EVS: Event Vision School 2026.</a> May 17-23th, Arenzano (Italy). $\color{red}{\textbf{Apply now!}}$
 ## <a href="https://eventbasedvision.github.io/EVGEN2026/"> WACV 2026 EVGEN: Event-based Vision in the Era of Generative AI.</a> March 2026, Tucosn (USA). Paper submission until Dec 7th 2025.
 ## <a href="https://spie.org/photonics-west/event/vision-tech-event-based-session-neuromorphic-sensing-in-motion-from-event-based-vision-to-adaptive-intelligence/7101335"> SPIE Photonics West. Vision Tech Forum. Neuromorphic Sensing in Motion: From Event-Based Vision to Adaptive Intelligence,</a> Jan. 21, 2026 
