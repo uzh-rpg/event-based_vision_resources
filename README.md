@@ -1,5 +1,6 @@
 # Event-based Vision Resources
 
+## <a href="https://ieee-cas.org/files/ieeecass/2025-08/JETCAS_CFP_2026Q3.pdf"> Neuromorphic Computing and Sensing Meets Extended Reality — IEEE JETCAS Special Issue "Circuits and Systems for Extended Reality" Call for Papers. </a> Paper submission until March 2nd 2026.
 ## <a href="https://edpr.iit.it/events/2026-evs"> EVS: Event Vision School 2026.</a> May 17-23th, Arenzano (Italy). $\color{red}{\textbf{Apply now!}}$
 ## <a href="https://eventbasedvision.github.io/EVGEN2026/"> WACV 2026 EVGEN: Event-based Vision in the Era of Generative AI.</a> March 2026, Tucosn (USA). Paper submission until Dec 7th 2025.
 ## <a href="https://spie.org/photonics-west/event/vision-tech-event-based-session-neuromorphic-sensing-in-motion-from-event-based-vision-to-adaptive-intelligence/7101335"> SPIE Photonics West. Vision Tech Forum. Neuromorphic Sensing in Motion: From Event-Based Vision to Adaptive Intelligence,</a> Jan. 21, 2026 
@@ -601,6 +602,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [PDF](https://w
 - <a name="Ikura25iccvw"></a>Ikura, M., Glover, A., Mizuno, M., Bartolozzi, C.,  
 *[Lattice-allocated Real-time Line Segment Feature Detection and Tracking Using Only an Event-based Camera](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/html/Ikura_Lattice-allocated_Real-time_Line_Segment_Feature_Detection_and_Tracking_Using_Only_ICCVW_2025_paper.html).*,  
 IEEE/CVF Int. Conf. Computer Vision (ICCV) Workshop on Neuromorphic Vision (NeVi), 2025. [PDF](https://arxiv.org/pdf/2510.06829), [Code](https://github.com/event-driven-robotics/RT-EvLDT), [Dataset](https://zenodo.org/records/17299174)
+- <a name="Burkhardt25iccv"></a>Burkhardt, Y., Schaefer, S., Leutenegger, S.  
+*[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](https://openaccess.thecvf.com/content/ICCV2025/html/Burkhardt_SuperEvent_Cross-Modal_Learning_of_Event-based_Keypoint_Detection_for_SLAM_ICCV_2025_paper.html).*,  
+IEEE/CVF Int. Conf. Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2504.00139), [YouTube](https://youtu.be/YWBr8oChfDE?si=DnR1gnQ-MSbFl7Ru), [Code](https://github.com/ethz-mrl/SuperEvent), [Project page](https://ethz-mrl.github.io/SuperEvent/)
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
@@ -1721,6 +1725,8 @@ Science Robotics, 10(103) eads3968, 2025. [PDF](https://adamdhines.github.io/sta
 - <a name="Su25iccv"></a>Su, H., Feng, Y., Gehrig, D., Jiang, P., Gao, L., Lagorce, X., Kneip, L.,  
 *[A linear n-point solver for structure and motion from asynchronous tracks](https://openaccess.thecvf.com/content/ICCV2025/papers/Su_A_Linear_N-Point_Solver_for_Structure_and_Motion_from_Asynchronous_ICCV_2025_paper.pdf)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2507.22733), [Code](https://github.com/suhang99/AsyncTrack-Motion-Solver), [Video](https://www.youtube.com/watch?v=c3IQgIaVTFQ), [Poster](https://iccv.thecvf.com/media/PosterPDFs/ICCV%202025/222.png)
+- [Burkhardt et al., ICCV 2025](#Burkhardt25iccv),  
+*SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM*.
 
 <a name="visual-servoing"></a>
 ### Visual Servoing
