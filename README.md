@@ -84,13 +84,13 @@
       - [Wavefront sensing](#wavefront_sensing)
       - [Optical super-resolution](#super_resolution_imaging)
       - [Schlieren imaging](#schlieren_imaging)
+      - [Event-Based Image Velocimetry (EBIV)](#event-based-image-velocimetry)
     - [Driver Monitoring System](#driver_monitoring_system)
       - [Multi-tasking networks: Face, Head Pose & Eye Gaze estimation](#DMS)
       - [Drowsiness or Yawn](#Drwosiness_or_yawn)
       - [Distraction](#distraction_detecton)
     - [Face Alignment and Landmark Detection](#face-alignment-landmarking)
     - [Visual Voice Activity Detection](#voice-activity-detection)
-    - [Event-Based Image Velocimetry (EBIV)](#event-based-image-velocimetry)
       
 
 - [Simulators and Emulators](#simulators-emulators)
@@ -2977,6 +2977,12 @@ Nat. Nanotechnol., 2023.
 *[Event-based Background-Oriented Schlieren](https://doi.org/10.1109/TPAMI.2023.3328188)*,  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Project page](https://github.com/tub-rip/event_based_bos), [Video](https://youtu.be/Ev52n8KgxIU), [PDF](https://arxiv.org/pdf/2311.00434)
 
+<a name="event-based-image-velocimetry"></a>
+### Event-Based Image Velocimetry (EBIV)
+- <a name="Maya25expfluids"></a>Maya, L., Fan, L., Durocher, A., Savard, B., Vena, P.,  
+*[An evaluation of event‑based cameras for particle image velocimetry](https://doi.org/10.1007/s00348-025-04127-5)*,  
+Experiments in Fluids, vol. 66, no. 204, 2025.
+
 <a name="driver_monitoring_system"></a>
 ## Driver and Safety Monitoring Systems
 <a name="DMS"></a>
@@ -3026,12 +3032,6 @@ IEEE Int. Conf. on Automatic Face and Gesture Recognition (FG), 2018.
 - <a name="Savran23asyu"></a>Savran, A.,  
 *[Fully convolutional event-camera voice activity detection based on event intensity'](https://doi.org/10.1109/ASYU58738.2023.10296754)*,  
 IEEE Innovations Intell. Syst. Appl. Conf. (ASYU), 2023.
-
-<a name="event-based-image-velocimetry"></a>
-## Event-Based Image Velocimetry (EBIV)
-- <a name="Maya25expfluids"></a>Maya, L., Fan, L., Durocher, A., Savard, B., Vena, P.,  
-*[An evaluation of event‑based cameras for particle image velocimetry](https://doi.org/10.1007/s00348-025-04127-5)*,  
-Experiments in Fluids, vol. 66, no. 204, 2025.
 
 <a name="simulators-emulators"></a>
 # Simulators and Emulators
