@@ -129,7 +129,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
 - [EVS 2026: Event Vision School 2026](https://edpr.iit.it/events/2026-evs)
 - [Innovative Neuromorphic Vision Sensors (INVISIONS) workshop, 2026](https://joint-research-centre.ec.europa.eu/events/innovative-neuromorphic-vision-sensors-invisions-workshop-2026-02-05_ent)
 - [WACV 2026 EVGEN: 2nd Worksgop on Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation](https://eventbasedvision.github.io/EVGEN2026/)
-- [SPIE Photonics West. Vision Tech Forum. Neuromorphic Sensing in Motion: From Event-Based Vision to Adaptive Intelligence](https://spie.org/photonics-west/event/vision-tech-event-based-session-neuromorphic-sensing-in-motion-from-event-based-vision-to-adaptive-intelligence/7101335). 
+- [SPIE Photonics West. Vision Tech Forum. Neuromorphic Sensing in Motiofn: From Event-Based Vision to Adaptive Intelligence](https://spie.org/photonics-west/event/vision-tech-event-based-session-neuromorphic-sensing-in-motion-from-event-based-vision-to-adaptive-intelligence/7101335). 
 - [IROS 2025 Workshop on Event-Based Vision. And Stereo SLAM Challenge](https://eventvision-robotics.github.io/iros_workshop/)
 - [IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots 2025)](https://sites.google.com/view/neurobots2025)
 - [ICCV 2025 2nd Workshop on Neuromorphic Vision (NeVi)](https://sites.google.com/view/nevi-2025/)
@@ -604,8 +604,8 @@ IEEE Trans. Robot. (TRO), 2024. [PDF](https://arxiv.org/pdf/2307.10593.pdf), [Vi
 *[RATE: Real-time Asynchronous Feature Tracking with Event Cameras](https://doi.org/10.1109/IROS58592.2024.10802050).*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [PDF](https://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/B/B320Final.pdf), [Code](https://github.com/mikihiroikura/RATE).
 - <a name="Henry24icip"></a>Henry, C., Maharjan, P., Li, Z., York, G.  
-*[E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery From Events](https://ieeexplore.ieee.org/document/10647465/).*,  
-IEEE Int. Conf. Image Processing (ICIP), 2024. [PDF](https://ieeexplore.ieee.org/document/10647465/), [Code](https://github.com/engrchrishenry/E2SIFT.git)
+*[E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery From Events](https://doi.org/10.1109/ICIP51287.2024.10647465).*,  
+IEEE Int. Conf. Image Processing (ICIP), 2024. [Code](https://github.com/engrchrishenry/E2SIFT.git)
 - <a name="Ikura25iccvw"></a>Ikura, M., Glover, A., Mizuno, M., Bartolozzi, C.,  
 *[Lattice-allocated Real-time Line Segment Feature Detection and Tracking Using Only an Event-based Camera](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/html/Ikura_Lattice-allocated_Real-time_Line_Segment_Feature_Detection_and_Tracking_Using_Only_ICCVW_2025_paper.html).*,  
 IEEE/CVF Int. Conf. Computer Vision (ICCV) Workshop on Neuromorphic Vision (NeVi), 2025. [PDF](https://arxiv.org/pdf/2510.06829), [Code](https://github.com/event-driven-robotics/RT-EvLDT), [Dataset](https://zenodo.org/records/17299174)
