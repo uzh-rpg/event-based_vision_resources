@@ -129,7 +129,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
 - [EVS 2026: Event Vision School 2026](https://edpr.iit.it/events/2026-evs)
 - [Innovative Neuromorphic Vision Sensors (INVISIONS) workshop, 2026](https://joint-research-centre.ec.europa.eu/events/innovative-neuromorphic-vision-sensors-invisions-workshop-2026-02-05_ent)
 - [WACV 2026 EVGEN: 2nd Worksgop on Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation](https://eventbasedvision.github.io/EVGEN2026/)
-- [SPIE Photonics West. Vision Tech Forum. Neuromorphic Sensing in Motiofn: From Event-Based Vision to Adaptive Intelligence](https://spie.org/photonics-west/event/vision-tech-event-based-session-neuromorphic-sensing-in-motion-from-event-based-vision-to-adaptive-intelligence/7101335). 
+- [SPIE Photonics West. Vision Tech Forum. Neuromorphic Sensing in Motion: From Event-Based Vision to Adaptive Intelligence](https://spie.org/photonics-west/event/vision-tech-event-based-session-neuromorphic-sensing-in-motion-from-event-based-vision-to-adaptive-intelligence/7101335). 
 - [IROS 2025 Workshop on Event-Based Vision. And Stereo SLAM Challenge](https://eventvision-robotics.github.io/iros_workshop/)
 - [IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots 2025)](https://sites.google.com/view/neurobots2025)
 - [ICCV 2025 2nd Workshop on Neuromorphic Vision (NeVi)](https://sites.google.com/view/nevi-2025/)
