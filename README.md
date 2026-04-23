@@ -2253,8 +2253,8 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [Dataset](https://githu
 *[Classification of primitive manufacturing tasks from filtered event data](https://doi.org/10.1016/j.jmsy.2023.03.001)*,  
 Journal of Manufacturing Systems, 2023. [Dataset](https://doi.org/10.5281/zenodo.7625961)
 - <a name="Rizzo23icons"></a>Rizzo, C., McCombs, L., Haynie, B., Schuman, C., Plank, J. S.  
-*[DVSGesture Recognition with Neuromorphic Observation Space Reduction Techniques](https://dl.acm.org/doi/10.1145/3589737.3605999)*,  
-ACM International Conference on Neuromorphic Systems (ICONS) (pp. 1-5), 2023.
+*[DVSGesture Recognition with Neuromorphic Observation Space Reduction Techniques](https://doi.org/10.1145/3589737.3605999)*,  
+ACM Int. Conf. on Neuromorphic Systems (ICONS) (pp. 1-5), 2023.
 - <a name="Gao24tpami"></a>Gao, Y., Lu, J., Li, S., Li, Y., Du, S.,  
 [Hypergraph-Based Multi-View Action Recognition Using Event Cameras](https://ieeexplore.ieee.org/abstract/document/10480584),  
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024. [Dataset](https://github.com/lujiaxuan0520/THU-MV-EACT-50)
@@ -2592,7 +2592,7 @@ Design, Automation & Test in Europe Conference (DATE), 2025.
 *[Spatial and Temporal Downsampling in Event-Based Visual Classification](https://doi.org/10.1109/TNNLS.2017.2785272)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 29(10):5030-5044, Oct. 2018.
 - <a name="Rizzo23nice"></a>Rizzo, C. P., Schuman, C. D., Plank, J. S.,   
-*[Neuromorphic Downsampling of Event-Based Camera Output](https://dl.acm.org/doi/abs/10.1145/3584954.3584962)*,  
+*[Neuromorphic Downsampling of Event-Based Camera Output](https://doi.org/10.1145/3584954.3584962)*,  
 ACM Neuro-Inspired Computational Elements (NICE) (pp. 26-34), 2023.
 - <a name="Hesam25cvprw"></a>Hesam, A., van Gemert, J., Tomen, N.,  
 *[Making Every Event Count: Balancing Data Efficiency and Accuracy in Event Camera Subsampling](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/papers/Araghi_Making_Every_Event_Count_Balancing_Data_Efficiency_and_Accuracy_in_CVPRW_2025_paper.pdf)*,  
@@ -2689,7 +2689,7 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [Video](https:/
 *[Demonstration of Real-Time Event Camera to Collaborative Robot Communication](https://doi.org/10.1007/978-3-031-64553-2_41)*,  
 Advances in Italian Mechanism Science, IFToMM. Mechanisms and Machine Science, vol 163, pp. 351-358, 2024.
 - <a name="Rizzo25nce"></a>Rizzo, C. P., Gullett, B., Crumley, A., Marcum, M., Hyman, M., Earheart-Brown, C., Steed, J., Standeart, F., Schuman, C. D., Plank, J. S.,  
-*[NeuroPong: The event-based camera driven embedded neuromorphic system](http://iopscience.iop.org/article/10.1088/2634-4386/add0db)*,  
+*[NeuroPong: The event-based camera driven embedded neuromorphic system](https://doi.org/10.1088/2634-4386/add0db)*,  
 Neuromorphic Computing and Engineering. vol 5, pp. 024012, 2025.
 
 ## Obstacle Avoidance
@@ -3109,8 +3109,8 @@ Arxiv, [PDF](https://arxiv.org/pdf/2511.18037).
 <a name="synthetic-data-generators"></a>
 # Synthetic Data Generators
 - <a name="Rizzo22icons"></a>Rizzo, C. P., Schuman, C. D., Plank, J. S.,   
-  *[Event-Based Camera Simulation Wrapper for Arcade Learning Environment](https://dl.acm.org/doi/10.1145/3546790.3546817)*,    
-  ACM International Conference on Neuromorphic Systems (ICONS) (pp. 1-5), 2022.
+  *[Event-Based Camera Simulation Wrapper for Arcade Learning Environment](https://doi.org/10.1145/3546790.3546817)*,    
+  ACM Int. Conf. on Neuromorphic Systems (ICONS) (pp. 1-5), 2022.
 - <a name="ott24nice"></a>Ott, J., Wang, Z. and Liu, S.C.,   
   *[Text-to-Events: Synthetic Event Camera Streams from Conditional Text Input](https://doi.org/10.1109/NICE61972.2024.10549580)*,    
   IEEE Neuro Inspired Computational Elements Conference (NICE) (pp. 1-10), 2024. [PDF](https://arxiv.org/pdf/2406.03439).
@@ -3645,7 +3645,7 @@ Ph.D. Thesis, University of Michigan-Dearborn, USA, 2024. [PDF](https://deepblue
 *[Rethinking Video with a Universal Event-Based Representation](https://doi.org/10.17615/5bsv-bz25)*,    
 Ph.D. Thesis, University of North Carolina, Chapel Hill, North Carolina, USA, 2024. [PDF](https://arxiv.org/pdf/2408.06248)
 - <a name="Rizzo24Phd"></a>Rizzo, C. P.,  
-*[Exploration of Event-Based Camera Data with Spiking Neural Networks](https://trace.tennessee.edu/entities/publication/ae814737-6d4a-4641-81ba-23c9cf50a1f7)*,    
+*[Exploration of Event-Based Camera Data with Spiking Neural Networks](https://trace.tennessee.edu/handle/20.500.14382/18234)*,    
 Ph.D. Thesis, University of Tennessee, Knoxville, Tennessee, USA, 2024.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
 
