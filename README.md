@@ -2133,7 +2133,13 @@ ACM Int. Conf. on Neuromorphic Systems (ICONS), 2022.
 Neurocomputing, 2024. [PDF](https://www.eee.hku.hk/optima/pub/journal/2401_NC.pdf), [Code](https://github.com/pz-even/event_graph_learning)
 - <a name="Zubic24cvpr"></a>Zubić, N., Gehrig, M., Scaramuzza, D.,  
 *[State Space Models for Event Cameras](https://arxiv.org/abs/2402.15584)*,  
- IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR2024_Zubic.pdf), [Code](https://github.com/uzh-rpg/ssms_event_cameras).
+ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [PDF](https://rpg.ifi.uzh.ch/docs/CVPR2024_Zubic.pdf), [Code](https://github.com/uzh-rpg/ssms_event_cameras)
+- <a name="Fradi25IRC"></a>Fradi, H., Papadakis, P.,  
+*[Advancing Object Detection for Autonomous Vehicles via General Purpose Event-RGB Fusion](https://doi.org/10.1109/IRC63610.2024.00033)*,  
+ IEEE Int. Conf. on Robotic Computing (IRC), 2024. [PDF](https://imt-atlantique.hal.science/hal-04746439v2/file/Fradi-IRC-2024-final.pdf).
+- <a name="Amessegher25ssrr"></a>Amessegher, I., Gaudard, A., Anyinam-Boateng, K. N., Le Blevec, H., Génevé, L., Pouthier, F., Léonardon, M., Fradi, H., Bergantin, L., Papadakis, P., Fantoni, I., Diguet, J.P, Arzel, M.,  
+*[Towards Low-Latency Object Detection on Board Reactive Search-and-Rescue Drones](https://doi.org/10.1109/SSRR68451.2025.11391298)*,  
+ IEEE Int. Symp. on Safety Security Rescue Robotics (SSRR), 2025. [PDF](https://imt-atlantique.hal.science/hal-05280264v1/file/SSRR25_0004_FI.pdf).
 
 <a name="gesture-recognition"></a>
 ### Gesture Recognition
@@ -2691,6 +2697,9 @@ Advances in Italian Mechanism Science, IFToMM. Mechanisms and Machine Science, v
 - <a name="Rizzo25nce"></a>Rizzo, C. P., Gullett, B., Crumley, A., Marcum, M., Hyman, M., Earheart-Brown, C., Steed, J., Standeart, F., Schuman, C. D., Plank, J. S.,  
 *[NeuroPong: The event-based camera driven embedded neuromorphic system](https://doi.org/10.1088/2634-4386/add0db)*,  
 Neuromorphic Computing and Engineering. vol 5, pp. 024012, 2025.
+- <a name="Souissi25ACMM"></a>Souissi, A., Fradi, H., Papadakis, P.,  
+*[Towards Event-Driven, End-to-End UAV Tracking Using Deep Reinforcement Learning](https://doi.org/10.1145/3728482.3757384)*,  
+UAVM '25: Proceedings of the 3rd International Workshop on UAVs in Multimedia: Capturing the World from a New Perspective, 2025.
 
 ## Obstacle Avoidance
 - <a name="Clady14fnins"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
