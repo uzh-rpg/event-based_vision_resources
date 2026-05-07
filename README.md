@@ -690,7 +690,10 @@ J. Microscopy (2011), 245(3):236-244.
 ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http://www.ifd.mavt.ethz.ch/research/group-roesgen/dynamic-vision-sensors.html), [Poster](http://www.ifd.mavt.ethz.ch/content/dam/ethz/special-interest/mavt/fluid-dynamics/ifd-dam/research/documents/posters/experimental-methods/daniel_borer_dynamic_vision_sensor.pdf)
 - <a name="Wang20eccv"></a>Wang, Y., Idoughi, R., Heidrich, W.,  
 *[Stereo Event-based Particle Tracking Velocimetry for 3D Fluid Flow Reconstruction](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740035.pdf)*,  
-European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740035-supp.zip)
+European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740035-supp.zip)  
+- <a name="Kolling26mmsys"></a>Kolling P., Freeman A., and Rizk A.,  
+*[Remote Particle Trajectory Tracking using Event-Based Vision Streams](https://doi.org/10.1145/3793853.3795751)*,  
+ACM Multimedia Systems (MMSys), 2026.
 
 
 <a name="eye_tracking"></a>
