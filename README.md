@@ -691,9 +691,9 @@ ISFV16 - 16th Int. Symp. Flow Visualization, Okinawa 2014. [Project page](http:/
 - <a name="Wang20eccv"></a>Wang, Y., Idoughi, R., Heidrich, W.,  
 *[Stereo Event-based Particle Tracking Velocimetry for 3D Fluid Flow Reconstruction](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740035.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740035-supp.zip)  
-- <a name="Kolling26mmsys"></a>Kolling, Freeman, and Rizk,  
+- <a name="Kolling26mmsys"></a>Kolling P., Freeman A., and Rizk A.,  
 *[Remote Particle Trajectory Tracking using Event-Based Vision Streams](https://doi.org/10.1145/3793853.3795751)*,  
-ACM MMSys, 2026.
+ACM Multimedia Systems (MMSys), 2026.
 
 
 <a name="eye_tracking"></a>
