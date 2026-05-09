@@ -3168,6 +3168,9 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 
 ## Obstacle Avoidance 
 - [Bonazzi et al., CVPRW 2025](#Eva25cvpr), *Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone*.
+- <a name="Sun25ral"></a>Sun, K., Li, J., Dai, K., Liao, B., Xiong, W., Zhou, Y.,  
+*[EvTTC: An Event Camera Dataset for Time-to-Collision Estimation](https://doi.org/10.1109/LRA.2025.3565379)*,  
+IEEE Robotics and Automation Letters (RA-L), 10(6):6191-6198, 2025. [PDF](https://arxiv.org/pdf/2412.05053), [Project page and Dataset](https://nail-hnu.github.io/EvTTC/).
 
 ## Monocular Object Reconstruction
 - [Chen et al., ICVR 2023](#Chen23icvr), *Dense Voxel 3D Reconstruction Using a Monocular Event Camera*.
