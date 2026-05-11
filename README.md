@@ -2832,6 +2832,9 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023
 - <a name="Glover24icra"></a>Glover A, Gava L, Li Z, Bartolozzi C   
 *[EDOPT: Event-camera 6-DoF Dynamic Object Pose Tracking](https://doi.org/10.1109/ICRA57147.2024.10611511)*,  
 IEEE International Conference on Robotics and Automation (ICRA), 2024. [Code](https://github.com/event-driven-robotics/EDOPT)
+- <a name="Kang26ral"></a>Kang Y, Ishikawa R, Caron G, Oishi T   
+*[Event-Based 6-DoF Object Tracking With Distance Field Reaching 130Hz](https://doi.org/10.1109/LRA.2026.3674009)*,  
+IEEE Robotics and Automation Letters (RA-L), 2026. [[PDF](https://www.cvl.iis.u-tokyo.ac.jp/~kyf/EDFT/camera-ready.pdf)] [[Project](https://bluecatli.github.io/EDFT_page/)]
 
 <a name="human_pose_estimation"></a>
 ### Human Pose Estimation
