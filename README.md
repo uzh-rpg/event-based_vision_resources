@@ -3175,6 +3175,11 @@ IEEE Robotics and Automation Letters (RA-L), 10(6):6191-6198, 2025. [PDF](https:
 ## Monocular Object Reconstruction
 - [Chen et al., ICVR 2023](#Chen23icvr), *Dense Voxel 3D Reconstruction Using a Monocular Event Camera*.
 
+## 3D Object Detection
+- <a name="Li26tro"></a>Li, J., Li, S., Lian, Q., Li, P., Chen, X., Zhou, Y.,  
+*[Toward Deep Representation Learning for Event-Enhanced Visual Autonomous Perception: The eAP Dataset](https://doi.org/10.1109/TRO.2026.3677912)*,  
+IEEE Trans. Robot. (TRO), 42:1643-1661, 2026. [Project page](https://nail-hnu.github.io/eAP_dataset/), [Dataset](https://nail-hnu.github.io/eAP_dataset/#downloads), [YouTube](https://www.youtube.com/watch?v=6nuFrPViD3U&t=6s).
+
 ## Optical Flow
 - [DVS/DAVIS Optical Flow Dataset](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) associated to the paper [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
 - [Bardow et al., CVPR2016](#Bardow16cvpr), [Four sequences](http://wp.doc.ic.ac.uk/pb2114/datasets/)
