@@ -2595,6 +2595,12 @@ Sensors, 2022.
 - <a name="Zhao24date"></a>Zhao, Q., Ji, Y., Wang, J., Wu, J., Shi, G.,  
 *[Simultaneous Denoising and Compression for DVS with Partitioned Cache-Like Spatiotemporal Filter](https://doi.org/10.23919/DATE64628.2025.10992696)*,  
 Design, Automation & Test in Europe Conference (DATE), 2025.
+- <a name="Selleem_etal2025"></a>Seleem, A., Guarda, A. F. R., Rodrigues, N. M. M., Pereira, F.,  
+*[A Double Deep Learning-Based Solution for Efficient Event Data Coding and Classification](http://dx.doi.org/10.1109/ACCESS.2025.3551073)*,  
+IEEE Access, vol. 13, pp. 48703-48719, Mar. 2025.
+- <a name="Selleem_etal2026"></a>Seleem, A., Guarda, A. F. R., Rodrigues, N. M. M., Pereira, F.,  
+*[Deep Learning-Based Event Data Coding: A Joint Spatiotemporal and Polarity Solution](http://dx.doi.org/10.1109/OJSP.2026.3656104)*,  
+IEEE Open Journal of Signal Processing, vol. 7, pp. 222-237, 2026.
 
 <a name="downsampling"></a>
 ### Event Downsampling
@@ -3672,7 +3678,9 @@ Ph.D. Thesis, University of North Carolina, Chapel Hill, North Carolina, USA, 20
 *[Exploration of Event-Based Camera Data with Spiking Neural Networks](https://trace.tennessee.edu/handle/20.500.14382/18234)*,    
 Ph.D. Thesis, University of Tennessee, Knoxville, Tennessee, USA, 2024.
 - See also [Theses from Delbruck's group at INI](https://www.ini.uzh.ch/~tobi/wiki/doku.php?id=publications#phd_thesis)
-
+- <a name="Seleem26Phd"></a>Seleem, A.,  
+*[Deep Learning-based Point Cloud and Event Data Coding and Compressed Domain Classification](https://scholar.tecnico.ulisboa.pt/api/records/TahE6IbOajfri2xf6tPRiFk5r8zK2QQOUsWo/file/830a7e2261b9b58733df81125e58c0d6c62add05191ff3e748835a79ce001962.pdf)*,    
+Ph.D. Thesis, Universidade de Lisboa - Instituto Superior Técnico, Lisboa, Portugal, 2026.
 
 
 <a name="theses-master"></a>
