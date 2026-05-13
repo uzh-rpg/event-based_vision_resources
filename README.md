@@ -2595,10 +2595,10 @@ Sensors, 2022.
 - <a name="Zhao24date"></a>Zhao, Q., Ji, Y., Wang, J., Wu, J., Shi, G.,  
 *[Simultaneous Denoising and Compression for DVS with Partitioned Cache-Like Spatiotemporal Filter](https://doi.org/10.23919/DATE64628.2025.10992696)*,  
 Design, Automation & Test in Europe Conference (DATE), 2025.
-- <a name="Selleem25access"></a>Seleem, A., Guarda, A. F. R., Rodrigues, N. M. M., Pereira, F.,  
+- <a name="Seleem25access"></a>Seleem, A., Guarda, A. F. R., Rodrigues, N. M. M., Pereira, F.,  
 *[A Double Deep Learning-Based Solution for Efficient Event Data Coding and Classification](http://dx.doi.org/10.1109/ACCESS.2025.3551073)*,  
 IEEE Access, vol. 13, pp. 48703-48719, Mar. 2025.
-- <a name="Selleem26ojsp"></a>Seleem, A., Guarda, A. F. R., Rodrigues, N. M. M., Pereira, F.,  
+- <a name="Seleem26ojsp"></a>Seleem, A., Guarda, A. F. R., Rodrigues, N. M. M., Pereira, F.,  
 *[Deep Learning-Based Event Data Coding: A Joint Spatiotemporal and Polarity Solution](http://dx.doi.org/10.1109/OJSP.2026.3656104)*,  
 IEEE Open Journal of Signal Processing, vol. 7, pp. 222-237, 2026.
 
