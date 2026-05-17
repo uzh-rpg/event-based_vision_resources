@@ -1855,6 +1855,9 @@ IEEE Trans. Robot. (TRO), 2021. [Project page](https://sites.google.com/view/esv
 - <a name="Xiong25ArXiv"></a>Xiong, C., Wei, L., Ma, K., Sun, Z., Xiang, Y., Nan, Z., Truong, T., Pei, L.,  
 *[THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks](https://arxiv.org/abs/2503.05112)*,  
 arXiv, 2025. [PDF](https://arxiv.org/pdf/2503.05112), [Video](https://www.bilibili.com/video/BV127RAY8EuD/?vd_source=e79fc1d978b3209557faab5cb2ea763a), [Code](https://github.com/Franky-X/THE-SEAN).
+- <a name="Zhong25ral"></a>Zhong S., Niu J., Zhou Y.,  
+*[Deep Visual Odometry for Stereo Event Cameras](https://arxiv.org/pdf/2509.08235)*,  
+IEEE Robotics and Automation Letters (RA-L), 10(11):11078-11085 Nov. 2025.  [PDF](https://arxiv.org/pdf/2509.08235), [YouTube](https://www.youtube.com/watch?v=7UykRsmk3Zc), [Code](https://github.com/NAIL-HNU/SDEVO).
 
 <a name="visual-inertial"></a>
 ### Visual-Inertial Odometry
