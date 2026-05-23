@@ -1,9 +1,8 @@
 # Event-based Vision Resources
 
-## <a href="https://ietresearch.onlinelibrary.wiley.com/hub/journal/17519667/homepage/call-for-papers/si-2026-000275"> IET Image Processing Special Issue on "Event-Based Cameras and Image Processing: Applications, Benchmarks, and Future Directions"</a>, Paper deadline: 30 Nov 2026.
 ## <a href="https://eventbasemultimodalvision.github.io"> ECCV 2026 Workshop on Event-Based Multimodal Vision (EBMV): Imaging, Perception, and Understanding</a>, Sept. 2026.
 ## <a href="https://sites.google.com/view/nevi2026"> ECCV 2026 Workshop on Neuromorphic Vision (NeVi): Advantages and Applications of Event Cameras</a>, Sept. 2026.
-## <a href="https://ietresearch.onlinelibrary.wiley.com/hub/journal/17519667/homepage/call-for-papers/si-2026-000275"> Event-Based Cameras and Image Processing: Applications, Benchmarks, and Future Directions. Call for Papers. </a> Paper submission until November 30, 2026.
+## <a href="https://ietresearch.onlinelibrary.wiley.com/hub/journal/17519667/homepage/call-for-papers/si-2026-000275"> IET Image Processing Special Issue on "Event-Based Cameras and Image Processing: Applications, Benchmarks, and Future Directions"</a>, Paper submission until November 30, 2026.
 ## <a href="https://nfr-icra2026.com"> NFRA: Challenges and Opportunities of Neuromorphic Field Robotics and Automation at ICRA 2026</a>, June 5, Vienna. Paper submission until March 23, 2026.
 ## <a href="https://urvis-workshop.github.io">URVIS: Unified Robotic Vision with Cross-Modal Sensing and Alignment at CVPR 2026</a>. Paper submission until March 15, 2026.
 ## <a href="https://onsensor-vision.github.io">OVS: On Sensor Vision (OSV) Workshop at CVPR 2026</a>. Paper submission until March 13, 2026.
