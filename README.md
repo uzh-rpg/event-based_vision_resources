@@ -2917,7 +2917,7 @@ IEEE Access, vol. 12, pp. 66964-66980, 2024.
 Neuromorphic Computing and Engineering, 2024. [PDF](https://www.eee.hku.hk/optima/pub/journal/2401_NCE.pdf)
 - <a name="bendig25wacv"></a>Bendig, K., Schuster, R., Thiemer, N., Joisten, K., Stricker, D.,  
 *[AnonyNoise: Anonymizing Event Data with Smart Noise to Outsmart Re-Identification and Preserve Privacy](https://doi.org/10.48550/arXiv.2411.16440)*,  
-Winter Conference on Applications of Computer Vision (WACV), 2025. [PDF](https://openaccess.thecvf.com/content/WACV2025/papers/Bendig_AnonyNoise_Anonymizing_Event_Data_with_Smart_Noise_to_Outsmart_Re-Identification_WACV_2025_paper.pdf), [Code](https://github.com/dfki-av/AnonyNoise)
+Winter Conference on Applications of Computer Vision (WACV), 2025. [PDF](https://openaccess.thecvf.com/content/WACV2025/papers/Bendig_AnonyNoise_Anonymizing_Event_Data_with_Smart_Noise_to_Outsmart_Re-Identification_WACV_2025_paper.pdf), [Code](https://github.com/dfki-av/AnonyNoise), [Suppl. Mat.](https://doi.org/10.1109/WACV61041.2025.00312)
 - <a name="Adra25iwbf"></a>Adra, M., Dugelay, J.-L.,  
 *[E2PRIV: Privacy-Preserving Event-to-Video Reconstruction with Face Anonymization](https://doi.org/10.1109/IWBF63717.2025.11113401)*,  
 International Workshop on Biometrics and Forensics (IWBF), 2025.
