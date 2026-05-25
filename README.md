@@ -2904,25 +2904,25 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2021. [Suppl.](https:
 *[Event Encryption for Neuromorphic Vision Sensors: Framework, Algorithm, and Evaluation](https://doi.org/10.3390/s21134320)*,  
 Sensors, 2021.
 - <a name="Ahmad22wacv"></a>Ahmad, S., Scarpellini, G., Morerio, P., Del Bue, A.,  
-*[Event-driven Re-Id: A New Benchmark and Method Towards Privacy-Preserving Person Re-Identification](https://ieeexplore.ieee.org/document/9707512)*,  
+*[Event-driven Re-Id: A New Benchmark and Method Towards Privacy-Preserving Person Re-Identification](https://doi.org/10.1109/WACVW54805.2022.00052)*,  
 Winter Conference on Applications of Computer Vision (WACV), 2022. [PDF](https://openaccess.thecvf.com/content/WACV2022W/RWS/papers/Ahmad_Event-Driven_Re-Id_A_New_Benchmark_and_Method_Towards_Privacy-Preserving_Person_WACVW_2022_paper.pdf)
 - <a name="Ahmad23iccv"></a>Ahmad, S., Morerio, P., Del Bue, A.,  
-*[Person Re-Identification without Identification via Event Anonymization](https://arxiv.org/abs/2308.04402)*,  
+*[Person Re-Identification without Identification via Event Anonymization](https://doi.org/10.1109/ICCV51070.2023.01022)*,  
 IEEE Int. Conf. Computer Vision Workshop (ICCVW), 2023. [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Ahmad_Person_Re-Identification_without_Identification_via_Event_anonymization_ICCV_2023_paper.pdf)
 - <a name="Ahmad24access"></a>Ahmad, S., Morerio, P., Del Bue, A.,  
-*[Event Anonymization: Privacy-Preserving Person Re-Identification and Pose Estimation in Event-Based Vision](https://ieeexplore.ieee.org/document/10528297)*,  
+*[Event Anonymization: Privacy-Preserving Person Re-Identification and Pose Estimation in Event-Based Vision](https://doi.org/10.1109/ACCESS.2024.3399539)*,  
 IEEE Access, vol. 12, pp. 66964-66980, 2024.
 - <a name="Zhang24nce"></a>Zhang, P., Zhu, S., Lam, E. Y.,  
 *[Event Encryption: Rethinking Privacy Exposure for Neuromorphic Imaging](https://doi.org/10.1088/2634-4386/ad207b)*,  
 Neuromorphic Computing and Engineering, 2024. [PDF](https://www.eee.hku.hk/optima/pub/journal/2401_NCE.pdf)
 - <a name="bendig25wacv"></a>Bendig, K., Schuster, R., Thiemer, N., Joisten, K., Stricker, D.,  
-*[AnonyNoise: Anonymizing Event Data with Smart Noise to Outsmart Re-Identification and Preserve Privacy](https://arxiv.org/abs/2411.16440)*,  
-Winter Conference on Applications of Computer Vision (WACV), 2025. [Code](https://github.com/dfki-av/AnonyNoise)
+*[AnonyNoise: Anonymizing Event Data with Smart Noise to Outsmart Re-Identification and Preserve Privacy](https://doi.org/10.48550/arXiv.2411.16440)*,  
+Winter Conference on Applications of Computer Vision (WACV), 2025. [PDF](https://openaccess.thecvf.com/content/WACV2025/papers/Bendig_AnonyNoise_Anonymizing_Event_Data_with_Smart_Noise_to_Outsmart_Re-Identification_WACV_2025_paper.pdf), [Code](https://github.com/dfki-av/AnonyNoise)
 - <a name="Adra25iwbf"></a>Adra, M., Dugelay, J.-L.,  
-*[E2PRIV: Privacy-Preserving Event-to-Video Reconstruction with Face Anonymization](https://ieeexplore.ieee.org/document/11113401)*,  
+*[E2PRIV: Privacy-Preserving Event-to-Video Reconstruction with Face Anonymization](https://doi.org/10.1109/IWBF63717.2025.11113401)*,  
 International Workshop on Biometrics and Forensics (IWBF), 2025.
 - <a name="Mueller26cvprw"></a>Mueller, A. T., Kocsis, M., Stache, N. C.,  
-*[Generative Anonymization in Event Streams](https://arxiv.org/abs/2604.12803)*,  
+*[Generative Anonymization in Event Streams](https://doi.org/10.48550/arXiv.2604.12803)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2026. [PDF](https://arxiv.org/pdf/2604.12803), [Dataset](https://github.com/muelleradam/KinematicEvent-HumanUpperBody-2026)
 
 <a name="nuclear_verification"></a>
