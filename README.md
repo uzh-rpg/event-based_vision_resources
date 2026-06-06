@@ -1843,6 +1843,9 @@ IEEE Int. Conf. 3D Vision (3DV), 2024. [Code](https://github.com/tum-vision/DEVO
 IEEE Trans. Robot. (TRO), 2024. [Project page](https://github.com/tub-rip/cmax_slam), [YouTube](https://youtu.be/17VWTuSkgPs), [ECRot Dataset](https://github.com/tub-rip/ECRot)
 - [Shiba et al. TPAMI 2024](#Shiba24tpami),  
 *Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
+- <a name="Marchei26cvpr"></a>Marchei, A., and Lamberti, L., and Palossi, D., and Benini, L.,  
+*[TinyDEVO: Deep Event-based Visual Odometry on Ultra-low-power Multi-core Microcontrollers](https://arxiv.org/abs/2604.08060)*,  
+IEEE/CVF Computer Vision and Pattern Recognition (CVPR), 2026. [YouTube](https://youtu.be/wUx0V9psvUk)
 
 #### Stereo
 - <a name="Zhou21tro"></a>Zhou, Y., Gallego, G., Shen, S.,  
