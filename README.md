@@ -53,6 +53,7 @@
         - [Localization, Ego-motion estimation](#slam-localization)
         - [Visual Odometry](#visual-odometry)
         - [Visual-Inertial Odometry](#visual-inertial)
+    - [3D Gaussian](#gaussian)
     - [Segmentation](#segmentation)
         - [Object Segmentation](#object-segmentation)
         - [Motion Segmentation](#motion-segmentation)
@@ -1315,6 +1316,9 @@ IEEE Robotics and Automation Letters (RA-L) 8(3):1587-1594, 2023. [PDF](https://
 - <a name="Cai25wacv"></a>Cai, N., Bideau, P.,  
 *[Active Event Alignment for Monocular Distance Estimation](https://doi.org/10.1109/WACV61041.2025.00245)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2025. [PDF](https://arxiv.org/pdf/2410.22280), [Code](https://github.com/pbideau/AAEDepth)
+<a name="compression"></a>
+- [Kohyama et al. CVPR 2026](#Kohyama26cvpr),  
+*Geometric-Photometric Event-based 3D Gaussian Ray Tracing*.
 
 
 <a name="depth-mono-active"></a>
@@ -1911,6 +1915,13 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [Project page](https://git
 - <a name="Niu25tro"></a>Niu, J., Zhong. S., Lu, X., Shen, S., Gallego, G., Zhou, Y.,  
 *[ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras](https://doi.org/10.1109/TRO.2025.3548523)*,  
 IEEE Trans. Robot. (TRO), 2025. [Project page](https://github.com/NAIL-HNU/ESVO2), [PDF](https://arxiv.org/pdf/2410.09374), [YouTube](https://youtu.be/gmAU32Oeiv8).
+
+
+<a name="gaussian"></a>
+## 3D Gaussian
+- <a name="Kohyama26cvpr"></a>Kohyama, K., Aoki, Y., Gallego, G., Shiba, S.,  
+*[Geometric-Photometric Event-based 3D Gaussian Ray Tracing](https://arxiv.org/abs/2512.18640)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2026. [YouTube](https://youtu.be/5lBhe0a7Il4), [Poster](https://github.com/e3ai/gpert/blob/main/assets/2026_CVPR_GPERT_poster.png), [Project page](https://e3ai.github.io/gpert/), [Code](https://github.com/e3ai/gpert)
 
 
 <a name="segmentation"></a>
