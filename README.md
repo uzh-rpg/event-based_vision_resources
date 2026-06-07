@@ -2841,6 +2841,9 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023
 - <a name="Glover24icra"></a>Glover A, Gava L, Li Z, Bartolozzi C   
 *[EDOPT: Event-camera 6-DoF Dynamic Object Pose Tracking](https://doi.org/10.1109/ICRA57147.2024.10611511)*,  
 IEEE International Conference on Robotics and Automation (ICRA), 2024. [Code](https://github.com/event-driven-robotics/EDOPT)
+- <a name="Awasthi25cvprw"></a>Awasthi S, Gouda A, Franke S, Rutinowski J, Hoffmann F, Roidl M   
+*[MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/html/Awasthi_MTevent_A_Multi-Task_Event_Camera_Dataset_for_6D_Pose_Estimation_CVPRW_2025_paper.html)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [[PDF](https://openaccess.thecvf.com/content/CVPR2025W/EventVision/papers/Awasthi_MTevent_A_Multi-Task_Event_Camera_Dataset_for_6D_Pose_Estimation_CVPRW_2025_paper.pdf)]
 - <a name="Kang26ral"></a>Kang Y, Ishikawa R, Caron G, Oishi T   
 *[Event-Based 6-DoF Object Tracking With Distance Field Reaching 130Hz](https://doi.org/10.1109/LRA.2026.3674009)*,  
 IEEE Robotics and Automation Letters (RA-L), 2026. [[PDF](https://www.cvl.iis.u-tokyo.ac.jp/~kyf/EDFT/camera-ready.pdf)] [[Project](https://bluecatli.github.io/EDFT_page/)]
@@ -3209,6 +3212,9 @@ IEEE Robotics and Automation Letters (RA-L), 10(6):6191-6198, 2025. [PDF](https:
 - <a name="Li26tro"></a>Li, J., Li, S., Lian, Q., Li, P., Chen, X., Zhou, Y.,  
 *[Toward Deep Representation Learning for Event-Enhanced Visual Autonomous Perception: The eAP Dataset](https://doi.org/10.1109/TRO.2026.3677912)*,  
 IEEE Trans. Robot. (TRO), 42:1643-1661, 2026. [Project page](https://nail-hnu.github.io/eAP_dataset/), [Dataset](https://nail-hnu.github.io/eAP_dataset/#downloads), [YouTube](https://www.youtube.com/watch?v=6nuFrPViD3U&t=6s).
+
+## Object Pose Estimation
+- [Awasthi et al., CVPRW 2025](#Awasthi25cvprw), *MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection*. [Dataset](https://huggingface.co/datasets/flw-tu-dortmund/MTevent)
 
 ## Optical Flow
 - [DVS/DAVIS Optical Flow Dataset](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) associated to the paper [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
