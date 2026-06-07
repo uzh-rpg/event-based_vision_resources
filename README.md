@@ -839,9 +839,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
     - [Karmokar et al. WACV 2025](#Karmokar25wacv),  
 *Secrets of Edge-Informed Contrast Maximization for Event-Based Vision*.
     - [Shiba et al. ICCV 2025](#Shiba25iccv),  
-*Simultaneous Motion And Noise Estimation with Event Cameras*,  
+*Simultaneous Motion And Noise Estimation with Event Cameras*.  
     - [Kohyama et al. CVPR 2026](#Kohyama26cvpr),  
-*Geometric-Photometric Event-based 3D Gaussian Ray Tracing*,  
+*Geometric-Photometric Event-based 3D Gaussian Ray Tracing*.  
 
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
