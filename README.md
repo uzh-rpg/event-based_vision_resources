@@ -1951,6 +1951,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Code](https://
 - <a name="Yao25wacv"></a>Yao, Z., Chuah, M.C.,  
 *[Event-Guided Low-Light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/papers/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2025. [PDF](https://arxiv.org/pdf/2411.00639)
+- <a name="Bao25neurips"></a>Bao, N., Zhao, Y., Zhu, L., Li, J.,  
+*[Re-coding for Uncertainties: Edge-awareness Semantic Concordance for Resilient Event-RGB Segmentation](https://proceedings.neurips.cc/paper_files/paper/2025/file/92c020da2740ec2ace29e8e7d69b4483-Paper-Conference.pdf)*,  
+Advances in Neural Information Processing Systems 38 (NeurIPS), 2025. [Code](https://github.com/iCVTEAM/ESC)  
 
 <a name="motion-segmentation"></a>
 ### Motion Segmentation
