@@ -2154,6 +2154,8 @@ Neurocomputing, 2024. [PDF](https://www.eee.hku.hk/optima/pub/journal/2401_NC.pd
 - <a name="Amessegher25ssrr"></a>Amessegher, I., Gaudard, A., Anyinam-Boateng, K. N., Le Blevec, H., Génevé, L., Pouthier, F., Léonardon, M., Fradi, H., Bergantin, L., Papadakis, P., Fantoni, I., Diguet, J.P, Arzel, M.,  
 *[Towards Low-Latency Object Detection on Board Reactive Search-and-Rescue Drones](https://doi.org/10.1109/SSRR68451.2025.11391298)*,  
  IEEE Int. Symp. on Safety Security Rescue Robotics (SSRR), 2025. [PDF](https://imt-atlantique.hal.science/hal-05280264v1/file/SSRR25_0004_FI.pdf).
+*[E2Detect: Object Detection from Event Camera via Sparse Feature Pyramid Recovery](https://doi.org/10.1109/ISCAS66217.2026.11562756).*,  
+IEEE Int. Symp. Circuits and Systems (ISCAS), 2026. [Code](https://github.com/engrchrishenry/E2Detect.git)
 
 <a name="gesture-recognition"></a>
 ### Gesture Recognition
