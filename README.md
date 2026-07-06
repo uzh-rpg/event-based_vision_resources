@@ -1739,7 +1739,7 @@ Science Robotics, 10(103) eads3968, 2025. [PDF](https://adamdhines.github.io/sta
 IEEE Int. Conf. Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2507.22733), [Code](https://github.com/suhang99/AsyncTrack-Motion-Solver), [Video](https://www.youtube.com/watch?v=c3IQgIaVTFQ), [Poster](https://iccv.thecvf.com/media/PosterPDFs/ICCV%202025/222.png)
 - [Burkhardt et al., ICCV 2025](#Burkhardt25iccv),  
 *SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM*.
-- [Hines et al., arXiv 2026](https://eventgemvpr.github.io/),
+- [Hines et al., arXiv 2026](https://eventgemvpr.github.io/),  
 *EventGeM: Global-to-Local Feature Matching for Event-Based Visual Place Recognition.*
 
 <a name="visual-servoing"></a>
