@@ -54,6 +54,7 @@
         - [Localization, Ego-motion estimation](#slam-localization)
         - [Visual Odometry](#visual-odometry)
         - [Visual-Inertial Odometry](#visual-inertial)
+    - [3D Gaussian](#gaussian)
     - [Segmentation](#segmentation)
         - [Object Segmentation](#object-segmentation)
         - [Motion Segmentation](#motion-segmentation)
@@ -838,6 +839,11 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2019.
 *Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation*.
     - [Karmokar et al. WACV 2025](#Karmokar25wacv),  
 *Secrets of Edge-Informed Contrast Maximization for Event-Based Vision*.
+    - [Shiba et al. ICCV 2025](#Shiba25iccv),  
+*Simultaneous Motion And Noise Estimation with Event Cameras*.  
+    - [Kohyama et al. CVPR 2026](#Kohyama26cvpr),  
+*Geometric-Photometric Event-based 3D Gaussian Ray Tracing*.  
+
 - <a name="Zhu18rss"></a>Zhu, A., Yuan, L., Chaney, K., Daniilidis, K.,  
 *[EV-FlowNet: Self-Supervised Optical Flow Estimation for Event-based Cameras](http://www.roboticsproceedings.org/rss14/p62.pdf)*,  
 Robotics: Science and Systems (RSS), 2018. [PDF](https://arxiv.org/abs/1802.06898), [YouTube](https://youtu.be/eMHZBSoq0sE), [Code](https://github.com/daniilidis-group/EV-FlowNet)
@@ -1316,6 +1322,9 @@ IEEE Robotics and Automation Letters (RA-L) 8(3):1587-1594, 2023. [PDF](https://
 - <a name="Cai25wacv"></a>Cai, N., Bideau, P.,  
 *[Active Event Alignment for Monocular Distance Estimation](https://doi.org/10.1109/WACV61041.2025.00245)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2025. [PDF](https://arxiv.org/pdf/2410.22280), [Code](https://github.com/pbideau/AAEDepth)
+<a name="compression"></a>
+- [Kohyama et al. CVPR 2026](#Kohyama26cvpr),  
+*Geometric-Photometric Event-based 3D Gaussian Ray Tracing*.
 
 
 <a name="depth-mono-active"></a>
@@ -1917,6 +1926,13 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [Project page](https://git
 - <a name="Niu25tro"></a>Niu, J., Zhong. S., Lu, X., Shen, S., Gallego, G., Zhou, Y.,  
 *[ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras](https://doi.org/10.1109/TRO.2025.3548523)*,  
 IEEE Trans. Robot. (TRO), 2025. [Project page](https://github.com/NAIL-HNU/ESVO2), [PDF](https://arxiv.org/pdf/2410.09374), [YouTube](https://youtu.be/gmAU32Oeiv8).
+
+
+<a name="gaussian"></a>
+## 3D Gaussian
+- <a name="Kohyama26cvpr"></a>Kohyama, K., Aoki, Y., Gallego, G., Shiba, S.,  
+*[GPERT: Geometric-Photometric Event-based 3D Gaussian Ray Tracing](https://arxiv.org/abs/2512.18640)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2026. [YouTube](https://youtu.be/5lBhe0a7Il4), [Poster](https://github.com/e3ai/gpert/blob/main/assets/2026_CVPR_GPERT_poster.png), [Project page](https://e3ai.github.io/gpert/), [Code](https://github.com/e3ai/gpert)
 
 
 <a name="segmentation"></a>
@@ -2589,6 +2605,9 @@ IEEE Trans. Comput. Imaging (TCI), 2023. [PDF](https://www.eee.hku.hk/optima/pub
 - <a name="Zhao24iccad"></a>Zhao, Q., Wang, J., Ji, Y., Wu, J., Shi, G.,  
 *[An O(m+n)-Space Spatiotemporal Denoising Filter with Cache-Like Memories for Dynamic Vision Sensors](https://dl.acm.org/doi/10.1145/3676536.3676710)*,  
 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024.
+- <a name="Shiba25iccv"></a> Shiba, S., Aoki, Y., Gallego, G.,  
+*[Simultaneous Motion And Noise Estimation with Event Cameras](https://arxiv.org/pdf/2504.04029)*,  
+IEEE Int. Conf. Computer Vision (ICCV), 2025. [YouTube](https://youtu.be/iJZsIEWinXk), [Poster](https://github.com/tub-rip/ESMD/blob/main/docs/2025_ICCV_ESMD_poster.pdf), [Project page and Code](https://github.com/tub-rip/ESMD)
 
 ### Compression
 - <a name="Khan20access"></a>Khan, N., Iqbal, K., Martini, M. G.,  
