@@ -122,8 +122,7 @@ ___
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
 
 
-<a name="devices"></a>
-# Devices & Companies Manufacturing them
+# <a id="devices" name="devices"></a>Devices & Companies Manufacturing them
 - **DVS (Dynamic Vision Sensor)**: Lichtsteiner, P., Posch, C., and Delbruck, T., *[A 128x128 120dB 15μs latency asynchronous temporal contrast vision sensor](http://doi.org/10.1109/JSSC.2007.914337)*, IEEE J. Solid-State Circuits, 43(2):566-576, 2008. [PDF](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=lichtsteiner_dvs_jssc08.pdf)
     - [NRV (Neuro Reality Vision)](https://nrv.kr) produces and sells the DELTA line of DVS event cameras from Samsung silicon.
     - [iniVation AG](https://inivation.com/), merged into [Synsense](https://www.synsense.ai/), produces and sells the hyrbrid HVS DAVIS from the [Sensors Group](https://sensors.ini.ch) Towerjazz silicon and pure DVS DVXplorer event cameras from Samsung silicon. [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Jakobsen.pdf) by [S. E. Jakobsen](https://inivation.com/company/), board member of iniVation.
@@ -1129,7 +1128,6 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [PDF](https://arxiv.org
     - <a name="Wang21iccv"></a>Wang, Z., Ng, Y., Scheerlinck, C., Mahony., R.,  
 *[An Asynchronous Kalman Filter for Hybrid Event Cameras](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.html)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.pdf), [Code](https://github.com/ziweiWWANG/AKF), [YouTube](https://www.youtube.com/watch?v=XPz7laloKws), [Suppl](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_An_Asynchronous_Kalman_ICCV_2021_supplemental.pdf).
-<a name="super-resolution"></a>
 - <a name="Chen23IROS"></a>Chen, J., Zhu, Y., Lian, D., Yang, J., Wang, Y., Zhang, R., Liu, X., Qian, S., Kneip, L., Gao, S.,  
 *[Revisiting Event-Based Video Frame Interpolation](https://ieeexplore.ieee.org/abstract/document/10341804)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023. [PDF](https://arxiv.org/pdf/2307.12558.pdf), [Project](https://jiabenchen.github.io/revisit_event)
@@ -1155,7 +1153,7 @@ AAAI Conf. Artificial Intelligence, 2025. [PDF](https://ojs.aaai.org/index.php/A
 *[Event-based Continuous Color Video Decompression from Single Frames](https://arxiv.org/pdf/2312.00113.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [Project page](https://www.cis.upenn.edu/~ziyunw/continuity_cam/)
 
-### Image super-resolution
+### <a id="super-resolution" name="super-resolution"></a>Image super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
 *[Super-resolution of spatiotemporal event-stream image](https://doi.org/10.1016/j.neucom.2018.12.048)*,  
 Neurocomputing, 335:206-214, 2019. [PDF pre-print](https://arxiv.org/abs/1802.02398)
@@ -2539,14 +2537,13 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/pd
 - <a name="Zhang23tci"></a>Zhang, P., Ge, Z., Song, L., Lam, E. Y.,   
 *[Neuromorphic Imaging with Density-based Spatiotemporal Denoising](https://doi.org/10.1109/TCI.2023.3281202)*,  
 IEEE Trans. Comput. Imaging (TCI), 2023. [PDF](https://www.eee.hku.hk/optima/pub/journal/2305_TCI.pdf), [Code](https://github.com/pz-even/event_denoise)
-<a name="compression"></a>
 - [Shiba et al. TPAMI 2024](#Shiba24tpami),  
 *Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
 - <a name="Zhao24iccad"></a>Zhao, Q., Wang, J., Ji, Y., Wu, J., Shi, G.,  
 *[An O(m+n)-Space Spatiotemporal Denoising Filter with Cache-Like Memories for Dynamic Vision Sensors](https://dl.acm.org/doi/10.1145/3676536.3676710)*,  
 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024.
 
-### Compression
+### <a id="compression" name="compression"></a>Compression
 - <a name="Khan20access"></a>Khan, N., Iqbal, K., Martini, M. G.,  
 *[Lossless compression of data from static and mobile Dynamic Vision Sensors - Performance and trade-offs](https://doi.org/10.1109/ACCESS.2020.2996661)*,  
 IEEE Access, 2020.
@@ -2668,7 +2665,6 @@ arXiv, 2021. [Video](https://drive.google.com/file/d/1q9QwPvkd7ZcEBcGMIxIVy2r_iR
 - <a name="Wang22iros"></a> Wang, Z., Cladera Ojeda, F., Bisulco A., Lee, D., Taylor, C. J., Daniilidis, K., Hsieh, A. M., Lee, D. D., Isler, V.,  
 *[EV-Catcher: High-Speed Object Catching Using Low-Latency Event-Based Neural Networks](https://doi.org/10.1109/LRA.2022.3188400)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.  
-<a name="obstacle_avoidance"></a>
 - <a name="Ayyad21arxiv"></a>Nair, G.B., Milford, M., Fischer, T.,   
 *[Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras](https://doi.org/10.1109/IROS58592.2024.10802384)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [Video](https://youtu.be/8D9gtHqteEQ), [Webpage](https://gokulbnr.github.io/publication/dvs-biasing-vpr), [Code](https://github.com/gokulbnr/fast-slow-biased-event-vpr), [Dataset](https://huggingface.co/datasets/gokulbnr/QCR-Fast-Slow-Event-Dataset), [Poster](https://gokulbnr.github.io/files/2024-Poster.pdf).
@@ -2682,7 +2678,7 @@ Neuromorphic Computing and Engineering. vol 5, pp. 024012, 2025.
 *[Towards Event-Driven, End-to-End UAV Tracking Using Deep Reinforcement Learning](https://doi.org/10.1145/3728482.3757384)*,  
 UAVM '25: Proceedings of the 3rd International Workshop on UAVs in Multimedia: Capturing the World from a New Perspective, 2025.
 
-## Obstacle Avoidance
+## <a id="obstacle_avoidance" name="obstacle_avoidance"></a>Obstacle Avoidance
 - <a name="Clady14fnins"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
 *[Asynchronous visual event-based time-to-contact](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
 Front. Neurosci. (2014). 8:9.  
