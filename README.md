@@ -1,15 +1,11 @@
 # Event-based Vision Resources
 
-## <a href="https://sites.google.com/view/neurosys2026"> Workshop on Neuromorphic Robotic Systems (NeuRoSys)</a>, July 13th, 2026.
-## <a href="https://eventbasemultimodalvision.github.io"> ECCV 2026 Workshop on Event-Based Multimodal Vision (EBMV): Imaging, Perception, and Understanding</a>, Sept. 2026.
-## <a href="https://sites.google.com/view/nevi2026"> ECCV 2026 Workshop on Neuromorphic Vision (NeVi): Advantages and Applications of Event Cameras</a>, Sept. 2026.
-## <a href="https://ietresearch.onlinelibrary.wiley.com/hub/journal/17519667/homepage/call-for-papers/si-2026-000275"> IET Image Processing Special Issue on "Event-Based Cameras and Image Processing: Applications, Benchmarks, and Future Directions"</a>, Paper submission until November 30, 2026.
-## <a href="https://nfr-icra2026.com"> NFRA: Challenges and Opportunities of Neuromorphic Field Robotics and Automation at ICRA 2026</a>, June 5, Vienna. Paper submission until March 23, 2026.
-## <a href="https://urvis-workshop.github.io">URVIS: Unified Robotic Vision with Cross-Modal Sensing and Alignment at CVPR 2026</a>. Paper submission until March 15, 2026.
-## <a href="https://onsensor-vision.github.io">OVS: On Sensor Vision (OSV) Workshop at CVPR 2026</a>. Paper submission until March 13, 2026.
-## <a href="https://ieee-cas.org/files/ieeecass/2025-08/JETCAS_CFP_2026Q3.pdf"> Neuromorphic Computing and Sensing Meets Extended Reality — IEEE JETCAS Special Issue "Circuits and Systems for Extended Reality" Call for Papers. </a> Paper submission until March 2nd 2026.
-## <a href="https://edpr.iit.it/events/2026-evs"> EVS: Event Vision School 2026.</a> May 17-23th, Arenzano (Italy).
-## <a href="https://eventbasedvision.github.io/EVGEN2026/"> WACV 2026 EVGEN: Event-based Vision in the Era of Generative AI.</a> March 6, 2026, Tucson (USA).
+<a name="upcoming-events"></a>
+# Upcoming Events and Paper Calls
+- [IET Image Processing Special Issue on "Event-Based Cameras and Image Processing: Applications, Benchmarks, and Future Directions"](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17519667/homepage/call-for-papers/si-2026-000275), paper submission until November 30, 2026.
+- [ECCV 2026 Workshop on Event-Based Multimodal Vision (EBMV): Imaging, Perception, and Understanding](https://eventbasemultimodalvision.github.io), Sept. 2026.
+- [ECCV 2026 Workshop on Neuromorphic Vision (NeVi): Advantages and Applications of Event Cameras](https://sites.google.com/view/nevi2026), Sept. 2026.
+- [Past Events](#past-events)
 
 ## <a href="https://www.neuropac.info/">NeuroPAC</a>
 ## <a href="https://hylz-2019.github.io/Neuro_Vision_Map/map.html">Map of event-based institutions (from papers)</a>
@@ -18,8 +14,8 @@
 - [Contribute to the above map](https://github.com/HYLZ-2019/Neuro_Vision_Map)
 
 ## Table of Contents:
+- [Upcoming Events and Paper Calls](#upcoming-events) ([Past Events](#past-events))
 - [Survey paper](#survey_paper)
-- [Workshops](#workshops)
 - [Devices and Manufacturers](#devices)
 - [Companies working on Event-based Vision](#companies_sftwr)
 - [Neuromorphic Systems](#neuromorphic-systems)
@@ -108,6 +104,7 @@
 
 - [Neuromorphic Processors and Platforms](#processors-platforms)
 - [Courses](#teaching)
+- [Past Events](#past-events)
 - [Theses and Dissertations](#theses)
     - [Dissertations](#theses-phd)
     - [Master's Theses](#theses-master)
@@ -125,52 +122,13 @@ ___
 IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
 
 
-<a name="workshops"></a>
-# Workshops
-
-- [EVS 2026: Event Vision School 2026](https://edpr.iit.it/events/2026-evs)
-- [Innovative Neuromorphic Vision Sensors (INVISIONS) workshop, 2026](https://joint-research-centre.ec.europa.eu/events/innovative-neuromorphic-vision-sensors-invisions-workshop-2026-02-05_ent)
-- [WACV 2026 EVGEN: 2nd Worksgop on Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation](https://eventbasedvision.github.io/EVGEN2026/)
-- [SPIE Photonics West. Vision Tech Forum. Neuromorphic Sensing in Motion: From Event-Based Vision to Adaptive Intelligence](https://spie.org/photonics-west/event/vision-tech-event-based-session-neuromorphic-sensing-in-motion-from-event-based-vision-to-adaptive-intelligence/7101335). 
-- [IROS 2025 Workshop on Event-Based Vision. And Stereo SLAM Challenge](https://eventvision-robotics.github.io/iros_workshop/)
-- [IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots 2025)](https://sites.google.com/view/neurobots2025)
-- [ICCV 2025 2nd Workshop on Neuromorphic Vision (NeVi)](https://sites.google.com/view/nevi-2025/)
-- [DSP 2025 Special Session on Event-based Vision: “Processing the Neuromorphic Signal: Event-based Vision and Applications”](https://2025.ic-dsp.org/special-session-4/)
-- [2025 Telluride Neuromorphic Cognition Engineering Workshop](https://sites.google.com/view/telluride-2025/home)
-- [IEEE T-RO Special Collection on Event-based Vision for Robotics, 2025](https://www.ieee-ras.org/publications/t-ro/special-issues/event-based-vision-for-robotics)
-- [CVPR 2025 Fifth International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2025)
-- [WACV 2025 EVGEN: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation](https://eventbasedvision.github.io/EVGEN2025/)
-- [IROS 2024 Workshop on Embodied Neuromorphic AI for Robotic Perception and Control](https://sites.google.com/view/iros-2024-workshop)
-- [ECCV 2024 Workshop on Neuromorphic Vision (NeVi)](https://sites.google.com/view/nevi2024), **[Slides](https://sites.google.com/view/nevi2024/program)**
-- [ECCV 2024 1st Workshop on Neural Fields Beyond Conventional Cameras](https://neural-fields-beyond-cams.github.io/)
-- [Caméra à événements appliquée à la robotique, Sorbonne University, Paris (Nov. 16th, 2023)](https://tub-rip.github.io/eventvision2023/slides/2023-11_Workshop_event_cameras_Sorbonne.pdf)
-- [CVPR 2023 Fourth International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2023), **[Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK)**
-- [IEEE Embedded Vision Workshop Series](https://embeddedvisionworkshop.wordpress.com), with focus on Biologically-inspired vision and embedded systems.
-- [IISW 2023 Int. Image Sensor Workshop](https://imagesensors.org/2023-international-image-sensor-workshop/)
-- [MFI 2022 First Neuromorphic Event Sensor Fusion Workshop](https://sites.google.com/view/eventsensorfusion2022/home) with videos incl. _Event Sensor Fusion Jeopardy_ game - Virtual. **[Videos](https://youtube.com/playlist?list=PLVtZ8f-q0U5gXhjN4inwWZi66bp5vp-lN)**
-- [tinyML Neuromorphic Engineering Forum](https://www.tinyml.org/event/tinyml-neuromorphic-engineering-forum/) - Virtual, 2022. **[Videos](https://www.youtube.com/playlist?list=PLeisuBi-nfBM5HayCqF4KMBaJciV5UkLX)**
-- [ICCV 2021 Tutorial. Introduction to Event Detection Cameras](https://tub-rip.github.io/eventvision2021/slides/ICCV2021Tutorial.pdf)
-- [CVPR 2021 Third International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2021) - Virtual. **[Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7)**
-- [ICRA 2020 Workshop on Unconventional Sensors in Robotics](https://sites.google.com/view/unconventional-sensors) - Virtual. **[Videos](https://www.youtube.com/playlist?list=PLtW5yHT6tQuD4sLzkldzZEyQ4hz77K64-)**
-- [Neuro-Inspired Computational Elements (NICE) Workshop Series](https://niceworkshop.org/nice-2019/). **[Videos](https://www.youtube.com/channel/UCKTLpjY9e8cMK12d2-Z-usA)**
-- [Capo Caccia Workshops toward Cognitive Neuromorphic Engineering](http://capocaccia.iniforum.ch/).
-- [The Telluride Neuromorphic Cognition Engineering Workshops](https://tellurideneuromorhic.org). **[Videos](https://sites.google.com/view/telluride2020/about-workshop/videos)**, Telluride 2020 (Online): **[Videos](https://www.youtube.com/playlist?list=PLG-iqBTOyCO5NAbqbsHPPnL9h35z0ooSE)**, **[Slides](https://drive.google.com/drive/folders/1lmUSjZoDb7yc_HO9xw0M5J4fIGRIfu_u)**
-- [CVPR 2019 Second International Workshop on Event-based Vision and Smart Cameras](http://rpg.ifi.uzh.ch/CVPR19_event_vision_workshop.html). **[Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If97iGiuBHmnW8IFIxwvSeCHx)**
-- [IROS 2018 Unconventional Sensing and Processing for Robotic Visual Perception](https://www.jmartel.net/irosws-home).
-- [ICRA 2017 First International Workshop on Event-based Vision](http://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html). **[Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If94k8mw6GcKU5C9PUgM1sK0U)**
-- [IROS 2015 Event-Based Vision for High-Speed Robotics (slides)](http://www.rit.edu/kgcoe/iros15workshop/papers/IROS2015-WASRoP-Invited-04-slides.pdf), Workshop on Alternative Sensing for Robot Perception.
-- [ICRA 2015 Workshop on Innovative Sensing for Robotics](http://innovative-sensing.mit.edu/), with a focus on Neuromorphic Sensors.
-    
-
-<a name="devices"></a>
-# Devices & Companies Manufacturing them
+# <a id="devices" name="devices"></a>Devices & Companies Manufacturing them
 - **DVS (Dynamic Vision Sensor)**: Lichtsteiner, P., Posch, C., and Delbruck, T., *[A 128x128 120dB 15μs latency asynchronous temporal contrast vision sensor](http://doi.org/10.1109/JSSC.2007.914337)*, IEEE J. Solid-State Circuits, 43(2):566-576, 2008. [PDF](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=lichtsteiner_dvs_jssc08.pdf)
-    - [Product page at iniVation](https://inivation.com/dvs/). [**Buy a DVS**](https://inivation.com/buy/)
-    - [Product specifications](https://inivation.com/support/product-specifications/)    
-    - [User guide](https://inivation.github.io/inivation-docs/Hardware%20user%20guides/User_guide_-_DVS128.html)
+    - [NRV (Neuro Reality Vision)](https://nrv.kr) produces and sells the DELTA line of DVS event cameras from Samsung silicon.
+    - [iniVation AG](https://inivation.com/), merged into [Synsense](https://www.synsense.ai/), produces and sells the hyrbrid HVS DAVIS from the [Sensors Group](https://sensors.ini.ch) Towerjazz silicon and pure DVS DVXplorer event cameras from Samsung silicon. [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Jakobsen.pdf) by [S. E. Jakobsen](https://inivation.com/company/), board member of iniVation.
+    - [Prophesee](http://www.prophesee.ai) sells multiple generations of DVS cameras from Sony silicon.
     - [Introductory videos about the DVS technology](https://inivation.com/dvs/videos/)
-    - [iniVation AG](https://inivation.com/) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*. [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Jakobsen.pdf) by [S. E. Jakobsen](https://inivation.com/company/), board member of iniVation.
-    - [Event Cameras - Tutorial - Tobi Delbruck, version 4](https://youtu.be/Th4TM4SsFGY)
+    - [Event Cameras Tutorial - Tobi Delbruck, version 4.1](https://youtu.be/D6rv6q9XyWU), Sep. 18, 2020.
 - **Samsung's DVS**
     - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Eric_Ryu_Samsung.pdf) and [Video](https://youtu.be/7fAPckjQSGE) by [Hyunsurk Eric Ryu](https://www.linkedin.com/in/hyunsurk-eric-ryu-82745712), Samsung Electronics  (2019).
     - Suh et al., *[A 1280×960 Dynamic Vision Sensor with a 4.95-μm Pixel Pitch and Motion Artifact Minimization](https://doi.org/10.1109/ISCAS45731.2020.9180436)*, IEEE Int. Symp. Circuits and Systems (ISCAS), 2020.    
@@ -182,8 +140,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
       *A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS*.
     - **DAVIS (Dynamic and Active Pixel Vision Sensor)**: Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333-2341, 2014. [PDF](https://drive.google.com/file/d/0BzvXOhBHjRhea3RrelA1V0RKVWM/view)
         - [Product page at iniVation](https://inivation.com/dvs/).  [**Buy a DAVIS**](https://inivation.com/buy/)
-        - [Product specifications](https://inivation.com/support/product-specifications/)
-        - [User guide](https://inivation.github.io/inivation-docs/Hardware%20user%20guides/User_guide_-_DAVIS240.html)
+        - [User guide](https://docs.inivation.com/_static/hardware_guides/davis240.pdf) (discontinued; [current DAVIS346 specs](https://docs.inivation.com/hardware/current-products/davis346.html))
     - **DAVIS346**: Taverni, G; Paul Moeys, D; Li, C; Cavaco, C; Motsnyi, V; San Segundo Bello, D; Delbruck, T., *[Front and Back Illuminated Dynamic and Active Pixel Vision Sensors Comparison](http://dx.doi.org/10.1109/TCSII.2018.2824899)*, IEEE Trans. Circuits Syst. Express Briefs, 2018
     - **CDAVIS HVS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[An RGBW color VGA rolling and global shutter dynamic and active-pixel vision sensor](https://www.imagesensors.org/Past%20Workshops/2015%20Workshop/2015%20Papers/Sessions/Session_13/13-05_Li_Delbruck.pdf)*, Int. Image Sensors Worskhop, 2015.
         - Prototype only 
@@ -193,12 +150,11 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
         - Prototype, commercially n.a. 
     - **Sony HVS**: Kodama et al., [1.22μm 35.6Mpixel RGB Hybrid Event-Based Vision Sensor with 4.88μm-Pitch Event Pixels and up to 10K Event Frame Rate by Adaptive Control on Event Sparsity](http://dx.doi.org/10.1109/ISSCC42615.2023.10067520), ISSCC (2023)
         - Prototype only, commercially n.a. 
-- [**Insightness's Silicon Eye**](https://youtu.be/Y0mIb_MehK8) QVGA event sensor.
-    - [The Silicon Eye Technology](http://www.insightness.com/?p=361)
-    - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Insightness.pdf) and [Video](https://youtu.be/9IJwF9xYEoU) by [Stefan Isler](http://www.insightness.com/#team) (2019).
-    - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Insightness.pdf) and [Video](https://youtu.be/6YyOW6DDGKw) by [Christian Brandli](http://www.insightness.com/#team), CEO and co-founder of Insightness (2017).
+- [**Insightness's Silicon Eye**](https://youtu.be/Y0mIb_MehK8) QVGA event sensor (historical; company acquired by Sony in 2019).
+    - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Insightness.pdf) and [Video](https://youtu.be/9IJwF9xYEoU) by Stefan Isler (2019).
+    - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Insightness.pdf) and [Video](https://youtu.be/6YyOW6DDGKw) by Christian Brandli, CEO and co-founder of Insightness (2017).
 - [**PROPHESEE’s Metavision Sensor**](https://www.prophesee.ai/event-based-sensor-packaged/) and [**Software**](https://www.prophesee.ai/metavision-intelligence/)
-    - **ATIS** <a name="Posch11jssc"></a> (Asynchronous Time-based Image Sensor): Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011. [YouTube](https://youtu.be/YQ8rT9Harb4), [YouTube](https://youtu.be/3Wiw8LA8hLs)
+    - <a name="Posch11jssc"></a>**ATIS** (Asynchronous Time-based Image Sensor): Posch, C., Matolin, D., Wohlgenannt, R. (2011). *[A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS](http://doi.org/10.1109/JSSC.2010.2085952)*, IEEE J. Solid-State Circuits, 46(1):259-275, 2011. [YouTube](https://youtu.be/YQ8rT9Harb4), [YouTube](https://youtu.be/3Wiw8LA8hLs)
     - Prophesee Gen4 is described in: Finateu et al., *[A 1280×720 Back-Illuminated Stacked Temporal Contrast Event-Based Vision Sensor with 4.86μm Pixels, 1.066GEPS Readout, Programmable Event-Rate Controller and Compressive Data-Formatting Pipeline](https://doi.org/10.1109/ISSCC19947.2020.9063149)*, IEEE Int. Solid-State Circuits Conf. (ISSCC), 2020, pp. 112-114.
     - [**Buy a Prophesee packaged sensor VGA**](https://www.prophesee.ai/event-based-sensor-packaged)
     - [Prophesee Cameras Specifications](https://www.prophesee.ai/event-based-evaluation-kits/)
@@ -207,7 +163,6 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
     - [Documentation and tutorials](https://docs.prophesee.ai/)
     - [Knowledge Base](https://support.prophesee.ai/portal/en/kb/prophesee-1) and [Community Forum](https://support.prophesee.ai/portal/en/community/forum)
 - [**SONY's explanation of Event-based Vision Sensor (EVS) Technolgy**](https://www.sony-semicon.com/en/technology/industry/evs.html)
-- [**CelePixel**](http://www.celepixel.com/), Shanghai. CeleX-V: the first 1 Mega-pixel event-camera sensor.
 - **Sensitive DVS (sDVS)**
     - All are prototypes, commerically n.a.
     - Leñero-Bardallo, J. A., Serrano-Gotarredona, T., Linares-Barranco, B., *[A 3.6us Asynchronous Frame-Free Event-Driven Dynamic-Vision-Sensor](https://doi.org/10.1109/JSSC.2011.2118490)*,  IEEE J. of Solid-State Circuits, 46(6):1443-1455, 2011.
@@ -231,15 +186,16 @@ arXiv [cs.CV] (2022) [CSDVS videos](https://sites.google.com/view/csdvs/home)
 
 <a name="companies_sftwr"></a>
 # Companies working on Event-based Vision
-- [iniVation AG](https://inivation.com/) invents, produces and sells neuromorphic vision sensors (DAVIS, DVExplorer, and others), with a focus on event-based vision for business; supplies the advanced [DV event camera software](https://docs.inivation.com/software/introduction.html).
+- [iniVation AG](https://inivation.com/), now merged with [Synsense](https://www.synsense.ai), produces and sells neuromorphic vision sensors (DAVIS, DVExplorer, and others); supplies the advanced [DV event camera software](https://docs.inivation.com/software/introduction.html).
 - [iniLabs AG](https://inilabs.com/) invents neuromorphic technologies for *research*.
 - [Samsung](http://www.samsung.com) develops Gen2 and Gen3 dynamic vision sensors and event-based vision solutions.
     - [IBM Research](http://www.research.ibm.com/articles/brain-chip.shtml) ([Synapse project](http://www.research.ibm.com/cognitive-computing/brainpower/)) and Samsung partenered to combine the [TrueNorth chip (brain) with a DVS (eye)](https://www.cnet.com/news/samsung-turns-ibms-brain-like-chip-into-a-digital-eye/).
-- [Prophesee](http://www.prophesee.ai) (Formerly [Chronocam](http://www.chronocam.com/)) is the inventor and supplier of 4 Event-Based sensors generations, including commercial-grade versions as well as industry’s largest software suite. The company focuses on Industrial, Mobile-IoT and Automotive applications.
-- [Insightness AG](http://www.insightness.com/) built visual systems to give mobile devices spatial awareness. [The Silicon Eye](http://www.insightness.com/?p=361) Technology. Aquired by Sony in 2019 and part of Sony Advanced Imager Sensors division.
+- [Prophesee](http://www.prophesee.ai) (Formerly [Chronocam](http://www.chronocam.com/)) supplies multiple generations of DVS sensors, including commercial-grade versions as well as their [MetaVision software](https://www.prophesee.ai/metavision-intelligence/). The company focuses on Industrial, Mobile-IoT and Automotive applications.
+- [NRV (Neuro Reality Vision)](https://nrv.kr) produces and sells the DELTA line of DVS event cameras from Samsung silicon.
+- [DVSense](https://www.dvsense.com/en/home_en/) (founded 2023 by Min Liu and partners from Sensors Group and ETH Zurich) produces DVS and HVS (2-chip) cameras (DVSLume, DVSLume-G1, DVSync) with USB-C and gigabit Ethernet interfaces, and software for industrial, robotics, and automotive use.
+- The former Insightness AG built visual systems to give mobile devices spatial awareness ([Silicon Eye video](https://youtu.be/Y0mIb_MehK8)). Acquired by Sony in 2019 and part of Sony Advanced Image Sensors division. The old insightness.com pages now redirect to [Sony Semiconductor Solutions](https://www.sony-semicon.com/en/).
 - [SLAMcore](https://www.slamcore.com/) develops Localisation and mapping solutions for AR/VR, robotics & autonomous vehicles.
-- [CelePixel](https://www.celepixel.com) (formerly Hillhouse Technology) offer integrated sensory platforms that incorporate various components and technologies, including a processing chipset and an image sensor (a dynamic vision sensor called CeleX).
-- [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/) sells neuromorphic sensor products.
+- [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/) formerly sold neuromorphic sensor products.
     - [Inspection during production of carton packs](https://www.youtube.com/watch?v=8PZmb2z2bXw&index=39&list=PL659671AC92E70F19)
     - [UCOS Universal Counting Sensor](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_People-Counting-Sensor_en.pdf)
     - [IVS Industrial Vision Sensor](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_Industrial-Vision-Sensor_en.pdf)
@@ -734,7 +690,7 @@ IET Conference Proceedings CP887, vol. 2024, no. 10, pp. 87–94.
 ## Optical Flow Estimation
 - <a name="Benosman12neunet"></a>Delbruck, T.,  
 *[Frame-free dynamic digital vision](https://www.research-collection.ethz.ch/handle/20.500.11850/81769),*  
-Int. Symp. on Secure-Life Electronics, Advanced Electronics for Quality Life and Society, pp. 21-26, 2008. [PDF](www.ini.uzh.ch/admin/extras/doc_get.php?id=42508)
+Int. Symp. on Secure-Life Electronics, Advanced Electronics for Quality Life and Society, pp. 21-26, 2008. [PDF](https://www.ini.uzh.ch/admin/extras/doc_get.php?id=42508)
 - [Cook et al., IJCNN 2011](#Cook11ijcnn),  
 *Interacting maps for fast visual interpretation*.  (Joint estimation of optical flow, image intensity and angular velocity with a rotating event camera).
 - <a name="Benosman12neunet"></a>Benosman, R., Ieng, S.-H., Clercq, C., Bartolozzi, C., Srinivasan, M.,  
@@ -1173,7 +1129,6 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2023. [PDF](https://arxiv.org
     - <a name="Wang21iccv"></a>Wang, Z., Ng, Y., Scheerlinck, C., Mahony., R.,  
 *[An Asynchronous Kalman Filter for Hybrid Event Cameras](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.html)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.pdf), [Code](https://github.com/ziweiWWANG/AKF), [YouTube](https://www.youtube.com/watch?v=XPz7laloKws), [Suppl](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_An_Asynchronous_Kalman_ICCV_2021_supplemental.pdf).
-<a name="super-resolution"></a>
 - <a name="Chen23IROS"></a>Chen, J., Zhu, Y., Lian, D., Yang, J., Wang, Y., Zhang, R., Liu, X., Qian, S., Kneip, L., Gao, S.,  
 *[Revisiting Event-Based Video Frame Interpolation](https://ieeexplore.ieee.org/abstract/document/10341804)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2023. [PDF](https://arxiv.org/pdf/2307.12558.pdf), [Project](https://jiabenchen.github.io/revisit_event)
@@ -1199,7 +1154,7 @@ AAAI Conf. Artificial Intelligence, 2025. [PDF](https://ojs.aaai.org/index.php/A
 *[Event-based Continuous Color Video Decompression from Single Frames](https://arxiv.org/pdf/2312.00113.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [Project page](https://www.cis.upenn.edu/~ziyunw/continuity_cam/)
 
-### Image super-resolution
+### <a id="super-resolution" name="super-resolution"></a>Image super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
 *[Super-resolution of spatiotemporal event-stream image](https://doi.org/10.1016/j.neucom.2018.12.048)*,  
 Neurocomputing, 335:206-214, 2019. [PDF pre-print](https://arxiv.org/abs/1802.02398)
@@ -1819,7 +1774,7 @@ Sensors 22 (15), 5687.
 *[DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions](https://arxiv.org/abs/2202.02556)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/abs/2202.02556), [YouTube](https://www.youtube.com/watch?v=RqAAA4MOqRI)
 - <a name="Hidalgo22cvpr"></a>Hidalgo-Carrió J., Gallego, G., Scaramuzza, D.,  
-*[EDS: Event-aided Direct Sparse Odometry](https://rpg.ifi.uzh.ch/docs/CVPR22_Hidalgo.pdf )*,  
+*[EDS: Event-aided Direct Sparse Odometry](https://rpg.ifi.uzh.ch/docs/CVPR22_Hidalgo.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2022. [Poster](https://rpg.ifi.uzh.ch/docs/CVPR22_Hidalgo_poster.pdf),  [YouTube](https://youtu.be/Y97Sg4YTRh0),  [Project page and dataset](https://rpg.ifi.uzh.ch/eds.html), [Code](https://github.com/uzh-rpg/eds-buildconf)
 - <a name="Gao23iccv"></a>Gao, L., Su, H., Gehrig, D., Cannici, M., Scaramuzza, D., Kneip, L.,  
 *[A 5-Point Minimal Solver for Event Camera Relative Motion Estimation](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_A_5-Point_Minimal_Solver_for_Event_Camera_Relative_Motion_Estimation_ICCV_2023_paper.pdf)*,  
@@ -2583,14 +2538,13 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2022. [PDF](https://arxiv.org/pd
 - <a name="Zhang23tci"></a>Zhang, P., Ge, Z., Song, L., Lam, E. Y.,   
 *[Neuromorphic Imaging with Density-based Spatiotemporal Denoising](https://doi.org/10.1109/TCI.2023.3281202)*,  
 IEEE Trans. Comput. Imaging (TCI), 2023. [PDF](https://www.eee.hku.hk/optima/pub/journal/2305_TCI.pdf), [Code](https://github.com/pz-even/event_denoise)
-<a name="compression"></a>
 - [Shiba et al. TPAMI 2024](#Shiba24tpami),  
 *Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
 - <a name="Zhao24iccad"></a>Zhao, Q., Wang, J., Ji, Y., Wu, J., Shi, G.,  
 *[An O(m+n)-Space Spatiotemporal Denoising Filter with Cache-Like Memories for Dynamic Vision Sensors](https://dl.acm.org/doi/10.1145/3676536.3676710)*,  
 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024.
 
-### Compression
+### <a id="compression" name="compression"></a>Compression
 - <a name="Khan20access"></a>Khan, N., Iqbal, K., Martini, M. G.,  
 *[Lossless compression of data from static and mobile Dynamic Vision Sensors - Performance and trade-offs](https://doi.org/10.1109/ACCESS.2020.2996661)*,  
 IEEE Access, 2020.
@@ -2712,7 +2666,6 @@ arXiv, 2021. [Video](https://drive.google.com/file/d/1q9QwPvkd7ZcEBcGMIxIVy2r_iR
 - <a name="Wang22iros"></a> Wang, Z., Cladera Ojeda, F., Bisulco A., Lee, D., Taylor, C. J., Daniilidis, K., Hsieh, A. M., Lee, D. D., Isler, V.,  
 *[EV-Catcher: High-Speed Object Catching Using Low-Latency Event-Based Neural Networks](https://doi.org/10.1109/LRA.2022.3188400)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.  
-<a name="obstacle_avoidance"></a>
 - <a name="Ayyad21arxiv"></a>Nair, G.B., Milford, M., Fischer, T.,   
 *[Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras](https://doi.org/10.1109/IROS58592.2024.10802384)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [Video](https://youtu.be/8D9gtHqteEQ), [Webpage](https://gokulbnr.github.io/publication/dvs-biasing-vpr), [Code](https://github.com/gokulbnr/fast-slow-biased-event-vpr), [Dataset](https://huggingface.co/datasets/gokulbnr/QCR-Fast-Slow-Event-Dataset), [Poster](https://gokulbnr.github.io/files/2024-Poster.pdf).
@@ -2726,7 +2679,7 @@ Neuromorphic Computing and Engineering. vol 5, pp. 024012, 2025.
 *[Towards Event-Driven, End-to-End UAV Tracking Using Deep Reinforcement Learning](https://doi.org/10.1145/3728482.3757384)*,  
 UAVM '25: Proceedings of the 3rd International Workshop on UAVs in Multimedia: Capturing the World from a New Perspective, 2025.
 
-## Obstacle Avoidance
+## <a id="obstacle_avoidance" name="obstacle_avoidance"></a>Obstacle Avoidance
 - <a name="Clady14fnins"></a>Clady, X., Clercq, C., Ieng, S.H., Houseini, F., Randazzo, M., Natale, L., Bartolozzi, C., Benosman, R.,  
 *[Asynchronous visual event-based time-to-contact](https://dx.doi.org/10.3389%2Ffnins.2014.00009)*,  
 Front. Neurosci. (2014). 8:9.  
@@ -3112,6 +3065,7 @@ IEEE Int. Conf. on Automatic Face and Gesture Recognition (FG), 2018.
 IEEE Innovations Intell. Syst. Appl. Conf. (ASYU), 2023.
 
 <a name="simulators-emulators"></a>
+<a name="simulators"></a>
 # Simulators and Emulators
 - <a name="Katz12iscas"></a>Katz, M. L., Nikolic, K., Delbruck, T. (2012),  
 *[Live demonstration: Behavioural emulation of event-based vision sensors](https://doi.org/10.1109/ISCAS.2012.6272143)*,  
@@ -3405,19 +3359,24 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Project page a
 
 <a name="drivers"></a>
 ## Drivers
-- [jAER (java Address-Event Representation) project](http://jaerproject.org/). *Real time sensory-motor processing for event-based sensors and systems*. [github page](https://github.com/SensorsINI/jaer). [jAER User Guide](https://docs.google.com/document/d/1fb7VA8tdoxuYqZfrPfT46_wiT1isQZwTHgX8O22dJ0Q/edit?usp=sharing)
-- [caer (AER event-based framework, written in C, targeting embedded systems)](https://github.com/inilabs/caer)
-- [libcaer (Minimal C library to access, configure and get/send AER data from sensors or to/from neuromorphic processors)](https://gitlab.com/inivation/dv/libcaer)
-- [evl (Open Source Computer Vision Library for Event-based camera and vision for C++)](https://github.com/EventVisionLibrary/evl)
-- [ROS (Robotic Operating System)](https://github.com/uzh-rpg/rpg_dvs_ros)
+- [jAER](https://github.com/SensorsINI/jaer/#readme). *Cross-platform (Linux, Windows, MacOS) desktop application for event cameras and silicon cochleas from most manufacturers. (Major 2026 refactoring)*
+- [neuromorphic-drivers](https://github.com/neuromorphicsystems/neuromorphic-drivers#direct-memory-access). *Python and fast Rust USB interfacing for real time event camera use*.
+- [dv-processing](https://gitlab.com/inivation/dv/dv-processing). *C++ and Python library for iniVation event cameras; current replacement for libcaer*. [Docs](https://dv-processing.inivation.com/master/index.html).
+- [dv-runtime](https://gitlab.com/inivation/dv/dv-runtime). *C++ event-based processing framework for neuromorphic cameras; successor to cAER*.
+- [cAER](https://gitlab.com/inivation/caer) (historical). *Former C framework for neuromorphic devices targeting embedded systems*. The old `inilabs/caer` GitHub URL is gone; last cAER release is on GitLab. Use dv-runtime instead.
+- [libcaer](https://gitlab.com/inivation/dv/libcaer) (deprecated, archived). *Minimal C library to access neuromorphic sensors*. iniVation recommends [dv-processing](https://gitlab.com/inivation/dv/dv-processing), but libcaer can still be useful for embedded Linux cameras.
+- [evl (Open Source Computer Vision Library for Event-based camera and vision for C++)](https://github.com/EventVisionLibrary/evl) (historical)
+- [ROS (Robotic Operating System)](https://github.com/uzh-rpg/rpg_dvs_ros) (historical, may have forks)
 - [YARP (Yet Another Robot Platform)](https://github.com/robotology/event-driven)
 - [Prophesee ROS Wrapper](https://github.com/prophesee-ai/prophesee_ros_wrapper) ROS driver and messages for Prophesee event-based sensors
 - [Prophesee camera plugins](https://docs.prophesee.ai/stable/installation/camera_plugins.html)
-- [CeleX5 ROS Wrapper](https://github.com/kehanXue/CeleX5-ROS) A ROS driver and some other tools for [CeleX5_MP](http://www.celepixel.com/#/Samples) event-based sensor (which has a high resolution at 1280×800)
-- [PyAER](https://github.com/duguyue100/pyaer) A lightweight python wrapper of libcaer; used for e.g. [Dextra](https://github.com/SensorsINI/dextra-roshambo-python) and [Trixsy](https://github.com/SensorsINI/joker-network) robots and [PDAVIS e2p demo](https://github.com/SensorsINI/e2p).
+- [OpenEB](https://github.com/prophesee-ai/openeb). *Prophesee's own open-source SDK, not a third-party MetaVision alternative.* It is the open modules of Metavision SDK (Base, Core, Core ML, Stream, UI, HAL) plus the Prophesee camera plugin. Use it to stream from Prophesee cameras and build plugins without the commercial Metavision SDK / SDK 5 PRO. [Docs](https://docs.prophesee.ai/stable/installation/linux_openeb.html). Also listed under [Software / Algorithms](#software-algorithms).
+- [CeleX5 ROS Wrapper](https://github.com/kehanXue/CeleX5-ROS) (historical). ROS tools for the CeleX5-MP 1280×800 sensor. CelePixel cameras are no longer sold; [celepixel.com](http://www.celepixel.com) is gone. CelePixel was acquired by Will Semiconductor / OmniVision. Remaining code: [CelePixel on GitHub](https://github.com/CelePixel).
+- [PyAER](https://github.com/duguyue100/pyaer) A lightweight python wrapper of Inivations's libcaer; used for e.g. [Dextra](https://github.com/SensorsINI/dextra-roshambo-python) and [Trixsy](https://github.com/SensorsINI/joker-network) robots and [PDAVIS e2p demo](https://github.com/SensorsINI/e2p).
 
 <a name="synchronization"></a>
 ## Synchronization
+- [jAER](https://jaerproject.org) records from multiple devices using host timestamp reset. For devices that offer electrical synchronization (e.g. see [inivation sychronization notes](https://docs.inivation.com/hardware/hardware-advanced-usage/external-camera-sync.html)), the multi-stream AEDAT-4 recording will remain synchronized over long recordings. jAER records external input events that mark e.g. frame-camera sync signals from the event camera sync input pin.
 - [Sync Toolbox](https://github.com/sjtuyuxuan/sync_toolbox). This open-source toolbox provides a QT-based GUI to allow easy access for hardware-level multi-sensor synchronization (Prophesee Gen 3.1 included and tested). After proper configuration of the software, users can seamlessly record new ROS bags.
 - <a name="Li23icira"></a>Li, W.X., Dong, Y., Qiu, S.Q., Han, B.,  
 *[Hardware-Free Event Cameras Temporal Synchronization Based on Event Density Alignment](https://link.springer.com/chapter/10.1007/978-981-99-6498-7_6)*,  
@@ -3470,7 +3429,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2026. [Suppl.](https:
 
 <a name="software-algorithms"></a>
 ## Algorithms
-- [jAER event-processing filters](https://docs.google.com/document/d/1fb7VA8tdoxuYqZfrPfT46_wiT1isQZwTHgX8O22dJ0Q/edit#bookmark=id.a27r41y53r3t) in the [jAER (java Address-Event Representation) project](http://jaerproject.org/)
+- [jAER event-processing filters](https://docs.google.com/document/d/1fb7VA8tdoxuYqZfrPfT46_wiT1isQZwTHgX8O22dJ0Q/edit#bookmark=id.a27r41y53r3t) in [jAER (java Address-Event Representation)](http://jaerproject.org/)
 - [A collection of tracking and detection algorithms](https://github.com/robotology/event-driven) using the YARP framework
 - [Some detection and tracking algorithms](https://github.com/EventVisionLibrary/evl) in EVL
 - Prophesee Open Source library - [OpenEB](https://github.com/prophesee-ai/openeb)
@@ -3481,8 +3440,8 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2026. [Suppl.](https:
     - [EV-FlowNet](https://github.com/daniilidis-group/EV-FlowNet), associated to the paper [Zhu et al., RSS 2018](#Zhu18rss).
 - **Feature Tracking**
     - [Event-based Feature Tracking with Probabilistic Data Association](https://github.com/daniilidis-group/event_feature_tracking), associated to the papers [Zhu et al., ICRA 2017](#Zhu17icra) and [Zhu et al., CVPR 2017](#Zhu17cvpr).
-    - [Tracking code](https://github.com/uzh-rpg/rpg_eklt) associated to the paper [Gehrig et al., IJCV 2019]("#Gehrig19ijcv)".
-    - [Evaluation code](https://github.com/uzh-rpg/rpg_feature_tracking_analysis) associated to the paper [Gehrig et al., IJCV 2019]("#Gehrig19ijcv)".
+    - [Tracking code](https://github.com/uzh-rpg/rpg_eklt) associated to the paper [Gehrig et al., IJCV 2019](#Gehrig19ijcv).
+    - [Evaluation code](https://github.com/uzh-rpg/rpg_feature_tracking_analysis) associated to the paper [Gehrig et al., IJCV 2019](#Gehrig19ijcv).
 - **Intensity-Image reconstruction from events**
     - [Code for intensity reconstruction](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events), inspired by the paper [Kim et al., BMVC 2014](#Kim14bmvc).
     - [DVS Reconstruction code](https://github.com/VLOGroup/dvs-reconstruction) associated to the paper [Reinbacher et al., BMVC 2016](#Reinbacher16bmvc).
@@ -3578,6 +3537,47 @@ ACM/SIGDA Int. Symp. Field-Programmable Gate Arrays (FPGA), 2022. [Code](https:/
 - [Event-based Robot Vision at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision).
     - [YouTube videos and Slides with links](https://www.youtube.com/channel/UCuuIEatPpBZQkQ_kSoeZtCQ/videos)
 - [Projects course: Bio-inspired Computer (Event-based) Vision at TU Berlin](https://sites.google.com/view/guillermogallego/teaching/bio-inspired-computer-vision)
+
+<br><br>
+<a name="past-events"></a>
+<a name="workshops"></a>
+# Past Events
+- [Workshop on Neuromorphic Robotic Systems (NeuRoSys) at RSS 2026](https://sites.google.com/view/neurosys2026), July 13th, 2026.
+- [NFRA: Challenges and Opportunities of Neuromorphic Field Robotics and Automation at ICRA 2026](https://nfr-icra2026.com), June 5, Vienna.
+- [URVIS: Unified Robotic Vision with Cross-Modal Sensing and Alignment at CVPR 2026](https://urvis-workshop.github.io)
+- [OVS: On Sensor Vision (OSV) Workshop at CVPR 2026](https://onsensor-vision.github.io)
+- [EVS 2026: Event Vision School 2026](https://edpr.iit.it/events/2026-evs), May 17-23, Arenzano.
+- [WACV 2026 EVGEN: 2nd Worksgop on Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation](https://eventbasedvision.github.io/EVGEN2026/), March 6, 2026.
+- [Innovative Neuromorphic Vision Sensors (INVISIONS) workshop, 2026](https://joint-research-centre.ec.europa.eu/events/innovative-neuromorphic-vision-sensors-invisions-workshop-2026-02-05_ent), February 5, 2026.
+- [SPIE Photonics West. Vision Tech Forum. Neuromorphic Sensing in Motion: From Event-Based Vision to Adaptive Intelligence](https://spie.org/photonics-west/event/vision-tech-event-based-session-neuromorphic-sensing-in-motion-from-event-based-vision-to-adaptive-intelligence/7101335), January 2026.
+- [IROS 2025 Workshop on Event-Based Vision. And Stereo SLAM Challenge](https://eventvision-robotics.github.io/iros_workshop/)
+- [IROS 2025 Workshop on Neuromorphic Perception for Real World Robotics (NeuRobots 2025)](https://sites.google.com/view/neurobots2025)
+- [ICCV 2025 2nd Workshop on Neuromorphic Vision (NeVi)](https://sites.google.com/view/nevi-2025/)
+- [DSP 2025 Special Session on Event-based Vision: “Processing the Neuromorphic Signal: Event-based Vision and Applications”](https://2025.ic-dsp.org/special-session-4/)
+- [2025 Telluride Neuromorphic Cognition Engineering Workshop](https://sites.google.com/view/telluride-2025/home)
+- [IEEE T-RO Special Collection on Event-based Vision for Robotics, 2025](https://www.ieee-ras.org/publications/t-ro/special-issues/event-based-vision-for-robotics)
+- [CVPR 2025 Fifth International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2025)
+- [WACV 2025 EVGEN: Event-based Vision in the Era of Generative AI - Transforming Perception and Visual Innovation](https://eventbasedvision.github.io/EVGEN2025/)
+- [IROS 2024 Workshop on Embodied Neuromorphic AI for Robotic Perception and Control](https://sites.google.com/view/iros-2024-workshop)
+- [ECCV 2024 Workshop on Neuromorphic Vision (NeVi)](https://sites.google.com/view/nevi2024), **[Slides](https://sites.google.com/view/nevi2024/program)**
+- [ECCV 2024 1st Workshop on Neural Fields Beyond Conventional Cameras](https://neural-fields-beyond-cams.github.io/)
+- [Caméra à événements appliquée à la robotique, Sorbonne University, Paris (Nov. 16th, 2023)](https://tub-rip.github.io/eventvision2023/slides/2023-11_Workshop_event_cameras_Sorbonne.pdf)
+- [CVPR 2023 Fourth International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2023), **[Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK)**
+- [IEEE Embedded Vision Workshop Series](https://embeddedvisionworkshop.wordpress.com), with focus on Biologically-inspired vision and embedded systems.
+- [IISW 2023 Int. Image Sensor Workshop](https://imagesensors.org/2023-international-image-sensor-workshop/)
+- [MFI 2022 First Neuromorphic Event Sensor Fusion Workshop](https://sites.google.com/view/eventsensorfusion2022/home) with videos incl. _Event Sensor Fusion Jeopardy_ game - Virtual. **[Videos](https://youtube.com/playlist?list=PLVtZ8f-q0U5gXhjN4inwWZi66bp5vp-lN)**
+- [tinyML Neuromorphic Engineering Forum](https://www.tinyml.org/event/tinyml-neuromorphic-engineering-forum/) - Virtual, 2022. **[Videos](https://www.youtube.com/playlist?list=PLeisuBi-nfBM5HayCqF4KMBaJciV5UkLX)**
+- [ICCV 2021 Tutorial. Introduction to Event Detection Cameras](https://tub-rip.github.io/eventvision2021/slides/ICCV2021Tutorial.pdf)
+- [CVPR 2021 Third International Workshop on Event-based Vision](https://tub-rip.github.io/eventvision2021) - Virtual. **[Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If95mjNpA-y-WIoDaoB8WtmE7)**
+- [ICRA 2020 Workshop on Unconventional Sensors in Robotics](https://sites.google.com/view/unconventional-sensors) - Virtual. **[Videos](https://www.youtube.com/playlist?list=PLtW5yHT6tQuD4sLzkldzZEyQ4hz77K64-)**
+- [Neuro-Inspired Computational Elements (NICE) Workshop Series](https://niceworkshop.org/nice-2019/). **[Videos](https://www.youtube.com/channel/UCKTLpjY9e8cMK12d2-Z-usA)**
+- [Capo Caccia Workshops toward Cognitive Neuromorphic Engineering](http://capocaccia.iniforum.ch/).
+- [The Telluride Neuromorphic Cognition Engineering Workshops](https://tellurideneuromorhic.org). **[Videos](https://sites.google.com/view/telluride2020/about-workshop/videos)**, Telluride 2020 (Online): **[Videos](https://www.youtube.com/playlist?list=PLG-iqBTOyCO5NAbqbsHPPnL9h35z0ooSE)**, **[Slides](https://drive.google.com/drive/folders/1lmUSjZoDb7yc_HO9xw0M5J4fIGRIfu_u)**
+- [CVPR 2019 Second International Workshop on Event-based Vision and Smart Cameras](http://rpg.ifi.uzh.ch/CVPR19_event_vision_workshop.html). **[Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If97iGiuBHmnW8IFIxwvSeCHx)**
+- [IROS 2018 Unconventional Sensing and Processing for Robotic Visual Perception](https://www.jmartel.net/irosws-home).
+- [ICRA 2017 First International Workshop on Event-based Vision](http://rpg.ifi.uzh.ch/ICRA17_event_vision_workshop.html). **[Videos](https://www.youtube.com/playlist?list=PLeXWz-g2If94k8mw6GcKU5C9PUgM1sK0U)**
+- [IROS 2015 Event-Based Vision for High-Speed Robotics (slides)](http://www.rit.edu/kgcoe/iros15workshop/papers/IROS2015-WASRoP-Invited-04-slides.pdf), Workshop on Alternative Sensing for Robot Perception.
+- [ICRA 2015 Workshop on Innovative Sensing for Robotics](http://innovative-sensing.mit.edu/), with a focus on Neuromorphic Sensors.
 
 <br><br>
 <a name="theses"></a>
@@ -3764,7 +3764,7 @@ MSc. Thesis, Politecnico di Torino, Italy, 2019.
 *[Motion Equivariance of Event-based Camera Data with the Temporal Normalization Transform](https://arxiv.org/pdf/1911.12801)*,  
 MSc. Thesis, University of Pennsylvania, USA, 2019.
 - <a name="Boettiger20MSc"></a>Boettiger, J. P.,  
-*[A Comparative Evaluation of the Detection and Tracking Capability Between Novel Event-Based and Conventional Frame-Based Sensors](https://scholar.afit.edu/etd/3154 )*,  
+*[A Comparative Evaluation of the Detection and Tracking Capability Between Novel Event-Based and Conventional Frame-Based Sensors](https://scholar.afit.edu/etd/3154)*,  
 MSc. Thesis, Air Force Institute of Technology, USA, 2020. [PDF](https://scholar.afit.edu/cgi/viewcontent.cgi?article=4155&context=etd)
 - <a name="Friedel20MSc"></a>Friedel, Z. P.,  
 *[Event-Based Visual-Inertial Odometry Using Smart Features](https://scholar.afit.edu/etd/3172/)*,  
