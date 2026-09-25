@@ -2,12 +2,10 @@
 
 <a name="upcoming-events"></a>
 # Upcoming Events and Paper Calls
+- [ACCV 2026 Workshop on on Advances in Event-based Computer Vision](https://app.notion.com/p/keio-univ/Call-for-Papers-AECV-2026-0d7ccea98d4d4b18947048d81ba46937)
 - [IET Image Processing Special Issue on "Event-Based Cameras and Image Processing: Applications, Benchmarks, and Future Directions"](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17519667/homepage/call-for-papers/si-2026-000275), paper submission until November 30, 2026.
-- [ECCV 2026 Workshop on Event-Based Multimodal Vision (EBMV): Imaging, Perception, and Understanding](https://eventbasemultimodalvision.github.io), Sept. 2026.
-- [ECCV 2026 Workshop on Neuromorphic Vision (NeVi): Advantages and Applications of Event Cameras](https://sites.google.com/view/nevi2026), Sept. 2026.
-- [Past Events](#past-events)
+- **[Past Events](#past-events)**
 
-## <a href="https://www.neuropac.info/">NeuroPAC</a>
 ## <a href="https://hylz-2019.github.io/Neuro_Vision_Map/map.html">Map of event-based institutions (from papers)</a>
 [![Neuro Vision Map](docs/img/map_of_event_based_institutions.jpg)](https://hylz-2019.github.io/Neuro_Vision_Map/map.html)
 
@@ -3542,6 +3540,8 @@ ACM/SIGDA Int. Symp. Field-Programmable Gate Arrays (FPGA), 2022. [Code](https:/
 <a name="past-events"></a>
 <a name="workshops"></a>
 # Past Events
+- [ECCV 2026 Workshop on Event-Based Multimodal Vision (EBMV): Imaging, Perception, and Understanding](https://eventbasemultimodalvision.github.io), Sept. 2026.
+- [ECCV 2026 Workshop on Neuromorphic Vision (NeVi): Advantages and Applications of Event Cameras](https://sites.google.com/view/nevi2026), Sept. 2026.
 - [Workshop on Neuromorphic Robotic Systems (NeuRoSys) at RSS 2026](https://sites.google.com/view/neurosys2026), July 13th, 2026.
 - [NFRA: Challenges and Opportunities of Neuromorphic Field Robotics and Automation at ICRA 2026](https://nfr-icra2026.com), June 5, Vienna.
 - [URVIS: Unified Robotic Vision with Cross-Modal Sensing and Alignment at CVPR 2026](https://urvis-workshop.github.io)
