@@ -2371,6 +2371,9 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS) Workshop on Neuromorph
 - <a name="Maacaron25ijcnn"></a>Maacaron, B., Müller-Cleve, S. F., Glover, A., Bartolozzi, C.,  
 *[Persistent Representation of Event Camera Output Using Spiking Neural Networks](https://doi.org/10.1109/ijcnn64981.2025.11228097)*,  
 Int. Joint Conf. on Neural Networks (IJCNN), 2025. [YouTube](https://youtu.be/A1NKZnPdYfo)
+- <a name="Polizzi26eccv"></a>Polizzi, V., Lindell, D. B., Kelly, J.,  
+*[An RGB- and Event-Aligned Latent Manifold for Cross-Modal Perception](https://doi.org/10.1007/978-3-032-37369-4_1)*,  
+European Conf. Computer Vision (ECCV), 2026, pp. 1-20. [Project page](https://papers.starslab.ca/realm/)
 
 
 <a name="learning-regression"></a>
@@ -2489,6 +2492,9 @@ IEEE Signal Process. Mag., 36(6):29-37, Nov. 2019.
 - <a name="Sengupta21ciss1"></a>Sengupta, J. P., Villemur, M., Andreou, A. G.,  
 *[A Spike-based Cellular-Neural Network Architecture for Spatiotemporal filtering](https://doi.org/10.1109/CISS50987.2021.9400308)*,  
 55th Annual Conf. on Information Sciences and Systems (CISS), 2021, pp. 1-6.
+- <a name="Polizzi26threedv"></a>Polizzi, V., Yang, S., Clark, Q., Kelly, J., Gilitschenski, I., Lindell, D. B.,  
+*[VibES: Induced Vibration for Persistent Event-Based Sensing](https://doi.org/10.1109/3DV69130.2026.00035)*,  
+IEEE Int. Conf. 3D Vision (3DV), 2026. [Project page](https://papers.starslab.ca/vibes/)
 
 
 <a name="denoising"></a>
