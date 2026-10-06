@@ -568,6 +568,9 @@ IEEE/CVF Int. Conf. Computer Vision (ICCV) Workshop on Neuromorphic Vision (NeVi
 - <a name="Burkhardt25iccv"></a>Burkhardt, Y., Schaefer, S., Leutenegger, S.  
 *[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](https://openaccess.thecvf.com/content/ICCV2025/html/Burkhardt_SuperEvent_Cross-Modal_Learning_of_Event-based_Keypoint_Detection_for_SLAM_ICCV_2025_paper.html).*,  
 IEEE/CVF Int. Conf. Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2504.00139), [YouTube](https://youtu.be/YWBr8oChfDE?si=DnR1gnQ-MSbFl7Ru), [Code](https://github.com/ethz-mrl/SuperEvent), [Project page](https://ethz-mrl.github.io/SuperEvent/)
+- <a name="Zhang26eccv"></a>Zhang, R., Su, H., Daniilidis, K., Wang, Z.,  
+*[Match-Any-Events: Zero-Shot Motion-Robust Feature Matching Across Wide Baselines for Event Cameras](https://doi.org/10.1007/978-3-032-37517-9_18)*,  
+European Conf. Computer Vision (ECCV), 2026. [PDF](https://arxiv.org/pdf/2604.18744), [Code](https://github.com/spikelab-jhu/Match-Any-Events).
 
 <a name="corner-detection"></a>
 ### Corner Detection and Tracking
@@ -1150,7 +1153,7 @@ European Conf. Computer Vision (ECCV), 2024. [Code](https://github.com/ZhijingS/
 AAAI Conf. Artificial Intelligence, 2025. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32967), [Code](https://github.com/QUEAHREN/MAT).
 - <a name="Wang25cvprw"></a>Wang, Z., Hamann, F., Chaney, K., Jiang, W., Gallego, G., Daniilidis, K.,  
 *[Event-based Continuous Color Video Decompression from Single Frames](https://arxiv.org/pdf/2312.00113.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [Project page](https://www.cis.upenn.edu/~ziyunw/continuity_cam/)
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [Project page](https://ziyunclaudewang.github.io/continuitycam/), [Code](https://github.com/ZiyunClaudeWang/event-continuitycam)
 
 ### <a id="super-resolution" name="super-resolution"></a>Image super-resolution
 - <a name="Li19neucom"></a>Li, H., Li, G., Shi, L.,  
@@ -1310,7 +1313,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [Pro
 ### Monocular Object Reconstruction
 - <a name="Wang22eccv"></a>Wang, Z., Chaney, K., Daniilidis, K.,  
 *[EvAC3D: From Event-based Apparent Contours to 3D Models via Continuous Visual Hulls](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670278.pdf)*,  
-European Conference on Computer Vision (ECCV), 2022. [PDF](https://arxiv.org/pdf/2304.05296.pdf), [Project Page](https://www.cis.upenn.edu/~ziyunw/evac3d/).
+European Conference on Computer Vision (ECCV), 2022. [PDF](https://arxiv.org/pdf/2304.05296.pdf), [Project Page](https://ziyunclaudewang.github.io/evac3d/), [Code](https://github.com/daniilidis-group/EvAC3D).
 - <a name="Chen23icvr"></a>Chen, H., Chung, V., Tan, L., Chen, X.,  
 *[Dense Voxel 3D Reconstruction Using a Monocular Event Camera](https://doi.org/10.1109/ICVR57957.2023.10169359)*,  
 Int. Conf. Virtual Reality (ICVR), 2023. [PDF](https://arxiv.org/pdf/2309.00385), [Dataset](https://www.kaggle.com/datasets/hche8927/synthevox3d).
@@ -1943,8 +1946,8 @@ arXiv, 2020.
 *[EMSGC: Event-based Motion Segmentation with Spatio-Temporal Graph Cuts](https://arxiv.org/pdf/2012.08730)*,  
 IEEE Trans. Neural Netw. Learn. Syst. (TNNLS), 2021.  [Project page](https://sites.google.com/view/emsgc),  [YouTube](https://youtu.be/ztUyNlKUwcM), [Code](https://github.com/HKUST-Aerial-Robotics/EMSGC.git).
 - <a name="Wang24eccv"></a>Wang, Z., Guo, J., Daniilidis, K.,  
-*[Un-EvMoSeg: Unsupervised Event-based Independent Motion Segmentation](https://arxiv.org/pdf/2312.00114.pdf)*,  
-European Conf. Computer Vision (ECCV), 2024.  [Project page](https://www.cis.upenn.edu/~ziyunw/un_evimo/).
+*[Un-EVIMO: Unsupervised Event-Based Independent Motion Segmentation](https://doi.org/10.1007/978-3-031-72640-8_13)*,  
+European Conf. Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/pdf/2312.00114.pdf), [Project page](https://ziyunclaudewang.github.io/un-evimo/), [Code](https://github.com/ZiyunClaudeWang/un-evimo).
 - <a name="Jiang24visapp"></a>Jiang, C., Moreau, J., Davoine, F.,  
 *[Event-based Semantic-aided Motion Segmentation](https://doi.org/10.5220/0012308100003660)*,  
 Int. Joint Conf. on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP), 2024.
@@ -2317,9 +2320,9 @@ Int. Conf. on Image Analysis and Recognition (ICIAR), 2019. [PDF](https://rdcu.b
 - <a name="Bi19arxiv"></a>Bi, Y., Chadha, A., Abbas, A.,  Bourtsoulatze, E., Andreopoulos, Y.,  
 *[Graph-based Spatial-temporal Feature Learning for Neuromorphic Vision Sensing](https://arxiv.org/pdf/1910.03579),*  
 arXiv:1910.03579, 2019.
-- <a name="Zhu19arxivGAN"></a>Zhu, A., Wang, Z., Khant, K., Daniilidis, K.,  
-*[EventGAN: Leveraging Large Scale Image Datasets for Event Cameras](https://arxiv.org/pdf/1912.01584)*,  
-arXiv:1912.01584, 2019.
+- <a name="Zhu21iccp"></a>Zhu, A., Wang, Z., Khant, K., Daniilidis, K.,  
+*[EventGAN: Leveraging Large Scale Image Datasets for Event Cameras](https://doi.org/10.1109/ICCP51581.2021.9466265)*,  
+IEEE Int. Conf. Computational Photography (ICCP), 2021. [PDF](https://arxiv.org/pdf/1912.01584), [YouTube](https://www.youtube.com/watch?v=Vcm4Iox4H2w), [Code](https://github.com/alexzzhu/EventGAN).
 - <a name="Cannici20eccv"></a>Cannici, M., Ciccone, M., Romanoni, A., Matteucci, M.,  
 *[A Differentiable Recurrent Surface for Asynchronous Event-Based Data](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650137.pdf)*,  
 European Conf. Computer Vision (ECCV), 2020. [Suppl. Mat.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650137-supp.pdf), [PDF](https://arxiv.org/pdf/2001.03455), [Videos](https://drive.google.com/drive/folders/1KzhKKwJGXvMnhbg1l6gEArgYote7WW8V)
@@ -2667,9 +2670,9 @@ IEEE Int. Conf. Robotics and Automation (ICRA), 2021. [PDF](http://rpg.ifi.uzh.c
 - <a name="Ayyad21arxiv"></a>Ayyad, A., Halwani, M., Swart, D., Muthusamy, R., Almaskari, F., Zweiri, Y.,   
 *[Neuromorphic Vision Based Control for the Precise Positioning of Robotic Drilling Systems](https://arxiv.org/pdf/2201.01626)*,  
 arXiv, 2021. [Video](https://drive.google.com/file/d/1q9QwPvkd7ZcEBcGMIxIVy2r_iRfTKCSe/view).
-- <a name="Wang22iros"></a> Wang, Z., Cladera Ojeda, F., Bisulco A., Lee, D., Taylor, C. J., Daniilidis, K., Hsieh, A. M., Lee, D. D., Isler, V.,  
+- <a name="Wang22ral"></a>Wang, Z., Cladera Ojeda, F., Bisulco A., Lee, D., Taylor, C. J., Daniilidis, K., Hsieh, A. M., Lee, D. D., Isler, V.,  
 *[EV-Catcher: High-Speed Object Catching Using Low-Latency Event-Based Neural Networks](https://doi.org/10.1109/LRA.2022.3188400)*,  
-IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2021.  
+IEEE Robotics and Automation Letters (RA-L), 7(4), 2022. [PDF](https://arxiv.org/pdf/2304.07200), [Project page](https://ziyunclaudewang.github.io/ev-catcher/).  
 - <a name="Ayyad21arxiv"></a>Nair, G.B., Milford, M., Fischer, T.,   
 *[Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras](https://doi.org/10.1109/IROS58592.2024.10802384)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [Video](https://youtu.be/8D9gtHqteEQ), [Webpage](https://gokulbnr.github.io/publication/dvs-biasing-vpr), [Code](https://github.com/gokulbnr/fast-slow-biased-event-vpr), [Dataset](https://huggingface.co/datasets/gokulbnr/QCR-Fast-Slow-Event-Dataset), [Poster](https://gokulbnr.github.io/files/2024-Poster.pdf).
@@ -2821,7 +2824,7 @@ IEEE Robotics and Automation Letters (RA-L), 2026. [[PDF](https://www.cvl.iis.u-
 ### Human Pose Estimation
 - [Calabrese et al., CVPRW 2019](#Calabrese19cvprw),  
 *DHP19: Dynamic Vision Sensor 3D Human Pose Dataset*.
-- [Zhu et al., arXiv 2019](#Zhu19arxivGAN),  
+- [Zhu et al., ICCP 2021](#Zhu21iccp),  
 *EventGAN: Leveraging Large Scale Image Datasets for Event Cameras*.
 - [Xu et al., CVPR 2020](#Xu20cvpr),  
 *EventCap: Monocular 3D Capture of High-Speed Human Motions using an Event Camera*.
@@ -2839,9 +2842,9 @@ Neurocomputing, 547, 2023. [Code](https://github.com/miracleyoo/yelan-dynamic-dv
 - <a name="Goyal23cvpr"></a>Goyal G, Di Pietro F, Carissimi N, Glover A, Bartozzi C   
 *[MoveEnet: Online high-frequency human pose estimation with an event camera](https://doi.org/10.1109/CVPRW59228.2023.00420)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [Code](https://github.com/event-driven-robotics/hpe-core)
-- <a name="Wang24arxiv"></a>Wang, Z., Zhang, R., Liu, Z.Y., Wang, Y., Daniilidis, K.,  
-*[Continuous-Time Human Motion Field from Events](https://arxiv.org/abs/2412.01747)*,  
-arXiv, 2024.
+- <a name="Wang25iccv"></a>Wang, Z., Zhang, R., Liu, Z.Y., Wang, Y., Daniilidis, K.,  
+*[Continuous-Time Human Motion Field from Event Cameras](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Continuous-Time_Human_Motion_Field_from_Event_Cameras_ICCV_2025_paper.html)*,  
+IEEE/CVF Int. Conf. Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2412.01747), [Project page](https://ziyunclaudewang.github.io/evhuman/), [Code](https://github.com/ZiyunClaudeWang/evhuman).
 - <a name="Koyama24cvprw"></a>Koyama, K., Shiba, S., Aoki, Y.,   
 *[3D Human Scan With A Moving Event Camera](https://doi.org/10.1109/CVPRW63382.2024.00568)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024.
@@ -3121,6 +3124,9 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 2024. [PDF](https://cvteam.bu
 - <a name="Lu25arxiv"></a>Lu Y., Messikommer N., Xu X., Chen L., Chen Y., Zubic N., Scaramuzza D., Xiong H.,            
 *[Hybrid Event Frame Sensors: Modeling, Calibration, and Simulation](http://dx.doi.org/10.48550/arXiv.2511.18037)*, 2025.          
 Arxiv, [PDF](https://arxiv.org/pdf/2511.18037).
+- <a name="Shi26arxiv"></a>Shi, L., Zhang, R., Wang, Z.,  
+*[EVIS: Real-Time Event Camera Simulation with Multimodal Supervision in NVIDIA Isaac Sim](https://arxiv.org/abs/2607.08098)*,  
+arXiv:2607.08098, 2026. [Code](https://github.com/spikelab-jhu/isaac-sim-event-camera-plugin).
 
 <a name="synthetic-data-generators"></a>
 # Synthetic Data Generators
@@ -3156,6 +3162,8 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2024. [PDF](https://ar
 *DHP19: Dynamic Vision Sensor 3D Human Pose Dataset*.
 - [Zhang et al., Neurocomputing 2023](#Zhang23neurocomp),  
 *Neuromorphic high-frequency 3D dancing pose estimation in dynamic environment*.
+- [Wang et al., ICCV 2025](#Wang25iccv),  
+*Continuous-Time Human Motion Field from Event Cameras*. [Project page](https://ziyunclaudewang.github.io/evhuman/)
 
 ## Stereo Depth Estimation
 - [Andreopoulos et al., CVPR 2018](#Andreopoulos18cvpr), *A Low Power, High Throughput, Fully Event-Based Stereo System*.
@@ -3176,6 +3184,7 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 IEEE Robotics and Automation Letters (RA-L), 10(6):6191-6198, 2025. [PDF](https://arxiv.org/pdf/2412.05053), [Project page and Dataset](https://nail-hnu.github.io/EvTTC/).
 
 ## Monocular Object Reconstruction
+- [Wang et al., ECCV 2022](#Wang22eccv), *EvAC3D: From Event-based Apparent Contours to 3D Models via Continuous Visual Hulls*. [Project page](https://ziyunclaudewang.github.io/evac3d/)
 - [Chen et al., ICVR 2023](#Chen23icvr), *Dense Voxel 3D Reconstruction Using a Monocular Event Camera*.
 
 ## 3D Object Detection
@@ -3217,6 +3226,8 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Sli
 *Joint Filtering of Intensity Images and Neuromorphic Events for High-Resolution Noise-Robust Imaging*. [Project page](https://sites.google.com/view/guided-event-filtering)
 - [HDR Hybrid Event-Frame Dataset, TPAMI 2023](#Wang23tpami),  
 *An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras*. [Project page](https://github.com/ziweiWWANG/Event-Asynchronous-Filter)
+- [Wang et al., CVPRW 2025](#Wang25cvprw),  
+*Event-based Continuous Color Video Decompression from Single Frames*. [Project page](https://ziyunclaudewang.github.io/continuitycam/)
 
 
 ## Visual Odometry and SLAM
