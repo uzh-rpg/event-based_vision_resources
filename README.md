@@ -1809,6 +1809,9 @@ IEEE/CVF Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2026. 
 IEEE Trans. Robot. (TRO), 2021. [Project page](https://sites.google.com/view/esvo-project-page/home), [PDF](https://arxiv.org/pdf/2007.15548), [YouTube](https://youtu.be/3CPPs1gz04k), [Code](https://github.com/HKUST-Aerial-Robotics/ESVO.git).
 - [Xiao et al., arXiv 2021](#Xiao22icrmv),  
 *Research on Event Accumulator Settings for Event-Based SLAM*.
+- <a name="Wang23ral"></a>Wang, J., Gammell, J.D.,    
+*[Event-Based Stereo Visual Odometry With Native Temporal Resolution via Continuous-Time Gaussian Process Regression](https://doi.org/10.1109/LRA.2023.3311374)*,    
+IEEE Robotics and Automation Letters (RA-L), 8(10):6707-6714 Oct. 2023. [PDF](https://arxiv.org/pdf/2306.01188), [YouTube](https://www.youtube.com/watch?v=lUf8hAB7Dwk).
 - [Shiba et al. TPAMI 2024](#Shiba24tpami),  
 *Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization*.
 - <a name="Xiong25ArXiv"></a>Xiong, C., Wei, L., Ma, K., Sun, Z., Xiang, Y., Nan, Z., Truong, T., Pei, L.,  
@@ -1817,6 +1820,9 @@ arXiv, 2025. [PDF](https://arxiv.org/pdf/2503.05112), [Video](https://www.bilibi
 - <a name="Zhong25ral"></a>Zhong S., Niu J., Zhou Y.,  
 *[Deep Visual Odometry for Stereo Event Cameras](https://arxiv.org/pdf/2509.08235)*,  
 IEEE Robotics and Automation Letters (RA-L), 10(11):11078-11085 Nov. 2025.  [PDF](https://arxiv.org/pdf/2509.08235), [YouTube](https://www.youtube.com/watch?v=7UykRsmk3Zc), [Code](https://github.com/NAIL-HNU/SDEVO).
+- <a name="Nobari26arxiv"></a>Nobari, N., Gammell, J.D.,       
+*[Real-time Event-camera Stereo Visual Odometry via Keytime Gaussian Process Regression](https://arxiv.org/abs/2610.02601)*,     
+arXiv, 2026. [PDF](https://arxiv.org/pdf/2610.02601), [YouTube](https://youtube.com/watch?v=MmpH8QYR76g).
 
 <a name="visual-inertial"></a>
 ### Visual-Inertial Odometry
