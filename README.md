@@ -3226,6 +3226,8 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Sli
 *Joint Filtering of Intensity Images and Neuromorphic Events for High-Resolution Noise-Robust Imaging*. [Project page](https://sites.google.com/view/guided-event-filtering)
 - [HDR Hybrid Event-Frame Dataset, TPAMI 2023](#Wang23tpami),  
 *An Asynchronous Linear Filter Architecture for Hybrid Event-Frame Cameras*. [Project page](https://github.com/ziweiWWANG/Event-Asynchronous-Filter)
+
+## Video Synthesis
 - [Wang et al., CVPRW 2025](#Wang25cvprw),  
 *Event-based Continuous Color Video Decompression from Single Frames*. [Project page](https://ziyunclaudewang.github.io/continuitycam/)
 
