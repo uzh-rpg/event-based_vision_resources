@@ -2383,7 +2383,9 @@ Int. Joint Conf. on Neural Networks (IJCNN), 2025. [YouTube](https://youtu.be/A1
 - <a name="Polizzi26eccv"></a>Polizzi, V., Lindell, D. B., Kelly, J.,  
 *[An RGB- and Event-Aligned Latent Manifold for Cross-Modal Perception](https://doi.org/10.1007/978-3-032-37369-4_1)*,  
 European Conf. Computer Vision (ECCV), 2026, pp. 1-20. [Project page](https://papers.starslab.ca/realm/)
-
+- <a name="Fradi26jvci"></a>Fradi, H., Papadakis, P.,  
+*[Adversarial Domain Adaptation and Self-supervised Refinement for Event Sensory Data](https://doi.org/10.1016/j.jvcir.2026.104987)*,  
+J. Visual Communication and Image Representation, 2026. [PDF](https://www.sciencedirect.com/science/article/pii/S1047320326002828/pdfft?md5=0dd9b4ad43b575ea7024c907c225a705&pid=1-s2.0-S1047320326002828-main.pdf)
 
 <a name="learning-regression"></a>
 ### Regression Tasks
