@@ -3475,7 +3475,7 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2026. [Suppl.](https:
     - [EVREAL code](https://github.com/ercanburak/EVREAL) associated to the paper [Ercan et al., CVPRW 2023](#Ercan23cvprw).
     - [HyperE2VID code](https://github.com/ercanburak/HyperE2VID) associated to the paper [Ercan et al., TIP 2024](#Ercan24tip).
 - **Small-Target Detection and Tracking**
-    - [LIBELLULA-STMD](https://github.com/vertov/LIBELLULA/tree/main/stmd): insect-STMD-style per-event detector and tracker for tiny targets (drones) with a fixed camera, inspired by [Wiederman et al., PLoS ONE 2008](https://doi.org/10.1371/journal.pone.0002784); Python reference, bit-exact fixed-point C and Verilog-2001 RTL; scored on the EV-UAV dataset. No learned weights.
+    - [LIBELLULA-STMD](https://github.com/vertov/LIBELLULA/tree/main/stmd): insect-STMD-style per-event detector and tracker for tiny targets (drones) with a fixed camera, inspired by [Wiederman et al., PLoS ONE 2008](https://doi.org/10.1371/journal.pone.0002784). No learned weights.
 - **Localization and Ego-Motion Estimation**
     - [Panoramic tracking code](https://github.com/VLOGroup/dvs-panotracking) associated to the paper [Reinbacher et al., ICCP 2017](#Reinbacher17iccp).
 - **Pattern Recognition**
