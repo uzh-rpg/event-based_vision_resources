@@ -1918,6 +1918,9 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2025. [PDF](https://ar
 - <a name="Bao25neurips"></a>Bao, N., Zhao, Y., Zhu, L., Li, J.,  
 *[Re-coding for Uncertainties: Edge-awareness Semantic Concordance for Resilient Event-RGB Segmentation](https://proceedings.neurips.cc/paper_files/paper/2025/file/92c020da2740ec2ace29e8e7d69b4483-Paper-Conference.pdf)*,  
 Advances in Neural Information Processing Systems 38 (NeurIPS), 2025. [Code](https://github.com/iCVTEAM/ESC)  
+- <a name="Yao26tip"></a>Yao, Z., Ying, X., Zhu, Z., Chuah, M.C.,  
+*[Learning Flow-Guided Registration for RGB-Event Semantic Segmentation](https://arxiv.org/abs/2505.01548)*,  
+IEEE Trans. Image Process. (TIP), 2026. [PDF](https://ieeexplore.ieee.org/document/11743326), [arXiv](https://arxiv.org/abs/2505.01548), [Code](https://github.com/zyaocoder/BRENet).
 
 <a name="motion-segmentation"></a>
 ### Motion Segmentation
