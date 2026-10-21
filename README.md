@@ -1910,14 +1910,17 @@ European Conf. Computer Vision (ECCV), 2022. [PDF](https://rpg.ifi.uzh.ch/docs/E
 *[HALSIE: Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities](https://arxiv.org/abs/2211.10754)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2024.  
 - <a name="Chen24cvpr"></a>Chen, Z., Zhu, Z., Hou, J., Shi, G., Wu, J.,  
-*[Segment Any Event Stream via Weighted Adaptation of Pivotal Tokens](https://arxiv.org/abs/2312.16222)*,  
-IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Code](https://github.com/happychenpipi/EventSAM).
+*[Segment Any Event Stream via Weighted Adaptation of Pivotal Tokens](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Segment_Any_Event_Streams_via_Weighted_Adaptation_of_Pivotal_Tokens_CVPR_2024_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [PDF](https://arxiv.org/pdf/2312.16222), [Code](https://github.com/happychenpipi/EventSAM).
 - <a name="Yao25wacv"></a>Yao, Z., Chuah, M.C.,  
 *[Event-Guided Low-Light Video Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2025/papers/Yao_Event-Guided_Low-Light_Video_Semantic_Segmentation_WACV_2025_paper.pdf)*,  
 IEEE Winter Conf. Applications of Computer Vision (WACV), 2025. [PDF](https://arxiv.org/pdf/2411.00639)
 - <a name="Bao25neurips"></a>Bao, N., Zhao, Y., Zhu, L., Li, J.,  
 *[Re-coding for Uncertainties: Edge-awareness Semantic Concordance for Resilient Event-RGB Segmentation](https://proceedings.neurips.cc/paper_files/paper/2025/file/92c020da2740ec2ace29e8e7d69b4483-Paper-Conference.pdf)*,  
 Advances in Neural Information Processing Systems 38 (NeurIPS), 2025. [Code](https://github.com/iCVTEAM/ESC)  
+- <a name="Yao26tip"></a>Yao, Z., Ying, X., Zhu, Z., Chuah, M.C.,  
+*[Learning Flow-Guided Registration for RGB-Event Semantic Segmentation](https://doi.org/10.1109/TIP.2026.3743775)*,  
+IEEE Trans. Image Process. (TIP), 2026. [PDF](https://arxiv.org/pdf/2505.01548), [Code](https://github.com/zyaocoder/BRENet).
 
 <a name="motion-segmentation"></a>
 ### Motion Segmentation
