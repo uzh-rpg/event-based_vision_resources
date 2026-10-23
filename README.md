@@ -97,6 +97,7 @@
     - [Drivers](#drivers)
     - [Synchronization](#synchronization)
     - [Lens Calibration](#calibration)
+    - [Extrinsic Calibration](#calibration-extrinsic)
     - [Algorithms](#software-algorithms)
     - [Utilities](#software-utilities)
 
@@ -562,6 +563,12 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [PDF](https://w
 - <a name="Henry24icip"></a>Henry, C., Maharjan, P., Li, Z., York, G.  
 *[E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery From Events](https://doi.org/10.1109/ICIP51287.2024.10647465).*,  
 IEEE Int. Conf. Image Processing (ICIP), 2024. [Code](https://github.com/engrchrishenry/E2SIFT.git)
+- <a name="Gossard24cvprw"></a>Gossard, T., Krismer, J., Ziegler, A., Tebbe, J., Zell, A.,  
+*[Table tennis ball spin estimation with an event camera](https://doi.org/10.1109/CVPRW63382.2024.00339)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024. [PDF](https://arxiv.org/pdf/2404.09870).
+- <a name="Ziegler25arxiv"></a>Ziegler, A., Gossard, T., Glover, A., Zell, A.,  
+*[An Event-Based Perception Pipeline for a Table Tennis Robot](https://doi.org/10.48550/arXiv.2502.00749)*,  
+arXiv:2502.00749, 2025. [PDF](https://arxiv.org/pdf/2502.00749), [Project page](https://cogsys-tuebingen.github.io/event-based-table-tennis).
 - <a name="Ikura25iccvw"></a>Ikura, M., Glover, A., Mizuno, M., Bartolozzi, C.,  
 *[Lattice-allocated Real-time Line Segment Feature Detection and Tracking Using Only an Event-based Camera](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/html/Ikura_Lattice-allocated_Real-time_Line_Segment_Feature_Detection_and_Tracking_Using_Only_ICCVW_2025_paper.html).*,  
 IEEE/CVF Int. Conf. Computer Vision (ICCV) Workshop on Neuromorphic Vision (NeVi), 2025. [PDF](https://arxiv.org/pdf/2510.06829), [Code](https://github.com/event-driven-robotics/RT-EvLDT), [Dataset](https://zenodo.org/records/17299174)
@@ -2124,6 +2131,9 @@ Neurocomputing, 2024. [PDF](https://www.eee.hku.hk/optima/pub/journal/2401_NC.pd
 - <a name="Henry26iscas"></a>Henry, C., Li, Z., Katsaggelos, A. K.,  
 *[E2Detect: Object Detection from Event Camera via Sparse Feature Pyramid Recovery](https://doi.org/10.1109/ISCAS66217.2026.11562756).*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2026. [Code](https://github.com/engrchrishenry/E2Detect.git)
+- <a name="Tyagi26accvw"></a>Tyagi, K., Ziegler, A.,  
+*[Rate as a Feature, Not a Nuisance: Curriculum FiLM Training for Event-Based Graph Neural Networks](https://doi.org/10.48550/arXiv.2610.26933)*,  
+Asian Conf. Computer Vision (ACCV) Workshop on Advances in Event-based Computer Vision (AECV), 2026. [PDF](https://arxiv.org/pdf/2610.26933), [Code](https://github.com/KAVYANSHTYAGI/CE-GNN).
 
 <a name="gesture-recognition"></a>
 ### Gesture Recognition
@@ -2687,6 +2697,9 @@ IEEE Robotics and Automation Letters (RA-L), 7(4), 2022. [PDF](https://arxiv.org
 - <a name="Ayyad21arxiv"></a>Nair, G.B., Milford, M., Fischer, T.,   
 *[Enhancing Visual Place Recognition via Fast and Slow Adaptive Biasing in Event Cameras](https://doi.org/10.1109/IROS58592.2024.10802384)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2024. [Video](https://youtu.be/8D9gtHqteEQ), [Webpage](https://gokulbnr.github.io/publication/dvs-biasing-vpr), [Code](https://github.com/gokulbnr/fast-slow-biased-event-vpr), [Dataset](https://huggingface.co/datasets/gokulbnr/QCR-Fast-Slow-Event-Dataset), [Poster](https://gokulbnr.github.io/files/2024-Poster.pdf).
+- <a name="Ziegler23corlw"></a>Ziegler, A., Gossard, T., Vetter, K., Tebbe, J., Zell, A.,  
+*[A multi-modal table tennis robot system](https://openreview.net/forum?id=KdnxLFwhQJ)*,  
+Conf. Robot Learning (CoRL) Workshop on Robot Learning in Athletics (RoboLetics), 2023. [PDF](https://arxiv.org/pdf/2310.19062).
 - <a name="Duarte24aims"></a>Duarte, L., Polito, M., Gastaldi, L., Neto, P., Pastorelli, S.,  
 *[Demonstration of Real-Time Event Camera to Collaborative Robot Communication](https://doi.org/10.1007/978-3-031-64553-2_41)*,  
 Advances in Italian Mechanism Science, IFToMM. Mechanisms and Machine Science, vol 163, pp. 351-358, 2024.
@@ -2986,6 +2999,9 @@ Opt. Express, 2023.
 - <a name="Lin24nc"></a>Lin, S., Zheng, G., Wang, Z., Han, R., Xing, W., Zhang, Z., Peng, Y., Pan, J.,  
 *[Embodied neuromorphic synergy for lighting-robust machine vision to see in extreme bright](https://doi.org/10.1038/s41467-024-54789-8)*,  
 Nature Communications, 2024.
+- <a name="Ziegler25cvprw"></a>Ziegler, A., Joseph, D., Gossard, T., Moldovan, E., Zell, A.,  
+*[BiasBench: A reproducible benchmark for tuning the biases of event cameras](https://doi.org/10.1109/CVPRW67362.2025.00493)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025. [PDF](https://arxiv.org/pdf/2504.18235), [Project page](https://cogsys-tuebingen.github.io/biasbench/), [YouTube](https://www.youtube.com/watch?v=2QD-op0nv4o), [Code](https://github.com/cogsys-tuebingen/biasbench).
 
 <a name="speckle_analysis"></a>
 ### Speckle Analysis
@@ -3125,6 +3141,9 @@ ACM Int. Conf. on Multimedia (MM), 2021. [PDF](https://cvteam.buaa.edu.cn/papers
 - <a name="Gava22ebccsp"></a>Gava L, Monforte M, Bartolozzi C, Glover A   
 *[How late is too late? a preliminary event-based latency evaluation](https://doi.org/10.1109/EBCCSP56922.2022.9845622)*,  
 8th International Conference on Event-Based Control, Communication, and Signal Processing (EBCCSP), 2022. [Code](https://github.com/lunagava/study-air-hockey/tree/vel_control)
+- <a name="Ziegler23icra"></a>Ziegler, A., Teigland, D., Tebbe, J., Gossard, T., Zell, A.,  
+*[Real-time event simulation with frame-based cameras](https://doi.org/10.1109/ICRA48891.2023.10160654)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2023. [PDF](https://arxiv.org/pdf/2209.04634), [Project page](https://cogsys-tuebingen.github.io/realtime_event_simulator/), [YouTube](https://youtu.be/WaMx2-yOzcQ), [Code](https://github.com/cogsys-tuebingen/event_simulator_ros).
 - <a name="Zhang24icra"></a>Zhang, Z., Cui, S., Chai, K., Yu, H., Dasgupta, S., Mahbub, U., Rahman, T.,   
 [V2CE: Video to Continuous Events Simulator](https://arxiv.org/abs/2309.08891)   
   IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [Code](https://github.com/ucsd-hdsi-dvs/V2CE-Toolbox).
@@ -3455,6 +3474,12 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024.
 *[From Corners to Fiducial Tags: Revisiting Checkerboard Calibration for Event Cameras](https://openaccess.thecvf.com/content/CVPR2026/papers/Ryu_From_Corners_to_Fiducial_Tags_Revisiting_Checkerboard_Calibration_for_Event_CVPR_2026_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2026. [Suppl.](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Ryu_From_Corners_to_CVPR_2026_supplemental.pdf), [Code](https://github.com/taehun-ryu/corner2tag)
 
+<a name="calibration-extrinsic"></a>
+## Extrinsic Calibration
+- <a name="Gossard24icra"></a>Gossard, T., Ziegler, A., Kolmar, L., Tebbe, J., Zell, A.,  
+*[eWand: A calibration framework for wide baseline frame-based and event-based camera systems](https://doi.org/10.1109/ICRA57147.2024.10610116)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [PDF](https://arxiv.org/pdf/2309.12685), [Project page](https://cogsys-tuebingen.github.io/ewand/), [YouTube](https://youtu.be/Yd_Bsltdfi4), [Code](https://github.com/cogsys-tuebingen/ewand).
+
 <a name="software-algorithms"></a>
 ## Algorithms
 - [jAER event-processing filters](https://docs.google.com/document/d/1fb7VA8tdoxuYqZfrPfT46_wiT1isQZwTHgX8O22dJ0Q/edit#bookmark=id.a27r41y53r3t) in [jAER (java Address-Event Representation)](http://jaerproject.org/)
@@ -3560,6 +3585,9 @@ IEEE Int. Symp. Circuits and Systems (ISCAS), 2020, pp. 1-5.
 - <a name="Gao22fpga"></a>Gao, Y., Wang, S., So, H. K. H.,  
 *[REMOT: A Hardware-Software Architecture for Attention-Guided Multi-Object Tracking with Dynamic Vision Sensors on FPGAs](https://doi.org/10.1145/3490422.3502365)*,  
 ACM/SIGDA Int. Symp. Field-Programmable Gate Arrays (FPGA), 2022. [Code](https://github.com/CASR-HKU/REMOT-FPGA-22)
+- <a name="Ziegler25icra"></a>Ziegler, A., Vetter, K., Gossard, T., Tebbe, J., Otte, S., Zell, A.,  
+*[Detection of Fast-Moving Objects with Neuromorphic Hardware](https://doi.org/10.1109/ICRA55743.2025.11127960)*,  
+IEEE Int. Conf. Robotics and Automation (ICRA), 2025. [PDF](https://arxiv.org/pdf/2403.10677), [Project page](https://cogsys-tuebingen.github.io/snn-edge-benchmark/), [YouTube](https://youtu.be/uLgIhVKnsHg).
 
 
 <a name="teaching"></a>
@@ -3755,6 +3783,9 @@ Ph.D. Thesis, University of Tennessee, Knoxville, Tennessee, USA, 2024.
 - <a name="Seleem26Phd"></a>Seleem, A.,  
 *[Deep Learning-based Point Cloud and Event Data Coding and Compressed Domain Classification](https://scholar.tecnico.ulisboa.pt/api/records/TahE6IbOajfri2xf6tPRiFk5r8zK2QQOUsWo/file/830a7e2261b9b58733df81125e58c0d6c62add05191ff3e748835a79ce001962.pdf)*,    
 Ph.D. Thesis, Universidade de Lisboa - Instituto Superior Técnico, Lisboa, Portugal, 2026.
+- <a name="Ziegler26PhD"></a>Ziegler, A.,  
+*[Event-Based Computer Vision for Fast Robot Control](https://doi.org/10.15496/publikation-122945)*,  
+Ph.D. Thesis, University of Tübingen, Tübingen, Germany, 2026. [PDF](https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/181623/Dissertation.pdf?sequence=1&isAllowed=y)
 
 
 <a name="theses-master"></a>
