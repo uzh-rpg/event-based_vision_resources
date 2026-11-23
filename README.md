@@ -3206,6 +3206,7 @@ IEEE Robotics and Automation Letters (RA-L), 2021. [Dataset](http://rpg.ifi.uzh.
 - [Wang et al., IROS 2021 (SHEF)](#Wang21iros), *Stereo Hybrid Event-Frame (SHEF) Cameras for 3D Perception*, [Project Page](https://github.com/ziweiWWANG/SHEF).
 - [Gao et al., RAL 2022](#Gao22ral), *VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM*.
 - [Chaney et al., CVPRW 2023](#Chaney23cvprw), *M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset*
+- [Rodriguez et al., ECCV 2026](#Rodriguez26eccv), *E-MOTION: A Dataset for Event-Based Scene Flow Estimation with Independent Moving Objects*
 
 ## Obstacle Avoidance 
 - [Bonazzi et al., CVPRW 2025](#Eva25cvpr), *Towards Low-Latency Event-based Obstacle Avoidance on a FPGA-Drone*.
@@ -3224,6 +3225,7 @@ IEEE Trans. Robot. (TRO), 42:1643-1661, 2026. [Project page](https://nail-hnu.gi
 
 ## Object Pose Estimation
 - [Awasthi et al., CVPRW 2025](#Awasthi25cvprw), *MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection*. [Dataset](https://huggingface.co/datasets/flw-tu-dortmund/MTevent)
+- [Rodriguez et al., ECCV 2026](#Rodriguez26eccv), *E-MOTION: A Dataset for Event-Based Scene Flow Estimation with Independent Moving Objects*
 
 ## Optical Flow
 - [DVS/DAVIS Optical Flow Dataset](https://docs.google.com/document/d/1r9sRYANGuDTUcfSSq-sL4sd79SfjHGNRul_10uztDaI/pub) associated to the paper [Rueckauer and Delbruck, FNINS 2016](#Rueckauer16fnins).
@@ -3235,6 +3237,7 @@ IEEE Trans. Robot. (TRO), 42:1643-1661, 2026. [Project page](https://nail-hnu.gi
 - [EV-IMO Event based Independently Moving Objects dataset](https://better-flow.github.io/evimo/) associated to the paper [EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](#Mitrokhin19iros) ([motion vector flow](https://github.com/better-flow/evimo/blob/master/tools/evimo_flow.py) added Jan 2022)
 - [Chaney et al., CVPRW 2023](#Chaney23cvprw), *M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset*
 - [Li et al., ECCV 2024](#Li24eccv), *BlinkVision: A Benchmark for Optical Flow, Scene Flow and Point Tracking Estimation using RGB Frames and Events*, [Dataset Download](https://www.blinkvision.net/match/download.html).
+- [Rodriguez et al., ECCV 2026](#Rodriguez26eccv), *E-MOTION: A Dataset for Event-Based Scene Flow Estimation with Independent Moving Objects*
 
 ## Eye Tracking
 - [Chen et al., CVPRW 2024](#Chen23biocas), *3ET: Efficient Event-based Eye Tracking using a Change-Based ConvLSTM Network*
@@ -3260,7 +3263,6 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [Sli
 ## Video Synthesis
 - [Wang et al., CVPRW 2025](#Wang25cvprw),  
 *Event-based Continuous Color Video Decompression from Single Frames*. [Project page](https://ziyunclaudewang.github.io/continuitycam/)
-
 
 ## Visual Odometry and SLAM
 - [Combined Dynamic Vision / RGB-D Dataset](http://ebvds.neurocomputing.systems/EBSLAM3D/index.html) associated to the paper [Weikersdorfer et al., ICRA 2014](#Weikersdorfer14icra).
@@ -3398,6 +3400,14 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - <a name="Verma24cvpr"></a>Verma, A.A., Chakravarthi, B., Vaghela, A., Wei, H., Yang, Y.,  
 *[eTraM: Event-based Traffic Monitoring Dataset](https://arxiv.org/abs/2403.19976)*,  
 IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Project page and Dataset](https://eventbasedvision.github.io/eTraM/).
+
+## Scene Flow
+- <a name="Rodriguez26eccv"></a>Rodriguez, I.G., Moreau, J., Bartolozzi, C. and Glover, A.,  
+*[E-MOTION: A Dataset for Event-Based Scene Flow Estimation with Independent Moving Objects](https://emotion.hds.utc.fr/)*,  
+European Conf. Computer Vision (ECCV), 2026.
+[PDF](https://hal.sorbonne-universite.fr/HDS_SYRI/hal-05721770v1),
+[Dataset](https://emotion.hds.utc.fr/),
+[Code](https://github.com/heudiasyc/emotion_utils).
 
 
 <br><br>
