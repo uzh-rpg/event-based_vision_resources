@@ -3101,6 +3101,8 @@ IEEE Innovations Intell. Syst. Appl. Conf. (ASYU), 2023.
 <a name="simulators-emulators"></a>
 <a name="simulators"></a>
 # Simulators and Emulators
+ [Simulator Feature Comparison Table](https://github.com/SensorsINI/v2e/blob/master/README-comparison-table.md)
+
 - <a name="Katz12iscas"></a>Katz, M. L., Nikolic, K., Delbruck, T. (2012),  
 *[Live demonstration: Behavioural emulation of event-based vision sensors](https://doi.org/10.1109/ISCAS.2012.6272143)*,  
 IEEE Int. Symp. Circuits and Systems (ISCAS), 2012. [PDF](https://drive.google.com/open?id=1asyMIQIAtsl3_KqgfPuZagr_gjKZhbYm)
@@ -3125,7 +3127,7 @@ Conf. on Robot Learning (CoRL), 2018. [PDF](http://rpg.ifi.uzh.ch/docs/CORL18_Re
 *Video to Events: Recycling Video Datasets for Event Cameras*.
 - <a name="Hu21cvprw"></a>Hu, Y., S.-C., Liu, Delbruck, T.,  
 *[v2e: From Video Frames to Realistic DVS Events](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Hu_v2e_From_Video_Frames_to_Realistic_DVS_Events_CVPRW_2021_paper.pdf)*,  
-IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](https://sites.google.com/view/video2events/home), [YouTube](https://youtu.be/VzQ7b5-pLag), [Suppl.](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/supplemental/Hu_v2e_From_Video_CVPRW_2021_supplemental.zip), [Code](https://github.com/SensorsINI/v2e).
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](https://sites.google.com/view/video2events/home), [YouTube](https://youtu.be/VzQ7b5-pLag), [Suppl.](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/supplemental/Hu_v2e_From_Video_CVPRW_2021_supplemental.zip), [Code](https://github.com/SensorsINI/v2e), [PyPi](https://pypi.org/project/v2e/).
 - <a name="Nehvi21cvprw"></a>Nehvi, J., Golyanik, V., Mueller, F., Seidel, H.-P., Elgharib, M., Theobalt, C.,  
 *[Differentiable Event Stream Simulator for Non-Rigid 3D Tracking](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/papers/Nehvi_Differentiable_Event_Stream_Simulator_for_Non-Rigid_3D_Tracking_CVPRW_2021_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Project page](http://gvv.mpi-inf.mpg.de/projects/Event-based_Non-rigid_3D_Tracking/), [YouTube](https://youtu.be/dU2zv_Ggp7Y), [Suppl.](https://openaccess.thecvf.com/content/CVPR2021W/EventVision/supplemental/Nehvi_Differentiable_Event_Stream_CVPRW_2021_supplemental.pdf).
