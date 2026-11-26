@@ -3491,6 +3491,9 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2026. [Suppl.](https:
 - <a name="Gossard24icra"></a>Gossard, T., Ziegler, A., Kolmar, L., Tebbe, J., Zell, A.,  
 *[eWand: A calibration framework for wide baseline frame-based and event-based camera systems](https://doi.org/10.1109/ICRA57147.2024.10610116)*,  
 IEEE Int. Conf. Robotics and Automation (ICRA), 2024. [PDF](https://arxiv.org/pdf/2309.12685), [Project page](https://cogsys-tuebingen.github.io/ewand/), [YouTube](https://youtu.be/Yd_Bsltdfi4), [Code](https://github.com/cogsys-tuebingen/ewand).
+- <a name="Hessenthaler26bmvc"></a>Hessenthaler, N., Mueller, A. T., Stache, N. C.,  
+*[Simplified Cross-Modal Calibration for Heterogeneous Event-RGB Stereo Systems](https://doi.org/10.5244/C.40.330)*,  
+37th British Machine Vision Conference (BMVC), 2026. [PDF](https://www.bmva-archive.org.uk/bmvc/2026/assets/papers/01390.pdf)
 
 <a name="software-algorithms"></a>
 ## Algorithms
