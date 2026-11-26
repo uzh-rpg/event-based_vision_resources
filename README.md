@@ -1876,7 +1876,7 @@ IEEE Trans. Robot. (TRO), 2023. [PDF](https://arxiv.org/pdf/2401.09296v1.pdf)
 - [Mollica et al., T-ITS 2024](#Mollica24tits),  
 *MA-VIED: A Multisensor Automotive Visual Inertial Event Dataset.*
 - <a name="Lee26iros"></a>Lee, S., Nam, J., Seo, D.-U., Myung, H.,  
-*[PLED-VINS: A Point-Line Event-Based Visual Inertial SLAM for Dynamic Environments](https://arxiv.org/abs/2607.07374)*,  
+*[PLED-VINS: A Point-Line Event-Based Visual Inertial SLAM for Dynamic Environments](https://doi.org/10.1109/IROS61738.2026.11777569)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2026. [PDF](https://arxiv.org/pdf/2607.07374), [Project page](https://leeseunghun03.github.io/pled-vins/), [YouTube](https://youtu.be/Q6orE1nRqJE).
 
 #### Stereo Visual-Inertial
