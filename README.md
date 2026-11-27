@@ -2958,6 +2958,14 @@ IEEE Intelligent Vehicles Symposium (IV), 2025.
 *[Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras](https://doi.org/10.1109/IV64158.2025.11097663)*,  
 IEEE Intelligent Vehicles Symposium (IV), 2025.
 [PDF](https://arxiv.org/pdf/2505.15412).
+- <a name="Soga25apcc"></a>Soga, R., Kobayashi, M., Shimizu, T., Shiba, S., Kong, Q., Lu, S., Yamazato, T.,   
+*[Performance Evaluation of an Integrated System for Visible Light Communication and Positioning Using an Event Camera](https://doi.org/10.23919/APCC64555.2025.11279744)*,  
+IEEE Asia-Pacific Conference on Communications (APCC), 2025.
+[PDF](https://arxiv.org/pdf/2510.17203).
+- <a name="Soga26vtc"></a>Soga, R., Shimizu, T., Shiba, S., Kong, Q., Lu, S., Yamazato, T.,   
+*[Real-world Latency Analysis of Vehicular Visible Light Communication with Multiple LED Transmitters and an Event-Based Camera](https://doi.org/10.1109/VTC2026-Spring68026.2026.11756798)*,  
+IEEE Vehicular Technology Conference (VTC-Spring), 2026.
+[PDF](https://arxiv.org/pdf/2605.05541).
 
 <a name="animal_monitoring"></a>
 ## Animal Behavior Monitoring
